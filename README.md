@@ -2,9 +2,9 @@
 
 A structured poetry dataset of 3,424 Danish-language poems drawn from three scholarly
 sources. Each poem is one JSON file conforming to the [PoeTree](https://versologie.cz/poetree/)
-schema (with project-local extensions for `dramatic_poem` and `diplomatic_edition`).
+schema (with project-local extensions for marginal notes, `dramatic_poem`, and `diplomatic_edition`).
 
-This is a contribution by Niels Nykrog toward the community Danish PoeTree corpus.
+This is a contribution by Niels Nykrog toward the Danish PoeTree corpus.
 Curated for sharing with the PoeTree working group; intended to merge into a larger
 pooled dataset.
 
@@ -33,7 +33,7 @@ The dataset itself (`poems/`) is **37.4 MB** across all 3,424 files.
 |---|---|---:|---|
 | `dsl-reformationssalmer` | DSL — Danish Reformation hymnals (Dietz 1529, Malmø 1533, Vingaard 1553, Thomissøn 1569, Jespersen 1573, etc.) | 782 | 16th c. |
 | `early-danish-ballads` | Danish medieval/early-modern ballads from the major manuscript sources (Karen Brahe's folio, Anna Munks håndskrift, Dronning Sophias visebog, Langebeks kvart, etc.) | 936 | 16th–17th c. |
-| `dsl-tekstnet` | Tekstnet — DSL's general poetry corpus (H.C. Andersen, J.L. Heiberg, Ploug, Kingo, Brorson, Oehlenschläger, …) | 1,706 | 19th c. (mostly) |
+| `dsl-tekstnet` | Tekstnet — Danish Society for Language and Literature's general literature corpus | 1,706 | Various periods |
 
 Total: **3,424 poems** across the three sources. Each poem in `poems/` is named
 `<source-id>--<author-slug>--<poem-title-slug>--<book-slug>.json`.
@@ -95,8 +95,9 @@ authoritative copy is in `schema/poetree.schema.json`; controlled vocabularies a
   (e.g. a scene from a play scraped from Tekstnet). 65 such files.
 - `diplomatic_edition: true` — flag on a poem whose source text is a diplomatic
   transcription preserving manuscript features. 1 such file.
+- Marginal notes in each line of body. Used for such purposes as noting speaking characters in dramatic poems and for bible references in hymns.
 
-The validator accepts both as warnings (not errors).
+The validator accepts these as warnings (not errors).
 
 ## Sources in detail
 
@@ -168,7 +169,7 @@ The repository is split-licensed by content type:
 | `poems/`, `schema/`, `sources/<id>/raw/`, `sources/<id>/discovery/`, `*.log.txt` (the data) | **CC0 1.0** — public domain dedication, no attribution required | `LICENSE-DATA` |
 | `scripts/`, `sources/<id>/parser.py` (the code) | **0BSD** — permissive, no attribution required, SPDX-recognized for code reuse | `LICENSE-CODE` |
 
-The underlying poems themselves are in the public domain (authors 16th–19th c.);
+The underlying poems themselves are in the public domain;
 the curation, schema design, and JSON structuring are released under CC0. The
 code is 0BSD so it can be upstreamed into MIT- or Apache-licensed projects in
 the PoeTree toolchain without license-compatibility friction (CC0 is rejected
