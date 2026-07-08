@@ -2,7 +2,7 @@
 
 A structured poetry dataset of 3,424 Danish-language poems drawn from three scholarly
 sources. Each poem is one JSON file conforming to the [PoeTree](https://versologie.cz/poetree/)
-schema (with project-local extensions for marginal notes, `dramatic_poem`, and `diplomatic_edition`).
+schema (with project-local extensions for marginal notes, `dramatic_poem`, `diplomatic_edition`, source.url).
 
 This is a contribution by Niels Nykrog toward the Danish PoeTree corpus.
 Curated for sharing with the PoeTree working group; intended to merge into a larger
@@ -96,6 +96,7 @@ authoritative copy is in `schema/poetree.schema.json`; controlled vocabularies a
 - `diplomatic_edition: true` — flag on a poem whose source text is a diplomatic
   transcription preserving manuscript features. 1 such file.
 - Marginal notes in each line of body. Used for such purposes as noting speaking characters in dramatic poems and for bible references in hymns.
+- source.url field refers to the specific source url used for each poem.
 
 The validator accepts these as warnings (not errors).
 
