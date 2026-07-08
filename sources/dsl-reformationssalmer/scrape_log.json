@@ -1,0 +1,55 @@
+{
+  "started_at": "2026-07-01T21:36:06Z",
+  "finished_at": "2026-07-01T21:36:21Z",
+  "total_pages_attempted": 1093,
+  "total_ok": 1093,
+  "total_failed": 0,
+  "filename_collisions": 207,
+  "per_book": {
+    "claus-mortensen-messe-1529": {
+      "ok": 13,
+      "failed": 0,
+      "failures": []
+    },
+    "dietz-salmebog-1529": {
+      "ok": 86,
+      "failed": 0,
+      "failures": []
+    },
+    "dietz-salmebog-1536": {
+      "ok": 36,
+      "failed": 0,
+      "failures": []
+    },
+    "jespersen_1573": {
+      "ok": 274,
+      "failed": 0,
+      "failures": []
+    },
+    "malmoe-salmebog": {
+      "ok": 137,
+      "failed": 0,
+      "failures": []
+    },
+    "oluf-ulriksen-messe-1535": {
+      "ok": 9,
+      "failed": 0,
+      "failures": []
+    },
+    "oluf-ulriksen-messehaandbog-1539": {
+      "ok": 29,
+      "failed": 0,
+      "failures": []
+    },
+    "thomissoen_1569": {
+      "ok": 297,
+      "failed": 0,
+      "failures": []
+    },
+    "vingaard_1553": {
+      "ok": 212,
+      "failed": 0,
+      "failures": []
+    }
+  }
+}

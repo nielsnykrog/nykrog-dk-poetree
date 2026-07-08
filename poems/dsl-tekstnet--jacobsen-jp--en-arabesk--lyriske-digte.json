@@ -1,0 +1,465 @@
+{
+  "id": null,
+  "title": "[En Arabesk]",
+  "year_created": 1924,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Jens Peter Jacobsen",
+    "country": null,
+    "wiki": "Q370246"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Lyriske Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1924,
+    "url": "https://tekstnet.dk/books/jacobsen-jp_lyriske-digte/008/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Fra Husets Tag drypper Snemassen ned",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "I tusinde Draaber med funklende Glands,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Og inde i Stuen er alle Former og Farver vakte",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Af Formiddagssolens kraftige Skjær,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Saa Linjerne vugge sig frem til Ro",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Og Farverne glide i bløde Fald",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Fra slumrende Skygger",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Til gnistrende Lys.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Se Gallaen løfter sit grønne Blad",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Og viser de buede Aarer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Gratierne dandse i rødlig Luft",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "Bag røde Gardiner,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Mens Vasen smiler i Guld og Blaat",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "Ad sin sælsomme Skygge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "Mens Gulvtæppets Blomster",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "Se ud, som de tro,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "At Hyacinthernes stærke Duft",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "Sig svinger fra deres flade Kroner.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "Men haanende Smil mod bedende Læber,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "Sorgvilde Blikke og klagende Ord",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "Om brudte Løfter og svegen Elskov",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "Hilser al denne jublende Pragt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "Vildsomt og stygt som Nattevindes",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "Dumpe Sus over solblank Vove.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "\"Jeg kan ikke leve,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "Jeg vil ej slides Led for Led",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Af lange Dages kvalfulde Timers Bøddeltag,\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "Saa stønned hun og gik og Solen kasted",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "Et hurtigt Lysglimt gjennem den aabne Dør.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "Han lytted efter hendes Fodtrin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "De maatte komme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "Tunge, tunge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 0,
+      "text": "Det forstaar sig, hun var jo en Del beklemt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 0,
+      "text": "Tunge, tunge!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 0,
+      "text": "Ej de lød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 0,
+      "text": "Ak, hun tørred maaske Graaden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 0,
+      "text": "Ordned sikkert Kjolens Folder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 0,
+      "text": "Efter disse vilde Knæfald.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 0,
+      "text": "Tunge, tunge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 0,
+      "text": "Blev hun da en Gang ej færdig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 0,
+      "text": "Op med Døren!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 0,
+      "text": "Hun var gaaet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 0,
+      "text": "Mon til Døden!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 0,
+      "text": "Spidst han smilte:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 0,
+      "text": "Ak, kun altfor godt han vidste,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 0,
+      "text": "Livet er en herlig Skat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 0,
+      "text": "Som man ikke fra sig kaster,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 0,
+      "text": "Om den end er tung at bære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 0,
+      "text": "Død og Solskin.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 0,
+      "text": "Nej, umuligt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 0,
+      "text": "Og desuden Is paa Vandet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 0,
+      "text": "Men endnu hans Øre lytted.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 0,
+      "text": "Og han vidste det saa sikkert:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 0,
+      "text": "Naar han vilde aabne Døren,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 0,
+      "text": "Stod hun der og græd bestemt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 0,
+      "text": "Nej, hun var der, var der ikke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 0,
+      "text": "Underligt hans Tanker vakled,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 0,
+      "text": "Underligt hans Væsen spændtes.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 0,
+      "text": "Tunge, tunge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 0,
+      "text": "Aabned Døren hundred Gange,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 0,
+      "text": "Følte sælsom Angest vaagne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 0,
+      "text": "Blev nervøs og mangled' Aande,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 0,
+      "text": "Trængte – latterligt – til Graad.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

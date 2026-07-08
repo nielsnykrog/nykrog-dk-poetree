@@ -1,0 +1,943 @@
+{
+  "id": null,
+  "title": "Greve Genselin",
+  "year_created": [
+    1575,
+    1590
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Svanings Håndskrift II",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1590,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/SVII53.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Det vor greffue herre Gesseling,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "hand taled til moder sin:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "\"Ieg vill ride mig op aff landt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "oc freste mandom min.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": ":: Vell op før dag, wi kommer offuer den heden. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "\"Wiltu ride op aff land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "oc siger du mig saa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "daa vill ieg giffue dig hesten god,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "mand kaller Karl hin graa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Hans moder sagde met storlig ære:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "\"Iegh giffuer dig foole hin gode:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "du tørst aldrig spore paa spende",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 2,
+      "text": "oc aldrig drage hielm oppaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "Ingen kiempe tør du skiøde.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 4,
+      "text": "Det vor greffue Gesserlin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 4,
+      "text": "hand reedt under grønnen liide:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 4,
+      "text": "der møtte ham lidell Tilmanthin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 4,
+      "text": "hand baad ham holde oc biide.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 5,
+      "text": "\"Vel møt, unge Tilmanthin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 5,
+      "text": "huor laa du i nat?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 5,
+      "text": "\"Ieg laa mig paa Bratting-borg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 5,
+      "text": "der hugge de ild aff hat.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 6,
+      "text": "Det suard greffue her Gesserlin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 6,
+      "text": "hand bleff under hielmen rødt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 6,
+      "text": "\"Som mendt vell, liden Tilmandthin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 6,
+      "text": "du taler din egen død.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 7,
+      "text": "Det vor greffue her Gesserlin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 7,
+      "text": "hand sit suerd ud-drog:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 7,
+      "text": "det vor liden Tilmandtin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 7,
+      "text": "hand all y stycker hogg.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 8,
+      "text": "Saa red hand till Brattings-borg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 8,
+      "text": "hand slog paa porten med skafft:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 8,
+      "text": "\"Er her nogen kempe godt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 8,
+      "text": "som ficte vill met mact?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 9,
+      "text": "Det vor herre Iffuer Blaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 9,
+      "text": "hand vende sig i vester:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 9,
+      "text": "\"Hielp, Iesu Marie søn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 9,
+      "text": "ieg høør nu kiempe-røst!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 10,
+      "text": "Det vor greffue her Gesserlin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 10,
+      "text": "kaste hielm offuer halss med skiel:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 10,
+      "text": "det hørde hans kiere moder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 10,
+      "text": "offuer trende lande well.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 11,
+      "text": "Den frue hun vogner om mide-nat",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 11,
+      "text": "oc taler till herre sin:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 11,
+      "text": "\"Herre Gud-fader i Himmerig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 11,
+      "text": "hand raade for sønne min!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 12,
+      "text": "Till-samell daa rede the gode helled,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 12,
+      "text": "de vore thoo kemper saa sterck:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 12,
+      "text": "det vor herre Iffuer Blaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 12,
+      "text": "hand dreff langt i marck.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 13,
+      "text": "\"Hør du, grøffue her Gesserlin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 13,
+      "text": "viltu lade mig leffue:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 13,
+      "text": "ieg haffuer mig en festemøø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 13,
+      "text": "hinde vill ieg dig giffue.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 14,
+      "text": "\"Ieg vill ey din festemøø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 14,
+      "text": "y ecte vill ieg leffue:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 14,
+      "text": "giff mig Solenta, søster din,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 14,
+      "text": "saa vill ieg lad mig nøye.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 15,
+      "text": "Saa reede de til brøllup stor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 15,
+      "text": "som de kunde allermiest:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 15,
+      "text": "de baad til de beste kemper,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 15,
+      "text": "som de kunde fange all-fleist.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 16,
+      "text": "De bød Viderick Vallandzen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 16,
+      "text": "sterck Tyderick udaff Bern:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 16,
+      "text": "de bød Holgerd Dansk,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 16,
+      "text": "hand vill stride saa gern.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 17,
+      "text": "De bød mester Hillebrandt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 17,
+      "text": "Siuord Snaren-suend",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 17,
+      "text": "oc XII udaff de stercke kemper,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 17,
+      "text": "de skulle følge bruden hiem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 18,
+      "text": "Der kom Lang-been Redskier,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 18,
+      "text": "hand skulle med bruden riide:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 18,
+      "text": "did kom koning Segfoed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 18,
+      "text": "sig selff til angist oc quide.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 19,
+      "text": "Det vor frue Kremmold,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 19,
+      "text": "hun skulle bruden reede:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 19,
+      "text": "hun lod sine fødder med ierne slaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 19,
+      "text": "sine finger med staall om-smede.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 20,
+      "text": "Der kom frue Brimall,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 20,
+      "text": "hunn bode for norden field:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 20,
+      "text": "hundret vor de kemper gode,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 20,
+      "text": "der hinde fulde landet imellom.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 21,
+      "text": "De fuld brud y brude-huss,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 21,
+      "text": "hinde tycte det være god nest:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 21,
+      "text": "hun oodt op IV tønder grød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 21,
+      "text": "de smager hind all-best.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 22,
+      "text": "Vell VI øxen-krop ood hun op",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 22,
+      "text": "oc XV suine-flycke:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 22,
+      "text": "VII tønder øll drack hun der-till,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 22,
+      "text": "saa tog hun til at hicke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 23,
+      "text": "Der hun haffde ædit saa megen grødt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 23,
+      "text": "oc XV fæde suine:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 23,
+      "text": "der hun kam i salend ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 23,
+      "text": "hun glemte icke maaltid syn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 24,
+      "text": "De fulle bruden y salen ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 24,
+      "text": "daa trudit hindis skindt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 24,
+      "text": "saa tog de XIII alne aff muret ned,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 24,
+      "text": "før hun kunde trenge sig ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 25,
+      "text": "Saa satte de bruden paa bencke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 25,
+      "text": "saa sagt daa satte de hende ned:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 25,
+      "text": "bencken vore aff malmer-steen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 25,
+      "text": "de reffning y iorden vid.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 26,
+      "text": "Vel XV øxen-krope ood hun op",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 26,
+      "text": "oc XVIII suyne-flycke:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 26,
+      "text": "II lest øøll drack hun dertil,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 26,
+      "text": "førr hun kunde tørsten slycke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 27,
+      "text": "Det daa saa den brude-gam,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 27,
+      "text": "hand houid saa ilde at:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 27,
+      "text": "\"Aldrig saae ieg nogen unger brud",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 27,
+      "text": "æde saa megit madd.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 28,
+      "text": "De begynte en skricke-dantz",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 28,
+      "text": "alt udi de grønne stee:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 28,
+      "text": "den mindste kempe i dantzen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 28,
+      "text": "vor vell XV alne offuer knee.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 29,
+      "text": "Vell vor de XVIII kemper god,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 29,
+      "text": "der fulde bruden i dantz:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 29,
+      "text": "da reffned mur medt malmesteen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 29,
+      "text": "nar hun begynte at suantz.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 30,
+      "text": "De skreff kretzen paa den iord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 30,
+      "text": "the traad ind kemper stercke:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 30,
+      "text": "de vilde daa ficte for ungen brudt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 30,
+      "text": "oc driffue det stor hoffuerck.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 31,
+      "text": "Den unge brud spranck fraa brude-benck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 31,
+      "text": "hun haffde tho hender sløue:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 31,
+      "text": "Langben Redskier tiill hinde traad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 31,
+      "text": "god euentyr mone de prøffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 32,
+      "text": "Ther dantzid bord oc bencke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 32,
+      "text": "oc ilden fløye aff haat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 32,
+      "text": "ud daa løbe de kiemper god:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 32,
+      "text": "\"Oc hielper nu, moder Skratthe!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 32,
+      "text": ":: Vel op før dag, wi kommer offuer heden. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

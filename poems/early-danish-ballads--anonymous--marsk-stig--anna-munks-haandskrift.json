@@ -1,0 +1,2707 @@
+{
+  "id": null,
+  "title": "Marsk Stig",
+  "year_created": [
+    1590,
+    1591
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Anna Munks Håndskrift",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1591,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/MUNK37.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "En Andenn Wiise |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 1,
+      "text": "Marsthy hand vogner om midinat, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "Och thaller hanndt thill sÿn kiere, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Och Ieg haffuer drømnitt saa | vnnderlig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Christ raade huadt | drømmenn skall Sæde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": ":: Minn Edelige herre | denn vnnge her Marsthÿ. | ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Mig drømmitt att mitt stuore skib,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "vor | vordenn Enn lidenn smaa baadt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "och alle | the aarer for bordenn laa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "der var icki | stÿre opaa. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 3,
+      "text": "Mig drømitt att ieg och mine mendt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 3,
+      "text": "vor redenn offuer denn bro,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 3,
+      "text": "Minn gannger hand | kaste mig vnnder sig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "hanndt løb thill vilden | stodt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 3,
+      "text": ":: m: E: h: d: v: h: m: | ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 4,
+      "text": "I thier nu quer minn Edelige herre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 4,
+      "text": "ÿ giffuer | dett icki ÿ giemme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 4,
+      "text": "dett bliffuer bønnder och | boomenndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 4,
+      "text": "skall føre oss skattenn hiem. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 5,
+      "text": "Inndt da kom denn lidenn smaadreng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 5,
+      "text": "var kled | ÿ Sabell och mordt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 5,
+      "text": "her holder hinn vnnge | koninngh brÿcks Budt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 5,
+      "text": "for-offuenn vedt vor | gaardt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 5,
+      "text": ":: m: E: h: d: v: h: m: | ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 6,
+      "text": "Opstodt vnnge her Marsthÿ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 6,
+      "text": "hanndt klede sigh | for sÿnn Senngh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 6,
+      "text": "Saa gick hanndt ÿ gaarden | vdt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 6,
+      "text": "att thalle mett konngens drenngh |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 7,
+      "text": "Hør du vnnge her Marsthÿ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 7,
+      "text": "altt huadt ieg | siger dig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 7,
+      "text": "du skaltt drage thill konngenns | gaardt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 7,
+      "text": "nu skaltt du følge mig. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 8,
+      "text": "Hør du dett du lidenn smaadrenng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 8,
+      "text": "altt huad | ieg sÿger dig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 8,
+      "text": "Och vedstu nogenn aff konngens | raadt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 8,
+      "text": "du dølle dett icki for migh. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 9,
+      "text": "Iegh vedt innthett aff konngens raadt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 9,
+      "text": "før ÿ fanger dett att høre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 9,
+      "text": "vdenn ÿ skall ÿ leding | fare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 9,
+      "text": "och konngenns Banner føre. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 10,
+      "text": "Thett var vnnge her Marstÿ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 10,
+      "text": "hanndt suøber | sÿtt hoffuitt ÿ skinndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 10,
+      "text": "Och saa gannger | hanndt ÿ høffue-lofftt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 10,
+      "text": "for skiønne fru | Inngeborrigh Inndt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 11,
+      "text": "Her Marstj hanndt Inndt adt dørren thren, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 11,
+      "text": "hanndt var vdj hoffuenn saa gram, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 11,
+      "text": "Saa mendt vidt skiønne fru Inngeborrigh, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 11,
+      "text": "Nu vill minn drøm gaa fram. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 12,
+      "text": "Och dett ieg drømde minn guode hest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 12,
+      "text": "hand | løb thill wildenn stoodt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 12,
+      "text": "thett volder | jeg bliffuer Slagenn ÿ ledingh ÿ aar, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 12,
+      "text": "Minn ganger bliffuer tagett mig fraa. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 13,
+      "text": "Thier ÿ quer minn Edelige herre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 13,
+      "text": "Och | sÿger ÿ icki saa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 13,
+      "text": "denn Rige Christ aff | himmerig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 13,
+      "text": "handt eder vell vocte maa. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 14,
+      "text": "Thett var vnnge her Marsti,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 14,
+      "text": "hanndt | rider ÿ kongens gaardt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 14,
+      "text": "vdestannder danner-kongen | ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 14,
+      "text": "handt var vell suøbtt ÿ mordt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 15,
+      "text": "Hør thu vnnge her Marstj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 15,
+      "text": "thet siger ieg dig | met Ere,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 15,
+      "text": "du skaltt fare ÿ leding ÿ aar, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 15,
+      "text": "minn banner skalthu føre, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 16,
+      "text": "Skall Ieg fare ÿ ledinng ÿ aar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 16,
+      "text": "Och voffue | for Rigit mitt liff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 16,
+      "text": "I vocter mig skiønne frue | Inngeborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 16,
+      "text": "hunn er saa venn Enn viff |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 17,
+      "text": "Thett Suaritt vnnge konng Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 17,
+      "text": "hanndt | Smiler vnnder skinndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 17,
+      "text": "saa vell skall Iegh | hennde vockthe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 17,
+      "text": "som hunn var søster minn. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 18,
+      "text": "Saa well skall Ieg hinnde vockthe",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 18,
+      "text": "saa vell skal | Ieg hinnde giemme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 18,
+      "text": "Saa hinnde skall icki bliue mere att skade,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 18,
+      "text": "End du var selffuer hieme. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 19,
+      "text": "Thett var vnnge her Marsti,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 19,
+      "text": "handt drog | aff lanndett henn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 19,
+      "text": "Igienn Sadt skiønne | fru Inngeborrigh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 19,
+      "text": "hunn bar baade angist | och meenn |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 20,
+      "text": "Thett var vnnge koning Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 20,
+      "text": "hanndt | beder Sadell Sinn hest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 20,
+      "text": "Och vÿ ville ride oss op att Lanndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 20,
+      "text": "frue Inngeborrigh vill | vi geste. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 21,
+      "text": "Thett var vnnge konng Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 21,
+      "text": "hanndt | suøber sig hoffuitt ÿ skinndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 21,
+      "text": "Saa gaar | hanndt ÿ høffuelofftt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 21,
+      "text": "for Skiønne fru | Inngeborrigh Inndt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 22,
+      "text": "Her Sidder ÿ skiønne fru Inngeborrigh, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 22,
+      "text": "Och ville ÿ nu verre mig huldt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 22,
+      "text": "Tha | giiffuer mig skiorthenn aff Silcke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 22,
+      "text": "Och | Sømmer denn vell medt guldt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 23,
+      "text": "Giffuer Ieg eder skiorthenn aff Silcke, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 23,
+      "text": "Och Sømmer Ieg denn mett guldt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 23,
+      "text": "Spør | thett hinn vnnge her Marstj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 23,
+      "text": "hanndt | bliffuer mig aldrigh huldt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 24,
+      "text": "Hør ÿ nu skiønne fru Inngeborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 24,
+      "text": "Och | vill ÿ nu verre minn kiere,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 24,
+      "text": "alle dÿ dage ieg leffue maa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 24,
+      "text": "Ieg will eder elske och Ere. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 25,
+      "text": "Marsti hanndt giffuer mig gulderinnge, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 25,
+      "text": "Och kieddere Om mÿnn hals,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 25,
+      "text": "Saamend | vnnge koning Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 25,
+      "text": "Ieg bliffuer | hannom falsk. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 26,
+      "text": "Thett loffuitt ÿ vnnge her Marsti,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 26,
+      "text": "der | hanndt aff lannditt foer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 26,
+      "text": "ÿ skulle mig | vocte och giemme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 26,
+      "text": "som Ieg eders søster | vor. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 27,
+      "text": "Saa Thennde dÿ Op dÿ voxe-liuss,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 27,
+      "text": "Setthe | dennom paa bordenn att brende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 27,
+      "text": "Saa fulde dÿ | skiønne frue Inngeborg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 27,
+      "text": "mett vnnge konninng | Erick thill Sennge. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 28,
+      "text": "Thett var skiønne fru Inngeborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 28,
+      "text": "Thett | var hinndis største harum,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 28,
+      "text": "hanndt redt thill | hennde baade Orlig och Sildig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 28,
+      "text": "hanndt lagde | hennde ÿ sÿnn Arum. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 29,
+      "text": "Thett var vnnge her Marsti,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 29,
+      "text": "hanndt kom | aff ledinngh hiem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 29,
+      "text": "Saa Stercke var dÿ | Thiidinng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 29,
+      "text": "der hannom gick vdt-Igienn. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 30,
+      "text": "Thett var vnnge her Marstj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 30,
+      "text": "Redt ÿ | sÿnn Egenn gaardt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 30,
+      "text": "ÿcke vilde skønne fru | Inngeborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 30,
+      "text": "gange hannom vdt Emodt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 31,
+      "text": "Thett var wnnge her Marstj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 31,
+      "text": "hanndt | ÿnndt adt dørrenn treenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 31,
+      "text": "ÿcke vilde skøne fru Inngeborrigh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 31,
+      "text": "Stande hannom Op | ÿgienn. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 32,
+      "text": "Lennge stodt herre Marstj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 32,
+      "text": "Och tennckthe | hanndt ved sÿg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 32,
+      "text": "huÿ monne skiønne frue | Inngeborrigh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 32,
+      "text": "icke vill staa op Emodt migh. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 33,
+      "text": "Thenn Thidt ÿ vdaff lanndenn drog, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 33,
+      "text": "var Ieg Enn Ridersfrue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 33,
+      "text": "Nu Er | Ieg droninng ÿ dannemarck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 33,
+      "text": "Saa liditt maa Ieg dett loffue: |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 136,
+      "stanza_id": 34,
+      "text": "Thenn thidt ÿ vdaff lanndenn drog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 137,
+      "stanza_id": 34,
+      "text": "haffde Ieg Enn Rider thill manndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 138,
+      "stanza_id": 34,
+      "text": "Nu er | ieg droninng ÿ danemarck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 139,
+      "stanza_id": 34,
+      "text": "Och Saa | gaar lÿckenn fram. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 140,
+      "stanza_id": 35,
+      "text": "Ieg Skall aldrig Søffnenn soffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 141,
+      "stanza_id": 35,
+      "text": "vdj | eders huide Arm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 142,
+      "stanza_id": 35,
+      "text": "førendt ÿ faar veÿett koninng Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 143,
+      "stanza_id": 35,
+      "text": "och skiltt migh | vedt denn harm. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 144,
+      "stanza_id": 36,
+      "text": "Ieg skall aldrig Søffnenn soffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 145,
+      "stanza_id": 36,
+      "text": "vedt | eders huide Siide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 146,
+      "stanza_id": 36,
+      "text": "førendt ÿ faar | veÿett koninng Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 147,
+      "stanza_id": 36,
+      "text": "Och Skiltt | mig thenn quiide. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 148,
+      "stanza_id": 37,
+      "text": "Her Marstj kleder Siig och alle sÿnne | Menndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 149,
+      "stanza_id": 37,
+      "text": "ÿ brÿnne och haarde ÿernn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 150,
+      "stanza_id": 37,
+      "text": "saa | Riider hanndt thill Lanndzthinng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 151,
+      "stanza_id": 37,
+      "text": "Och | vnndsiiger konngenn der. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 152,
+      "stanza_id": 38,
+      "text": "Thett war wnnge her Marstj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 153,
+      "stanza_id": 38,
+      "text": "hanndt | gannger for konngenn frem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 154,
+      "stanza_id": 38,
+      "text": "hilsett hanndt | alle konngens Mendt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 155,
+      "stanza_id": 38,
+      "text": "saa mange Erlige menndt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 156,
+      "stanza_id": 39,
+      "text": "Thett var vnngenn Marstj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 157,
+      "stanza_id": 39,
+      "text": "hanndt ganger | paa Thingh att kiere,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 158,
+      "stanza_id": 39,
+      "text": "Minn hustru | hunn er medt volde Thagenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 159,
+      "stanza_id": 39,
+      "text": "Och derfor kom ieg here. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 160,
+      "stanza_id": 40,
+      "text": "Ieg var migh aff lannditt vde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 161,
+      "stanza_id": 40,
+      "text": "att voffue | for Rigitt mitt liff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 162,
+      "stanza_id": 40,
+      "text": "hiemme Sadt ÿ koninng Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 163,
+      "stanza_id": 40,
+      "text": "voldthogh minn vænne viff. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 164,
+      "stanza_id": 41,
+      "text": "Thett Suaritt vnnge konnge Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 165,
+      "stanza_id": 41,
+      "text": "handt | smiler vnnder skinndt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 166,
+      "stanza_id": 41,
+      "text": "henndis Ia: och | hinndis villie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 167,
+      "stanza_id": 41,
+      "text": "denn var saa guodt som min. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 168,
+      "stanza_id": 42,
+      "text": "Suaritt thett vnge her Marsti,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 169,
+      "stanza_id": 42,
+      "text": "hanndt var | icki møgitt gladt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 170,
+      "stanza_id": 42,
+      "text": "dett pleÿer att verre | itt gammelltt Ordt-sprock,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 171,
+      "stanza_id": 42,
+      "text": "Att spotthenn och | skadenn vill følges att. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 172,
+      "stanza_id": 43,
+      "text": "I haffue voldthagitt minn hustru",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 173,
+      "stanza_id": 43,
+      "text": "och giordt | mig dett thill møde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 174,
+      "stanza_id": 43,
+      "text": "Minndis nu vnnge | konngh Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 175,
+      "stanza_id": 43,
+      "text": "for hinndis skÿldt skall ÿ | døø. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 176,
+      "stanza_id": 44,
+      "text": "Her Marsti hanndt gick aff Thinnge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 177,
+      "stanza_id": 44,
+      "text": "Och | løffthe hanndt vedt sÿnn hatt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 178,
+      "stanza_id": 44,
+      "text": "ÿ dragis | thill minnde all Rigenns Raadt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 179,
+      "stanza_id": 44,
+      "text": "att iegh | haffuer konngenn vnndSagtt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 180,
+      "stanza_id": 45,
+      "text": "Hør du vnnge her Marstj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 181,
+      "stanza_id": 45,
+      "text": "du ladt buort-fare | dÿ Ordt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 182,
+      "stanza_id": 45,
+      "text": "Ieg giffuer dig buode borrigh och feste,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 183,
+      "stanza_id": 45,
+      "text": "Och guldt och grøne Iordt |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 184,
+      "stanza_id": 46,
+      "text": "Ieg skiøtter icki paa eders borrigh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 185,
+      "stanza_id": 46,
+      "text": "dÿ | kommer ÿcke ÿ minn hu,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 186,
+      "stanza_id": 46,
+      "text": "Ieg vilde den | gierninngh skulde verett vgiortt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 187,
+      "stanza_id": 46,
+      "text": "altt met | minn skiønne frue. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 188,
+      "stanza_id": 47,
+      "text": "Marsti du riider nu aldrig saa sterck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 189,
+      "stanza_id": 47,
+      "text": "Ieg | kanndt mig Io for dig vare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 190,
+      "stanza_id": 47,
+      "text": "viltu icki | vere minn ven,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 191,
+      "stanza_id": 47,
+      "text": "da mottu fuldt-vel lad vere, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 192,
+      "stanza_id": 48,
+      "text": "Icke rider ieg saare sterck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 193,
+      "stanza_id": 48,
+      "text": "I kandt vell vere | minn lige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 194,
+      "stanza_id": 48,
+      "text": "haffuer ÿ thet icki føre hørtt, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 195,
+      "stanza_id": 48,
+      "text": "att tredskhet kandt mactenn suige. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 196,
+      "stanza_id": 49,
+      "text": "Icke rider ieg Saa Sterck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 197,
+      "stanza_id": 49,
+      "text": "ÿcke er ieg heller Saa streng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 198,
+      "stanza_id": 49,
+      "text": "Mandt finder vell stønndum Enn Mønde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 199,
+      "stanza_id": 49,
+      "text": "der løber effter hiort | och hinndt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 200,
+      "stanza_id": 50,
+      "text": "Hanndt gick sÿg ÿ husitt inndt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 201,
+      "stanza_id": 50,
+      "text": "hanndt var ÿ | hoffuenn saa vredt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 202,
+      "stanza_id": 50,
+      "text": "Saa hanndt der saa | skiønenn Iomffru,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 203,
+      "stanza_id": 50,
+      "text": "Som hand haffde mett | øÿenn seett. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 204,
+      "stanza_id": 51,
+      "text": "Hanndt thog hinde listelig ÿ sÿnn Arm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 205,
+      "stanza_id": 51,
+      "text": "hand | thallitt thill hinnde saa bratt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 206,
+      "stanza_id": 51,
+      "text": "hør ÿ minn | skiønne Iomffru,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 207,
+      "stanza_id": 51,
+      "text": "ÿ soffuer huos mig ÿ nat |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 208,
+      "stanza_id": 52,
+      "text": "Dett tha Suaritt thenn skiønne Iomffru,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 209,
+      "stanza_id": 52,
+      "text": "saa | hierteligt hunn loo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 210,
+      "stanza_id": 52,
+      "text": "Suar dett først | koninng Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 211,
+      "stanza_id": 52,
+      "text": "thenn gierning som du haffuer giordt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 212,
+      "stanza_id": 53,
+      "text": "MInn skønne Iomffru vide ÿ dett",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 213,
+      "stanza_id": 53,
+      "text": "saa vedt ÿ | och-saa mere,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 214,
+      "stanza_id": 53,
+      "text": "Siiger mig dett minn skønne | Iomffru,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 215,
+      "stanza_id": 53,
+      "text": "huor lennge mitt liff skall vere. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 216,
+      "stanza_id": 54,
+      "text": "Dett tha Suaritt denn skiønne Iomffru,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 217,
+      "stanza_id": 54,
+      "text": "saa | hiertheligt hunn loo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 218,
+      "stanza_id": 54,
+      "text": "Spør du att denn | liidenn krogh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 219,
+      "stanza_id": 54,
+      "text": "der ditt Suerdt henger paa. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 220,
+      "stanza_id": 55,
+      "text": "Dett var vnnge koningh Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 221,
+      "stanza_id": 55,
+      "text": "hanndt effther thenn Iomffru thogh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 222,
+      "stanza_id": 55,
+      "text": "hunn bleff borthe Emellom hanns hennder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 223,
+      "stanza_id": 55,
+      "text": "hanndt hender | aldrig mere saa. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 224,
+      "stanza_id": 56,
+      "text": "Denn Stundt denn Iomffru huos hanom var, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 225,
+      "stanza_id": 56,
+      "text": "da haffde hanndt Ild och liuss,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 226,
+      "stanza_id": 56,
+      "text": "Saa | snartt hunn hannom fra haande gick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 227,
+      "stanza_id": 56,
+      "text": "stodt | hanndt ÿ Tÿckenn Rÿs. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 228,
+      "stanza_id": 57,
+      "text": "Dett var vnnge Rannie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 229,
+      "stanza_id": 57,
+      "text": "och saa thog hannd | opaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 230,
+      "stanza_id": 57,
+      "text": "I rider nu aff denn skouff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 231,
+      "stanza_id": 57,
+      "text": "men | maanenn skinner saa klar. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 232,
+      "stanza_id": 58,
+      "text": "Her liger Enn bÿe lidit herfraa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 233,
+      "stanza_id": 58,
+      "text": "førindenn thenn grønne lundt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 234,
+      "stanza_id": 58,
+      "text": "Tøckis eder saa | minn Edelige herre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 235,
+      "stanza_id": 58,
+      "text": "didt ville vÿ Ride Enn stunndt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 236,
+      "stanza_id": 59,
+      "text": "Did ville vÿ Riide, saa lenge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 237,
+      "stanza_id": 59,
+      "text": "menn maanenn hun nu skinn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 238,
+      "stanza_id": 59,
+      "text": "Saa-menndt ÿ vnnge | koninng Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 239,
+      "stanza_id": 59,
+      "text": "Oss skeer slett ingen meen. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 240,
+      "stanza_id": 60,
+      "text": "Saa Redt dÿ thill finnderup,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 241,
+      "stanza_id": 60,
+      "text": "Och ther bad | dÿ dem hus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 242,
+      "stanza_id": 60,
+      "text": "der kom dÿ saa sildig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 243,
+      "stanza_id": 60,
+      "text": "Sluct | var buode Ildt och liuss. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 244,
+      "stanza_id": 61,
+      "text": "Saa stallitt dÿ inndt ÿ finnderup lade,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 245,
+      "stanza_id": 61,
+      "text": "och | inngen Mannd thennom kiende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 246,
+      "stanza_id": 61,
+      "text": "dett var | eÿ vdi hanns Act,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 247,
+      "stanza_id": 61,
+      "text": "hannom skulde saa | gaa ÿ hennde. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 248,
+      "stanza_id": 62,
+      "text": "Dett melthe vnngenn koninng Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 249,
+      "stanza_id": 62,
+      "text": "Och saa | thog hanndt oppaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 250,
+      "stanza_id": 62,
+      "text": "Ranni du luck denn | lade-dør,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 251,
+      "stanza_id": 62,
+      "text": "som ieg dig nu thill-throer. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 252,
+      "stanza_id": 63,
+      "text": "Lucke thu vell denn ladedøer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 253,
+      "stanza_id": 63,
+      "text": "som ieg dig | monne bethro,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 254,
+      "stanza_id": 63,
+      "text": "Tennck paa herre Marsti |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 255,
+      "stanza_id": 63,
+      "text": "du thennck oppaa hanns Ordt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 256,
+      "stanza_id": 64,
+      "text": "Marsti minn frennde, Er snar thill Sinnde, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 257,
+      "stanza_id": 64,
+      "text": "och vnnderlige ÿ sinne ordt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 258,
+      "stanza_id": 64,
+      "text": "Saa-mennd | minn Edelige herre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 259,
+      "stanza_id": 64,
+      "text": "ÿ kanndt thet icki tro, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 260,
+      "stanza_id": 65,
+      "text": "Wÿbenn vill verie thenn største stedt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 261,
+      "stanza_id": 65,
+      "text": "som | vdj marckenn monne staa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 262,
+      "stanza_id": 65,
+      "text": "hunn kandt icki | fri denn liidenn Thve,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 263,
+      "stanza_id": 65,
+      "text": "som hun skall | bÿge paa. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 264,
+      "stanza_id": 66,
+      "text": "Dett var icki anndett spÿudt eller suerdt, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 265,
+      "stanza_id": 66,
+      "text": "hannd monne for dørren slaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 266,
+      "stanza_id": 66,
+      "text": "dett vill | ieg forsandingenn sige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 267,
+      "stanza_id": 66,
+      "text": "dett var tho halme-straae | . |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 268,
+      "stanza_id": 67,
+      "text": "Dÿ var icki brader ÿ ladenn kommenn, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 269,
+      "stanza_id": 67,
+      "text": "Eÿ brader ÿ ladenn lagtt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 270,
+      "stanza_id": 67,
+      "text": "Saa kom hinn | skiønne fru Inngeborrigs Budt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 271,
+      "stanza_id": 67,
+      "text": "vdj then | bonndegaardt |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 272,
+      "stanza_id": 68,
+      "text": "Saa støtte dÿ paa dørrenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 273,
+      "stanza_id": 68,
+      "text": "mett glaffuenn | och mett spiudt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 274,
+      "stanza_id": 68,
+      "text": "du statt Op vnnge kong | Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 275,
+      "stanza_id": 68,
+      "text": "du gack hidt thill oss vdt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 276,
+      "stanza_id": 69,
+      "text": "Thett tha suaritt Ranni,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 277,
+      "stanza_id": 69,
+      "text": "och saa thog hand | oppaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 278,
+      "stanza_id": 69,
+      "text": "Icke Er vnnge koninngh Erick | , her,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 279,
+      "stanza_id": 69,
+      "text": "ÿ skall thett icki thro, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 280,
+      "stanza_id": 70,
+      "text": "Hanndt kaste offuer hannom høø",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 281,
+      "stanza_id": 70,
+      "text": "och hand | kaste offuer hannom straa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 282,
+      "stanza_id": 70,
+      "text": "dett vill ieg | forsanndingen sige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 283,
+      "stanza_id": 70,
+      "text": "hanndt viste dennom huor | hanndt laa. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 284,
+      "stanza_id": 71,
+      "text": "Hanndt hugh ÿ dÿ bielcke",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 285,
+      "stanza_id": 71,
+      "text": "och hanndt | hug offuer Balck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 286,
+      "stanza_id": 71,
+      "text": "saa fast hug hannd | konng Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 287,
+      "stanza_id": 71,
+      "text": "handt verritt hannom som | Enn skalck. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 288,
+      "stanza_id": 72,
+      "text": "Somme redt thill viborrigh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 289,
+      "stanza_id": 72,
+      "text": "och følge konngenns liigh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 290,
+      "stanza_id": 72,
+      "text": "Och somme redt thill Skannderborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 291,
+      "stanza_id": 72,
+      "text": "att sige droningenn sligt mienn. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 292,
+      "stanza_id": 73,
+      "text": "Alle ville thill viborrigh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 293,
+      "stanza_id": 73,
+      "text": "och følge | konngenns liig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 294,
+      "stanza_id": 73,
+      "text": "Enn drenng sennde dÿ | thill Skannderborrigh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 295,
+      "stanza_id": 73,
+      "text": "sige droningen | Thidinngenn sligh. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 296,
+      "stanza_id": 74,
+      "text": "Innd tha kom denn liidenn smaadrenng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 297,
+      "stanza_id": 74,
+      "text": "var | kledt ÿ skarlagenn Rødt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 298,
+      "stanza_id": 74,
+      "text": "Marsti haffuer | veÿett koninngh Erick,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 299,
+      "stanza_id": 74,
+      "text": "ÿ finnderup | liger hanndt dødt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 300,
+      "stanza_id": 75,
+      "text": "Dett skalthu haffue for Thidinng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 301,
+      "stanza_id": 75,
+      "text": "Endog | dÿ er icki guode,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 302,
+      "stanza_id": 75,
+      "text": "Øll och madt vdj minn | gaardt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 303,
+      "stanza_id": 75,
+      "text": "thett stundt vÿ leffue baade. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 304,
+      "stanza_id": 76,
+      "text": "Dÿ stack hannom inndt vidt høÿre Arm, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 305,
+      "stanza_id": 76,
+      "text": "Och vdt vedt vennstre siide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 306,
+      "stanza_id": 76,
+      "text": "I vocter | saa vell dett lille barnn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 307,
+      "stanza_id": 76,
+      "text": "all danmarck | ber for stuor quide. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 308,
+      "stanza_id": 77,
+      "text": "Marsti voff konngenn ÿ finderup",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 309,
+      "stanza_id": 77,
+      "text": "hannd | actitt ÿ-saa rinnge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 310,
+      "stanza_id": 77,
+      "text": "Saa Rider handt thill | Skannderborrigh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 311,
+      "stanza_id": 77,
+      "text": "hanndt lader sÿn gannger | sprinnge. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 312,
+      "stanza_id": 78,
+      "text": "Dett var dannsker droninng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 313,
+      "stanza_id": 78,
+      "text": "hunn vdt adt | vinnduett saa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 314,
+      "stanza_id": 78,
+      "text": "hisitt sier ieg denn selffgiordt koninngh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 315,
+      "stanza_id": 78,
+      "text": "kommer Ridindis ÿ vor | gaardt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 316,
+      "stanza_id": 79,
+      "text": "Icke Er Ieg nogenn selffgiordt koninnge, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 317,
+      "stanza_id": 79,
+      "text": "thett du sigersaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 318,
+      "stanza_id": 79,
+      "text": "altt var dett drost her | loffmanndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 319,
+      "stanza_id": 79,
+      "text": "Sidst ÿ dinn Arme laa. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 320,
+      "stanza_id": 80,
+      "text": "Saa liditt acter du konng Ericks dødt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 321,
+      "stanza_id": 80,
+      "text": "Saa | liditt acter du denn quide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 322,
+      "stanza_id": 80,
+      "text": "Menn du | haffuer drost her Loffmandt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 323,
+      "stanza_id": 80,
+      "text": "Och du | seer hannom ÿ liffue. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 324,
+      "stanza_id": 81,
+      "text": "Dett melthe Hertug Christopher,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 325,
+      "stanza_id": 81,
+      "text": "hand | stodt ÿ skarlagenn Rødt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 326,
+      "stanza_id": 81,
+      "text": "altt er dett | fuldt-lidenn Boedt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 327,
+      "stanza_id": 81,
+      "text": "for minn kiere | faders dødt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 328,
+      "stanza_id": 82,
+      "text": "Thett melthe herthug Christopher,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 329,
+      "stanza_id": 82,
+      "text": "hand | thallitt Ett Ordt medt Ere,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 330,
+      "stanza_id": 82,
+      "text": "altt | skalthu vdaff lanndenn Rømme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 331,
+      "stanza_id": 82,
+      "text": "Om | Ieg skall kronnenn bere. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 332,
+      "stanza_id": 83,
+      "text": "Skall Ieg vdaff danmarck Rømme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 333,
+      "stanza_id": 83,
+      "text": "Och | lige paa vanndett dett kolde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 334,
+      "stanza_id": 83,
+      "text": "Saa mange skall Ieg giøre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 335,
+      "stanza_id": 83,
+      "text": "Och miest aff fruer dÿ bolde. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 336,
+      "stanza_id": 84,
+      "text": "Skall Ieg vdaff danemarck Rømme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 337,
+      "stanza_id": 84,
+      "text": "fra | hustru och børn saa smaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 338,
+      "stanza_id": 84,
+      "text": "altt skall ieg | minn føde ÿ danmarck hennth,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 339,
+      "stanza_id": 84,
+      "text": "baade | vinnther och Sommer och vaaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 340,
+      "stanza_id": 84,
+      "text": ":: min | Edelige herre denn vnnge her Marstj. | ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 341,
+      "stanza_id": 85,
+      "text": "Saa redt hanndt fra Skannderborrigh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 342,
+      "stanza_id": 85,
+      "text": "hand | lodt sinn gannger sprinnge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 343,
+      "stanza_id": 85,
+      "text": "Saa redt handt | thill mølderup,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 344,
+      "stanza_id": 85,
+      "text": "hinn skønne fru Inngeborrig att finnde. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 345,
+      "stanza_id": 86,
+      "text": "Dett var vnnge her Marstj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 346,
+      "stanza_id": 86,
+      "text": "Redt ÿ sinn | Egenn gaardt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 347,
+      "stanza_id": 86,
+      "text": "vde stannder skiønne frue | Innge-Borrigh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 348,
+      "stanza_id": 86,
+      "text": "hun var vell suøbt ÿ mord |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 349,
+      "stanza_id": 87,
+      "text": "Dett var vnngenn her Marstj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 350,
+      "stanza_id": 87,
+      "text": "Thog hinder | ÿ sÿnn arm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 351,
+      "stanza_id": 87,
+      "text": "dødt saa er konngh Erick, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 352,
+      "stanza_id": 87,
+      "text": "som digh haffuer giortt denn harm. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 353,
+      "stanza_id": 88,
+      "text": "Huadt heller viltthu vere Enn fattige quinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 354,
+      "stanza_id": 88,
+      "text": "Och følge Enn fredløss manndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 355,
+      "stanza_id": 88,
+      "text": "Eller | thu viltt verre Enn slæfræ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 356,
+      "stanza_id": 88,
+      "text": "Och berre | thett hodninngs-naffnn. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 357,
+      "stanza_id": 89,
+      "text": "Heller vill Iegh vere Enn dannequinnde, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 358,
+      "stanza_id": 89,
+      "text": "Och følge Enn fredløss manndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 359,
+      "stanza_id": 89,
+      "text": "Ennd Ieg | vill verre Enn Slæfræ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 360,
+      "stanza_id": 89,
+      "text": "Och berre dett | hodninngs-naffnn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 361,
+      "stanza_id": 89,
+      "text": ":: Minn Edelige herre och denn vnnge her Marstj. | ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 362,
+      "stanza_id": 90,
+      "text": "Saa drog hanndt sig thill hielm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 363,
+      "stanza_id": 90,
+      "text": "och saa | hanndt dett inndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 364,
+      "stanza_id": 90,
+      "text": "Thett vill Iegh | forsanndingen sige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 365,
+      "stanza_id": 90,
+      "text": "ther-vedt blegnitt mange kinndt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 366,
+      "stanza_id": 91,
+      "text": "Saa snartt da bleff dett huss opsatt, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 367,
+      "stanza_id": 91,
+      "text": "Och thett skeede ÿ-saa bratt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 368,
+      "stanza_id": 91,
+      "text": "dett vill | ieg forsandingen siige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 369,
+      "stanza_id": 91,
+      "text": "ÿ tho dage och | Enn Natt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 370,
+      "stanza_id": 92,
+      "text": "Marsti lader bÿge Ett hus paa hielm, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 371,
+      "stanza_id": 92,
+      "text": "hanndt bÿgde dett ÿ-saa fast,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 372,
+      "stanza_id": 92,
+      "text": "handt | passer icki paa Lodt eller krudt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 373,
+      "stanza_id": 92,
+      "text": "och | eÿ Om blÿde-kast. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 374,
+      "stanza_id": 93,
+      "text": "Bonndenn gaar ÿ marckenn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 375,
+      "stanza_id": 93,
+      "text": "paa marcken | och saaer kornn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 376,
+      "stanza_id": 93,
+      "text": "hielp nu gudt-fader ÿ himmerigh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 377,
+      "stanza_id": 93,
+      "text": "haffuer hielm | nu faaitt hornn. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 378,
+      "stanza_id": 94,
+      "text": "Marsti lader bÿge itth hus paa hielm, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 379,
+      "stanza_id": 94,
+      "text": "Saa høÿtt aff Mur och Thidind, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 380,
+      "stanza_id": 94,
+      "text": "Ther drager for Tÿdske och danske,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 381,
+      "stanza_id": 94,
+      "text": "de kunnde dett icki vinnde. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 382,
+      "stanza_id": 94,
+      "text": ":: Minn Edelig herre denn vnnge | her Marstj. | ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

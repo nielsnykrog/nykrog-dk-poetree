@@ -1,0 +1,220 @@
+{
+  "id": null,
+  "title": "Jeg gik igjennem den duftende Skov",
+  "year_created": 1876,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Af Samlede Skrifter. Tre Og Tredivte Bind",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1876,
+    "url": "https://tekstnet.dk/books/andersen-hc_af-samlede-skrifter-tre-og-tredivte-bind/015/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Jeg gik igjennem den duftende Skov,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Den hvælvede sig som en Kirke;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Et Fuglepar sang der Kjærligheds Lov",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Mellem Bøge, Ege og Birke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Jeg saae i Søen bag Bølgens Skum",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Smaafiskene lysteligt svømme;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "Kjærligheds Lykke er ofte stum,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "Men talende Hjertets Drømme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "I Byens Tummel, hvor jeg kom frem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Det var som bag Skum og bag Grene;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Kun Mand og Hustru havde et Hjem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "Ei han, som er ganske ene.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 3,
+      "text": "Thi voxer paa Træet Blad ved Blad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "Og Blomsten mod Blomsten sig bøier;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 3,
+      "text": "Ei Døden skiller de Hjerter ad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 3,
+      "text": "Som Kjærlighed sammenføier.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 4,
+      "text": "Den er en hellig, en styrkende Daab,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 4,
+      "text": "Forvisning om Evigheds Lykke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 4,
+      "text": "Den mildner vort Sind og begrunder vort Haab,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 4,
+      "text": "Er Klippen, hvorpaa vi kan bygge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 5,
+      "text": "Lyksalig Enhver, som eier den ret,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 5,
+      "text": "Lyksalig alt her paa Jorden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 5,
+      "text": "Den Sorg, hvorved to Hjerter har grædt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 5,
+      "text": "Er deelt jo og mindre vorden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 6,
+      "text": "Hil Eder, hvor Kjærligheds Lykke boer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 6,
+      "text": "I fik, hvad kun Gud kan forlene.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 6,
+      "text": "Hos Eder Hjertet paa Lykken troer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 6,
+      "text": "Om selv det er fattigt og ene.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "id": null,
+  "title": "Alfernes Blomster",
+  "year_created": 1839,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1839,
+    "url": "https://tekstnet.dk/books/andersen-hc_alfernes-blomster/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Der laae et Bondehuus, Skorstenens Røg",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Sig hvirvled blaalig mod de grønne Grene,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Paa Taget voxte Græs og vilde Løg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Ved Døren sad en lille Pige ene;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Hun ridsede paa Jorden nok saa net",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "En Have, ja, dens Lige fandtes neppe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Hvert enkelt Blad gjalt for en Blomsterplet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Lysthuset forestiltes ved en Skreppe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Og mens hun leged’, kom fra Skovens Kant",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "To underskjønne Børn i hvide Kjoler,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 1,
+      "text": "Hver bar en Blomst, klar som en Diamant,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 1,
+      "text": "Og med en Duft, som Duften af Violer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 1,
+      "text": "De sagde: »Kom! saa skal Du faae at see,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 1,
+      "text": "Derinde voxe endnu mange flere!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "Da gik de ind i Skoven alle tre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "– Den lille Pige saae man aldrig mere.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 2,
+      "text": "Mod hver en Sorg har Tiden Læge-Drik;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 2,
+      "text": "Det Øie smile vil, vi før saae græde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 2,
+      "text": "Den tabte Lilles Plads en Broder fik,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 2,
+      "text": "Fast til sit Bryst holdt Moderen den Spæde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 2,
+      "text": "– En Nat hun vaagner: Maanen skinner klart,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 2,
+      "text": "Paa Gulvet sidder hendes tabte Datter",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 2,
+      "text": "Med Blomster af en egen deilig Art.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 2,
+      "text": "»Mit Barn!« hun raaber, og det svinder atter.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 3,
+      "text": "Tre Gange Storken reiste; men hvorhen?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 3,
+      "text": "Den lille Dreng løb om kjæk og forvoven.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 3,
+      "text": "Og Alferne med Blomster kom igjen;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 3,
+      "text": "Ham ogsaa lokkede de ind i Skoven.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 3,
+      "text": "– Og Natten steeg – igjennem Krat og Tjørn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 3,
+      "text": "En Moder søgte, sønderknuust, bedrøvet:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 3,
+      "text": "»Forbarm Dig Gud! gjengiv mig mine Børn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 3,
+      "text": "Mit Eneste og Bedste er mig røvet!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 4,
+      "text": "– Der sad en Fader uden Børn og Viv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 4,
+      "text": "Og Ingen bragte Fader-Hjertet Trøsten.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 4,
+      "text": "Hans Dage var et langt, et eensomt Liv. –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 4,
+      "text": "En Aftenstund, det sildigt var i Høsten,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 4,
+      "text": "Paa Gravens simple sandbestrøede Høi,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 4,
+      "text": "Han hæfted’ Øiet, hvori Taarer bæved;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 4,
+      "text": "I Maanens Glands de lette Skyer fløi,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 4,
+      "text": "Sært deres Skygger henad Jorden svæved.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 5,
+      "text": "Da kom en Skare Børn fra Skoven frem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 5,
+      "text": "De svævede, med Blomster uden lige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 5,
+      "text": "Og to gik Haand i Haand; han kjendte dem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 5,
+      "text": "Det var hans egen lille Dreng og Pige.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 5,
+      "text": "De Kirkeveien gik; de andre Smaae",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 5,
+      "text": "Sprang over Marken let, som Due i Luften;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 5,
+      "text": "Til deres Moders Grav han saae dem gaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 5,
+      "text": "De bragte Blomster; han indaanded’ Duften.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 6,
+      "text": "»O mine Børn!« udbrød han faderglad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 6,
+      "text": "Og løb derind til Kirkegaardens Grave.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 6,
+      "text": "I Maanens Lys han kunde see hvert Blad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 6,
+      "text": "Der var en Duft som i en Blomster-Have;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 6,
+      "text": "Men Børnene, den hele Alfehær",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 6,
+      "text": "Forsvundet var; men over Graven stode",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 6,
+      "text": "En Mængde Blomster, Roser meest især,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 6,
+      "text": "Saa skjønne kun i Alfelandet groede.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 7,
+      "text": "Fra Hyacinthens Klokker Trøsten klang:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 7,
+      "text": "»Der er saa stille og saa godt i Graven!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 7,
+      "text": "Og Roserne om Alfelandet sang:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 7,
+      "text": "»Der dandse dine Børn i Blomsterhaven!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 7,
+      "text": "Lad ikke Taaren væde meer din Kind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 7,
+      "text": "I Barnets Død er Solglands og ei Skygge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 7,
+      "text": "Det flyver fra sin Alfeverden ind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 7,
+      "text": "Til Himlens Gud, til overjordisk Lykke!«",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

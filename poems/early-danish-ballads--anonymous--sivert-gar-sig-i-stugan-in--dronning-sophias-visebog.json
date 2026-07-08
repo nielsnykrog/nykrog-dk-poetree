@@ -1,0 +1,761 @@
+{
+  "id": null,
+  "title": "Sivert går sig i stugan in",
+  "year_created": [
+    1630,
+    1639
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Dronning Sophias visebog",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1639,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/DRS90.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Siuerdtt går sigh I stugun jnn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "alt för sin moder att stånda",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "och hurudan då war fader min",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "som hesten torde ride vthan skamme",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": ":: I dagh Rider suenen till hoffue ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Rätsinigh tå hade tu Faderen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "then hesten wäll torde ride",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "men tine sÿstersöner the slogo honom Ihiäll",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "och giorde migh thett till quide",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": ":: I dagh Rider suenen till hoffue ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Haffue the eder dett till quide giordt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "och migh till stort spått",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 2,
+      "text": "och dett skall bliffue så wide sport,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 2,
+      "text": "att iagh skall hämpnas dett brått:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 2,
+      "text": ":: I: d: r: s: t: h: ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 3,
+      "text": "Hörer du siuerdh min kiäre son",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 3,
+      "text": "will du hämpnas din faders färdh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 3,
+      "text": "iagh will giffua tigh brÿnian så godh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 3,
+      "text": "der schall icke fäste på pill äller suärdh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 3,
+      "text": ":: I d r s ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 4,
+      "text": "Iagh skall giffua digh hesten thenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 4,
+      "text": "som är falen aff kiämpe stode,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 4,
+      "text": "och iagh skall giffua digh suärdett thett",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 4,
+      "text": "som är härdt vthÿ kiämpe blode",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 4,
+      "text": ":: I d r s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 5,
+      "text": "I siu år haffuer hesten på stallett stått",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 5,
+      "text": "mine suäner the boro honom korn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 5,
+      "text": "och dett må iagh för saningh seÿa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 5,
+      "text": "han kåm aldrigh på gröne Iordh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 5,
+      "text": ":: I d r s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 6,
+      "text": "Siuerdt går sigh I stallett In",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 6,
+      "text": "allt till den hesten skiöna",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 6,
+      "text": "och du skallt bära migh I dagh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 6,
+      "text": "Igenom den lunden så grönne",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 6,
+      "text": ":: I d r s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 7,
+      "text": "Siuerdt leder hesten Aff stallett vth",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 7,
+      "text": "aff Röde gull war hans grime",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 7,
+      "text": "hans ögon de skine som dags stierner tuå",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 7,
+      "text": "och Elden Rök aff hans miler",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 7,
+      "text": ":: I d r s t ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 8,
+      "text": "Siuerdt leger sadell på hesten",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 8,
+      "text": "dän han giordede till medh willie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 8,
+      "text": "så mången man der vndrade på",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 8,
+      "text": "att hesten brast Ike sönder I medie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 8,
+      "text": ":: I d R s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 9,
+      "text": "Siuardt stiger på hesten",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 9,
+      "text": "den höffueske och den smärtte",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 9,
+      "text": "dett war siuardz kiäre moder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 9,
+      "text": "hon fick så ondt I sitt hierte",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 9,
+      "text": ":: I d R s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 10,
+      "text": "I fare nu wäll min k moder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 10,
+      "text": "I wachte så wäll wårt lande,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 10,
+      "text": "så smuk då haffue I sonen födt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 10,
+      "text": "han Redes för Inngen mane.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 10,
+      "text": ":: I d R s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 11,
+      "text": "I fare nu wäll k moder min",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 11,
+      "text": "I wachte så wäl wårtt Rike,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 11,
+      "text": "så Rätt sinigh haffue I sonen födt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 11,
+      "text": "han skall Ingen suensk haffman suika",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 11,
+      "text": ":: I d r s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 12,
+      "text": "Siuardt han huger på hästen medh spåre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 12,
+      "text": "thett spåren står I blodhe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 12,
+      "text": "han slår och sine förgylte flanker",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 12,
+      "text": "de skine öffuer alle gröne skoger",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 12,
+      "text": ":: I d R s ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 13,
+      "text": "Dett war then vnge siuardt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 13,
+      "text": "han Rider i gröne Lundh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 13,
+      "text": "dett war och hans morbroder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 13,
+      "text": "han sågh honom I sama stundh,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 13,
+      "text": ":: I d R s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 14,
+      "text": "I skiölien vpp wåre kapar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 14,
+      "text": "och så wår silffuer stop,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 14,
+      "text": "her kåmer den vnge siuardt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 14,
+      "text": "han är En håffman så godh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 14,
+      "text": ":: I d R s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 15,
+      "text": "I sitten her alle mine håmen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 15,
+      "text": "I gören huar man gådt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 15,
+      "text": "her kåmer siuardt min syster son",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 15,
+      "text": "han will Eÿ lida spådt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 15,
+      "text": ":: I d R s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 16,
+      "text": "I waren wälkåmen siuardt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 16,
+      "text": "kiäre sÿster sonen min",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 16,
+      "text": "gå I Eder I stugun In",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 16,
+      "text": "iagh will giffue eder både miödh och win",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 16,
+      "text": ":: I d R s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 17,
+      "text": "Iagh pasar Eÿ på thett klare win",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 17,
+      "text": "och Eÿ den södte miödh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 17,
+      "text": "med iagh söker Effter mine sÿster söner siu",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 17,
+      "text": "iagh will hempnas min faders dödh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 17,
+      "text": ":: I d R s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 18,
+      "text": "thett war vnge siuardt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 18,
+      "text": "han går I stugun In",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 18,
+      "text": "thett war och the bröder siu",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 18,
+      "text": "de finge Ett anatt sin",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 18,
+      "text": ":: I d R s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 19,
+      "text": "haffue I slagett min fader Ihiell",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 19,
+      "text": "och giordt mig så hårdt Emott,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 19,
+      "text": "och thett will iagh eder för saning seÿa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 19,
+      "text": "I skulle döö för min fott",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 19,
+      "text": ":: I d R s t h ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 20,
+      "text": "Siuardt Rÿcker vth sitt gode suärdh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 20,
+      "text": "dett skin som solen Rödh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 20,
+      "text": "och så wogh han de bröder siu",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 20,
+      "text": "att bloden löper dem till dödh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 20,
+      "text": ":: I dagh Rider suenen till hoffua ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

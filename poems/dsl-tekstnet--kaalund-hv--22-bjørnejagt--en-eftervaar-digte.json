@@ -1,0 +1,752 @@
+{
+  "id": null,
+  "title": "22. Bjørnejagt",
+  "year_created": 1877,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Vilhelm Kaalund",
+    "country": null,
+    "wiki": "Q2362214"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "En Eftervaar. Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1877,
+    "url": "https://tekstnet.dk/books/kaalund-hv_en-eftervaar/022/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Jeg véd en pudsig Maade",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "at fange Bjørne paa;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "den er simpel og praktisk",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "og let at forstaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Han, som har hittet paa den",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "- jeg skulde nok tro:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "han forstod sig paa Bjørne",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "paa Fire og paa To!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Man trænger ind i Skoven,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "hvor Bjørnen har sin Sti,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "og søger dér en Stamme",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "med vilde Bier i.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Saasnart den er funden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "man binder til en Gren,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "som rager ud fra Toppen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "et Tov med en Sten.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "Men frit maa det hænge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "og Stenen - dygtig stor -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "maa dingle foran Hullet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "hvor Bierne boer;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "dem generer den ikke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "men Bjørnen desmér,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "naar han kommer for at slikke",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "paa sin Bjørnemaner.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "I det tidlige Daggry,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "naar han vaagner af sin Lur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "maa man være paa Pletten,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "før han gaar sin Morgentur.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "I den nærmeste Trætop",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "kan man vælge sig en Plads.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "Det varer næppe længe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "før man hører hans Bas.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 0,
+      "text": "Saa begynder Komedien:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 0,
+      "text": "der er han! giv Agt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 0,
+      "text": "- Der er slet ingen Fare",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 0,
+      "text": "ved denne Slags Jagt. -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 0,
+      "text": "Til de vilde Biers Rede",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 0,
+      "text": "han véd den lige Vej.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 0,
+      "text": "- Det er klart: han er vant til",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 0,
+      "text": "at gaa paa den Galej!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 0,
+      "text": "Han entrer op i Træet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 0,
+      "text": "som en Pjerrot - lidt plump.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 0,
+      "text": "Hvor smisker han fornøjet!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 0,
+      "text": "Hvor logrer Halens Stump!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 0,
+      "text": "- Nu er han ved Maalet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 0,
+      "text": "og klemmer sig fast",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 0,
+      "text": "ved Hjælp af sine Bagben,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 0,
+      "text": "som en Ulk til en Mast.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 0,
+      "text": "Men Stenen er i Vejen -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 0,
+      "text": "den Tingest maa væk!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 0,
+      "text": "Den generer hans Snude;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 0,
+      "text": "han gi'er den et Smæk!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 0,
+      "text": "Men midt paa Snudetippen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 0,
+      "text": "faar han Smækket igjen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 0,
+      "text": "- Han studser og nyser,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 0,
+      "text": "vor tykke, lodne Ven.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 0,
+      "text": "Saa bliver han arrig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 0,
+      "text": "og slaar et vældigt Dask,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 0,
+      "text": "- men faar det tilbage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 0,
+      "text": "midt i sin Pandebrask.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 0,
+      "text": "Det gnistrer for hans Øjne;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 0,
+      "text": "han finder Spøgen grov.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 0,
+      "text": "- Han har aldrig hørt Tale",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 0,
+      "text": "om Ligevægtens Lov!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 0,
+      "text": "Med hans Kundskab i Fysiken",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 0,
+      "text": "er det daarligt bevendt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 0,
+      "text": "Pendulsvingningslæren",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 0,
+      "text": "er ham ganske ubekjendt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 0,
+      "text": "han har aldrig brudt sit Hoved",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 0,
+      "text": "med Tyngdens Theori,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 0,
+      "text": "men stolet paa sit eget",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 0,
+      "text": "naturlige Geni.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 0,
+      "text": "Saa rejser han Børster",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 0,
+      "text": "med Hævnens vilde Tørst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 0,
+      "text": "og saa begynder Kampen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 0,
+      "text": "for ramme Alvor først.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 0,
+      "text": "I Luften flyver Stenen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 0,
+      "text": "for hans Dommedagsslag!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 0,
+      "text": "Men han faar dem tilbage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 0,
+      "text": "o Vé! - som Snudedrag!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 0,
+      "text": "Man skulde tro, han vilde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 0,
+      "text": "trods sit blinde Raseri,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 0,
+      "text": "indbanke i sit Hoved",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 0,
+      "text": "lidt Filosofi.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 0,
+      "text": "Men Nemesisideen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 0,
+      "text": "er saa svimlende høj -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 0,
+      "text": "doceret af en Kampesten,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 0,
+      "text": "den falder noget drøj!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 0,
+      "text": "Han fnyser, han skummer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 0,
+      "text": "han bløder af Saar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 0,
+      "text": "men med Renter betales",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 0,
+      "text": "hvert Slag, som han slaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 0,
+      "text": "Hans arme Bjørnehoved",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 0,
+      "text": "er ømt som en Byld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 0,
+      "text": "Han aner ikke - Tossen -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 0,
+      "text": "det er hans egen Skyld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 0,
+      "text": "Saa maa tilsidst han bøde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 0,
+      "text": "med Livet og sin Vams:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 0,
+      "text": "han tærsker sig til Døde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 0,
+      "text": "den taabelige Bams;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 0,
+      "text": "saa dratter han fra Træet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 0,
+      "text": "ifølge Tyngdens Lov,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 0,
+      "text": "- mens Stenen hænger rolig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 0,
+      "text": "deroppe i sit Tov!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

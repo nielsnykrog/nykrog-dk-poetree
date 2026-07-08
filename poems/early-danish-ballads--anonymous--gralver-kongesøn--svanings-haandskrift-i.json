@@ -1,0 +1,299 @@
+{
+  "id": null,
+  "title": "Gralver Kongesøn",
+  "year_created": [
+    1575,
+    1590
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Svanings Håndskrift I",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1590,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/SVI39.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Dett war Graller kongens-søn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "handt beder sale hest:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "\"Wy wille ride till Sølffue-borrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "stolte Senilde-lill will wy geste.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": ":: Wy gester hin stolten Senildt under liden. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Dett wor Graller kongens-søn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "hand rider att weyen fram:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "oc der møtte hannom den lede lindt-orm",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "udy di stier saa trange.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": ":: Alt till hindt stalten Senildt under liden. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Suaritt dett Graller kongens-søn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "alt som handt fick y hue:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 2,
+      "text": "\"Alle di stie, som iegh haffuer lerdt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 2,
+      "text": "dennom kiende mig alle wor frue.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 3,
+      "text": "\"Hør du, Graller kongens-søn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 3,
+      "text": "alt huad ieg will dig sige:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 3,
+      "text": "est du y ditt hierte saa trøst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 3,
+      "text": "du tørst well mett mig stride?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 4,
+      "text": "Suaritt dett Graller kongens-søns,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 4,
+      "text": "for hand kunde mandzens maal:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 4,
+      "text": "\"End skal ieg stride met dig y dag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 4,
+      "text": "war du end mere sterck.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 5,
+      "text": "Saa wogh handt den lede lindt-orm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 5,
+      "text": "alt met saa møgen quide:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 5,
+      "text": "saa rider handt till Sølffue-borrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 5,
+      "text": "saa lystelig monne hand skride.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 6,
+      "text": "\"Hør du, stolten Senildt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 6,
+      "text": "om du est nu her-inde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 6,
+      "text": "nu haffuer ieg wogitt den lede lindorm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 6,
+      "text": "din sorrig hun er diss-minde.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 7,
+      "text": "\"Haffuer du wogitt den lede lindt-orm",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 7,
+      "text": "oc skildt mig widt min quide:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 7,
+      "text": "da haffuer du wundit Sølffueborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 7,
+      "text": "som liger y søllffuit hin huide.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 8,
+      "text": "Haffuer du wogit den lede lind-orm",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 8,
+      "text": "oc skilt mig widt den møde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 8,
+      "text": "daa haffuer du wundit Sølffueborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 8,
+      "text": "som liger y guldt hin røde.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 8,
+      "text": ":: Oc wundit haffuer du stalten Senil op-under liden. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

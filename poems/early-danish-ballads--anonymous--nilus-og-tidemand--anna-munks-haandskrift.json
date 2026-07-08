@@ -1,0 +1,964 @@
+{
+  "id": null,
+  "title": "Nilus og Tidemand",
+  "year_created": [
+    1590,
+    1591
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Anna Munks Håndskrift",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1591,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/MUNK45.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Herre Nielus och her Thidemand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "dy haffde thill-samenn guodt villie;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "och denn leffuitt icki y verdenn thill,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "der dennom kannd baade adskillie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": ":: Her Nielus och herre Thidemanndt. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Och denn leffuer icki y verdenn thill,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "der dem kannd baade attskille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "foruden enn iomffru y droninngenns gaard,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "hende løsther dy baade att gillie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Ther thienner enn iomffru y droningens gaardt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "hunn heder iomffru Inngeborg;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "her Nielus och herre Thidemannd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 2,
+      "text": "dy ber for hinnder stuor sorrig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "Hinnder badt her Thidemannd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 3,
+      "text": "och hanom vilde hun icki haffue;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 3,
+      "text": "och hennde bad herre Nielus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 3,
+      "text": "och hannom sagde hunn ia.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 4,
+      "text": "Dett var skiønne iomffru Inngeborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 4,
+      "text": "skulde thill sinn morbroder gannge;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 4,
+      "text": "der møder hennde herre Thidemannd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 4,
+      "text": "och hand tager hinnde thill fannge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 5,
+      "text": "\"Høre thu, herre Thidemanndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 5,
+      "text": "du ladt mig fare y fredt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 5,
+      "text": "spør thett herre Nielus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 5,
+      "text": "da slar hanndt dig ihiell.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 6,
+      "text": "\"Ieg skøtter icki om bolde her Nielus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 6,
+      "text": "fordi du siiger nu saa;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 6,
+      "text": "altt skalthu giøre vilge mynn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 6,
+      "text": "altt om thett verre maa!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 7,
+      "text": "Dett var skiønne iomffru Inngeborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 7,
+      "text": "sledt sig y dørrenn udt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 7,
+      "text": "herre Thidemand hanndt stannder effther igienn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 7,
+      "text": "medt suck och sorrigfuldt hu.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 8,
+      "text": "Dett var droninngenns iomffruer tholff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 8,
+      "text": "dy skulde y urther-gaardenn gaa;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 8,
+      "text": "dett var bolde her Nielus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 8,
+      "text": "hannd holder der vare paa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 9,
+      "text": "For gick droningens iomffruer tholff",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 9,
+      "text": "med silcke-flett haardt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 9,
+      "text": "effther gannger iomffru Inngeboorrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 9,
+      "text": "hunn felder saa modige thaare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 10,
+      "text": "\"Hør y, iomffru Inngeborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 10,
+      "text": "huy rinder eder thaare paa kinndt?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 10,
+      "text": "ennthen greder y for guldt eller sølff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 10,
+      "text": "eller for y er vordenn minn?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 11,
+      "text": "\"Icke greder ieg for guldt eller sølff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 11,
+      "text": "icki for ieg er vordenn dinn;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 11,
+      "text": "ieg greder miere for herre Thidemannd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 11,
+      "text": "hannd acter att giøre mig suig.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 12,
+      "text": "\"Høre thu, skiønne iomffru Inngeborrig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 12,
+      "text": "du skaltt icke sørge eller quide!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 12,
+      "text": "vill dett Gud, ieg venndis liff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 12,
+      "text": "hannd skall dig aldrig suige!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 13,
+      "text": "Dett var bolde her Nielus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 13,
+      "text": "hannd lader sitt brølup bo;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 13,
+      "text": "dett var herre Thidemand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 13,
+      "text": "hannd lader synn gannger skou.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 14,
+      "text": "Herre Nielus lader sitt brølup bo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 14,
+      "text": "dett koster hannom guldt hinn røde;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 14,
+      "text": "her Thidemannd ville thill brølup riide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 14,
+      "text": "ennddog hannd var icki bødenn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 15,
+      "text": "Dett var bolde her Nielus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 15,
+      "text": "hanns tuct haffde hannd icki forglemtt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 15,
+      "text": "droningenn førde ham synn unnge brudt hiem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 15,
+      "text": "denn ære lader hunn hannom sømme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 16,
+      "text": "Thett var om enn hellig søndag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 16,
+      "text": "der folckenn var alle glade,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 16,
+      "text": "her Thidemand sagde itt ord fra sig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 16,
+      "text": "hannd motte lanngtt beder haffue thagtt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 17,
+      "text": "Her Thidemanndt hannd sagde itth ord fra sig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 17,
+      "text": "hannd motte lanngtt heller haffue thagtt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 17,
+      "text": "\"Nu haffuer bolde her Nielus denn thill brudenn synn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 17,
+      "text": "som førre var fæle minn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 18,
+      "text": "Brudenn siider paa brude-bennck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 18,
+      "text": "hunn greder y-saa saare;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 18,
+      "text": "hunn badt thill Gudt y Himerig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 18,
+      "text": "att hunn under iordenn vaare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 19,
+      "text": "\"Høre thu dett, minn unnge brudt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 19,
+      "text": "icki skall y sørge eller quide!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 19,
+      "text": "ieg skall sla her Thidemannd y-hiell",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 19,
+      "text": "udi sinn feierste thiide!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 20,
+      "text": "Thett suaritt dannsker droninng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 20,
+      "text": "hun sadt y kiorthellenn røø:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 20,
+      "text": "\"Dett vill ieg medt brudenn suære,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 20,
+      "text": "att hunn er fuld-guodt mø!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 21,
+      "text": "Brøllupett dett var druckett,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 21,
+      "text": "och folcken dy foer hiem;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 21,
+      "text": "thett var skønne fru Inngeborriig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 21,
+      "text": "hunn sagtt saa gladt y-gienn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 22,
+      "text": "Dett var herre Thidemanndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 22,
+      "text": "hannd lader sytt brølup bou;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 22,
+      "text": "thett var herre Nielus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 22,
+      "text": "hanndt lader synn gannger skou.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 23,
+      "text": "Her Thidemannd lader sitt brølup bou,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 23,
+      "text": "dett kaaster hannom sølff hinn huide;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 23,
+      "text": "her Nielus lader sinn gannger skou,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 23,
+      "text": "thill brølupett vill hand riide.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 24,
+      "text": "Dett var bolde her Nielus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 24,
+      "text": "hannd kom der ridenndis y gaardt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 24,
+      "text": "udestannder denn liidenn møø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 24,
+      "text": "hunn bøster sitt faffre haard.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 25,
+      "text": "\"Hør thu det, du liidenn møø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 25,
+      "text": "och huadt ieg siiger dig:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 25,
+      "text": "du syg mig, huor herre Thidemannd er,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 25,
+      "text": "och døll dett icki for mig!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 26,
+      "text": "Dett tha suaritt denn liidenn møø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 26,
+      "text": "synne ord kunnde hunn icki giemme:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 26,
+      "text": "\"Hand soffuer y synn unnge bruds arm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 26,
+      "text": "den ære lader hannd hanem søme.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 27,
+      "text": "Dett var herre Nielus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 27,
+      "text": "hanndt støtte paa dørrenn medt foedt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 27,
+      "text": "alle dy naffler, y dørrenn var,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 27,
+      "text": "dreff herre Thidemanndt emodt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 28,
+      "text": "Hannd skiødt thill hannom mett armbøst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 28,
+      "text": "och alle dy anndre var spenndt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 28,
+      "text": "\"Thett skalttu haffue thill morgens-gaffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 28,
+      "text": "dinn slefredt haffuer dig senndt!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 29,
+      "text": "Thett suaritt herre Thidemannd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 29,
+      "text": "der hand faldt dødt thill iord:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 29,
+      "text": "\"Icke er ieg denn eniste mannd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 29,
+      "text": "der haffuer faaett heffnn for ordt.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 30,
+      "text": "Brudenn siider y bruder-senng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 30,
+      "text": "hunn vrider henndis hennder aff nødt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 30,
+      "text": "hun badt thill Gudt aff Himmerig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 30,
+      "text": "hunn haffde y voggen dødt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 31,
+      "text": "\"Høre y dett, stalthenn Metthellille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 31,
+      "text": "i skall icke sørge saa saare:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 31,
+      "text": "ieg haffuer seett en fast venner ennd y,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 31,
+      "text": "haffuer feldt fast flere thore.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 32,
+      "text": "Fru Inngeborrig stander y høffuelofft,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 32,
+      "text": "och seer hunn ud saa viide;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 32,
+      "text": "hunn var saa gladt udi hierthitt sitt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 32,
+      "text": "hun saa hendis herre kom riidenn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 32,
+      "text": ":: Herre Nielus och herre Thidemand. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

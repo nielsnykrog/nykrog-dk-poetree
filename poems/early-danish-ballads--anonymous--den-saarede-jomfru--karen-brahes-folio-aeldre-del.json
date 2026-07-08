@@ -1,0 +1,429 @@
+{
+  "id": null,
+  "title": "Den saarede Jomfru",
+  "year_created": 1583,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Karen Brahes folio, ældre del",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1583,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/KBRA61.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Der gar gantz paa wolde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": ":: Treder well op, edelling! ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "der dantzer rider bolde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": ":: Mand skuld erre dy iumfruer vdj dantzenn. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Der dantzer rider y skaarlagenn rød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "saa giør och liden Kierstenn, denn wene møø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Der dantzer dy rider saa blide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "vskiee suard wed syde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 3,
+      "text": "Vd daa skried thend brune braand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "skaar iumfruen y sin huide hand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 4,
+      "text": "Hun skaar seg y syn finger fem:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 4,
+      "text": "rett aldrig giør hun guld med dem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 5,
+      "text": "Hun skaar seg y syn fienger X:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 5,
+      "text": "rett aldrig kund hund merre anten skeere eller siy.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 6,
+      "text": "Alt saa blodig som hun war,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 6,
+      "text": "saa gar hun ind for kongens bord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 7,
+      "text": "Iunfruen ind aff døren thrend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 7,
+      "text": "kongen blegner y synn kiennd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 8,
+      "text": "\"Sig meg, liden Kierstenn, datter mynn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 8,
+      "text": "hui rinder theg blod vnder skaarlagen-skiend?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 9,
+      "text": "Huy render theg bluod vnder skaarlagenn-skiend?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 9,
+      "text": "huem haffuer theg skaaren y finger dynn?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 10,
+      "text": "\"Ieg war meg gangendis y burre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 10,
+      "text": "mynn broders suerd att skiøffne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 11,
+      "text": "Huad ieg fand paa wegge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 11,
+      "text": "mynn broders suerd der hengde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 12,
+      "text": "Saa drog ieg vd denn brune brand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 12,
+      "text": "ieg skaar meg y min huide hand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 13,
+      "text": "Ieg skaar meg y myn fienger X,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 13,
+      "text": "rett aldrig giør ieg nere guld med dy.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 14,
+      "text": "\"Huem skall nu thett røde guld giørre?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 14,
+      "text": "och huem daa skall dyn ermer snørre?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 15,
+      "text": "\"Myn søster skall mytt røde guld giøre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 15,
+      "text": "min moder hun skall myn ermer snøre.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 16,
+      "text": "Tthen rider hand stander vnder axelbuord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 16,
+      "text": "hannd liuder daa paa denn iumfrus ord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 17,
+      "text": "Hand klaper hinder wed huiden kiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 17,
+      "text": "\"Well y nu bliffue allerkereste myn?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 18,
+      "text": "Mynn søster skall eders røde guld giørre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 18,
+      "text": "eders iunfruer skall eders ermer snørre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 19,
+      "text": "Eders iumfruer skall eder ermer snørre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 19,
+      "text": "selleff wel ieg eders ganger førre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 20,
+      "text": "Selleff well ieg eders ganger førre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 20,
+      "text": "myn wener skall eder alle till thieniste werre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 21,
+      "text": "Myn søster skall thage eders skaarlagen-skiend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 21,
+      "text": "selleff well ieg følge eder vd och ind.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 22,
+      "text": "Tthett melltte kongen y skaarlagen rød:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 22,
+      "text": "\"Huor-for welltt du loffue saa liutt ett møø?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 23,
+      "text": "Tthett suarid thend rider med tuogt och erre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 23,
+      "text": "\"Ieg haffuer hinder for alle y hiarthett kierr.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 24,
+      "text": "Selleff skaar ieg y hindis huide haand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 24,
+      "text": "ther-for well ieg hinder rett aldrig forlade.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 25,
+      "text": "\"Men du haffuer selliff den gierning giortt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 25,
+      "text": "daa skall hun giffue deg syn chrestelig thro.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 26,
+      "text": "Frem gaar den rider, gaff hind thro med hannd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 26,
+      "text": ":: Threder op, edeling! ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 26,
+      "text": "saa førde hand hinder wd aff land.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 26,
+      "text": ":: Mand skuld erre dy iunfruer y dantzzenn. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

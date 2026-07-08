@@ -1,0 +1,94 @@
+{
+  "id": null,
+  "title": "bröd",
+  "year_created": 1936,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Gustaf Munch-Petersen",
+    "country": null,
+    "wiki": "Q1364400"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Solen Finns",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1936,
+    "url": "https://tekstnet.dk/books/munch-petersen-g_solen-finns/061/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "berusa dig varje timme -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "timmarna måste bli år -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "berusa dig -!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "livet är en dröm -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "ruset är hata död -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "ruset dränker dig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "i livets bröd -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "berusa dig varje timme -!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "timmarna måste förbli unga -,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "brödet är ungdomens sten -",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

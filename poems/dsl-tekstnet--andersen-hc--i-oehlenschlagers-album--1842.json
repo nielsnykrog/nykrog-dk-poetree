@@ -1,0 +1,94 @@
+{
+  "id": null,
+  "title": "I Oehlenschlägers Album",
+  "year_created": 1842,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1842,
+    "url": "https://tekstnet.dk/books/andersen-hc_i-oehlenschlaegers-album/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Paa Nordens Himmel i Stjernernes Flok,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Tycho Brahe har skrevet sit Minde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Og hug udi Fjeldets Blok",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Sit Navn, det vil aldrig forsvinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Du, sang af dit Hjerte og Norden har hört",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Ved dig sine störste Bedrifter,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Dybt Hjertets Sange her Hjerterne rört,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Din Storhed ei Tiden henvifter!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Staaer Een i Stjernerne, Een i Steen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "I Hjerterne veed jeg staaer ogsaa Een.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

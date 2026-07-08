@@ -1,0 +1,934 @@
+{
+  "id": null,
+  "title": "Klintekorset paa Möen",
+  "year_created": 1830,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1830,
+    "url": "https://tekstnet.dk/books/andersen-hc_digte-1830/021/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Det er en lys, en deilig Sommernat;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "En Jæger vandrer mellem Klintens Krat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Han er saa bleg, ak! Sorgen tungt ham nager.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Med Jæger-Taske og med ladt Gevær",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Han vandrer Skrænten nær,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Mens Hunden rundt i store Kredse jager.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "– Just denne Nat, for otte Somm’re siden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Hans Moder døde, længe alt før Tiden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Og nys hans Brud man jordede bag Kirken,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Hvor Storken bygger Rede høit i Birken.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "En mægtig Veemod steeg i Sjelen frem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "Han tænkte paa de Kjære, paa sit Hjem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Den lille Hauge hist bag Huset,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "Ak, Alt laae nu i Gruset. –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "En Stund han stod saaledes taus nedbøiet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "Da hævede han Øiet;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "Guds store Himmel var saa reen og blaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "Uendeligt foran ham Havet laae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "Og fjernt han saae i Maanelyset blaane,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "Den hvide Klint paa Stevns og paa Arcone.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "Hans Tanke fløi i Verdens Rummet ud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "Og fromt han atter stoled’ paa sin Gud;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "Ei længer græd han for de tabte Kjære,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "Han følte: snart han skulde hos dem være.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "En salig Fred sødt qvægede hans Bryst;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "Hans Øie fulgte langs den høie Kyst;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Som Tempelvægge stod den hvide Klint med Skoven,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "Og Himlen danned Kuppelen for oven.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "Dybt nede leged’ Bølgen med Klintens brune Tang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "Det lød saa sært i Natten som dæmpet Orgelklang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "Fra Stevns og fra Arcona en Straale lyste smukt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "Og spilled’ som en Stjerne hen over Hav og Bugt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 0,
+      "text": "Som Jægeren det skuer sært banker da hans Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 0,
+      "text": "Thi Lyset hurtigt nærmer sig Møens hvide Kyst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 0,
+      "text": "Stævns Klintekonge kommer med Spil og Havfrue-Sang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 0,
+      "text": "Hans Kjortel er en Taage, hans Haar og Skjæg af Tang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 0,
+      "text": "Et Dødningbeen hans Scepter, men Kronen sølverblaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 0,
+      "text": "Og rundt om Karmen svømme Havpuslinger saa smaae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 0,
+      "text": "Sit Scepter høit han hæver, og ved de stærke Slag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 0,
+      "text": "Sig Klinten for ham aabner, men uden Larm og Brag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 1,
+      "text": "Snart kommer og ArconasDrot",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 1,
+      "text": "Til Møens hvide Sommerslot.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 1,
+      "text": "Hans Krone flammer som Guldet rødt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 1,
+      "text": "Men Kinden er bleg og Øiet dødt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 1,
+      "text": "En Skibsmast er hans Spiir og Stang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 1,
+      "text": "Og Kappen er vævet af Skum og Tang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 1,
+      "text": "Den flagrer saa sært i Nattens Vind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 1,
+      "text": "I det han stiger i Fjeldet ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 2,
+      "text": "En Stund er Alt saa stille, kun Bølgen ruller fort,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 2,
+      "text": "Da stiger ud af Fjeldet en Taage tyk og sort,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 2,
+      "text": "Og begge Konger ile fra Møens Klint i Harm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 2,
+      "text": "Den tykke Taage skjuler den lette Bølgekarm;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 2,
+      "text": "Men Havet vildt sig hæver, det er saa sært at see",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 2,
+      "text": "De høie, sorte Bølger med Skummets hvide Snee;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 2,
+      "text": "De vælte sig mod Kysten og løfte Steen og Tang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 2,
+      "text": "Mens høit fra Dronningstolen man hører sælsom Sang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 2,
+      "text": "Der sidder Klintens Dronning, den høie, blege Mø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 2,
+      "text": "Og skuer stolt og roligt ud paa den sorte Sø!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 2,
+      "text": "»Et jordisk Bryst jeg elsker, men ingen Klinte-Drot.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 2,
+      "text": "Dig, Jæger, jeg udkaarer, boe hos mig i mit Slot!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 2,
+      "text": "Dybt under Dig sig hvælver en Verden skjøn og smuk,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 2,
+      "text": "Der skal hos mig Du glemme Jordlivets bittre Suk.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 2,
+      "text": "Lad Beilerne kun fnyse, og rase vildt paa Sø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 2,
+      "text": "Du er min Brudgom, Jæger, Dig kaarer Klintens Mø!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 2,
+      "text": "Saa toner det i Natten, og Stormen stiger meer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 2,
+      "text": "Igjennem Krat og Grene den hvide Mø han seer;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 2,
+      "text": "Et Fadervor han læser, et Kors han for sig slaaer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 2,
+      "text": "Og roligt med sin Bøsse han hjem til Hytten gaaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 2,
+      "text": "Han tænker paa sin Moder og paa sin tabte Brud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 2,
+      "text": "Saa inderligt han beder: send Du mig Døden, Gud!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 3,
+      "text": "Hver Søndag klinger festligt hen over Bondens Vang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 3,
+      "text": "Fra Landsby-Kirken, deiligt den stærke Orgelklang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 3,
+      "text": "Og Menigheden synger, og alle Lærker slaae!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 3,
+      "text": "De sorte Kors paa Graven i Sommersolen staae;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 3,
+      "text": "Og under Kirkens Bue han atter beder Gud:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 3,
+      "text": "»O lad mig snart gjensamles med Moder og med Brud!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 3,
+      "text": "– De søndagsklædte Bønder med Hustruer og Smaae",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 3,
+      "text": "Med Psalmebog i Haanden, fra Kirken hjemad gaae;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 3,
+      "text": "Sødt dufte Mark og Enge, og Skoven staaer saa grøn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 3,
+      "text": "Men ved de Kjæres Grave han læser først en Bøn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 3,
+      "text": "I Hyldetræet synger en lille Fugl saa smukt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 3,
+      "text": "»Snart skal som jeg Du svinge Dig bort fra Jordens Bugt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 3,
+      "text": "Før Vinterstormen kommer, Din Vinge voxer ud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 3,
+      "text": "Og Du skal atter favne Din Moder og din Brud!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 4,
+      "text": "Han hører Fuglen gjerne, thi Sangen han forstaaer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 4,
+      "text": "Men naar ved Midnat ene han gjennem Skoven gaaer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 4,
+      "text": "Da seer han mellem Krattet den hvide Klintens Mø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 4,
+      "text": "Hun sidder høit paa Skrænten, tæt ved den salte Sø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 4,
+      "text": "Snart vinker hun saa venlig, snart truer hun i Harm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 4,
+      "text": "Men Natte-Duggen falder som Graad paa hendes Barm.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 5,
+      "text": "Endt er den gyldne Sommer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 5,
+      "text": "Alt Vinterstormen kommer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 5,
+      "text": "Og Svalen drager bort,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 5,
+      "text": "O, sikkert ikkun kort",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 5,
+      "text": "Den arme Jæger dæmpe maae sin Længsel,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 5,
+      "text": "Snart aabner Englen ham vist Livets Fængsel.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 5,
+      "text": "Tidt tænker han paa Fuglens Trøstesang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 5,
+      "text": "Men Sneen ligger alt paa Mark og Vang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 5,
+      "text": "Det fyger vildt derude,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 5,
+      "text": "Og Blomster staae paa Vinduets frosne Rude.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 5,
+      "text": "– Mørk Natten er, med Sneefog og Orcan;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 5,
+      "text": "Det knager vildt i Skovens Birk og Gran,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 5,
+      "text": "Men mellem Stormens Brag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 5,
+      "text": "Han hører Øxe-Slag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 5,
+      "text": "Skovtyven tumler sig bag Busk og Krat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 5,
+      "text": "Tryg er han i en saadan Rædsels Nat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 5,
+      "text": "Sin Dont en ærlig Jæger røgte maa;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 5,
+      "text": "Med sit Gevær og Jæger-Tasken paa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 5,
+      "text": "Han Lyden følger.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 5,
+      "text": "Alt er han Skrænten nær – han hører Havets Bølger;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 5,
+      "text": "Men hver en Sti og Plet han kjender nøie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 5,
+      "text": "Skjøndt Alt er Nat og Mørke for hans Øie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 5,
+      "text": "– Alt ryster Stormen stærkere sin Vinge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 5,
+      "text": "Tæt foran sig han hører Øxen klinge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 5,
+      "text": "Et Skridt – – – og med et Skriig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 5,
+      "text": "I Dybet ligger han et blodigt Liig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 6,
+      "text": "»Jeg fanged’ Dig min Brudgom!« saa synger Klintens Mø;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 6,
+      "text": "»Ak var Du villigt kommen, da skulde du ei dø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 6,
+      "text": "Dit Liig jeg kun kan trykke op til mit hvide Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 6,
+      "text": "Din stolte Sjæl har svunget sig høit til Himlens Kyst!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 7,
+      "text": "I Kirkens stille Have",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 7,
+      "text": "Høit bølger Græsset paa de glemte Grave,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 7,
+      "text": "Men smukt paa Klinten staaer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 7,
+      "text": "Det hvide Kors alt mange, mange Aar;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 7,
+      "text": "Tidt synger Lærken der i Aftenrøden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 7,
+      "text": "Hvor Jægeren fandt Døden;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 7,
+      "text": "Og Bølgen leger venligt med Klintens brune Tang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 7,
+      "text": "Det klinger smukt i Natten som dæmpet Orgelklang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 7,
+      "text": "Nu har den brave Jæger glemt Jordens Sorg og Harm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 7,
+      "text": "Men Duggen staaer som Taare paa Møens hvide Barm.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

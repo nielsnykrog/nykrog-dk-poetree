@@ -1,0 +1,472 @@
+{
+  "id": null,
+  "title": "26. Farum",
+  "year_created": 1858,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Vilhelm Kaalund",
+    "country": null,
+    "wiki": "Q2362214"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Et Foraar. Digte, Ældre Og Nyere",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1858,
+    "url": "https://tekstnet.dk/books/kaalund-hv_et-foraar/027/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Her i Farums skovomkranste Eden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "ved den stille Sø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "vil jeg sætte mig paa Blomsterbredden",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "ved en Stak af Hø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "og af Hyld en Hyrdefløjte skjære",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "med idyllisk Klang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Skov og Sø og Himlens Pragt skal være",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Noder til min Sang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Snart som Bien hænger sig mit Øje",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "ved hver Blomst og Straa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "snart det taber sig i Himlens høje,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "grænseløse Blaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "snart i Vesten drømmende det hviler",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "paa den gyldne Sky,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "snart fra Søens Bred det vinget iler",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "til den stille By.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "Hisset smiler den som Barnet rolig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "i sin Moders Skjød;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "bagved Præstens fredelige Bolig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "knejser Kirken rød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "sagte hviskende ved Havemuren",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "Hængeasken staar;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "over Dødens Senge har Naturen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "bredt sin Blomstervaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "Rundt om Søens klare Spejl sig slynger",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "Bøgeskovens Krans;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Bølge sagtelig mod Bølge gynger",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "i Najadedans;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "som en lysegrøn Smaragd indfattet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "i det sølvblaa Vand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "hæver Øen sig med Ellekrattet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "om sin Blomsterrand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 0,
+      "text": "Fuld af Sorg og Uro tumler Verden",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 0,
+      "text": "sig der udenom:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 0,
+      "text": "Ingen Lyd af Vrimlens travle Færden",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 0,
+      "text": "naa'r dens Helligdom;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 0,
+      "text": "fredelig sin Røst Bogfinken hæver",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 0,
+      "text": "i dens Hybenhæk.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 0,
+      "text": "- Til den fjerne Fursø Øjet svæver",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 0,
+      "text": "over Fiskebæk.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 0,
+      "text": "Bag ved Søen i romantisk Vildhed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 0,
+      "text": "knejser Bøg og Gran;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 0,
+      "text": "dér i Skovens tempeldybe Stilhed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 0,
+      "text": "bor den gamle Pan.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 0,
+      "text": "Mellem Brombærkrat og vilde Ranker",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 0,
+      "text": "tyst han grubler dér;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 0,
+      "text": "milde Vindpust fra de stejle Banker",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 0,
+      "text": "Syrinx' Toner bær'.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 0,
+      "text": "Over Kæmpegraven Freden throner",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 0,
+      "text": "med sin Axekrans,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 0,
+      "text": "medens Farums Kirkeklokke toner",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 0,
+      "text": "sødt i Aftnens Glans.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 0,
+      "text": "Ingen blodig Norne længer vejer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 0,
+      "text": "Liv og Dødens Gru;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 0,
+      "text": "dér, hvor Sværdet hvined, Leen mejer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 0,
+      "text": "Engens Kløver nu.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 0,
+      "text": "O, hvi kan jeg ej som Fuglen bygge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 0,
+      "text": "fri for smaalig Tvang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 0,
+      "text": "her i disse stille Skoves Skygge",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 0,
+      "text": "med min glade Sang!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 0,
+      "text": "Skjønne Farum! fra din Blomstervrimmel",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 0,
+      "text": "kalder Staden mig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 0,
+      "text": "- Naar jeg drømmer mig en jordisk Himmel,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 0,
+      "text": "skal den ligne Dig!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

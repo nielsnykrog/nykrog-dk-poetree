@@ -1,0 +1,94 @@
+{
+  "id": null,
+  "title": ".",
+  "year_created": 1854,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Af. Samlede Skrifter. Femtende Bind",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1854,
+    "url": "https://tekstnet.dk/books/andersen-hc_af-samlede-skrifter-femtende-bind/012/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Hvad Hjertet her sig klynger til,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Det lægges snart i Kiste;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Selv Venskab er et Gaadespil,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Hvor Traaden let kan briste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Den bedste Drøm dog Hjertet veed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Det Drømmen er om Kjærlighed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "Den skal man drømme jo, som ung,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "Hvert Hjerte til den trænger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Den er saa smuk og dog saa tung,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "At tidt den Hjertet sprænger.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

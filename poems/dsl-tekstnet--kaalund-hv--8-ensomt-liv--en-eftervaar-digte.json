@@ -1,0 +1,472 @@
+{
+  "id": null,
+  "title": "8. Ensomt Liv",
+  "year_created": 1877,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Vilhelm Kaalund",
+    "country": null,
+    "wiki": "Q2362214"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "En Eftervaar. Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1877,
+    "url": "https://tekstnet.dk/books/kaalund-hv_en-eftervaar/008/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Jeg sad alene paa en øde Gaard,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "hvor høje Skrænter lude ned mod Havet:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "kun stakkels Fiskerfolk i usle Kaar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "var al min Omgang trindt i Nabolavet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Dog faldt mig Ensomheden sjelden lang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "selv ikke da, naar tidt i Aftner sorte",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "jeg gik i Stuen op og ned min Gang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "og hørte Stormen ruske Gaardens Porte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Fortrolig var jeg med den mindste Larm:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Træbukkens Pikken, Musetandens Gnaven,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Stormkrogens Raslen mod min Vindueskarm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "og Løvets Fald derudenfor i Haven.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "- Jeg glemmer ej en saadan Aftenstund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "da der var Oprør ude i Naturen;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "det gjorde halvt mig ondt for Gaardens Hund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "saa vældigt suste Stormen omkring Muren.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "\"Flyv ud, flyv ud!\" - saa sang den vilde Blæst -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "\"Hvi vil Du spænde saa Dig selv i Bøjlen?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "Flyv ud og sving Dig paa den høje Hest;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "giv Lysten og giv Lidenskaben Tøjlen!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "\"Flyv ud, flyv ud!\" - saa peb den hæse Vind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "og gjennem alle Sprækker lød dens Hvinen -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "\"sno Dig i Slangebugter ud og ind;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "ræk Tunge af det Alt, som hist Kaminen!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "\"Du lever kun et Nu, Du stakkels Orm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "vil Du for Livets Lyst Dig selv bedrage?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Flyv ud, flyv ud!\" - saa sang den vilde Storm -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "\"og nyd den korte Frist, Du har tilbage!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "- Og Ovnen rakte Flammetungen ud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "og Sneen føg med Hvislen mod min Rude,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "mens Havet vælted sig i Vinterslud",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "saa stort og vildt og tøjlesløst derude.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 0,
+      "text": "Og jeg, som hang ved Livet og dets Lyst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 0,
+      "text": "som følte Hjertet utaalmodigt banke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 0,
+      "text": "jeg havde med en Verden i mit Bryst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 0,
+      "text": "ej andet Selskab end min egen Tanke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 0,
+      "text": "- Jeg gik i Stuen ensom op og ned,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 0,
+      "text": "for trangt, for snevert syntes mig var Buret!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 0,
+      "text": "Det var, som tvende Magter om mig stred,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 0,
+      "text": "som fik de Røst i Stormen og i Uhret.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 0,
+      "text": "- I Uhret! ja, mit gamle Stueuhr,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 0,
+      "text": "det vilde ogsaa snakke med i Laget.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 0,
+      "text": "Mens Vinden stemte op i Moll og Dur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 0,
+      "text": "hvor frejdigt, taktfast lød da Pendelslaget.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 0,
+      "text": "I Krogen stod det dér saa gammeldags,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 0,
+      "text": "det førte ej Bevis, det gav ej Grunde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 0,
+      "text": "Men klar var Texten! -jeg forstod den strax -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 0,
+      "text": "den var for syge Sjæle som for sunde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 0,
+      "text": "Med roligt Snik og Snak og Snik og Snak,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 0,
+      "text": "det lød igjennem Pausens dybe Stilhed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 0,
+      "text": "og altid lige frejdigt: Snik og Snak -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 0,
+      "text": "om Huset skjalv og Vejret steg i Vildhed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 0,
+      "text": "- Og jeg og Uhret slog os paa Parti!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 0,
+      "text": "Vi gav ej tabt, vi protestered trøstig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 0,
+      "text": "mod Vindens Hyl og Stormens Raseri -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 0,
+      "text": "det var, som tog vi Sagen næsten lystig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 0,
+      "text": "- Og hvergang nu, naar i det usle Døgn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 0,
+      "text": "jeg aander tungt blandt Skyer af Egoister,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 0,
+      "text": "og Luften selv mig synes kvalm af Løgn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 0,
+      "text": "og Tvivlens Dæmon mig til Mismod frister,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 0,
+      "text": "da er det, som fra Dybet af mit Bryst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 0,
+      "text": "et frejdigt Snik og Snak jeg hører klinge",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 0,
+      "text": "- en kjæk Protest mod Tidens falske Røst -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 0,
+      "text": "og sér den skjulte Verdenspendel svinge.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

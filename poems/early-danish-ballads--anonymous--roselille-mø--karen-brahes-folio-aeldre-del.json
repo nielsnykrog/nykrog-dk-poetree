@@ -1,0 +1,611 @@
+{
+  "id": null,
+  "title": "Roselille Mø",
+  "year_created": 1583,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Karen Brahes folio, ældre del",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1583,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/KBRA76.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Buode Lille och Røsellille rød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": ":: Thett war med suig. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "thi war saa lidell, thierris muoder bortt døde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": ":: Seelleff fryder ieg meg. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Op saa waxser dy spedell klar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "thy war vdj kloster vdj otte aar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Her Peder hand suøber seg hoffuett y skeend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "hand gaar y lofftt for søster synn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 3,
+      "text": "\"Hør thu thett, Lilly, søster myn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "y afften skallt dw soffue huoss broder dynn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 4,
+      "text": "\"Tthett plier ingenn søster guod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 4,
+      "text": "att gaa y lofftt med synn broder att suoffue.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 5,
+      "text": "\"Soffuer thu icke y affttenn huosz broder dyn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 5,
+      "text": "thaa skall thett koste thitt vnge lyff.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 6,
+      "text": "\"Sttelle deg, stelle deg, broder mynn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 6,
+      "text": "thu loffuett deg Roseelyle, staldbroder mynn!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 7,
+      "text": "\"Taa skønntt deg, søster, skøtt och brratt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 7,
+      "text": "helder du skaltt døø, førind hønnsynd gaall.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 8,
+      "text": "Lillienn thager offuer seeg kaben blaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 8,
+      "text": "till Roselils lofftt saa mone hun gaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 9,
+      "text": "Lillienn klaper paa døren med skiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 9,
+      "text": "\"Thu statt op, Rosellid, och lad meg ind!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 10,
+      "text": "Op stuod Roszelild y huydenn lynn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 10,
+      "text": "saa gladdelig luod hun Lilienn ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 11,
+      "text": "\"Hør thu thett, Lilyenn, stald-broder myn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 11,
+      "text": "huad welltt thu her om natter-thyde?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 12,
+      "text": "\"Meg er faaitt enn søm att sy,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 12,
+      "text": "thre gang er meg gaaitt willing der-y.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 13,
+      "text": "\"Dw thy quer, Lylien, syg icke saa!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 13,
+      "text": "thett wor en stalt iumfru, oss lerde buode.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 14,
+      "text": "Welldtt thu her bydde, till suollenn skeenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 14,
+      "text": "saa gernne well ieg daa følge deg hiem.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 15,
+      "text": "\"Hør thu thett, Rosellild, søster myn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 15,
+      "text": "thend søm skall werre rede, førind suolenn skienn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 16,
+      "text": "Rosellyld thager offuer seg kaabenn blaa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 16,
+      "text": "\"Tha kom nu, Lylelild, lad osz gaa!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 17,
+      "text": "Tthi gyk offuer den grøne maae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 17,
+      "text": "Lilienn gred, och Rosen-lild quad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 18,
+      "text": "Lylyenn klaper Rosen-lild wed huyden kiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 18,
+      "text": "\"Wilt du nu gaa y loffttenn ind?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 19,
+      "text": "Roselild ind aff dørrenn thrend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 19,
+      "text": "her Peder staar hind op igenn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 20,
+      "text": "Rosenlild rødmer som ett blod:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 20,
+      "text": "\"Och Lyle, huor haffuer du meg forraadtt!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 21,
+      "text": "Her Peder klaper paa hønde blaa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 21,
+      "text": "\"Y komer, iunfru Rosellild, och huiler her-paa!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 22,
+      "text": "Her Peder tog Rosennlild y synn arum,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 22,
+      "text": "saa stuor da wor den iumfrus harum.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 23,
+      "text": "\"Hør thu, her Peder, thu wogtte ditt lyff!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 23,
+      "text": "ieg haffuer y eermitt en søleffbunden knyff.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 24,
+      "text": "\"Ind haffuer ieg weritt y mangen kyff:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 24,
+      "text": "ieg frøgttet ind aldrig for iumfruers knyff.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 25,
+      "text": "Roselild giorde thett for-vdenn ald møø:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 25,
+      "text": "hun slog her Peder, thett hand bløff dødt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 26,
+      "text": "Tthett giorde Rosellild, enn iumfru guod:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 26,
+      "text": "hun sluog hanom XV afflyffs-saarr.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 27,
+      "text": "Nu legger her Peder och rinder blod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 27,
+      "text": "bortt gyck Rosellild enn iumfru guod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 28,
+      "text": "Rosellild gaar vnder grønen liend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 28,
+      "text": "ther mødder hun Lylienn, stalbroder synn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 29,
+      "text": "Saa bød hun hynder buod laritt och lyn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 29,
+      "text": "\"Thett giffuer ieg theg, Roselild, broder-høstrw mynn!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 30,
+      "text": "\"Denn søøm, thu wyste meg till y natt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 30,
+      "text": "ieg haffuer den syud for dieg saa bratt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 31,
+      "text": "Beholltt du selleff buod laritt och lynn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 31,
+      "text": "du kled dynn broder, y lofftt leegger lygg!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 32,
+      "text": "Ther hun kaam till stette,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 32,
+      "text": "hyndis feste-mand der hynder møttee.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 33,
+      "text": "\"Well møtte, Rosen-lild, alerkereste myn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 33,
+      "text": "huor haffuer du weritt om natter-thide?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 34,
+      "text": "\"Ieg haffuer weritt meg vde wed aae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 34,
+      "text": "ieg plockitt dy vrtter buode huide och blaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 35,
+      "text": "Ieg plokett thuo blomster, wor gwlle och røde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 35,
+      "text": "thett thidye stander y synn aler-fieeerste grøø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 36,
+      "text": "Tthett thrydy staar y synn aller-fieerste grøde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 36,
+      "text": "her Peder saa haffuer ieg slagitt till dødde.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 37,
+      "text": "Her Olleff klaper hynder wed huiden kiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 37,
+      "text": "\"Thu sørge ike, Roselild, allerkeste mynn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 38,
+      "text": "Tthu skalltt ycke giørre buod for Peders død,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 38,
+      "text": "vden fastee thuo freddag till wand och brød.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 39,
+      "text": "Tthak haffue her Oluff, hand holdtt synn thro:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 39,
+      "text": ":: Thett war med suig. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 39,
+      "text": "med erre luod hand sitt brølup buo.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 39,
+      "text": ":: Nu fryder ieg mieg. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

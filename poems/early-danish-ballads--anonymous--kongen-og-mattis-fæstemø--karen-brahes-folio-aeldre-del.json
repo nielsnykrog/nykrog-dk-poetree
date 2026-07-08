@@ -1,0 +1,303 @@
+{
+  "id": null,
+  "title": "Kongen og Mattis' Fæstemø",
+  "year_created": 1583,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Karen Brahes folio, ældre del",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1583,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/KBRA165.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Her Mattys hand luo y lieding vnder ø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": ":: med ere och saa med prisz ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "konggenn thro-loffuett hans feste-møø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": ":: Hynd vngge her Mathys! ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Kongenn hand thaaller tiell suenne thuo:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "\"Och y skaall meg her Mathys faa!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "\"Huor skulde wy her Mattys faa?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "hand leeger for-inndenn thy laasse smaa!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 3,
+      "text": "\"Saa skaall y her Mattys faa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "y luoffuer hanom gaatt och suiger hanom saa!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 4,
+      "text": "Thy støtte paa dørrenn med glauffuind och spyd:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 4,
+      "text": "\"Statt op, her Mattys, och gack her-vd!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 5,
+      "text": "\"Thett wercker vdi mytt huoffuett saa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 5,
+      "text": "thett ieg kaand icke tieell dørrenn gaa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 6,
+      "text": "\"Est du sygg, och weelltt du dø?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 6,
+      "text": "kongenn haffuer lockitt dynn feestemøø!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 7,
+      "text": "\"Er thett nu sanddenn, y sygger meg:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 7,
+      "text": "saa gierne daa weell ieg thaalle med edder!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 8,
+      "text": "Her Matthys vd aff dørenn suo;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 8,
+      "text": "saa snartt spenntte dy hanom bolltten paa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 9,
+      "text": "Thi speentte her Maathys bolltt om byen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 9,
+      "text": "saa førrdde thy hanom tiell kongenn hiem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 10,
+      "text": "Her Mattys innd aff dørrenn threennd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 10,
+      "text": "kongenn weende seg om igenn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 11,
+      "text": "\"Hør du, her Mattys, huad ieg sigger deg:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 11,
+      "text": "huad heelder weltt du nu steeglis eller heengge?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 12,
+      "text": "Huad hellder weelltt du steeglis eller heenge vnder ø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 12,
+      "text": "helder du willtt gyffue meg dynn festemøø?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 13,
+      "text": "Thaa suaridtt her Mattys enn mandduoms-ord:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 13,
+      "text": "\"Thett er thuo weel-kuor, och ingen er guod!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 14,
+      "text": "Menn gyffuer y meg edders søster vndder ø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 14,
+      "text": "daa gyffuer ieg edder myn feeste-møø!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 15,
+      "text": "\"Her Mattis, staatt du hyd tiell meg!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 15,
+      "text": "mynn keerre søster saa gyffuer ieg thieeg!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 16,
+      "text": "Ther waar gleedde och halleff mieere ruo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 16,
+      "text": "kongens søster gaff her Mattis synn thro.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 17,
+      "text": "Saa weell for-wand her Mattys synn haarum,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 17,
+      "text": ":: med ere och saa med prisz ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 17,
+      "text": "hand lagde denn frøckenn vdi synn arum.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 17,
+      "text": ":: Hynd vnge her Mattys! ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

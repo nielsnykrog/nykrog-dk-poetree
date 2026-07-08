@@ -1,0 +1,91 @@
+{
+  "id": null,
+  "title": "HAleluia.",
+  "year_created": 1573,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "Gradval. En Almindelig Sangbog",
+    "year_published": 1573,
+    "publisher": "Niels Jespersen",
+    "printer": "Lorenz Benedicht",
+    "place": "København",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/jespersen_1573/15/3"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "HAleluia.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Loffuer Gud i Hedninger alle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "at hand vilde eder til Troen kalde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Aff sin godhed oc gunstig naade/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "haffuer hand eder frelst fra alskens vaade.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "All Jsraels folck loffuer hannem met/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "Fordi hans miskundelig Barmhiertighed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "Regnerer offuer oss saa rundelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Oc Herrens sandhed bliffuer euindelig.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

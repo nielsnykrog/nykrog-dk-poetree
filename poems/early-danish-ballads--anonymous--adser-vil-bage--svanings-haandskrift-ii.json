@@ -1,0 +1,376 @@
+{
+  "id": null,
+  "title": "Adser vil bage",
+  "year_created": [
+    1575,
+    1590
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Svanings Håndskrift II",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1590,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/SVII6.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Atzer hand skuld ride,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "bøtten tog hand paa sin bag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": ":: Lagen ved den anden side. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Vor hustro skulde til torges fare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "oc Atzer hand skuld hiemme være.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "\"Oc skalt du nu til torgis fare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "du lad din nøgle hiemme vere.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 3,
+      "text": "\"Seer du icke, din lede snog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 3,
+      "text": "nøgler henger paa vor krog.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 4,
+      "text": "Kommer ieg icke saa snart igien,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 4,
+      "text": "du maalck vor faar, gien vd vor suin.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 5,
+      "text": "\"Oc hør du det, kiere hustro min:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 5,
+      "text": "huilcke er faar, oc huilcke er suin?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 6,
+      "text": "\"Det er faar oc det, er hornen bær,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 6,
+      "text": "kiender du icke suin? din gamle nar.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 7,
+      "text": "Atzer lette meld diune oc veg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 7,
+      "text": "der fandt han vel tolff snes eg.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 8,
+      "text": "Atzer liette mellem veg oc fiel,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 8,
+      "text": "der fand hand fire skipp huede meel.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 9,
+      "text": "Hand rørd det i en kage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 9,
+      "text": "hand saatte den i offn at bage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 10,
+      "text": "Hand satte den i offuen met greb,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 10,
+      "text": "hand vandt den vd met reb.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 11,
+      "text": "Atzer tog kagen vnder sin arm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 11,
+      "text": "han gick til kiernen i den harm.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 12,
+      "text": "\"O kierne, kierne, ver mig hold,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 12,
+      "text": "ieg giffuer dig en giord aff guld.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 13,
+      "text": "\"Icke vil ieg være dig hold,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 13,
+      "text": "ieg vil icke haff giord aff guld.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 14,
+      "text": "Oc Atzer fick op en baspiud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 14,
+      "text": "støtte han kiernens bonde vd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 15,
+      "text": "\"Da skal ieg sette dig til faste",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 15,
+      "text": "bod til kol og aske.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 16,
+      "text": "Da skal ieg sette dig til fast saa stor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 16,
+      "text": "trediue dage til flesk oc koel.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 17,
+      "text": "Vor hustro kom fra torges hiem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 17,
+      "text": "saa hun i hendis miele benck.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 18,
+      "text": "Saae hun i hendis meele benck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 18,
+      "text": "femten skipp vor der hen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 19,
+      "text": "\"Atzer, I er saa danne en mand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 19,
+      "text": "fuld vel der I kand bage.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 20,
+      "text": "Hun fick op en soestang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 20,
+      "text": "hun slo hannem tuert og endis lang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 21,
+      "text": "Atzer krøb sig op i vraa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 21,
+      "text": "hand vaar saa slagen, hand kund icke gaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 22,
+      "text": "\"Kiere hustro, slaa icke mere,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 22,
+      "text": "ieg skal aldrig bage mere.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 23,
+      "text": "\"Det da skal du nyde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 23,
+      "text": "der met det gode frem biude.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 23,
+      "text": ":: Logen ved den anden side. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

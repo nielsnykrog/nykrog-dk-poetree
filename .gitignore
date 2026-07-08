@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Raw source snapshots (large; poems/ is the source of truth for parsed content)
+sources/*/raw/
+sources/dsl-reformationssalmer/raw/
+sources/early-danish-ballads/raw/
+
+# The two textnet-dsl raw directories
+sources/tekstnet-dsl/_publications/
+sources/tekstnet-dsl/_poems/
+
+# Logs that grow on every run (deletion_log.txt is kept, see below)
+*.log
+# Note: deletion_log.txt, discovery_log.txt, scrape_log.txt ARE tracked —
+# they are the audit trail of curation decisions.
+
+# One-off / temp files
+_parse_tmp_*.json
+*.tmp
+*.bak
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Local environment overrides
+.env
+.env.local

@@ -1,0 +1,65 @@
+{
+  "id": null,
+  "title": "Epilog",
+  "year_created": 1495,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Rimkrøniken",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1495,
+    "url": "https://tekstnet.dk/books/anon_rimkroeniken/120/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Her ær wdtrycth och wind laghet paa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "som kongher aff Danmark i theris tijdh",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "hwer wedh seg haffuer haffth tijl ijdh.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "M. firæhundrede halfæmtæsinnæ tywæ",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "paa fæmthæ aar, ieg wil ey lywæ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "wedh Godfrid aff Ghemen i Købmanhaffn by",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": null,
+  "title": "Imellem Hamborg og Brunsvig",
+  "year_created": [
+    1570,
+    1573
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Langebeks kvart",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1573,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/LNGK42B.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Y-mellon Hamborre och Brynnsuyg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "der er saa bre enn gade;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "y-huelken synn wenn ycke behalle kan,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "saa maa han lade henn farre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": ":: Y-huecken syn wenn ycke behalle kan, ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": ":: saa maa han lade henne farre. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

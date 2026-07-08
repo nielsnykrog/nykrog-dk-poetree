@@ -1,0 +1,101 @@
+{
+  "id": null,
+  "title": "fattigt liv",
+  "year_created": 1932,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Gustaf Munch-Petersen",
+    "country": null,
+    "wiki": "Q1364400"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Det Nøgne Menneske",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1932,
+    "url": "https://tekstnet.dk/books/munch-petersen-g_det-noegne-menneske/006/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "der er dem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "der hver nat hviler paa samme gren",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "og kun spiser af det rette fad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "der er dem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "der hver morgen synger den samme sang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "og altid til samme elskede,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "altid kun til een gud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "der er dem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "der kun følger een vej over jorden;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "de frygter kun een død",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "og de lever kun eet liv.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

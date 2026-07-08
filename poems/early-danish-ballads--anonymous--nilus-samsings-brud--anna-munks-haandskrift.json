@@ -1,0 +1,474 @@
+{
+  "id": null,
+  "title": "Nilus Samsings Brud",
+  "year_created": [
+    1590,
+    1591
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Anna Munks Håndskrift",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1591,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/MUNK39.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "En anden viise: |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 1,
+      "text": "Det vor Nielus Sammsinngh, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "hanndt redt sig vnnder øøe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "feste handth | Mettelille, greffuenns datther,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "hun | var saa venn Enn møøe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": ":: Saa raader dÿ samsønner. | ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Thett var her Niels samsinng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "hannd hende ÿ kloster gaff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "Thett var suorthe | greffue henndricksønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "will hinnde met | voldt vdthage |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 3,
+      "text": "Thett var suorthe greffue henndricksønn, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 3,
+      "text": "gick mett sine suenne ÿ Raadt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 3,
+      "text": "hure skal | vÿ metthelile greffuennsdatther,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "vdaff | kloster faa. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 4,
+      "text": "Huor skall Metthellille greffuenns datter, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 4,
+      "text": "vdaff klostergaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 4,
+      "text": "Alle dÿ Iomffruer | ÿ kloster Ere,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 4,
+      "text": "thÿ holder hennde vact opo. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 5,
+      "text": "Saa Redt dÿ dem thill kloster-Mur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 5,
+      "text": "Och lÿde de der-oppaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 5,
+      "text": "huor herlige sanngh dÿ | Nactergall,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 5,
+      "text": "der quadt dÿ Iomffruer tho |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 6,
+      "text": "Saa herlige sanngh de nactergall,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 6,
+      "text": "der quadt | de Iomffruer fem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 6,
+      "text": "Saa skiøn var metthelille greffuensdatter,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 6,
+      "text": "quadt feÿerst aff alle dem. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 7,
+      "text": "Saa redt dÿ neder mett kloster-mur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 7,
+      "text": "Ochsaa | gick de der-Inndt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 7,
+      "text": "saa thog dÿ metthelille greffuenns datter,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 7,
+      "text": "Opunnder dieris | skarlagenn-skinndt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 8,
+      "text": "Thett Melthe hunn stalthenn fru Sidzellille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 8,
+      "text": "allenne som hunn stodt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 8,
+      "text": "Spør dett | her Niels samsinng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 8,
+      "text": "dett koster eders | hierthe-blodt. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 9,
+      "text": "Och skall ieg for hennde hennge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 9,
+      "text": "och skall | ieg for hennde døø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 9,
+      "text": "aldrig skall her | Niels samsiinng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 9,
+      "text": "finde sÿnn Iomffrue møø. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 10,
+      "text": "Saa dricke dÿ dieris brøllup,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 10,
+      "text": "vell vdj | dage fem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 10,
+      "text": "Icke vilde metthelille greffuennsdatter,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 10,
+      "text": "thillsenng ÿ nogen aff dem. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 11,
+      "text": "Saa drack dÿ dieris brøllup,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 11,
+      "text": "och vell | vdi dage nÿ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 11,
+      "text": "denn Thiende dag att | quælde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 11,
+      "text": "fulde dÿ hende thill sennge mett vælde. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 12,
+      "text": "Thett melthe stalthenn Iomffru Metthelille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 12,
+      "text": "de fulde hennder offuer høffueloffts-bro | ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 12,
+      "text": "hisitt sier ieg her niels samsing,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 12,
+      "text": "baade segle och Ro, |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 13,
+      "text": "Her sider du suorthe greffue henndricksønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 13,
+      "text": "och | dricker miødt och vinn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 13,
+      "text": "Och thett er her | niels samsinng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 13,
+      "text": "hanndt soffuer hoss vnnge | brudt dÿnn. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 14,
+      "text": "Soffuer hanndt her niels samsinng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 14,
+      "text": "huos | minn vnnge brudt ÿ natt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 14,
+      "text": "dett vill Ieg | for sanndingenn siige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 14,
+      "text": "handt haffuer der-till | guodt Rett. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 15,
+      "text": "Er dett her Niels samsinng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 15,
+      "text": "der soffuer | huos wnnge brudt minn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 15,
+      "text": "dett vill ieg forsanndingenn sige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 15,
+      "text": "hunn var hanns før hunn | bleff minn. |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 15,
+      "text": "hans |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 15,
+      "text": "hans |",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

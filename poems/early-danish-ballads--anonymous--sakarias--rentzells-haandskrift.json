@@ -1,0 +1,481 @@
+{
+  "id": null,
+  "title": "Sakarias",
+  "year_created": [
+    1575,
+    1590
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Rentzells Håndskrift",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1590,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/RNZ48.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Sacharias var en mand saa viss:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "hand rede sig ath bede diur en poske-tydtt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": ":: Dy huilis under saa grønnen. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Sacharias vor sig en mandt saa bold:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "hand rede sig ath bede en poske-morgen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": ":: Dy huilis under skoffuen. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Sacharias hand kom under saa grøn en lind:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "ther fandt hand en tamer hiorth baade høffuisk och findt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 3,
+      "text": "Sacharias hand syn boffue spenthe:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "det de vor den gyldene straall, modt hierthet vor sendt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 4,
+      "text": "\"Hell, hell, Sacharias, du skiudt icke mig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 4,
+      "text": "du tencke opaa den haarde dødt, Gudt tolte for dig!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 5,
+      "text": "Icke ville Sacharias de tale tro,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 5,
+      "text": "før hand saa det gulle kors, mellom tackerne stod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 6,
+      "text": "Icke ville Sacharias sig forlide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 6,
+      "text": "for hand saa det gulle kors mellom tackerne skride.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 7,
+      "text": "Sacharias hand falldt paa sin bare kne:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 7,
+      "text": "\"Herre Gud-fader y Himerig forlade mig det!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 8,
+      "text": "\"Huad heller vilthu fatig y din ønsken verre?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 8,
+      "text": "eller du vilt den lønlig sorig paa din allerdom bere?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 9,
+      "text": "Lenge stod Sacharias och tenckte ther-paa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 9,
+      "text": "huorledis hand skulle guod and-suarre till den ville hiaart faa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 10,
+      "text": "\"Tha vill ieg heller fattige y min ynsken verre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 10,
+      "text": "ind ieg vill then lønlig sorrig paa min allerdom bere.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 11,
+      "text": "Sacharias hand sig till-bage saa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 11,
+      "text": "alt hans landt och borger y breden loffue stodt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 12,
+      "text": "\"Eia, eia, myn venne hostru, min børn saa sma!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 12,
+      "text": "dett er konn II timer, siden ieg thenom saa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 13,
+      "text": "Icke fick Sacharias meir aff det, hand otthe:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 13,
+      "text": "end hand fick sine venne hostru, syne børn saa sma.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 14,
+      "text": "Sacharias hand tager syn høstru ved sin hand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 14,
+      "text": "saa gaar hand den lange vey till keyserens land.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 15,
+      "text": "Sacharias hand kom under saa grønnen lind:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 15,
+      "text": "ther motthe hanom then keyser-søn bode faffuer och blid.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 16,
+      "text": "Sacharias hand kom till then høffuelofftz-bro:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 16,
+      "text": "ther møtthe hanom then kyeeser-søn baade faffuer och froo.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 17,
+      "text": "\"Hell, hell, Sacharias, du fattige mand!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 17,
+      "text": "huor haffuer du stollidt then venne hostru?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 18,
+      "text": "\"Hielpe mig Gud aff all myn nødt, som ieg hinde icke stial!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 18,
+      "text": "hund vor saa liden, hundt mig giffuen vor.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 19,
+      "text": "\"Huad heller viltu forlade din venne viff?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 19,
+      "text": "eller thu villt forlade dith unge liff?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 20,
+      "text": "\"Tha vill ieg heller forlade min venner viff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 20,
+      "text": "ind ieg vill forlade mit unge liff.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 21,
+      "text": "Thet var stor ynck och haluff mier nødt ath see ther-paa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 21,
+      "text": "Sacharias hand gaff sin hostru borth, then keysers søn hinde tog.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 22,
+      "text": "Och det stod saa y y aarenn 9:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 22,
+      "text": "alt vor Sacharias fisker y alle dy.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 23,
+      "text": "Then frue hund stander y hoffueloffthens sualle:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 23,
+      "text": "\"Du bedt then selige fisker op till mig kom!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 24,
+      "text": "\"Hell, hell, Sacharias, du fattige mandt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 24,
+      "text": "haffuer vy ingen aff vorre børn, ther leffuer end-nu?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 25,
+      "text": "\"Ia vy, saa mendt, haffuer vy saa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 25,
+      "text": "vy haffuer oss en datther, hun er bude faffuer och boldt.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 26,
+      "text": "Icke daa gred then frue før da:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 26,
+      "text": "ther hund saa synd ditther slide wolmell grad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 27,
+      "text": "\"Och du vorst dig saa liiden, du y din vuge laa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 27,
+      "text": "dig gick fruer och stolte iomfruer baade till och fra.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 28,
+      "text": "Sacharias tager syn høstru vedt synd hand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 28,
+      "text": "saa gaar hand den lange vey till synne egne landt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 29,
+      "text": "Nu haffuer Sacharias for-vunden de syne quide:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 29,
+      "text": "nu soffuer hand saa løstelig huoss sin hostruis side.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 30,
+      "text": "Nu haffuer Sacharias for-uunden all sin harm:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 30,
+      "text": "hand soffuer y-saa løstelig y sin høstrus arm.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 30,
+      "text": ":: Dy huilis under saa grønnen. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

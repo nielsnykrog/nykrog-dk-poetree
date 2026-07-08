@@ -1,0 +1,611 @@
+{
+  "id": null,
+  "title": "Ribold og Guldborg",
+  "year_created": 1583,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Karen Brahes folio, ældre del",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1583,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/KBRA47.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Ribold hand wor en kongen søn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "saa mangit skøn iunfru gillid hand y lønn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": ":: Der huoffuen hun legtis for dem. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "\"Gulldborre, Guldborre, throløszer y meg!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "til en hal fieer land saa førrer ieg eder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "Ieg skall førre theg til den land:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "som theg skall aldrig kome sorrig till haand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 3,
+      "text": "Der synger icke andre fogle ind høg:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 3,
+      "text": "der graaer icke andit gress ind løg.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 4,
+      "text": "Der rinder icke anditt wand y wyn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 4,
+      "text": "thro paa myn thaalle, allerkerste myn!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 5,
+      "text": "\"Huor komer ieg aff gaarde med theg?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 5,
+      "text": "ther holder saa sterke wogte paa meg.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 6,
+      "text": "Meg wogtter myn fader och min feste-mand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 6,
+      "text": "den rige Christ befaaller ieg haam.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 7,
+      "text": "Saa wen daa hade hand fuolle och spag:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 7,
+      "text": "hand fuorde den iunfrw wed sinn bag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 8,
+      "text": "Ribold hand kaam paa hieede:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 8,
+      "text": "ther møder hanom rigen grøffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 9,
+      "text": "\"Wellmøtt, wellmøtt, Ribold!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 9,
+      "text": "men stallen haffuer du den stalte iumfrw.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 10,
+      "text": "\"Ieg haffuer hinder icke staallit:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 10,
+      "text": "ieg førrede hinder y gaar fraa Kollen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 11,
+      "text": "Tthett er myn yngeste søster:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 11,
+      "text": "ieg førde hinder seleff vd aff chloster.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 12,
+      "text": "\"Tu lyffuer nu, Ribolt, en rider saa fienn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 12,
+      "text": "ieg kinder well Guldbore, søster-datter myn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 13,
+      "text": "Hun thog en guld-ring aff syn arum:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 13,
+      "text": "hun spente den om den greffuens arum.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 14,
+      "text": "\"Mynn kerr morbroder! y døller med meg:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 14,
+      "text": "thett røde guld saa giffuer ieg eder.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 15,
+      "text": "Tthend greffue red y hindis faaders gaard:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 15,
+      "text": "vd stuod hindis fader, wor suøbt i muord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 16,
+      "text": "\"Her staar du, kerre broder, er suøbt y skyend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 16,
+      "text": "borte er hand Ribbolt med datter dyn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 17,
+      "text": "Den rider hand rober offuer ald sin gard:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 17,
+      "text": "\"Wall op, myn miend, drager waben paa!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 18,
+      "text": "I setter op hiellem for-vden al falsk:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 18,
+      "text": "Ribold hand er saa haard enn halsz.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 19,
+      "text": "Guld-borre hun seg offuer axell suo:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 19,
+      "text": "\"Hesitt komer myn fader, hand well osz slaa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 20,
+      "text": "Ribold klaper hinder wed huiden kiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 20,
+      "text": "\"Thu thi quer, Guldbore, aller-kereste myn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 21,
+      "text": "Allt om thu sier meg bløde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 21,
+      "text": "tha nøffuen meg icke til døde!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 22,
+      "text": "Guld-bore hun war ham aldrig falsk:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 22,
+      "text": "hun spentte hanom brynne om huiden halsz.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 23,
+      "text": "Saa red hand y thend første skaarre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 23,
+      "text": "hand wuo hindis morbrøder och hindis fader.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 24,
+      "text": "Saa huog hand y thend andenn flock",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 24,
+      "text": "hindis sex brødere med gulle lock.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 25,
+      "text": "\"Hør y thett, Ribold, myn hiarttens-kerre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 25,
+      "text": "y lader myn yngeste broder werre!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 26,
+      "text": "Hand maa myn sorigfuld moder thi thiding hiem-førre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 26,
+      "text": "thett wor fuld ilde, hun skuld datter føde!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 27,
+      "text": "Rett som hun haffde thett ord vdsagtt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 27,
+      "text": "tha feeck hand Ribold syn banne-saarr.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 28,
+      "text": "Ribolt hand stack sin suerd y skieed:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 28,
+      "text": "\"Du kom, Guld-bore, om du vilt med meg ride!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 29,
+      "text": "Dy red igiemell den rosens-lund:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 29,
+      "text": "ther kaam aldrig et ord aff Riboltzs mund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 30,
+      "text": "\"Hør y thett, Ribbolt, myn edlige herre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 30,
+      "text": "huj er i ecke saa glad, som y wor førre?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 31,
+      "text": "\"Gud nade deg, Guld-borre! saa lidit thu kandt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 31,
+      "text": "theg er iet, meg er sa mangtt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 32,
+      "text": "Tthett første er thett ieg er thrett och muod:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 32,
+      "text": "ett andit er thit meg rinder blod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 33,
+      "text": "Inddog giør thett meg allerwerst:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 33,
+      "text": "thin broders snerd haffuer mit hiarte giest.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 34,
+      "text": "Tthett tuinger meg ind och vd-aff stuor nød:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 34,
+      "text": "ieg feste Guld-borre saa wen en møø.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 35,
+      "text": "Tther thi kaam till borege-lied:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 35,
+      "text": "vd stuod hans broder, hand huiler seg wed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 36,
+      "text": "\"Minn kerr moder, y holder myn hest!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 36,
+      "text": "och min kerre broder, thu hiente meg prest!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 37,
+      "text": "Myn yngeste broder, stattt hid till meg!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 37,
+      "text": "dene wene møø saa giffuer ieg dieg.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 38,
+      "text": "Hans søster di stuod y hyffueloffts-sualle:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 38,
+      "text": "Ribold hand sualt y den same thalle.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 39,
+      "text": "Guld-borre thog knyff aff erme rød:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 39,
+      "text": "hun slog y sitt hiartte, thett wor stuor nød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 40,
+      "text": "Tthett giorde Guldborre vd-aff stuor harum:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 40,
+      "text": "hun faldt selleff død y Ribolts arum.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 40,
+      "text": ":: Der huoffuen hun legtis for denn. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

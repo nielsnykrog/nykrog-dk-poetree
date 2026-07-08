@@ -1,0 +1,744 @@
+{
+  "id": null,
+  "title": "Ridderen i Fugleham",
+  "year_created": 1583,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Karen Brahes folio, ældre del",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1583,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/KBRA58.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Ther buor en frwe for sønnden ryss,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "hindes datter biudis belle med ere och prisz.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": ":: Och der kund ingenn kinde meg. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Hinder bad til en saa biurdig en mand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "thett wor kongenns sønn aff Engeland.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "Saa sende hand hynder thett første,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "thett worr en guld-bundenn børste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 3,
+      "text": "Saa sende hand hinder thett anditt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 3,
+      "text": "thett wor en guld-bonden kande.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 4,
+      "text": "Tthett thride thett wor guldrinnge ny,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 4,
+      "text": "elskuoffuen, guodwilig stuod skreffuen y dy.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 5,
+      "text": "Hand sende hinder dy nagettergaall,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 5,
+      "text": "dy kunde saa herllig for fruer thaalle.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 6,
+      "text": "Hand sendee hinder ett anditt y lønn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 6,
+      "text": "skaarlagenns-kleder, och thi war grønn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 7,
+      "text": "Hand sende hynder enn mantell blaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 7,
+      "text": "thett røde guld y sømen luo.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 8,
+      "text": "Denn rider wor saa dydefuld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 8,
+      "text": "saa sende hand hinder en kron aff guld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 9,
+      "text": "Hand sende hinder en hengendis karum,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 9,
+      "text": "der-for bar mange stolt iumfru harrum.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 10,
+      "text": "Hand sende hinder dy ganger graa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 10,
+      "text": "dy kunde saa wel for karemen gaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 11,
+      "text": "Dett meltte hyndis moder, saa høffsk en frw:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 11,
+      "text": "\"Huad mone den rider kund aff dieg skuoff?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 12,
+      "text": "Huad mone den rider wilde aff deg haffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 12,
+      "text": "men hand sender deg saa rige gaffue?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 13,
+      "text": "\"Denn herre hand well icke anditt haffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 13,
+      "text": "ind hieder och erre for alle synn gaffue.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 14,
+      "text": "Hyndis moder sende hanom ett anditt igenn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 14,
+      "text": "en snecke, waar aff thett huide hualsbyenn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 15,
+      "text": "\"I beder denn herre nu buode segle och ruo:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 15,
+      "text": "rett aldrig faar hand myn datters thro.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 16,
+      "text": "I beder denn herre nu buod seggle och faare:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 16,
+      "text": "rett aldrig faar hand denne iumfrues thaalle.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 17,
+      "text": "Hiem kaam dy kongens mend, dy sagde saa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 17,
+      "text": "\"Rett aldrig maa y den iumfru faa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 18,
+      "text": "Hyndis moder bedder eder buod segle och ruo:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 18,
+      "text": "rett aldrig faar y den iumfrues thro.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 19,
+      "text": "Denn herre hand wredis daa wed thi ord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 19,
+      "text": "hand sluo guldthaffuell neder att thett buord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 20,
+      "text": "Denn herre hand tager dy guldringe ny,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 20,
+      "text": "hand lader seg smeede en fluogtt aff dy.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 21,
+      "text": "Denn herre saatt seeg y fieder-haam,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 21,
+      "text": "saa fluo hand offuer till iumfruens land.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 22,
+      "text": "Hand fløu offuer saa brett en hauff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 22,
+      "text": "ther wor natt och aldrig daff.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 23,
+      "text": "Hand flyø till saa bred en stienn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 23,
+      "text": "som aldrig suolen offuer skienn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 24,
+      "text": "Hand satte seg paa iumfruens burre-brand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 24,
+      "text": "saa fuorlig och der hand sang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 25,
+      "text": "Vd kaam iumfruen saa huid som lynn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 25,
+      "text": "\"Chrest giffue, fuollenn, du warst mynn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 26,
+      "text": "Chrest giffue, fulden, du warst myn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 26,
+      "text": "du skulde icke drecke for-vden wynn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 27,
+      "text": "Du skalt icke dreke for-vden wynn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 27,
+      "text": "och icke souffue vden armenn mynn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 28,
+      "text": "Vd gick iumfruenn saa smaall som wand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 28,
+      "text": "hun locker at follen med huiden haandt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 29,
+      "text": "Hun locker att fuollenn med huiden hand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 29,
+      "text": "\"Chrest gyffue, att fulden, att du warst tam!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 30,
+      "text": "Chrest giffue, fuollenn, du warst tam:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 30,
+      "text": "daa skulde ieg sende theg till Engeland.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 31,
+      "text": "Ieg wilde deg sende till Engeland ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 31,
+      "text": "ieg wilde deg giffue aller-kerste mynn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 32,
+      "text": "Hun satte seg paa iorden neder:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 32,
+      "text": "fuolen flyø y iumfruens skød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 33,
+      "text": "Hun tog hanom op, hun bar hanom ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 33,
+      "text": "hun brede vnder hanom thett hermmelinn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 34,
+      "text": "Tther fuollenn hand ind y buren kaam,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 34,
+      "text": "daa kaaste hand aff synn fieder-haam.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 35,
+      "text": "Hand kaste aff sieg fieder-haam:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 35,
+      "text": "\"Mynn iumfru, nu er fuollen thaam.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 36,
+      "text": "Saa snarlig hun den herre kiende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 36,
+      "text": "thend iumfru blegner y huiden kiend.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 37,
+      "text": "\"Ieg beder eder for wor haaris nauffuen:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 37,
+      "text": "y giør meg huerkenn last eller skaam!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 38,
+      "text": "\"Ieg well aldrig giørre eder anten last eller skaam,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 38,
+      "text": "om y well følge meg till Engeland.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 39,
+      "text": "Denn iumfrw recker hanom huiden haand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 39,
+      "text": "\"Ieg følger eder giernne till Engeland.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 40,
+      "text": "Hand saatte hynder y synn fieder-haam:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 40,
+      "text": "saa fwldis thi buode till Engeland.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 41,
+      "text": "Hindes moder hun den tidenn fruo:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 41,
+      "text": "saa saare hun gred, hind hender hun sluo.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 42,
+      "text": "Denn frw hun gred, synn hiender hun wrie:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 42,
+      "text": "hun fieck syn datter allder merre att sye.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 43,
+      "text": "Thend iumfru hun kaam till Engeland hiem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 43,
+      "text": "buod fruer och mørr gaar hynder igen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 44,
+      "text": "Denn herre hand holt saa well syn erre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 44,
+      "text": "saa hiederlig luod hand sytt brølup giørre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 45,
+      "text": "Hand tog den iumfru vdy syn arum,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 45,
+      "text": "hand gaff hind guldkrone och droninge-naffuen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 46,
+      "text": "Denn herre sende hyndis moder tilbage igenn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 46,
+      "text": "snecken, som war aff thett huide walsbienn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 47,
+      "text": "\"Beder hinder nu seleff buod segle och ruo:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 47,
+      "text": ":: Hun er en huid lillie. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 47,
+      "text": "denn iumfru hun haffuer meg giffuet syn thro.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 47,
+      "text": ":: Thuo fuore fedder aff guld, søleff war ale dy lencke. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 48,
+      "text": "I beder hynder nu seleff buod segle och faare:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 48,
+      "text": ":: Hun er en huid lili. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 48,
+      "text": "huer dag wilde ieg med myn kerrest ween thaalle.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 48,
+      "text": ":: Thuo fuore fiederr aff guld, søleff war ale dy lencke. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

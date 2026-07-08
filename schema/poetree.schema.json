@@ -1,0 +1,188 @@
+{
+  "id": {
+    "_type": "str",
+    "_desc": "id of the poem (points to a source file)"
+  },
+  "title": {
+    "_type": "str|None",
+    "_desc": "title of the poem"
+  },
+  "year_created": {
+    "_type": "int|list|None",
+    "_desc": "year when poem created (may precede date of publication); cases when this is given as a time span in source data (e.g. 1800-1802) are stored as a list [1800,1802];"
+  },
+  "neighbors": {
+    "_type": "list",
+    "_desc": "20 most similar poems (Fuzz partial ratio) by the same author - each one is encoded in a list as [id, similarity] in descending order"
+  },
+  "duplicate": {
+    "_type": "str|False",
+    "_desc": "whether poem is considered to be a duplicate of other poem, if so id of the primary variant is given here (this is not a straightforward application of neighbors, but involves a set of rules and a bunch of manually decided cases)"
+  },
+  "locations": [
+    {
+      "_self": {
+        "_type": "list of dicts|False",
+        "_desc": "geolocations detected in the poem,  False if poem was not subject to geolocation recognition"
+      },
+      "wiki": {
+        "_type": "str",
+        "_desc": "location wikidata identifier, e.g. (Prague = Q1085)"
+      },
+      "loc_start": {
+        "_type": "list",
+        "_desc": "first word of geolocation entity encoded as [line_i, word_i], bothe indices are zero-based"
+      },
+      "loc_end": {
+        "_type": "list",
+        "_desc": "last word of geolocation entity encoded as [line_i, word_i], bothe indices are zero-based"
+      }
+    }
+  ],
+  "author": {
+    "_self": {
+      "_type": "dict|list",
+      "_desc": "metadata on poem's author; when poem has multiple authors this is a list holding multiple dicts"
+    },
+    "name": {
+      "_type": "str",
+      "_desc": "name of the author as appears in the source (may be a pen name); if author is unknown, it is stored here as [anonymous]"
+    },
+    "viaf": {
+      "_type": "str|None",
+      "_desc": "VIAF id"
+    },
+    "wiki": {
+      "_type": "str|None",
+      "_desc": "wikidata id"
+    },
+    "country": {
+      "_type": "str|None",
+      "_desc": "country where author from (iso 639-1), None if unknown or of no importance for the corpus"
+    },
+    "born": {
+      "_type": "int|None",
+      "_desc": "year when author born"
+    },
+    "died": {
+      "_type": "int|None",
+      "_desc": "year when author died"
+    }
+  },
+  "source": {
+    "_self": {
+      "_type": "dict",
+      "_desc": "metadata on poem's source (book)"
+    },
+    "id": {
+      "_type": "str|None",
+      "_desc": "id of the book"
+    },
+    "title": {
+      "_type": "str|None",
+      "_desc": "book title"
+    },
+    "year_published": {
+      "_type": "int|None",
+      "_desc": "year when book published"
+    },
+    "publisher": {
+      "_type": "str|None",
+      "_desc": "name of the publisher"
+    },
+    "place": {
+      "_type": "str|None",
+      "_desc": "place where published (city)"
+    },
+    "corpus": {
+      "_type": "str",
+      "_desc": "name of the corpus from which the data come from (e.g. PoeTree.de comprise metricalizer and dlk [Deutsches Lyrik Korpus])"
+    }
+  },
+  "body": [
+    {
+      "_self": {
+        "_type": "list of dicts",
+        "_desc": "each dict is a line of the poem and holds it text and annotation"
+      },
+      "id": {
+        "_type": "int",
+        "_desc": "index of the line; zero-based indexing, increment through the entire poem (does not restart in new stanza)"
+      },
+      "stanza_id": {
+        "_type": "int",
+        "_desc": "index of stanza; zero-based indexing"
+      },
+      "text": {
+        "_type": "str",
+        "_desc": "text of the line"
+      },
+      "part": {
+        "_type": "str|False",
+        "_desc": "if verse-line is divided into multiple text-lines, this gives whether this is initial part (value=\"I\"), medial part (value=\"M\"), or final part (value=\"F\"); False if this is a non-divided line"
+      },
+      "words": [
+        {
+          "_self": {
+            "_type": "list of dicts",
+            "_desc": "annotation of particular word in <a href='https://universaldependencies.org/format.html' target='_blank'>CoNLL-U format</a>"
+          },
+          "id": {
+            "_type": "int",
+            "_desc": "word index, integer starting at 1 for each new sentence"
+          },
+          "form": {
+            "_type": "str",
+            "_desc": "word form or punctuation symbol"
+          },
+          "lemma": {
+            "_type": "str",
+            "_desc": "lemma or stem of word form"
+          },
+          "upos": {
+            "_type": "str",
+            "_desc": "universal part-of-speech tag"
+          },
+          "xpos": {
+            "_type": "str",
+            "_desc": "language-specific part-of-speech tag; underscore if not available"
+          },
+          "feats": {
+            "_type": "str",
+            "_desc": "list of morphological features from the universal feature inventory or from a defined language-specific extension; underscore if not available"
+          },
+          "head": {
+            "_type": "int",
+            "_desc": "head of the current word, which is either a value of ID or zero (0)"
+          },
+          "deprel": {
+            "_type": "str",
+            "_desc": "universal dependency relation to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one"
+          },
+          "deps": {
+            "_type": "str",
+            "_desc": "enhanced dependency graph in the form of a list of head-deprel pairs"
+          },
+          "sentence": {
+            "_type": "int",
+            "_desc": "sentence index; integer starting at 1"
+          },
+          "multiword": {
+            "_self": {
+              "_type": "dict",
+              "_desc": "This key is optional! Appears only if given word is part of a multiword token"
+            },
+            "form": {
+              "_type": "str",
+              "_desc": "form of the multiword"
+            },
+            "id": {
+              "_type": "int",
+              "_desc": "multiword index, integer starting at 1 for each new sentence; e.g. \"vámonos\" produce two words \"vámos\" & \"nos\" - they both have a unique id and are assigned to multiword with form \"vámonos\" and a single id"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

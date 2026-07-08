@@ -1,0 +1,877 @@
+{
+  "id": null,
+  "title": "Karl Høvding",
+  "year_created": 1583,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Karen Brahes folio, ældre del",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1583,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/KBRA118.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Her Mognys red sig vnder ø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": ":: myn hiarttelig rosen och myn kierre ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "hand feste stalltt Ellind, saa wen en møø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": ":: Thend stund meg wynder lyffuett. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "\"Hør thu, her Thuord, kierre seelle myn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "gyff mig stalltt Ellind, kerre datter dyn!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Her Tuord hand war en mand saa brad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "hand gaff bortt synn datter den saame dag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 3,
+      "text": "Her Mognes haffuer denn iumfru fest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "hun vnder seleff Kaarll Høffdynng y hiartet best.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 4,
+      "text": "Kaarll Høffdynng sedder offuer syn brede buord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 4,
+      "text": "hand thaaller saa mangett gaamells-ord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 5,
+      "text": "\"Ieg well ryde meg vnnder øø",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 5,
+      "text": "och feste Ellind Thuords-daatter, den wenne møø.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 6,
+      "text": "Thett suaridtt den suend, som hanom stuod nest:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 6,
+      "text": "\"Her Mognus hand haffuer den iumfru fest.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 7,
+      "text": "Thett melltte Kaarll Høffdyng, saa thuog hand opaa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 7,
+      "text": "\"Ieg well hynder selleff buod beede och faa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 8,
+      "text": "Der thør ieg sette wied buode borig och fest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 8,
+      "text": "thett hun vnder meg y hierttet aller-best!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 9,
+      "text": "Dy thyell stranden vdbaare",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 9,
+      "text": "Kaarll Høffdyng hans acker och aaarer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 10,
+      "text": "Thy wand op seggell aff sylcke rød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 10,
+      "text": "saa seglett thi fraa Rauwenssøø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 11,
+      "text": "Brudenn hun stander for kiercke-dør,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 11,
+      "text": "der bleff hun seegell y sundenn waar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 12,
+      "text": "\"Ieg sier thi seggell, thy er saa skønne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 12,
+      "text": "ieg syde denom sieleff med myn fienger y lønn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 13,
+      "text": "Ieg sier sniecke paa wanditt skryde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 13,
+      "text": "ieg wynther, Kaall Høffding hand er der-paa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 14,
+      "text": "Hør thu, Therkeell, kierre broder myn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 14,
+      "text": "du rid tiell strand for søster dynn!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 15,
+      "text": "Kaall Høffdynng hand styrer syn skib for land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 15,
+      "text": "thend suend hand rider syn ganger paa sand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 16,
+      "text": "\"Well møtt, Therckell, kerre selle mynn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 16,
+      "text": "huor lider stalltt Ellind, søster dynn?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 17,
+      "text": "\"Thett er y-dag hyndis brøllup-dag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 17,
+      "text": "du kum till gaardenn, du giør deg glad!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 18,
+      "text": "\"Hør thu thett, Therkell, kier seelle myn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 18,
+      "text": "welltt du skyfftte med meg dynn løffgrønn skieend?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 19,
+      "text": "Velltt du y-dag skyfftte kleder med meg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 19,
+      "text": "thett røde guld saa gyffuer ieg deg.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 20,
+      "text": "Thi skyfftte saubell, och thi skyfftte muord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 20,
+      "text": "thy kunde icke skyfftte dieris fuoffre haard.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 21,
+      "text": "Saa skyffte dy dieris skaarlagenn-skiend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 21,
+      "text": "thy kunde icke skyfftte dieris rossens-kiend.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 22,
+      "text": "Brudenn kaam fraa kiercke hiem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 22,
+      "text": "Karll Høffding gaar hynd vd igenn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 23,
+      "text": "Alle dy, denn rider suo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 23,
+      "text": "thi mintte, att thett wor brudens broder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 24,
+      "text": "Hand fulde brudenn y saallenn ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 24,
+      "text": "och hinder rand thaar paa huiden kiennd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 25,
+      "text": "Saa liestellig hand tiell hind suo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 25,
+      "text": "saa giørlig hun hanom kieende daa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 26,
+      "text": "Thy saatte brudenn paa brude-benck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 26,
+      "text": "selliff gick Karrll Høffding, hand bar hinder skienck.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 27,
+      "text": "Brudenn hun taaller tiell thieneste-møø:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 27,
+      "text": "\"Kinder du icke Kaarll Høffding aff Rauffuensyø?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 28,
+      "text": "Thett suarittdt den møø med tuogt och synde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 28,
+      "text": "\"Ieg kynder hannom paa hans rosenns-kiend.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 29,
+      "text": "Thu skalltt myn buod henn till hannom berre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 29,
+      "text": "du bied hanom wogtte syn lyff och erre!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 30,
+      "text": "Thend tienest-møø hun tiell hanom thrad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 30,
+      "text": "Kaarll Høffding hand stuod icke langt der-fraa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 31,
+      "text": "\"Denn vngee brud sørger for eder saa saare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 31,
+      "text": "hun frøgtter, eders lyff staar høgtt tiell faare.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 32,
+      "text": "\"I syger myn kierest, hun berr ingen faare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 32,
+      "text": "y sygger, her skaall slett inthett skaade.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 33,
+      "text": "Syldig om afftten, røg faldt paa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 33,
+      "text": "den vnge brud løste att suoffue gaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 34,
+      "text": "Thi fulde brudenn tiell brude-huss,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 34,
+      "text": "Kaall Høffding hand bar dy brude-blass.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 35,
+      "text": "Thett melltte droningenn y brudehusz:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 35,
+      "text": "\"Huem er den suend, der holder dy blass?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 36,
+      "text": "Droningen smyller vnder skaarlagen-skiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 36,
+      "text": "\"Er thett icke Kaall Høffding aff Rauffuensyø?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 37,
+      "text": "Thi saatte brudenn y brude-seng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 37,
+      "text": "Kaall Høffding hand dualde icke møgitt lennge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 38,
+      "text": "Kaall Høffdinng hand y denn brude-seng sprang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 38,
+      "text": "hand slocker vd bluoss med huiden haand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 39,
+      "text": "Thett melltte droningen, hun waar saa fuss:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 39,
+      "text": "\"Huem er her nyding y brude-huss?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 40,
+      "text": "Huem er her nyding y brude-huss,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 40,
+      "text": "och huem sluocker vd thi brude-blass?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 41,
+      "text": "\"Ieg er icke nydyng, ieg wylde wynde en mø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 41,
+      "text": "thett er mig Kaall Høffding aff Rauffen-syø!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 42,
+      "text": "Thett melltte droningenn, gyck vd aff brudehuss-dør:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 42,
+      "text": "\"Huem haffuer siett sliggitt vnder førr?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 43,
+      "text": "Kaall Høffdynng hand luogtte den brudehuss-dør bratt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 43,
+      "text": "hand bød thi fruer saa mange guod-natt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 44,
+      "text": "Saa bratt kaam buod for her Mognes ind:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 44,
+      "text": "\"Kaall Høffdyng hand suoffuer huoss vnge brud dynn!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 45,
+      "text": "Her Mognes sprang offuer breden buord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 45,
+      "text": "thett brune miød paa guldit stuod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 46,
+      "text": "Thi støtte paa dørrenn med glauffuend och spiud:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 46,
+      "text": "\"Statt op, Kaall Høffdyng, du gack her-vd!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 47,
+      "text": "Thend vnge brud hun paa giolditt sprang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 47,
+      "text": "alltt sytt røde guld bød hun for haam.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 48,
+      "text": "Kaarll Høffding hand thuog hynder y synn arum:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 48,
+      "text": "\"Mynn kierist, y ber slett ingen harum!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 49,
+      "text": "Thett melltte Kaall Høffding aff Rauffuen-syø:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 49,
+      "text": "\"Her Mognes, du wyender rett aldrig den mø!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 50,
+      "text": "Thu skalltt aldrig wynde den weene møø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 50,
+      "text": "men buode well wy nu for hynd dø!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 51,
+      "text": "Her Mognes thengtte thaa weed seg:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 51,
+      "text": "\"Hun haffuer Kaall Høffding møgitt kierer ind mig!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 52,
+      "text": "Thett melltte Kaall Høffdyng, hand suaritt med ere:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 52,
+      "text": "\"Ieg well deg gyffue myn søster saa kierr.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 53,
+      "text": "Ieg well deg gyffue myn søster saa kieer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 53,
+      "text": "seleff well ieg deg for broder were.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 54,
+      "text": "Ieg gyffuer deg myn søster, saa wen en mø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 54,
+      "text": "och haleff-dielen vdi Rauffuensiø.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 55,
+      "text": "\"Kaall Høffdinng, Kaall Høffding, du holt dyn ord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 55,
+      "text": "daa gyffuer ieg deg myn vnge brud!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 56,
+      "text": "Nu well ieg rade huer mand med erre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 56,
+      "text": "luoffue seg aldrig denn møø, en anden suend haffuer kieer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 57,
+      "text": "Ther war stuor glede och halleff merre gamell:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 57,
+      "text": "saa giorde dy begis dieris brølup till-samell.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 58,
+      "text": "Sttalt Ellinnd hun er buod glad och fruo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 58,
+      "text": ":: myn hiarttelig rosen och myn kierre ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 58,
+      "text": "hun løstett med Kaall Høffding att biuge och buo.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 58,
+      "text": ":: Men meg wynder lyffuett. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

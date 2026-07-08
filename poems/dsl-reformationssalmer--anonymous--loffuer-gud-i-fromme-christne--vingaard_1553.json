@@ -1,0 +1,756 @@
+{
+  "id": null,
+  "title": "LOffuer Gud i fromme Christne/",
+  "year_created": 1553,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "En ny Psalmebog",
+    "year_published": 1553,
+    "publisher": "Hans Vingaard",
+    "printer": "Hans Vingaard",
+    "place": "København",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/vingaard_1553/2/53"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "LOffuer Gud i fromme Christne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "quæder och verer glade/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Met Konning Dauid Psalmiste/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "priser Gud i alle stad/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Ath Gudz ord monne nu klinge",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "saa viit offuer alle land/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Der met wi Christum finde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "vor eniste Frelsermand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "⁕ Gud haffuer nu aff sin naade/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "opuect en Christen mand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 1,
+      "text": "Gudz ord monne han fremdrage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 1,
+      "text": "Der met beuiser han/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 1,
+      "text": "ath wi som kallis Christne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 1,
+      "text": "haffue lenge farit vilde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "til alt gaat verit vissne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "Det vaar vore Lærefæders skyld",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 2,
+      "text": "⁕ Ræt Vey til Hiemmerige/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 2,
+      "text": "er Gudz ord wden tuil/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 2,
+      "text": "som Christus selff siger/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 2,
+      "text": "huo hannem følger far ey vild/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 2,
+      "text": "Men wi haffue det foractit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 2,
+      "text": "ingen Tro sette wi der paa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 2,
+      "text": "thi haffuer oss Gud bortkastid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 2,
+      "text": "och lod oss i mørcke gaa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 3,
+      "text": "⁕ Alt det som wi monne gøre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 3,
+      "text": "vor ingen mand nytteligt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 3,
+      "text": "thi Dieffuelen monne oss føre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 3,
+      "text": "ræt mod Gudz ord altid/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 3,
+      "text": "met falske Jertegn oc drømme/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 3,
+      "text": "sette han sin Snare for oss/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 3,
+      "text": "At wi skulde Gudz Ord glæmme/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 3,
+      "text": "Oc saa met hannem forgaa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 4,
+      "text": "⁕ Han haffuer oc ladit scriffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 4,
+      "text": "mod Gudz ord lærdom ny/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 4,
+      "text": "Der met han monne forgiffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 4,
+      "text": "alle de som Gudz ord sky/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 4,
+      "text": "Oc sette deris haab til andet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 4,
+      "text": "end Christi pine oc død/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 4,
+      "text": "De ere aff Gud forbandit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 4,
+      "text": "Oc kommer til glød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 5,
+      "text": "⁕ Der paa skal man dem mercke/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 5,
+      "text": "som Dieffuelsens lerdom følge/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 5,
+      "text": "Ath de wille altid gerne",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 5,
+      "text": "haffue deris egen vilge/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 5,
+      "text": "och følge deris egne sinde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 5,
+      "text": "Oc Menniskens falske lærdom/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 5,
+      "text": "Gudz ord ville de ey nemme/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 5,
+      "text": "De ere dem beske oc huasse",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 6,
+      "text": "⁕ De holde mere aff deris vane/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 6,
+      "text": "oc gamle forfæders dict/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 6,
+      "text": "End aff Gudz ord det sande/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 6,
+      "text": "oc Gud Faders hellige scrifft/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 6,
+      "text": "Som aff euig tid haffue verit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 6,
+      "text": "dog sige de at det er nyt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 6,
+      "text": "Gudz ord haffue de forladit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 6,
+      "text": "Oc dieffuelens lærdom til dem byt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 7,
+      "text": "⁕ De klæde stocke oc stene/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 7,
+      "text": "oc holde besynderlige dage/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 7,
+      "text": "Der met ville de Gud tiæne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 7,
+      "text": "och derfaare Hiemmerige haffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 7,
+      "text": "De fattige lade de fryse/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 7,
+      "text": "och lide hunger och nød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 7,
+      "text": "Gud bød wi skulle dem spise/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 7,
+      "text": "hans bud wi inted skøde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 8,
+      "text": "⁕ Er det icke en stor blindhed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 8,
+      "text": "ath de ville Gud ey Tro/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 8,
+      "text": "Som er den euige sandhed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 8,
+      "text": "oc vil giffue euig ro/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 8,
+      "text": "Alle dem hans lærdom følge/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 8,
+      "text": "det haffuer Christus fortient/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 8,
+      "text": "alt paa Kaarssens Galye/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 8,
+      "text": "der til vor han vdsend",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 9,
+      "text": "⁕ Gud Fader haffuer sin Søn skickit",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 9,
+      "text": "til alles vor salighed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 9,
+      "text": "Han haffuer oss sin scrifft giffuit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 9,
+      "text": "Hun er fuldkommelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 9,
+      "text": "Hun kan dig all sandhed lære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 9,
+      "text": "alt det dig er nytteligt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 9,
+      "text": "Vi bihøffue ey Mestere flere/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 9,
+      "text": "Christus giffuer Hiemmerige",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 10,
+      "text": "⁕ Thi lade wi dem nu fare/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 10,
+      "text": "som tro paa sin egen krafft/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 10,
+      "text": "Vi ville hoss Gudz ord vere/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 10,
+      "text": "tro huad Christus haffuer sagt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 10,
+      "text": "J hannem all sandhed findis/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 10,
+      "text": "all naade oc all miskund/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 10,
+      "text": "De skulle met Dieffuelen tuingis/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 10,
+      "text": "som hannem Tro ingelund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 11,
+      "text": "⁕ Seduane/ kan dem ey hielpe/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 11,
+      "text": "naar Dommen holdis skal/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 11,
+      "text": "Oc ey deris gamle forfædre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 11,
+      "text": "Christus bliffuer offuer dem alle",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 11,
+      "text": "Hans Ord skulle da fremgange/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 11,
+      "text": "Oc alle skulle Hiemmerig faa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 11,
+      "text": "som hannem haffue gangit til haand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 11,
+      "text": "oc effter hans lærdom gaa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 12,
+      "text": "⁕ Priiss vere Gud euindelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 12,
+      "text": "som oss haffuer sine ord sent/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 12,
+      "text": "met dem wi kunde bliffue salige",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 12,
+      "text": "oc komme fra Dieffuelsens tant/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 12,
+      "text": "De lære at Tro Gud all ene",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 12,
+      "text": "altid for vden Galle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 12,
+      "text": "Oc vor ieffn Christen at tiene/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 12,
+      "text": "det vnde oss Christus alle",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

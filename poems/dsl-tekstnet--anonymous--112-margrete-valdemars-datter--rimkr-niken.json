@@ -1,0 +1,513 @@
+{
+  "id": null,
+  "title": "112. Margrete, Valdemars datter",
+  "year_created": 1495,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Rimkrøniken",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1495,
+    "url": "https://tekstnet.dk/books/anon_rimkroeniken/115/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Iegh bedher ther om allæ gode men",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Och roddher edher alle ihwer oc en:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "I drawe thet wel tijl mynne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Doch kønnet thet ær them skrobeligt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "som theris natwr tijl syer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "som macth paa liggher dyr.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Ieg tacker myn skaber i hemmerig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "for allæ welgherningher oc nade",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "ath han gaff meg her løcken slig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "Ieg wor ey wthen paa xi aar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 3,
+      "text": "ieg maa thet syæ meth lighe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 3,
+      "text": "tha mith brøllop i Københaffn waar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 3,
+      "text": "meth konning Haghen aff Norgis righe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 4,
+      "text": "och Norge saa meth hannum erffde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 4,
+      "text": "Saa fick ieg Danmarks rigæ skøn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 4,
+      "text": "tha Woldemar, myn fadher, sterffde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 5,
+      "text": "Ieg tacker the ædelle danskæ men",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 5,
+      "text": "som ieg hade wæret en man elder swen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 5,
+      "text": "som best regere kunne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 6,
+      "text": "Konning Albreth i Swerige, tha han thet fraa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 6,
+      "text": "ath Gud gaff meg then gaffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 6,
+      "text": "han willæ them fraa meg haffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 7,
+      "text": "Han kallede meg konning brogeløss,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 7,
+      "text": "han meg saa saare spede.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 7,
+      "text": "Han høthe och trwæde oc saare fnøss,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 8,
+      "text": "Han iætte thet stadelig oc soor ther aa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 8,
+      "text": "Han skullæ ey gaa meth hette",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 8,
+      "text": "før han finge wundet meg Danmark fraa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 8,
+      "text": "och Norgis rigæ meth slætte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 9,
+      "text": "ath han willæ meth meg stride.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 9,
+      "text": "Thi sende ieg mod hannum Danmarks macth,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 9,
+      "text": "the torde wel stande oc bide.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 10,
+      "text": "Ther grebe the hannum wthi thet slaw,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 10,
+      "text": "Thet skedhæ en sancti Mathie daw",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 10,
+      "text": "the Swerige tijl myn hand wunde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 11,
+      "text": "M. halftredie hundrede oc lxxx aar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 11,
+      "text": "och ther tiil aar wel fyre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 11,
+      "text": "thet wollet hans fig oc gyre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 12,
+      "text": "Saa lod ieg tha skæren en hette ny",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 12,
+      "text": "aff wadmel wel fæmthen allne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 12,
+      "text": "men strwden ther kom nytten wdhy",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 13,
+      "text": "Then snor som leggis aff strenge tree,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 13,
+      "text": "hwn brøsther fuld neppeligæ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 13,
+      "text": "thet syer wijsman for wthen spee,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 13,
+      "text": "om hwn leggis lemppeligæ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 14,
+      "text": "tha ieg wand Swerigis krwne",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 14,
+      "text": "och erffde Norgæ tijl Danmark",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 14,
+      "text": "ath the skullæ staa i lwne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 15,
+      "text": "Intheth wold elder wærdsens macth",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 15,
+      "text": "eemedhen the bliffue wedh samme pacth",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 15,
+      "text": "som ieg them sammen lade.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 15,
+      "text": "Thi raadher ieg alle the gode men",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 15,
+      "text": "som fore the rigæ skullæ sware,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 15,
+      "text": "I lade them saa sammen ware.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 16,
+      "text": "Lydher paa inghen wuenners rad",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 16,
+      "text": "som edher wil anneth rade",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 16,
+      "text": "forthi thet kommer edher selff tijl had",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 17,
+      "text": "Then helly oc wskyldaktige eenfoldicheid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 17,
+      "text": "lade them saa sammen bliffue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 17,
+      "text": "som ær i personer trefoldicheid,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 17,
+      "text": "som clercken predicke och scriffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 18,
+      "text": "effther Gudz søn wor boren,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 18,
+      "text": "tha bleff ieg døth oc lafft aa baar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 18,
+      "text": "sancte Symonis oc Iude affthen thet wor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 19,
+      "text": "tha ieg hade paa thet tolfthe aar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 19,
+      "text": "for Danmarks rigæ standhet tijl swaar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 19,
+      "text": "ieg wil thet icke lywe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 20,
+      "text": "I Roskild hwiles nw myne been",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 20,
+      "text": "som ther staar nw bescreffuet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 20,
+      "text": "i Sore tha hade ieg bleffueth.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "id": null,
+  "title": "Der aabnes en Dør",
+  "year_created": 1924,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Jens Peter Jacobsen",
+    "country": null,
+    "wiki": "Q370246"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Lyriske Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1924,
+    "url": "https://tekstnet.dk/books/jacobsen-jp_lyriske-digte/012/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Der aabnes en Dør,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Og der lysner et Lin",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "I Maanens dæmpede Skjær.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Og det blavrer afsted",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Imod Bondens Stald,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Hvor Hestenes Hove",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Mod Gulvets Sten",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Skramle Gnister døsige frem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Det famler ved Slaaen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Og Døren gaar op,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Og Linet svinder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "I Varmens fugtige hvide Damp.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 1,
+      "text": "Det var Bondens Datter,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 1,
+      "text": "Det var Ellen!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "Stakkels Ellen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "Hun har ingen anden Sjæl",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 1,
+      "text": "End sine klare Øjne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 1,
+      "text": "Ved ikke hvad og ved ikke hvi",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 1,
+      "text": "Mer end den fattige Klinte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 1,
+      "text": "Ved ej, om Regnen er lys og varm",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 1,
+      "text": "Og Solstraalen fugtig og kold,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 1,
+      "text": "Fatter ej Miner og fatter ej Ord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 1,
+      "text": "Sender den sidste Lyd, hun har hørt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 1,
+      "text": "Død fra sin Mund som et Ekko,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 1,
+      "text": "Enten det saa er Hønens Kluk",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 1,
+      "text": "Eller Moderens graadtunge Stemme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 2,
+      "text": "Hun løser en Hest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 2,
+      "text": "Og hun leder den frem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 2,
+      "text": "Men Dyret skjælver;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 2,
+      "text": "Sænkende sit Hoved stirrer det vildt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 2,
+      "text": "Og klemmer sine Hove",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 2,
+      "text": "I sælsom Rædsel",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 2,
+      "text": "Mod Jorden fast,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 2,
+      "text": "Som om det fattede, at dets Fører",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 2,
+      "text": "Var mere bunden, mindre Herre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 2,
+      "text": "Mere hjelpeløs end det selv.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 2,
+      "text": "Hun hæver sig op paa dets Ryg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 2,
+      "text": "Og afsted det staar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 2,
+      "text": "Gjennem tætte Straa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 2,
+      "text": "Gjennem Engens Rør",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 2,
+      "text": "Udover den mørke Hede.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 2,
+      "text": "Pigens Arm er om Hestens Hals,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 2,
+      "text": "Og hendes Lokker og Dyrets Manke",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 2,
+      "text": "Vildsomt, blandede flagre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 2,
+      "text": "Opad Bakke, ned i Kløft,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 2,
+      "text": "I rastløs Fore!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 2,
+      "text": "Der flyver Skum fra Hestens Mund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 2,
+      "text": "Det stænker op fra den duggede Lyng,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 2,
+      "text": "Sand hvirvler fra Klit,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 2,
+      "text": "Vejen frem og Vej tilbage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 2,
+      "text": "Paa kryds, paa tvers,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 2,
+      "text": "Paa alle Led.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 2,
+      "text": "Saa stander Færden den lange Nat",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 2,
+      "text": "Til Gry og Død.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 2,
+      "text": "Var det nu kun et Vanvidsridt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 2,
+      "text": "Eller var det et Legem', der rased efter at fange sig Sjæl?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 2,
+      "text": "Er der bag disse blinkende Stjerner Øjne, der vaage?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 2,
+      "text": "Er der mere Liv end Jordens?",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

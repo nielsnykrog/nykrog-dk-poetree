@@ -1,0 +1,44 @@
+{
+  "id": null,
+  "title": "101. Knud, Mogens' søn",
+  "year_created": 1495,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Rimkrøniken",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1495,
+    "url": "https://tekstnet.dk/books/anon_rimkroeniken/104/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Tha saa wor skift som Swen haffuer sawt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "och saa aldeles offuer lawt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "ieg meen ther staar en effther ry.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

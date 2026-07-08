@@ -1,0 +1,63 @@
+{
+  "id": null,
+  "title": "⁕ Herrens fromhed er icke end vde/",
+  "year_created": 1553,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "En ny Psalmebog",
+    "year_published": 1553,
+    "publisher": "Hans Vingaard",
+    "printer": "Hans Vingaard",
+    "place": "København",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/vingaard_1553/1/34"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "⁕ Herrens fromhed er icke end vde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Ja hans miskundhed er icke end nu ath ende/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Men fornyes huer Morgen der som Troen er stor til hannem/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Herren er min deel det siger mig min siæl/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Der fore vil ieg sætte mit haab til hannem",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

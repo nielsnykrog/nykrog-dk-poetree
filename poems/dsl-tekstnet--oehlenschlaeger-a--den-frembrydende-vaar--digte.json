@@ -1,0 +1,584 @@
+{
+  "id": null,
+  "title": "Den frembrydende Vaar",
+  "year_created": 1803,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Adam Oehlenschläger",
+    "country": null,
+    "wiki": "Q168356"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1803,
+    "url": "https://tekstnet.dk/books/oehlenschlaeger-a_digte/022/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Engene grönnes og Skovenes Kroner",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "nylig fremsprungne Smaragder bedække,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "1 Ætheren lunes og Sangeren toner",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "i den beknoppede, brydende Hække.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Vinteren bort til de livlöse Poler",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "flygter med Natten og Kulden og Taagen;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Flora paa Leiet af friske Violer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "opslaaer sit Öie södtsmilende vaagen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Harpe! som hang paa de rimfrosne Grene,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "hyllet i Snee og i rugende Mörke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 1,
+      "text": "stum og forladt, medens Boreas ene",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 1,
+      "text": "hyled en Liigsang i Vinterens Örke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 1,
+      "text": "Harpe! din lis har Apollo bortsmeltet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 1,
+      "text": "da han i Östen steeg frem i sin Lue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "Straalende hænger du nu under Teltet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "med den blaahvælvede, udstrakte Bue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 2,
+      "text": "Kom og lad Flora, den unge Gudinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 2,
+      "text": "stemme dig med sine sneehvide Hænder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 2,
+      "text": "Herligt bepurpres den kneisende Tinde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 2,
+      "text": "hist af den hvirvlende Kugle, som brænder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 2,
+      "text": "Hen paa det bölgende Græs vil jeg stirre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 2,
+      "text": "som i den mörkeblaae Vove sig taber,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 2,
+      "text": "Lærkernes Slag vil jeg höre at dirre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 2,
+      "text": "slaae dine Strenge og prise min Skaber!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 3,
+      "text": "Straale! som brænder i smægtende Öie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 3,
+      "text": "paa den uskyldige, elskende Pige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 3,
+      "text": "Straale! du Skiönhedens höieste Höie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 3,
+      "text": "ned i mit bævende Hierte du stige!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 3,
+      "text": "Elskende To! som i Skyggerne vanke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 3,
+      "text": "indsmil mig Saligheds reneste Lue!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 3,
+      "text": "Da skal min brændende, hellige Tanke",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 3,
+      "text": "tone, og hvirvle til Himmelens Bue!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 4,
+      "text": "Da skal de smilende unge Hyrdinder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 4,
+      "text": "nærme sig mig under skyggende Grene,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 4,
+      "text": "henrykt ved Bækken, som perlende rinder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 4,
+      "text": "over de hvide, sölvspraglede Stene;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 4,
+      "text": "svævende de om min Harpe skal dandse,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 4,
+      "text": "som deres Skiönhed at tolke kun stræber.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 4,
+      "text": "Da skal jeg prydes med blomstrende Krandse!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 4,
+      "text": "Da skal jeg kysses af blomstrende Læber.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 5,
+      "text": "Selve de sölvlokte Oldinger höre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 5,
+      "text": "gierne min Sang, fra den mosgroede Hytte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 5,
+      "text": "Blidt skal de staae i de aabnede Döre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 5,
+      "text": "og til vemodige Tonefald lytte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 5,
+      "text": "I deres gamle uskyldige Siele",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 5,
+      "text": "Foraarets Fryd jeg med Kraft skal indsiunge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 5,
+      "text": "til de, fremkaldte af venlige Fiele,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 5,
+      "text": "nyde et Foraar, evindelig unge!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 6,
+      "text": "Hyrden min Sang skal gientage og smile,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 6,
+      "text": "naar han om Aftnen med bögende Vrimmel",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 6,
+      "text": "skynder sig hiem til en qvægende Hvile,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 6,
+      "text": "stirrende hen paa den glimtende Himmel.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 6,
+      "text": "Tit paa sit Rör skal han stræbe at ligne",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 6,
+      "text": "Strengenes Toner, som bævende vige.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 6,
+      "text": "Da skal han föle Naturen , og signe",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 6,
+      "text": "Skiönhedens Gud, og omfavne sin Pige!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 7,
+      "text": "Ak, men hvad haaber jeg, mægtig henrevet!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 7,
+      "text": "salig indlullet i hellige Drömme?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 7,
+      "text": "Blussende! freidig! af Indtrykket drevet!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 7,
+      "text": "mens mine Tanker i Anelser svömme?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 7,
+      "text": "Kan vel en Spurv, skiönt den saligt sig fryder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 7,
+      "text": "tolke sin Salighed som Philomele?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 7,
+      "text": "Kan vel min Sang, skiönt i Vaaren den lyder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 7,
+      "text": "male, Natur! dit fortryllende Hele?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 8,
+      "text": "Ak der var Een! Skiönt fortæret af Smerte",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 8,
+      "text": "skienkte ham Gud en udödelig Flamme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 8,
+      "text": "og for Naturen det aabneste Hierte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 8,
+      "text": "han kunde tolke hvad andre kan stamme!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 8,
+      "text": "Rungsted! din lange og frugtbare Fure",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 8,
+      "text": "grönnes som forhen og spirer og pranger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 8,
+      "text": "mens ved de gamle og gothiske Mure",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 8,
+      "text": "Gravmuldet længst har omfavnet din Sanger!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 9,
+      "text": "Hellige Evald! i Dannemarks Skove",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 9,
+      "text": "siger min Siel at forklaret du svæver.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 9,
+      "text": "Bölgende over den krusede Vove",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 9,
+      "text": "luttret din Aand giennem Roserne bæver.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 9,
+      "text": "Lad den opglöde de frostige Strenge!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 9,
+      "text": "Gyd i mit Bryst dine hellige Luer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 9,
+      "text": "Da skal mit Hierte i Harpen sig trænge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 9,
+      "text": "da skal jeg tolke hvad nu kun jeg skuer!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

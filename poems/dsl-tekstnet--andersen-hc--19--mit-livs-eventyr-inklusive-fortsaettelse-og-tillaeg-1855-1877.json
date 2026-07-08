@@ -1,0 +1,528 @@
+{
+  "id": null,
+  "title": "19",
+  "year_created": 1855,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Mit Livs Eventyr (Inklusive Fortsættelse Og Tillæg). 1855-1877",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1855,
+    "url": "https://tekstnet.dk/books/andersen-hc_mit-livs-eventyr-inklusive-fortsaettelse-og-tillaeg-1855-1877/022/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Deilige Slot med de glimtende Fløie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Aldrig i Norden Din Lige man saae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Issen Du strakte mod Himlen den høie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Foden Du vasked’ i Bølgen den blaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Kløgtig med Konst har en kongelig Mester",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Manet Dig frem over Vandenes Strøm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "Hvælvet Dit Tag over tusinde Gjester,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "Fængslet i Stenen sin deiligste Drøm.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "Skjøn som en Rose fra Feernes Riger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Fast som det Ord, der blev talt af en Helt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Stolt som et Fjeld, der mod Lyset opstiger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "Blinked Dit Taarn under Stjernernes Telt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 3,
+      "text": "Smaablomsterne i Hedens Lyng",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "Fortalte Dig vist Eet og Andet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 3,
+      "text": "Selv Marehalmen raabte: syng!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 3,
+      "text": "Og gav Dig Nyt fra Flyvesandet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 3,
+      "text": "Og hist ved Vesterhavets Kyst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 3,
+      "text": "Forstod Du Bølgens vilde Røst;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 3,
+      "text": "Imens for Andre Alt var tyst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 3,
+      "text": "Du fik saa meget Smukt at vide.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 3,
+      "text": "Syng for os Alt hvad Du har hørt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 3,
+      "text": "Og lad Din Tone lyde længe;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 3,
+      "text": "Som før vi skulle lytte rørt’",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 3,
+      "text": "Og glade til Din Harpes Strænge. –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 4,
+      "text": "Jylland mellem tvende Have",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 4,
+      "text": "Som en Runesteen er lagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 4,
+      "text": "Runerne er Kjæmpegrave",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 4,
+      "text": "Inde midt i Skovens Pragt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 4,
+      "text": "Og paa Heden alvorsstor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 4,
+      "text": "Her hvor Ørknens Luftsyn boer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 5,
+      "text": "Jylland Du er Hovedlandet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 5,
+      "text": "Høiland med Skov-Eensomhed!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 5,
+      "text": "Vildt i Vest med Klittag Sandet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 5,
+      "text": "Løfter sig i Bjerges Sted.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 5,
+      "text": "Østersø og Nordhavs Vand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 5,
+      "text": "Favnes over Skagens Strand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 6,
+      "text": "Du kjære Digter tag imod min Tak",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 6,
+      "text": "Der kun er fattig mod Din rige Gave.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 6,
+      "text": "Hvor Sandet hvirvler vildt ved Skagerak",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 6,
+      "text": "Du plukked’ Blomster for Din Digterhave;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 6,
+      "text": "Du bar dem ved Dit Bryst en stakket Stund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 6,
+      "text": "Saa slog de Rod i Digterhjertets Grund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 7,
+      "text": "Saa skjød de frem med Yppighed og Glands,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 7,
+      "text": "Med Duft som Blomster fra et himmelsk Eden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 7,
+      "text": "Og dog det var den lille simple Krands",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 7,
+      "text": "Du samlede i Klitten og paa Heden –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 7,
+      "text": "Kun Lyngens Blomst og Sandets vilde Tjørn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 7,
+      "text": "Som fra dit Hjerte skjød, liig Englebørn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 8,
+      "text": "Saa flagrede de ud i Verden om",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 8,
+      "text": "Ved Vintertid, som Sneen hvide Flager,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 8,
+      "text": "Og dog med Vaarens Farvepragt de kom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 8,
+      "text": "Med Øiet mildt og Kinden rosenfager;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 8,
+      "text": "Fra Dig de kom med Kjærlighedens Bud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 8,
+      "text": "Det var Dit Hjertes Børn Du sendte ud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 9,
+      "text": "Jeg har fornummet deres Englerøst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 9,
+      "text": "Og deres Toner kan jeg ei forglemme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 9,
+      "text": "Her hørte jeg dem, her ved Havets Kyst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 9,
+      "text": "I selve Klitten hvor de høre hjemme;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 9,
+      "text": "Her hvor de vilde Bølger for Dig sang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 9,
+      "text": "Her hvor Du nylig gik Din Digtergang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 10,
+      "text": "Hvor Sandet længst har dækket Kirkens Muur;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 10,
+      "text": "Og Taarnet rager frem fra Klittens Banker,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 10,
+      "text": "Du blev begeistret af en vild Natur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 10,
+      "text": "Et deiligt Syn gik op for Dine Tanker,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 10,
+      "text": "Da var det, at Dit Seerøie saae",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 10,
+      "text": "Hin Kongesnekke med forgyldent Raa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 11,
+      "text": "Da var det at Du hørte Psalmesang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 11,
+      "text": "Og Orgeltoner under Kirkens Bue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 11,
+      "text": "Da var det, at Din ædle Digtertrang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 11,
+      "text": "Brød frem i Phantasiens høie Lue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 11,
+      "text": "Da var det Lyngens Blomst og Klittens Tjørn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 11,
+      "text": "Skjød fra Dit Hjerte ud, liig Englebørn.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

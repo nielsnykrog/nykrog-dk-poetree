@@ -1,0 +1,44 @@
+{
+  "id": null,
+  "title": "7. Guttorm, Grams søn",
+  "year_created": 1495,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Rimkrøniken",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1495,
+    "url": "https://tekstnet.dk/books/anon_rimkroeniken/010/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Mith hiærtæ thet kunne ey vare glath",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "myn broder, som slo myn fadher ihiell",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "ffor vthen ræt och vthen skeell.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

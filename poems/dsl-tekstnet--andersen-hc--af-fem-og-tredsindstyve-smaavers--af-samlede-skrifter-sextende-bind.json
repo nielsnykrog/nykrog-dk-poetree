@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "title": "Af Fem og tredsindstyve Smaavers",
+  "year_created": 1855,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Af. Samlede Skrifter. Sextende Bind",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1855,
+    "url": "https://tekstnet.dk/books/andersen-hc_af-samlede-skrifter-sextende-bind/007/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 25,
+      "text": "Jeg dandser længe, jeg dandser kort,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 25,
+      "text": "Jeg dandser med hele Skroget.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 25,
+      "text": "Jeg dandser min Forkjølelse bort",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 25,
+      "text": "Og det er jo altid Noget.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

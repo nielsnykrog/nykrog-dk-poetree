@@ -1,0 +1,894 @@
+{
+  "id": null,
+  "title": "Limgris",
+  "year_created": [
+    1575,
+    1590
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Svanings Håndskrift II",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1590,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/SVII77.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Her er en iomffru paa vort land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "hun er sig saa bedel-vand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": ":: Heilo! den unge herr Harald! ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Sig selff veed hun at rømme oc rose,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "sine biele skær hun saa mange skackhose.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "Den ene er blæg, den anden er sort;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "hun lader dem lenge tiene for port.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 3,
+      "text": "Den ene er lang, den anden er lau,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 3,
+      "text": "hende haffues icke vel den tredie hans trau.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 4,
+      "text": "Saa lenge gick hun i væl oc vaal,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 4,
+      "text": "hun fick baade aske oc sorten kaal,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 5,
+      "text": "Det bleff hende selff til vack oc vee,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 5,
+      "text": "at hun gaff ud saa mangen horn-skee.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 6,
+      "text": "Hun giffte sig for sønden aa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 6,
+      "text": "hun sagde, hun vilde det faaster faa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 7,
+      "text": "Hun vilde end føde to tillige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 7,
+      "text": "vener end Christus i Himmerigs rige.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 8,
+      "text": "Hun tog kaabe oc gick til strande,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 8,
+      "text": "der falt hun paa den slebæde sande.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 9,
+      "text": "De førde hende hiem, hun lagdes i vraa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 9,
+      "text": "hun fødde de huelpe store oc smaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 10,
+      "text": "Først da fødde hun de huelpe smaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 10,
+      "text": "saa føde hun det læde griiss graa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 11,
+      "text": "Sist da fødde hun Harald Kyrre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 11,
+      "text": "oc hand bleff hende den søn saa dyre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 11,
+      "text": "Alt til det griiss de giorde en sti,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 11,
+      "text": "de lagde der under vel bielcker ti.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 12,
+      "text": "Hun sætte de huelpe paa sit skiød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 12,
+      "text": "oc gaff dem melck oc huede-brød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 13,
+      "text": "De oede oc drucke i-saa fast,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 13,
+      "text": "de voxte baade store oc lange met hast.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 14,
+      "text": "Meel i sex eller siu gode secke",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 14,
+      "text": "kunde dem til dauren icke klecke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 15,
+      "text": "Men Limgriis gaffue de altid mest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 15,
+      "text": "derfaare bleff hand oc aller-størst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 16,
+      "text": "De sætte hannem paa en nygiord sti,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 16,
+      "text": "de lagde der-under vel bielcker ti.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 17,
+      "text": "Limgriiss tog til at grynte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 17,
+      "text": "de bønder paa landet saa ilde det yndte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 18,
+      "text": "Hand slog om sig met hale oc tand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 18,
+      "text": "de bielcker hen i lufften spand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 19,
+      "text": "Oc hand løb ud at vange-led,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 19,
+      "text": "baade stølper oc vender de reffnede ved.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 20,
+      "text": "Huad vil ieg sige? hans mindste tand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 20,
+      "text": "vaar vel tre alne oc en spand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 21,
+      "text": "Elleffue alne vaar hans hale,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 21,
+      "text": "den slebte effter hannem offuer bierge oc dale.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 22,
+      "text": "Hans byrster stoede saa høyt i sky,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 22,
+      "text": "for hannem flyde mand oc quinde aff by.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 23,
+      "text": "Oc hand løb tuert offuer agger-reen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 23,
+      "text": "hand giørde de bønder harm oc meen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 24,
+      "text": "Huor hand at agger oc eng fremgaar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 24,
+      "text": "hand vrøder omkring, huad der kommer faar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 25,
+      "text": "Hand actede huercken tidsel eller torn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 25,
+      "text": "hans tryne vaar haard som bucke-horn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 26,
+      "text": "Hand oed til-lige baade bog oc bøg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 26,
+      "text": "de klecked icke mere end som en myg.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 27,
+      "text": "Hand nappet de aggerne af ege-top,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 27,
+      "text": "saa mange de vaare, hand slugte dem op.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 28,
+      "text": "Hand drack slet aff baade dige oc dam,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 28,
+      "text": "oc oed der-til gaas, griis oc lam.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 29,
+      "text": "De bønder gaar sammen i en ring,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 29,
+      "text": "de acte at steffne Limgriiss til ting.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 30,
+      "text": "Oc lade hannem dømme til steyle oc hiul,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 30,
+      "text": "for raffn oc krage oc anden ful.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 31,
+      "text": "Den foget dømte saa skarp en dom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 31,
+      "text": "Limgriiss hand passet saa lidet der-om.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 32,
+      "text": "Saa droge de hen til Harald Kyrre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 32,
+      "text": "om raad oc hielp sig at forhøre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 33,
+      "text": "\"Hielp oss. Harald, imod Limgriiss!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 33,
+      "text": "wi giffue dig løn, wi siger dig priiss!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 34,
+      "text": "\"Alt haffuer ieg mig de gode huelpe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 34,
+      "text": "huor-met ieg vil eder frelse oc hielpe.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 35,
+      "text": "Harald hand taler til brødre sine:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 35,
+      "text": "\"Følge i mig, oc være ey seene!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 36,
+      "text": "Lader mig see, huad i formaa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 36,
+      "text": "udi huasser tand oc skarpen klo!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 37,
+      "text": "Kunde i beede oss dette stycke vildt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 37,
+      "text": "da haffuer i bonden ved sorgen skild.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 38,
+      "text": "Icke kunde Harald ride saa suar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 38,
+      "text": "de haarde huelpe io faare hannem vaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 39,
+      "text": "Først løb Toue, oc saa løb Transe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 39,
+      "text": "effter løb Pross, oc saa fulde Pranse.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 40,
+      "text": "Saa fast løb Graa, end faster løb Grim,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 40,
+      "text": "effter kom Bræfod, Nam oc Nim.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 41,
+      "text": "Saa hitzet hand Harald de hunde raske,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 41,
+      "text": "hand bad dem Limgriiss riffue oc taste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 42,
+      "text": "Der Limgriiss bleff sine brødre var,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 42,
+      "text": "da sturrede hannem baade øerne oc haar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 43,
+      "text": "Saa slog hand op sin vide gab,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 43,
+      "text": "saa gridske de huelpe der indløb.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 44,
+      "text": "De reffue i hannem baade leffuer oc lunge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 44,
+      "text": "saa hart da monne de ved hannem klunge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 45,
+      "text": "Hiertet det brast, oc Limgriis døde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 45,
+      "text": "hans ni brødre alle ere øde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 46,
+      "text": "Graa kragen sider paa baren quiste,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 46,
+      "text": "galer hun ud, alt det hun viste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 47,
+      "text": "\"Du glæde dig, bondens væne viff!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 47,
+      "text": "du est skild ved denne gromme tiuff.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 48,
+      "text": "Du fryd dig, bondens suend oc pige!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 48,
+      "text": "i kunde nu saae oc høste met trygge.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 49,
+      "text": "Nu gaar bonden ved sin plog-staff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 49,
+      "text": "lader hand kaste Limgriiss en graff.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 50,
+      "text": "Den vaar vel fyrretiue alne lang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 50,
+      "text": "siu alne dyb oc icke ret trang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 51,
+      "text": "De slæbte Limgriiss oc raabte: io!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 51,
+      "text": "Limgriiss er død, heilo! heilo!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 52,
+      "text": "Limgriiss ligger met brødre ni,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 52,
+      "text": "den sorte muld er nu hans sti.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 53,
+      "text": "Harald, hans broder, en ridder god,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 53,
+      "text": "oc hannem tien bonden til haand oc fod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 54,
+      "text": "Den frue som førre sucked oc græd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 54,
+      "text": "for spaadske tale oc ond beskeed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 55,
+      "text": "Nu lader hun andre være sin lige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 55,
+      "text": "høye oc laffue, fattige oc rige.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 56,
+      "text": "Hun siger, det er Guds brand oc blus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 56,
+      "text": "som tender op ild i spotterens hus.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 57,
+      "text": "Naar dig bedis til en danis-suend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 57,
+      "text": "met spaat du hannem ey fra dig send!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 58,
+      "text": "Sender dig Gud oc liffsens fruct,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 58,
+      "text": "du føie dine ord met ære oc tuct!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 59,
+      "text": "Tale icke uden munde, men sig Gud priiss,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 59,
+      "text": "aff skaden er ieg vorden viiss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 59,
+      "text": ":: Heilo, den unge her Harald! ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

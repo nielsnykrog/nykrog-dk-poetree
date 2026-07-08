@@ -1,0 +1,920 @@
+{
+  "id": null,
+  "title": "4. Luftskibets Opfindere",
+  "year_created": 1836,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Ørsted",
+    "country": null,
+    "wiki": "Q44412"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Luftskibet",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1836,
+    "url": "https://tekstnet.dk/books/oersted-hc_luftskibet/006/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Da nu Middagens Ild var vegen for Aftenens Kjølning,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Hallen af Gjester var fuld, som brændte af Lyst til at høre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Hine Vestlandets Qvad om det høit beundrede Luftskib,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Hæved sin klangfulde Røst den fyrigt omskuende Kalchas:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Til høien Bjergtind kan Ørnen vel tye, –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Men over den seiler et Luftskib:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "De Stjerner skjules af graanende Sky, –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "Men over den seiler et Luftskib:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Hist glimter Lynet med rullende Gny, –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "Men over det seiler et Luftskib.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Hvo fandt til Fuglenes Hav sig en Baad?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "Formaaer det et Fnug kun at bære!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 2,
+      "text": "Hvo fandt til Flugt mod det Høie sig Raad?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 2,
+      "text": "Kan Armen vel Vingeslag lære!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 2,
+      "text": "Er Fart paa Skyen ei Himmelskes Daad?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 2,
+      "text": "Naar hævded en Jordisk slig Ære!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 3,
+      "text": "Det var af Brødre det herligste Par,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 3,
+      "text": "Som løste den ældgamle Gaade.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 3,
+      "text": "Den første sprudled af Livskraft, og var",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 3,
+      "text": "End Yngling, da sexti han naaede:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 3,
+      "text": "Den Anden rolig, skarpsindig og klar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 3,
+      "text": "Tit maatte hans Fyrighed raade.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 4,
+      "text": "Imellem Alpernes Muur og Forez,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 4,
+      "text": "Om Rhonen hvor Viinbjerge prange,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 4,
+      "text": "Der boede Faderen Mongolfier,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 4,
+      "text": "Hvis Driftighed nærede Mange.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 4,
+      "text": "Papiir han danned saa hvidt som en Snee;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 4,
+      "text": "I Landet rundt Bladene gange.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 5,
+      "text": "Den Aand og Kraft, han hos Joseph saae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 5,
+      "text": "Bestemtes til geistlig Ære;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 5,
+      "text": "Men rolig Skarpsind i Stephan der laae;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 5,
+      "text": "Thi skulde han Dommer være.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 5,
+      "text": "De andre Sønner, store og smaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 5,
+      "text": "De skulde Fabrikdont lære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 6,
+      "text": "Til Skolen tidligt alt Joseph blev sendt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 6,
+      "text": "Snelt lærte han alt, hvad han vilde;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 6,
+      "text": "Men blot til Bogen hans Hu var ei vendt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 6,
+      "text": "Han sværmed i Skov og ved Kilde;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 6,
+      "text": "Der søgtes Planter til Dagen var endt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 6,
+      "text": "Og Smaakryb og Fuglene vilde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 7,
+      "text": "De Præster indenfor klosterlig Muur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 7,
+      "text": "Dem vilde kun nødig han gjeste,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 7,
+      "text": "Han længtes efter den frie Natur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 7,
+      "text": "Der Livet ham syntes det bedste;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 7,
+      "text": "Thi bort han iled, som Fuglen fra Buur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 7,
+      "text": "Ved Havet han Boe vilde fæste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 8,
+      "text": "Der findes Musling og Fiske paa Strand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 8,
+      "text": "De kunde vel Livet ham friste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 8,
+      "text": "Saadan den vovsomme Drengeforstand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 8,
+      "text": "I Haabet at smigre sig vidste;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 8,
+      "text": "Dog snart blev der udsendt en søgende Mand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 8,
+      "text": "Som skulde af Faren ham vriste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 9,
+      "text": "Til Skolen maatte han atter nu tye,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 9,
+      "text": "Ved Flid faae sit Feiltrin i Glemme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 9,
+      "text": "Han ofte fremkom med Tanker heelt nye,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 9,
+      "text": "Og Mangen priste hans Nemme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 9,
+      "text": "Men end ei sytten, han atter maae flye,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 9,
+      "text": "og Intet ham mere kan hemme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 10,
+      "text": "Han gik til Forez, det skytækte Fjeld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 10,
+      "text": "Der mindst han at findes stod Fare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 10,
+      "text": "Han chemisk Kunstflid der øved med Held,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 10,
+      "text": "Og selv bar om Landet sin Vare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 10,
+      "text": "Den solgte smaaligt han ud, men med Skjæl,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 10,
+      "text": "Her arbeide heed det og spare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 11,
+      "text": "Men Hjertet bestandigt tilbage ham drog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 11,
+      "text": "Til Hjerter, som slog for ham hjemme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 11,
+      "text": "Paa sine vilde romantiske Tog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 11,
+      "text": "Ei kunde han Hjemstavnen glemme;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 11,
+      "text": "Og var end Faderen opbragt, der dog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 11,
+      "text": "For Sønnen ham hvisked en Stemme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 12,
+      "text": "Til Hjemmets Kunstflid hans Ønske mest stod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 12,
+      "text": "Og snart han sin Indsigt der øved;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 12,
+      "text": "Med Ungdomsvarme, med fyrigste Mod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 12,
+      "text": "Heelt mangefold Nyt han der prøved.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 12,
+      "text": "Men al den Nyhed var Gubben imod;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 12,
+      "text": "Let sikkrere Goder den røved.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 13,
+      "text": "Han sagde: »Skilles vi maae, men i Fred;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 13,
+      "text": "Selv prøv kun som Yngling din Lykke!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 13,
+      "text": "Heelt nær ved Hjemmet du finder et Sted,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 13,
+      "text": "Hvor virke Du kan efter Tykke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 13,
+      "text": "Og møder Uheld, da vistnok Du veed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 13,
+      "text": "Paa hvem Du med Tillid kan bygge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 14,
+      "text": "Med Faderglæde jeg tidligt alt fandt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 14,
+      "text": "At Dig og vor Stephan, som Pilte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 14,
+      "text": "Et sjeldent broderligt Venskab forbandt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 14,
+      "text": "Det Aldren meer strammed, end skilte;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 14,
+      "text": "Som Dig ham Donten fra Bogstuen vandt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 14,
+      "text": "Det virksomme Liv ham tilsmilte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 15,
+      "text": "I trolig Ening nu virker med Flid!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 15,
+      "text": "Den Ene den Anden kan lære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 15,
+      "text": "Hvis rask og lykkelig gaaer Eders Id,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 15,
+      "text": "Det mig ei til Skade kan være;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 15,
+      "text": "Papirfabrikker kan øges en Tid,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 15,
+      "text": "Før Frankrig ei flere kan nære.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 16,
+      "text": "De Brødre Faderen takked med Lyst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 16,
+      "text": "Og strax sig til Værket indvied.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 16,
+      "text": "Den Kraft, som lued i modige Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 16,
+      "text": "Nu føltes fra Lænker befriet;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 16,
+      "text": "Mod gammel Vane den møisomme Dyst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 16,
+      "text": "Ei skulde meer trætte Geniet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 17,
+      "text": "Ei Lærdomssky dem fra Skolen drog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 17,
+      "text": "De Rigdom kun agtede føie:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 17,
+      "text": "Hvad Verden skyldte til Pen og til Bog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 17,
+      "text": "Det stod dem klarligt for Øie:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 17,
+      "text": "At Borgersysler tit Aanden bortjog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 17,
+      "text": "Det havde de agtet heelt nøie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 18,
+      "text": "Men Lærdom holdt sig fra Livet saa langt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 18,
+      "text": "Og Livet fra høiere Viden;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 18,
+      "text": "Saa Hverdagslivet blev fattigt og trangt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 18,
+      "text": "Og Værkmandens Virkekreds liden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 18,
+      "text": "Mod Livet stod Lærdom fjendtligt og vrangt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 18,
+      "text": "Nye Retninger fordrede Tiden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 19,
+      "text": "Nu blev der grandsket ved Dag og ved Nat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 19,
+      "text": "Af Prøver man Lærdom sig hented;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 19,
+      "text": "Snart fik man Papir saa stærkt og saa glat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 19,
+      "text": "At ikke det veeg Pergamentet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 19,
+      "text": "Velin blev siden til Navn for det sat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 19,
+      "text": "Da Pragtværker paa det man prented.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 20,
+      "text": "Dog ikke Tiden dem ene hensvandt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 20,
+      "text": "Med Idræt for Føde og Klæder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 20,
+      "text": "I Kundskabssøgen bestandig de fandt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 20,
+      "text": "De bedste, de høieste Glæder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 20,
+      "text": "Og her en hemmelig Kilde dem randt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 20,
+      "text": "Til evig uvisnelig Hæder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 21,
+      "text": "Neppe havde han endt, saa udbrød Forsamlingen henrykt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 21,
+      "text": "»Held den Fader, hvis Huus med slige Sønner er prydet!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 21,
+      "text": "Held de Brødre, som har en Fader saa viis og saa kraftfuld!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 21,
+      "text": "Dog snart vented i Taushed man atter, og Frankmann begyndte.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

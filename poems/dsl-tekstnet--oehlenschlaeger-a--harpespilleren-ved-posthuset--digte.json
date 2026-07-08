@@ -1,0 +1,976 @@
+{
+  "id": null,
+  "title": "Harpespilleren ved Posthuset",
+  "year_created": 1803,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Adam Oehlenschläger",
+    "country": null,
+    "wiki": "Q168356"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1803,
+    "url": "https://tekstnet.dk/books/oehlenschlaeger-a_digte/019/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Her vil jeg sidde og Harpen slaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "og synge en underlig Sang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Her ile hid baade Store og Smaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "ved mit Spil bliver let deres Gang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "thi Tonernes Harmonie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "udvider Hiertet, gjör Sjelen frie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "nedriver Smaahedens Muur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "og samler den hele Natur.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Og mens jeg synger med hævet Röst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "da giver mig hver sin Skierv.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 1,
+      "text": "En Skjerv for at fylde det tomme Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 1,
+      "text": "det er et ædelt Erhverv!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 1,
+      "text": "Jeg sidder som Oldtids Skiald",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 1,
+      "text": "og digter og synger, store Kald!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "Skiönt gammel med sölvgraae Haar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "dog kraftigt jeg Harpen slaaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 2,
+      "text": "Men siig du mig, du liden Smaadreng",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 2,
+      "text": "hvad er dette her for et Huus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 2,
+      "text": "hvortil baade Höie og Lave i Fleng",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 2,
+      "text": "hentumle som i en Ruus?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 2,
+      "text": "»Det Huus er til Nytte og Gavn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 2,
+      "text": "Herhid komme Breve fra fierneste Havn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 2,
+      "text": "Fra Syst, Öst, Vest og fra Nord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 2,
+      "text": "fra den hele vidtlöftige Jord!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 3,
+      "text": "O stimler man hid for Kundskab at faae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 3,
+      "text": "med Higen og nysgierrigt Sind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 3,
+      "text": "da vil mine Strenge, hvorvel jeg dem slaae",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 3,
+      "text": "kun lidet bringe mig ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 3,
+      "text": "De holde vel sligt for Tant.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 3,
+      "text": "De gyldne Dage fra Jorden svandt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 3,
+      "text": "Den helligste Harmonie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 3,
+      "text": "nedsank til et koldt Barbarie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 4,
+      "text": "Dog hvad der er siunken kan atter opstaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 4,
+      "text": "Naturen er ikke död!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 4,
+      "text": "Under Asken i den afsides Vraae",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 4,
+      "text": "ligger hist og her dog en Glöd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 4,
+      "text": "At læse i Menneskets Blik",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 4,
+      "text": "er desuden min Lyst og min gamle Skik.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 4,
+      "text": "O nok er at læse her,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 4,
+      "text": "thi hvor forskiellige hver.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 5,
+      "text": "Og kunde jeg medens de styrte afsted",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 5,
+      "text": "ad Porten ind som en Elv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 5,
+      "text": "et Öieblik sagtne det hurtige Fied,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 5,
+      "text": "faae dem til at glemme sig selv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 5,
+      "text": "og Breve og Penge og kolde Ord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 5,
+      "text": "for Sol og Maane og Blomster og Jord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 5,
+      "text": "kunde jeg standse den hele Flok,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 5,
+      "text": "da var det dog artigt nok.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 6,
+      "text": "Hist kommer en Sværm, den iler hid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 6,
+      "text": "med kolde urolige Smil,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 6,
+      "text": "og ingens Mine er aaben og blid,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 6,
+      "text": "deres Væsen er Snildhed og Iil.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 6,
+      "text": "De strax i Brevene see,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 6,
+      "text": "og nogle skule og nogle lee.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 6,
+      "text": "De skynde sig bort igien.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 6,
+      "text": "O det var nok Handelsmænd!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 7,
+      "text": "Men den som loe vil jeg tale til,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 7,
+      "text": "den Glade er aaben og blöd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 7,
+      "text": "Du Rige! hör min Sang, om du vil,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 7,
+      "text": "og giv mig saa lidet til Bröd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 7,
+      "text": "»Gaae bort du Fattigdoms Tolk.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 7,
+      "text": "Hvi sidder du her i Veien for Folk?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 7,
+      "text": "Hvad nytter dit Klimprerie?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 7,
+      "text": "Hyt dig for vort Politie!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 8,
+      "text": "Hvad nytter det? O du nyttige Drog!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 8,
+      "text": "den Aand som dit Guld tynger ned",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 8,
+      "text": "den hæver jeg dristig igien! – Men dog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 8,
+      "text": "hvor kan jeg paa dig blive vred!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 8,
+      "text": "Gaae hen med Braves Foragt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 8,
+      "text": "med Fattiges Taarer, med Usles Agt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 8,
+      "text": "og kald dig saa mellem dem",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 8,
+      "text": "i Staten et gavnende Lem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 9,
+      "text": "Hist staaer en Mand saa rolig og blid,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 9,
+      "text": "han Penge taer ud af et Brev.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 9,
+      "text": "Han nærmer sig venligt og langsomt hid.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 9,
+      "text": "Mine Toner hans Hierte henrev.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 9,
+      "text": "Belön min brændende Sang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 9,
+      "text": "da kierkommen den i dit Öre klang!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 9,
+      "text": "»Til min Dör paa Löverdag gaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 9,
+      "text": "da skal du en Skofte faae!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 10,
+      "text": "Og længe han vented og længe han sad",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 10,
+      "text": "taalmodig paa iiskolde Steen;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 10,
+      "text": "og længe han spilled og længe han qvad",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 10,
+      "text": "med en Siel saa uskyldig og reen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 10,
+      "text": "Faae hörte hans Harpeklang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 10,
+      "text": "og ingen belönned hans skiönne Sang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 10,
+      "text": "De Fattige böde ham dog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 10,
+      "text": "men af disse han intet tog.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 11,
+      "text": "Alt nærmer sig Natten kold og vaad;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 11,
+      "text": "jeg er fremmed her og forladt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 11,
+      "text": "Til at leie mig ind har jeg ikke Raad;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 11,
+      "text": "jeg maae gaae paa Gaden i Nat!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 11,
+      "text": "mine Fingre er stive af Kuld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 11,
+      "text": "Ak hvi forenes ei Dyd med Guld?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 11,
+      "text": "Til at spille er det for koldt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 11,
+      "text": "Til at tigge er jeg for stolt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 12,
+      "text": "Og færre blive de Mennesker her;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 12,
+      "text": "men tys, jeg hörer et Suk?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 12,
+      "text": "En blændende Yngling jeg skuer der,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 12,
+      "text": "han er saa rört og saa smuk.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 12,
+      "text": "Med Brev i skielvende Haand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 12,
+      "text": "han stirrer til Himlen med henrykt Aand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 12,
+      "text": "O han skal höre min Sang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 12,
+      "text": "og lönne min Harpeklang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 13,
+      "text": "Du sneehvide Olding du smelter mit Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 13,
+      "text": "saa ganske stemt for dit Qvad!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 13,
+      "text": "Det bæver af Kierligheds söde Lyst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 13,
+      "text": "Om min Elskedes Hierte jeg bad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 13,
+      "text": "Hun skriver mig til, see her:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 13,
+      "text": "»Min Ludvig! jeg har dig evig kier.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 13,
+      "text": "O syng til Strengenes Lyd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 13,
+      "text": "en Sang om Kierligheds Fryd!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 14,
+      "text": "Og Gubben sang og en sagte Ild",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 14,
+      "text": "i hans blege Kinder opjog.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 14,
+      "text": "Han minded sin Ungdoms Lyst og vild-",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 14,
+      "text": "henreven han Harpen slog.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 14,
+      "text": "Og Ynglingen kasted en Pung",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 14,
+      "text": "i hans Skiöd, af rödeste Guld saa tung.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 14,
+      "text": "Hans brændende Taare randt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 14,
+      "text": "Han kyssed den Gamle og svandt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 15,
+      "text": "Forbauset stirrede Oldingen hen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 15,
+      "text": "og kaldte med skielvende Röst;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 15,
+      "text": "men Ynglingen saae han aldrig igien,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 15,
+      "text": "han ilte med svulmende Bryst!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 15,
+      "text": "Da greb med prophetisk Aand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 15,
+      "text": "i Harpen den Gamle, med kraftig Haand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 15,
+      "text": "Begeistret han jublende sang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 15,
+      "text": "ved Strengens dæmpede Klang:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 16,
+      "text": "Endnu er Kierlighed til paa Jord",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 16,
+      "text": "med det Övrige ikke den svandt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 16,
+      "text": "Jeg haaber, jeg haaber, min Troe er stor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 16,
+      "text": "den Tid skal komme tilbage, som randt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 16,
+      "text": "Ja Kierligheds Gnist saa mild",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 16,
+      "text": "skal tænde Oldtidens Guddomsild.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 16,
+      "text": "Af det kolde, natlige Hav",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 16,
+      "text": "skal Solen staae frem af sin Grav!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

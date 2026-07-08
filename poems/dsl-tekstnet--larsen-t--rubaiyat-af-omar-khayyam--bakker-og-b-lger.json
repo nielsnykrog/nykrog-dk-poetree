@@ -1,0 +1,2040 @@
+{
+  "id": null,
+  "title": "Rubáiyát af Omar Khayyám",
+  "year_created": 1912,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Thøger Larsen",
+    "country": null,
+    "wiki": "Q323530"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Bakker Og Bølger",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1912,
+    "url": "https://tekstnet.dk/books/larsen-t_bakker-og-boelger/019/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "»I heard a Voice within the Tavern cry:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "»Awake, my little ones, and fill the Cup,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Before Life's Liquor in its Cup be dry.««",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "»When all the Temple is prepared within,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Why nods the drowsy Worshipper outside?«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "»Awake! For Morning in the Bowl of Night",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Has flung the Stone that puts the Stars to Flight!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "And lo! The Hunter of the East has caught",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "The Sultán's Turret in a Noose of Light.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "»Wake! For the Sun, who scatter'd into flight",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 3,
+      "text": "The Stars before him from the Field of Night,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 3,
+      "text": "Drives Night along with them from Heav'n, and strikes",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 3,
+      "text": "The Sultán's Turret with a Shaft of Light.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 4,
+      "text": "Vaagn op! En Morgen slyngede paany",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 4,
+      "text": "den Sten, for hvilken alle Stjerner fly.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 4,
+      "text": "Og Jægeren fra Øst har fanget ind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 4,
+      "text": "Sultanens Taarn i røde Baand af Gry.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 5,
+      "text": "Jeg rørt af Dagnings venstre Haand<button id=note2 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Dagningens venstre Haand , senere ændret til »Den falske Dagning« – en Lysning over Horisonten før den sande Dagning, velkendt Fænomen i Østerlandene.</p> \" data-title=\" Fodnote 2\">F2</button> har drømt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 5,
+      "text": "en Stemme kurrede i Kroen ømt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 5,
+      "text": "»Op mine smaa, og kom med eders Skaal,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 5,
+      "text": "før Fadet for den bedste Vin er tømt.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 6,
+      "text": "Ved første Hanegal en søvnig Trop",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 6,
+      "text": "bad udenfor: »Saa luk da Døren op!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 6,
+      "text": "Vor Tid er kort – er den een Gang forbi,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 6,
+      "text": "vi vaagner aldrig mer ved Morgen op.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 7,
+      "text": "Nu vækker Nytaar<button id=note3 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Nytaaret begynder i Persien ved Foraarsjævndøgn</p> \" data-title=\" Fodnote 3\">F3</button> gammel Drift af Blund –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 7,
+      "text": "den tankefulde fandt en ensom Stund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 7,
+      "text": "mens Moses' »hvide Haand«<button id=note4 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Moses' hvide Haand (2 Mos. 4,6) betegner Blomstring. Perserne mente, Jesu helbredende Magt boede i hans Aande.</p> \" data-title=\" Fodnote 4\">F4</button> af Vaarens Gren",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 7,
+      "text": "sprang ud – og Jesus aanded op af Grund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 8,
+      "text": "Irám<button id=note5 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Irám , plantet af Kong Shaddád, og nu sunken et Steds i Arabiens Sandørkener.</p> \" data-title=\" Fodnote 5\">F5</button> er med dens Roser sunken ned,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 8,
+      "text": "og Jamshyds hellige Skaal<button id=note6 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Jamshyd's hellige Skaal kaldes i den engelske Tekst »Jamshyd's Seven-ring'd Cup.« De syv Ringe var Symboler paa de 7 Himle, de 7 Planeter, de 7 Have osv. Den var en »Divining Cup« (Spaadomsskaal eller Tempelskaal).</p> \" data-title=\" Fodnote 6\">F6</button>, hvor ingen veed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 8,
+      "text": "Men endnu svulmer Druen som tilforn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 8,
+      "text": "og mangen Have gror ved Søens Bred.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 9,
+      "text": "Og David tier. Men med Kvidder fin",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 9,
+      "text": "paa Pehlevi<button id=note7 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Pehlevi: Persiens gamle heroiske Sanskrit. </p> \" data-title=\" Fodnote 7\">F7</button> om »Vin, Vin, Vin – rød Vin!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 9,
+      "text": "styrker en Nattergal den stille Gløds",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 9,
+      "text": "Inkarnation i Rosernes Karmin.<button id=note8 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p>I den engelske Tekst (B) staar: </p> – »Wine! Wine! Wine! Red Wine!« – the Nightingale cries to the Rose That sallow Cheek of hers t'incarnadine.«\" data-title=\" Fodnote 8\">F8</button>",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 10,
+      "text": "Nu er det Foraar! Fyld vor Skaal til Rand!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 10,
+      "text": "Kast Angers Vinterdragt i Vaarens Brand!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 10,
+      "text": "Thi Tidens Fugl har kun saa kort en Vej –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 10,
+      "text": "og se! dens Skygge jager over Land.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 11,
+      "text": "Baade i Babylon og Naishapur –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 11,
+      "text": "baade, naar Vin er sød, og Vin er sur –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 11,
+      "text": "vil Livets Drik bortsive Dryp for Dryp,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 11,
+      "text": "og Livets Løvfald venter al Natur.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 12,
+      "text": "Hver Dag vil vække Blomster, skabe Frø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 12,
+      "text": "Hver Dag vil Blomster henad Jorden strø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 12,
+      "text": "Vor Sommermaaned, som gav Rosen Liv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 12,
+      "text": "vil lade Kaikobad og Jamshyd dø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 13,
+      "text": "Ja, lad dem dø. Og følg saa med mig, du!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 13,
+      "text": "Lad fare Kaikobad og Kaikhosru!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 13,
+      "text": "Lad Zal<button id=note9 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Zál , Rustums Fader.</p> \" data-title=\" Fodnote 9\">F9</button> og Rustum<button id=note10 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Rustum , Persiens »Herkules«.</p> \" data-title=\" Fodnote 10\">F10</button> prale, som de vil!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 13,
+      "text": "Tænk ej paa Hatims<button id=note11 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Hátim Tai , en kendt østerlandsk Type paa Gavmildhed.</p> \" data-title=\" Fodnote 11\">F11</button> Nadver mere nu!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 14,
+      "text": "Saa vandrer vi, hvor Græsset sparsomt staar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 14,
+      "text": "paa Grænsen mellem Ørk og Agres Vaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 14,
+      "text": "Hvor ingen ænser Sultan eller Træl,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 14,
+      "text": "ynker vi Sultan Mahmuds høje Kaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 15,
+      "text": "Her – kun et Brød – og under disse Træer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 15,
+      "text": "lidt Vin og nogle Vers – og dig især,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 15,
+      "text": "dig ved min Side syngende i Ørk,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 15,
+      "text": "og vi har Paradis i Ørknen her.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 16,
+      "text": "Hvor jordisk Magt er herlig, tænker somme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 16,
+      "text": "Og andre: Vilde Paradis dog komme!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 16,
+      "text": "Tag Pungen i din Haand, stryg alle Krav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 16,
+      "text": "agt intet Bulder fra den fjerne Tromme!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 17,
+      "text": "Se Rosen, hvor den ler – lyt til dens Ord:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 17,
+      "text": "»Latter skal fylde Verden, mens jeg gror.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 17,
+      "text": "Tilsidst jeg river Kvasten af min Pung",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 17,
+      "text": "og strør dens Rigdom paa den grønne Jord.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 18,
+      "text": "I dette store Karavanseraj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 18,
+      "text": "hvor Dag og Nat som Porte aabner sig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 18,
+      "text": "sad Sultan efter Sultan i sin Pragt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 18,
+      "text": "sin Time eller to – og drog sin Vej.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 19,
+      "text": "Løven og Øglen ejer hvert Gemak,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 19,
+      "text": "hvor Jamshyd<button id=note12 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Jamshyd . Persepolis kaldes ogsaa Takht-i-Jamshyd dvs. Jamshyds Trone. Jamshyd, »Kong Herlig« (King Splendid), af det mytiske Peshdádiske Dynasti skal ifølge »Sháhnáma« have grundlagt og bygget Persepolis. Efter andre Sagn er Pyramidebyggeren, Sagnkongen Ján-Ibn-Ján, der levede »før Adam«, Byens Grundlægger. Dens virkelige Grundlægger er sandsynligvis Dareios I, som i hvert Fald udvidede den. </p> \" data-title=\" Fodnote 12\">F12</button> fordum funklede og drak.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 19,
+      "text": "Uænset stamper nu Vildæslets Hov,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 19,
+      "text": "hvor Bahram Jæger<button id=note13 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Bahrám Gúr – den store Jæger (»Bahram af Vildæslet«), en sassanidisk Hersker, der forfølgende sin »Gúr« forsvandt i en Mose, som de persiske Bønder endnu paaviser tillige med tre Taarnruiner fra hans 7 Slotte, af hvilke hver havde huset en Elskerinde.</p> <p>Mr. Binning fandt – iflg. Fitzgerald – blandt forskellige Strofer af Hafiz og andre, indskrevne af en eller anden Omstrejfers Haand iblandt Persepolis' Ruiner, en Rubai, der kan gengives saaledes: </p> Jeg saa' de Søjler hæve sig endnu, hvor Konger laa for Dør med tynget Hu. Ringduen saa' jeg sidde ensom der, og »Ku-ku-ku«, den sang, og »Ku-ku-ku.« <p>Ringduens gamle Pehlevi »Ku-ku-ku« betegner paa Persisk: »Hvor? Hvor? Hvor?«</p> \" data-title=\" Fodnote 13\">F13</button> Jorden om sig trak.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 20,
+      "text": "Mon nogen Sinde Rosen blev saa rød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 20,
+      "text": "som der, hvor Kongeblod i Mulden flød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 20,
+      "text": "Jeg synes, hver en Havens Hyazint",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 20,
+      "text": "har døde Pigers Taarer i sit Skød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 21,
+      "text": "Og dette ømme Græs, som Vaaren nys",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 21,
+      "text": "gav Flodens Bred, hvor vi os hviler – tys –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 21,
+      "text": "o, hvil dig varligt, thi maaske det sprang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 21,
+      "text": "fra Læber, der engang fik ømme Kys.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 22,
+      "text": "Min Elskede! Fyld Skaalen, hvor Idag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 22,
+      "text": "er fri for Fremtids Frygt og Fortids Nag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 22,
+      "text": "Imorgen? Da er jeg kanske Mig Selv",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 22,
+      "text": "med syv Aartusinders Igaar<button id=note14 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Syv Aartusinders Igaar , et Aartusinde for hver Planet.</p> \" data-title=\" Fodnote 14\">F14</button> lagt bag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 23,
+      "text": "Se – nogle, til hvis Fane dyrt vi svor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 23,
+      "text": "de bedste, Tiden saa' ved Livets Bord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 23,
+      "text": "har drukket Skaalen ud en Omgang før,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 23,
+      "text": "og een for een krøb stille under Jord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 24,
+      "text": "Og vi, som morer os og larmer nu",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 24,
+      "text": "i Stuen, de forlod – ja jeg og du",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 24,
+      "text": "maa ogsaa bort. De næste nærmer sig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 24,
+      "text": "Og Somrene vil blomstre da, som nu.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 25,
+      "text": "Lad os fuldende det, hvorfor vi stred,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 25,
+      "text": "før ogsaa vi i Støv er sunket ned,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 25,
+      "text": "er Støv i Støv og under Støv – og glemt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 25,
+      "text": "al Vin, al Verden og al Evighed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 26,
+      "text": "Til dem, der gør sig med Idag Besvær,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 26,
+      "text": "og dem, der rastløst mod Imorgen ser,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 26,
+      "text": "raaber en Muezzín<button id=note15 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Muezzin , en, der raaber til Bøn fra Moskeens Taarn.</p> \" data-title=\" Fodnote 15\">F15</button> fra Mørkets Taarn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 26,
+      "text": "»I Daarer! Ingen Løn I finder der.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 27,
+      "text": "De hellige og vise Mænd, hvis Ord",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 27,
+      "text": "om de to Verdener saa vide fór,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 27,
+      "text": "var smaa Profeter. Talen blev til Spot,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 27,
+      "text": "og Taleren fik Munden fuld af Jord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 28,
+      "text": "Jeg gik, da jeg var ung, med ivrigt Sind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 28,
+      "text": "til hellige og lærde, hvor et Spind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 28,
+      "text": "af Argumenter hang – men altid kom",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 28,
+      "text": "jeg ud ad samme Dør, hvor jeg kom ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 29,
+      "text": "Jeg hjalp dem Visdoms Kerner ud at saa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 29,
+      "text": "og ventede de nye, grønne Straa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 29,
+      "text": "men denne Kundskab blev min hele Høst:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 29,
+      "text": "»Jeg kom som Vandet, skal som Vinden gaa.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 30,
+      "text": "Hvorfor jeg kom hertil, jeg aldrig tyder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 30,
+      "text": "Og ej hvorfra: Jeg lever. Bækken flyder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 30,
+      "text": "Jeg drager bort, som Vinden gennem Ørk –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 30,
+      "text": "hvorhen veed ikke jeg. Jeg dør. Jeg lyder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 31,
+      "text": "Fra Dybets syvende Port jeg Slaaen skød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 31,
+      "text": "steg til Saturn<button id=note16 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Saturn: Herskeren i den syvende Himmel (Datidens »yderste Planet«).</p> \" data-title=\" Fodnote 16\">F16</button>, mens undervejs jeg brød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 31,
+      "text": "saa mangen Gaades Segl, men ej det Segl,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 31,
+      "text": "der lukker for vor Skæbne og vor Død.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 32,
+      "text": "Der var en Dør, min Evne aabned ej,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 32,
+      "text": "en Taage, hvor omsonst jeg søgte Vej.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 32,
+      "text": "Jeg syntes, du og jeg blev nævnt en Stund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 32,
+      "text": "Saa talte ingen mer om dig og mig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 33,
+      "text": "Jorden var tavs, og Havet stønned mat",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 33,
+      "text": "i Sørgekaabe, stumt og gudforladt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 33,
+      "text": "Tavs drejed Himlen sig med sine Tegn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 33,
+      "text": "formummede i Slæb af Dag og Nat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 34,
+      "text": "Da fra det DIG I MIG, som hyller ind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 34,
+      "text": "bag Slør sin Virken, bad jeg: »Giv mit Sind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 34,
+      "text": "en Lygte her i Mørket.« Og det lød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 136,
+      "stanza_id": 34,
+      "text": "som fra derude: »JEG I DIG er blind.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 137,
+      "stanza_id": 35,
+      "text": "Da greb jeg denne Skaal af Jordens Ler,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 138,
+      "stanza_id": 35,
+      "text": "at smage Sandhed, skjult i hvad jeg ser.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 139,
+      "stanza_id": 35,
+      "text": "Og Skaalen mumled: »Drik, mens du er til,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 140,
+      "stanza_id": 35,
+      "text": "for – een Gang død – du ser mig aldrig mer.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 141,
+      "stanza_id": 36,
+      "text": "Jeg tænker, Skaalen, som med sløret Røst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 142,
+      "stanza_id": 36,
+      "text": "gav Svaret, drak engang af Livets Lyst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 143,
+      "stanza_id": 36,
+      "text": "Jeg kyssede dens kolde Læbe ømt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 144,
+      "stanza_id": 36,
+      "text": "»O kys mig ofte, Skaal, og skænk mig Trøst!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 145,
+      "stanza_id": 37,
+      "text": "Ja, fyld min Skaal! Hvi spilde mere Mod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 146,
+      "stanza_id": 37,
+      "text": "paa Tid, som skubber Verden fra vor Fod?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 147,
+      "stanza_id": 37,
+      "text": "Ufødt Imorgen og et dødt Igaar –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 148,
+      "stanza_id": 37,
+      "text": "hvi ænse dem, naar blot Idag er god?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 149,
+      "stanza_id": 38,
+      "text": "Og ender Vin og Kyssets Salighed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 150,
+      "stanza_id": 38,
+      "text": "i dette Intet, hvori alt gaar ned –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 151,
+      "stanza_id": 38,
+      "text": "lad dig kun blænde! Intet er du selv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 152,
+      "stanza_id": 38,
+      "text": "og mindre bli'r du ej i Evighed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 153,
+      "stanza_id": 39,
+      "text": "Naar Englen<button id=note19 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Englen er Azräel, som ifølge en østerlandsk Legende mildner sin Mission ved, idet han rækker Dødens Skaal, samtidig at holde et Æble fra Livets Træ for den døendes Næsebor.</p> \" data-title=\" Fodnote 19\">F19</button> med det sorte Bægers Blink",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 154,
+      "stanza_id": 39,
+      "text": "da finder dig ved Flodens Sommerbrink –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 155,
+      "stanza_id": 39,
+      "text": "kys kun den Skaal, som gør din Mund til Muld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 156,
+      "stanza_id": 39,
+      "text": "og tøm den uden Skælven paa hans Vink.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 157,
+      "stanza_id": 40,
+      "text": "Thi kunde Sjælen Støvet af sig flaa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 158,
+      "stanza_id": 40,
+      "text": "og nøgen ride rundt i Himlens Blaa –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 159,
+      "stanza_id": 40,
+      "text": "var det ej Skam, var det ej Skam for den",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 160,
+      "stanza_id": 40,
+      "text": "i Lerets Hylster længere at gaa?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 161,
+      "stanza_id": 41,
+      "text": "Det er kun Teltet, hvor en Sultan bor",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 162,
+      "stanza_id": 41,
+      "text": "en Dag paa Vej til Riget under Jord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 163,
+      "stanza_id": 41,
+      "text": "Sultanen rejser, og en sort Ferrásh<button id=note20 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Ferrásh dvs. Tæppebreder.</p> \" data-title=\" Fodnote 20\">F20</button>",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 164,
+      "stanza_id": 41,
+      "text": "bereder Teltet for en ny Beboer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 165,
+      "stanza_id": 42,
+      "text": "Og frygt kun ej, at Livet efter vort",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 166,
+      "stanza_id": 42,
+      "text": "vil miste noget, naar vi rejser bort.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 167,
+      "stanza_id": 42,
+      "text": "Den evige Sáki<button id=note21 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Sáki dvs. Vinskænker (her kvindelig).</p> \" data-title=\" Fodnote 21\">F21</button> har af Bobler blæst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 168,
+      "stanza_id": 42,
+      "text": "utallige lig os – og farer fort.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 169,
+      "stanza_id": 43,
+      "text": "Naar du og jeg forlængst bag Sløret gled,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 170,
+      "stanza_id": 43,
+      "text": "o – lang lang Tid vil Verden vare ved,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 171,
+      "stanza_id": 43,
+      "text": "mens den kun husker vort Goddag – Farvel,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 172,
+      "stanza_id": 43,
+      "text": "som Havet husker Stenen, der sank ned.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 173,
+      "stanza_id": 44,
+      "text": "En Ørkenfærd i bælgmørk Evighed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 174,
+      "stanza_id": 44,
+      "text": "et stakket Hvil paa Livets grønne Bred –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 175,
+      "stanza_id": 44,
+      "text": "Dødsskyggens Karavaner er i Drift",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 176,
+      "stanza_id": 44,
+      "text": "mod Intets Morgengry – af Sted, af Sted!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 177,
+      "stanza_id": 44,
+      "text": "– –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 178,
+      "stanza_id": 45,
+      "text": "Et Haar maaske adskiller Falsk og Sandt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 179,
+      "stanza_id": 45,
+      "text": "maaske et enkelt Ciffer<button id=note22 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Et enkelt Ciffer. I den engelske Tekst staar: »a single Alif«.</p> \" data-title=\" Fodnote 22\">F22</button>, ingen fandt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 180,
+      "stanza_id": 45,
+      "text": "var Nøglen til de skjulte Skatte – ja",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 181,
+      "stanza_id": 45,
+      "text": "kanhænde Mesteren gik midt iblandt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 182,
+      "stanza_id": 46,
+      "text": "Han Selv fordulgt i alles Aarer gaar;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 183,
+      "stanza_id": 46,
+      "text": "han gækker al den Søgen, vi formaar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 184,
+      "stanza_id": 46,
+      "text": "tager hver Ham – fra Máh til Máhi<button id=note23 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> Fra Máh til Máhi dvs. fra Fisk til Maane.</p> \" data-title=\" Fodnote 23\">F23</button> – se,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 185,
+      "stanza_id": 46,
+      "text": "han skifter dem, de dør; men han bestaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 186,
+      "stanza_id": 47,
+      "text": "Et Gaaders Nu – saa svinde som et Skælv",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 187,
+      "stanza_id": 47,
+      "text": "i Mørket udenom hans Dramas Hvælv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 188,
+      "stanza_id": 47,
+      "text": "hans Drama, som til Evighedsfordriv",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 189,
+      "stanza_id": 47,
+      "text": "han digter, spiller og betragter selv.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 190,
+      "stanza_id": 48,
+      "text": "Men om forgæves ned mod Jordens Ler",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 191,
+      "stanza_id": 48,
+      "text": "og op mod Himlens lukte Dør du ser",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 192,
+      "stanza_id": 48,
+      "text": "i Dag, mens du er dig – hvorledes da",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 193,
+      "stanza_id": 48,
+      "text": "i Morgen, naar du aldrig bli'r dig mer?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 194,
+      "stanza_id": 49,
+      "text": "– –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 195,
+      "stanza_id": 49,
+      "text": "Om mine Regnestykker Rygtet gaar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 196,
+      "stanza_id": 49,
+      "text": "at de har skabt et mer nøjagtigt Aar –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 197,
+      "stanza_id": 49,
+      "text": "ak nej: jeg strøg kun af min Almanak",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 198,
+      "stanza_id": 49,
+      "text": "Ufødt og Dødt: Imorgen og Igaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 199,
+      "stanza_id": 50,
+      "text": "Jeg holdt et Gilde nys med Svir og Sang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 200,
+      "stanza_id": 50,
+      "text": "idet jeg gifted mig for anden Gang –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 201,
+      "stanza_id": 50,
+      "text": "bar gammel gold Fornuft af Sengen ud",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 202,
+      "stanza_id": 50,
+      "text": "og gav til Rankens Datter Brudens Rang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 203,
+      "stanza_id": 51,
+      "text": "Thi Druen har Logik, som spøgefuld",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 204,
+      "stanza_id": 51,
+      "text": "slaar alle hidsige Sekter helt omkuld –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 205,
+      "stanza_id": 51,
+      "text": "den kaade Alkymist, som i et Nu",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 206,
+      "stanza_id": 51,
+      "text": "forvandler Livets graa Metal til Guld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 207,
+      "stanza_id": 52,
+      "text": "Hvor sælsomt, at de mange, som før mig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 208,
+      "stanza_id": 52,
+      "text": "befôr den Dal, som Solen kender ej,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 209,
+      "stanza_id": 52,
+      "text": "blev alle borte. Jeg har aldrig hørt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 210,
+      "stanza_id": 52,
+      "text": "fra nogen, der har vandret denne Vej.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 211,
+      "stanza_id": 53,
+      "text": "Kom til Khayyám den vise hid og hør:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 212,
+      "stanza_id": 53,
+      "text": "Een Ting er vist, at Liv er Sus i Rør.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 213,
+      "stanza_id": 53,
+      "text": "Een Ting er vist, og alt det andet Tant:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 214,
+      "stanza_id": 53,
+      "text": "Den Blomst, som een Gang blomstred, evigt dør.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 215,
+      "stanza_id": 54,
+      "text": "Lad Kævlet koge! Gaa af Taabens Vej,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 216,
+      "stanza_id": 54,
+      "text": "naar han med Universet gør Staahej!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 217,
+      "stanza_id": 54,
+      "text": "Og lad os øve – i en Vrøvlets Krog –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 218,
+      "stanza_id": 54,
+      "text": "den muntre Leg, som overdriver dig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 219,
+      "stanza_id": 55,
+      "text": "Thi mellem Himlens Hvælv og Jordens Ring",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 220,
+      "stanza_id": 55,
+      "text": "et Intet staar forklædt i alle Ting.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 221,
+      "stanza_id": 55,
+      "text": "Og i en Sal, hvis Lampe er en Sol,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 222,
+      "stanza_id": 55,
+      "text": "gaar vi som Skyggebilleder omkring.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 223,
+      "stanza_id": 56,
+      "text": "Drivkraftens Finger sine Skrifttegn snor.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 224,
+      "stanza_id": 56,
+      "text": "Om al din Kløgt og Fromhed den besvor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 225,
+      "stanza_id": 56,
+      "text": "den aldrig strøg en skreven Linje bort –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 226,
+      "stanza_id": 56,
+      "text": "og al din Graad ej tvætter ud et Ord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 227,
+      "stanza_id": 57,
+      "text": "Det første Ler i Jordens første Land",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 228,
+      "stanza_id": 57,
+      "text": "har givet Stof til Jordens sidste Mand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 229,
+      "stanza_id": 57,
+      "text": "Og Verdens Skabelse skrev selv den Bog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 230,
+      "stanza_id": 57,
+      "text": "som Dommedagen truer med sin Brand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 231,
+      "stanza_id": 58,
+      "text": "Du, som af muddret Ler gav Manden Liv",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 232,
+      "stanza_id": 58,
+      "text": "og gav ham Eden, Slangen og – en Viv<button id=note28 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> »En Viv« er tilføjet i den danske Oversættelse. Den engelske Tekst siger (A): »O du, som skabte Manden af daarlig Jord, og som med Eden testamenterede ham Slangen« – (eller »lod ham arve Slangen«) osv. Denne Strofe skal ikke findes hos Omar, men være digtet »i Omars Aand« af Fitzgerald selv.</p> \" data-title=\" Fodnote 28\">F28</button>!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 233,
+      "stanza_id": 58,
+      "text": "Naar han for dig af Synder sodet staar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 234,
+      "stanza_id": 58,
+      "text": "tilgiv hinanden, du og han – tilgiv!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 235,
+      "stanza_id": 59,
+      "text": "Aa, ræk mig Vin i Livets Aftenrødt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 236,
+      "stanza_id": 59,
+      "text": "tvæt mig deri, naar Legemet er dødt –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 237,
+      "stanza_id": 59,
+      "text": "lad mig begraves, klædt i Rankens Løv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 238,
+      "stanza_id": 59,
+      "text": "og ved en Haveside hvile sødt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 239,
+      "stanza_id": 60,
+      "text": "Da slynger jeg en Snare af min Duft",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 240,
+      "stanza_id": 60,
+      "text": "om dem, der gaar forbi i Dagens Luft,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 241,
+      "stanza_id": 60,
+      "text": "saa mangen Troende skal svimle om",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 242,
+      "stanza_id": 60,
+      "text": "imellem Salighed og sund Fornuft.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 243,
+      "stanza_id": 61,
+      "text": "Hver Afgud, jeg har dyrket mangen Gang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 244,
+      "stanza_id": 61,
+      "text": "har gjort min Færd i Verdens Øjne vrang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 245,
+      "stanza_id": 61,
+      "text": "druknet min Ære i saa flad en Skaal",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 246,
+      "stanza_id": 61,
+      "text": "og solgt mit gode Rygte for en Sang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 247,
+      "stanza_id": 62,
+      "text": "Ja, – Bod og Bedring tit, mens Tiden fôr,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 248,
+      "stanza_id": 62,
+      "text": "jeg svor, men var jeg ædru, naar jeg svor?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 249,
+      "stanza_id": 62,
+      "text": "Og stundom kom der Vaar – og Rosers Væld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 250,
+      "stanza_id": 62,
+      "text": "og alle Sorgens Pjalter sank til Jord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 251,
+      "stanza_id": 63,
+      "text": "Ak ve, at Vaaren skulde visne bort,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 252,
+      "stanza_id": 63,
+      "text": "at Ungdoms søde Digt var altfor kort!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 253,
+      "stanza_id": 63,
+      "text": "Den Nattergal, som nys i Grenen sang –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 254,
+      "stanza_id": 63,
+      "text": "hvor kom den fra, til hvad mon den fløj bort?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 255,
+      "stanza_id": 64,
+      "text": "Aa kære! Fik vi Fatums Vingefang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 256,
+      "stanza_id": 64,
+      "text": "greb vi i Farten Verdens usle Gang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 257,
+      "stanza_id": 64,
+      "text": "slog alt itu og skabte alt paany –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 258,
+      "stanza_id": 64,
+      "text": "paany, men mere efter Hjertets Trang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 259,
+      "stanza_id": 65,
+      "text": "Se Himlens Maane over Havens Træ!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 260,
+      "stanza_id": 65,
+      "text": "Hvor ofte vil den skifte Ny og Næ?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 261,
+      "stanza_id": 65,
+      "text": "Hvor ofte vil herefter Maanens Blik",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 262,
+      "stanza_id": 65,
+      "text": "forgæves søge mig i Havens Læ?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 263,
+      "stanza_id": 66,
+      "text": "Og gaar lig Maanen du i det Palads,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 264,
+      "stanza_id": 66,
+      "text": "hvor Vaarens Gæster tog som Stjerner Plads",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 265,
+      "stanza_id": 66,
+      "text": "rundt mellem Græs – og, Sáki, staar du mild,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 266,
+      "stanza_id": 66,
+      "text": "hvor jeg skød Blomst – vend ned det tømte Glas!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 267,
+      "stanza_id": 67,
+      "text": "– »Wine! Wine! Wine!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 268,
+      "stanza_id": 67,
+      "text": "Red Wine!« – the Nightingale cries to the Rose",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 269,
+      "stanza_id": 67,
+      "text": "That sallow Cheek of hers t'incarnadine.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 270,
+      "stanza_id": 68,
+      "text": "Jeg saa' de Søjler hæve sig endnu,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 271,
+      "stanza_id": 68,
+      "text": "hvor Konger laa for Dør med tynget Hu.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 272,
+      "stanza_id": 68,
+      "text": "Ringduen saa' jeg sidde ensom der,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 273,
+      "stanza_id": 68,
+      "text": "og »Ku-ku-ku«, den sang, og »Ku-ku-ku.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 274,
+      "stanza_id": 69,
+      "text": "»Da raabte jeg mod Himlens Hvælving klar:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 275,
+      "stanza_id": 69,
+      "text": "»O sig mig, hvilken Lygte Skæbnen har",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 276,
+      "stanza_id": 69,
+      "text": "for sine smaa, som snubler her i Mulm!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 277,
+      "stanza_id": 69,
+      "text": "»Min egen Blindhed« – lød det fjerne Svar.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 278,
+      "stanza_id": 70,
+      "text": "»But leave the Wise to wrangle, and with me",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 279,
+      "stanza_id": 70,
+      "text": "The Quarrel of the Universe let be.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 280,
+      "stanza_id": 71,
+      "text": "A. »For in and out, above, about, below,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 281,
+      "stanza_id": 71,
+      "text": "'Tis nothing but a Magic Shadow-show,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 282,
+      "stanza_id": 71,
+      "text": "Play'd in a Box whose Candle is the Sun,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 283,
+      "stanza_id": 71,
+      "text": "Round which we Phantom Figures come and go.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 284,
+      "stanza_id": 72,
+      "text": "B. »We are no other than a moving row",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 285,
+      "stanza_id": 72,
+      "text": "Of Magic Shadow-shapes that come and go",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 286,
+      "stanza_id": 72,
+      "text": "Round with the Sun-illumin'd Lantern held",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 287,
+      "stanza_id": 72,
+      "text": "In Midnight by the Master of the Show.«",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

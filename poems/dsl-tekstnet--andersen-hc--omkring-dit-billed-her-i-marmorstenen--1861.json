@@ -1,0 +1,45 @@
+{
+  "id": null,
+  "title": "Omkring dit Billed her i Marmorstenen",
+  "year_created": 1861,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1861,
+    "url": "https://tekstnet.dk/books/andersen-hc_omkring-dit-billed-her-i-marmorstenen/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Omkring dit Billed her i Marmorstenen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Et Folk taknemlig slynger Laurbærgrenen;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Der groer en ny, hver Gang Du sees paa Scenen.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

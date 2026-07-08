@@ -1,0 +1,94 @@
+{
+  "id": null,
+  "title": "Fastelavn",
+  "year_created": 1830,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1830,
+    "url": "https://tekstnet.dk/books/andersen-hc_digte-1830/030/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Fastelavn idyllisk staaer med sin Gaas i Haanden,<button id=note1 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p>Man veed, at det indtil vor Tid har været en Skik paa Landet, at trække Hovedet af en Gaas Fastelavns-Mandag.</p> \" data-title=\" Fodnote 1\">F1</button>",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Og foruden Bollerne faaer man lidt for Aanden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Midt paa Kjøbsted-Torvet hist, seer man Tønden hænge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Byens ædle Borgerskab og de voxne Drenge",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Slaae paa Tønden stærke Slag saa ihast den knækker,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Den som slog det sidste Slag man en Krone rækker.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Inde nu han hædres skal høit med Sang og Drikken,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Og i Toget tør han gaae lige ved Musikken.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Der er baade Violin, Tromme og Skalmeie;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Mildt han hilser rundtomkring, Byens Damer neie.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": null,
+  "title": "flykt",
+  "year_created": 1936,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Gustaf Munch-Petersen",
+    "country": null,
+    "wiki": "Q1364400"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Solen Finns",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1936,
+    "url": "https://tekstnet.dk/books/munch-petersen-g_solen-finns/043/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "låt oss hemligt och stolt bära ödmjukhet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "genom dagarna -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "vårt liv är en fantastiskt gammal,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "stinkande kokott, smekande",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "nyanserat, raffinerat, så att vi glömma",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "hennes leenden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "hennes dumma händer -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "låt oss smyga som hövdingar, galna av stolthet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "alla stigar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "som icke äro hennes,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "bärande vår sista ödmjukhet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "som guld -",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

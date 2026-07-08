@@ -1,0 +1,1830 @@
+{
+  "id": null,
+  "title": "Dronning Mathilde",
+  "year_created": 1835,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Carl Ploug",
+    "country": null,
+    "wiki": "Q347860"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1835,
+    "url": "https://tekstnet.dk/books/ploug-c_dronning-mathilde/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Paa Østerfælled gik der Dands.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Snefunker sprang i Solens Glands,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Som Hingstens staalbeklædte Hov",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Løs fra den frosne Skorpe slog;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Fra Byen til den stille Skov",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "En prægtig Jægerskare jog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "I Fløjel klædt og Silkestof,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Det var Kong Christians muntre Hof.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Foran det hele Følge fløj",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "En Dame, fyldig, rank og høj.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Dybt aanded hendes fulde Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "Og Øjet straalte Liv og Lyst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Og Kinden blussed, varm og rød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "Omkap med Læbens Purpurglød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "De rige Lokkers gyldne Skat",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "Var fængslet af en Fjederhat;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "Men Ridekjortlens dunkle Flod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "For Vinden bølgede og lod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "Mod Kvindevis og Landets Skik,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "Tilsyne for hvert dristigt Blik",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "De runde Formers bløde Pragt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "Slet dulgte af en mandlig Dragt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "Spidsborgeren, som udenbys",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "Var trippet efter Luft og Lys,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "Af Tanke tabte Læst og Disk;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "Trælbonden glemte Fogdens Pidsk,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Og begge stod paa Vejen stille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "Og maabed paa det skjønne Syn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "Der som et Stjerneskud, et Lyn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "Forbi det dorske Øje gled:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "Men hun, som dristig Gangeren red,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "Var den smukke Dronning Mathilde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 0,
+      "text": "Og der gik Dands paa Frydenlund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 0,
+      "text": "Fuldmaanen steg af Øresund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 0,
+      "text": "Men skinsyg blegnede dens Kind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 0,
+      "text": "Fordi de tændte Kroners Pragt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 0,
+      "text": "Fordunklede dens Straalers Magt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 0,
+      "text": "I Skoven brummed Nattens Vind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 0,
+      "text": "Mens dog som lydig Træl den bar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 0,
+      "text": "Musikens Toner, Ekkos Svar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 0,
+      "text": "Henover Gulvets blanke Bræt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 0,
+      "text": "En gravitetisk Menuet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 0,
+      "text": "Nu gled: et stolt og herligt Par",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 0,
+      "text": "De to, som dandsede den, var.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 0,
+      "text": "Nu ligned hun en Dronning mer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 0,
+      "text": "End nylig, da i Hjortens Spor",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 0,
+      "text": "Som Amazone klædt hun fo'r;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 0,
+      "text": "Nu Diademet gød sit Skær",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 0,
+      "text": "Om Pandens stejle Marmorvæg;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 0,
+      "text": "I hundred Folder, hundred Læg",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 0,
+      "text": "Den side Fløjelskjole faldt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 0,
+      "text": "Om hendes yppige Gestalt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 0,
+      "text": "Og over hendes Væsen bredt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 0,
+      "text": "Var Gratie og Majestæt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 0,
+      "text": "Men hvem var han, hun kaared i",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 0,
+      "text": "Sin Yndlingsdands til vis å vis?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 0,
+      "text": "En Orden smykkede hans Bryst;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 0,
+      "text": "Stolt var hans Holdning, Øjet lyst;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 0,
+      "text": "Der lued gjennem det en Aand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 0,
+      "text": "Forløst af Fordoms trange Baand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 0,
+      "text": "Hans Ansigt var i ædel Stil,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 0,
+      "text": "Men tegnet var dets Ungdomsflor",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 0,
+      "text": "Af Nydelsernes matte Spor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 0,
+      "text": "Og Letsind leged i dets Smil.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 0,
+      "text": "Var han et Skud af Fyrsteslægt?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 0,
+      "text": "Bar selv maaske han Kronens Vægt?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 0,
+      "text": "Nej, dunkel var hans Stand, hans Navn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 0,
+      "text": "Før Lykken krysted ham i Favn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 0,
+      "text": "Og svang ham op paa Tronens Fod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 0,
+      "text": "Hvor nu han enevældig stod. -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 0,
+      "text": "Musiken taug: hun tog hans Arm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 0,
+      "text": "Og svæved blussende og varm",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 0,
+      "text": "Igjennem sine Damers Rad;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 0,
+      "text": "Han bukked dybt, de skiltes ad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 0,
+      "text": "Der blev ej talt, men taltes dog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 0,
+      "text": "Med Øjets klare, rige Sprog.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 0,
+      "text": "I hans laa meget mer udtrykt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 0,
+      "text": "End undersaatlig Ærefrygt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 0,
+      "text": "Og hendes flygtede for hans,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 0,
+      "text": "Bedugget af en fugtig Glands.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 0,
+      "text": "Men Hoffets vaagne Argusblik",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 0,
+      "text": "Opsnappede det Bud, der gik",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 0,
+      "text": "Med Hjertets Spørgsmaal, Hjertets Svar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 0,
+      "text": "Imellem hint misundte Par,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 0,
+      "text": "Og tydede det snildt, men ilde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 0,
+      "text": "Og snart der bugted sig en Snog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 0,
+      "text": "I Salen rundt fra Krog til Krog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 0,
+      "text": "Og Edder fra dens Tunge sprang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 0,
+      "text": "Men Maalet for dens hvislende Sang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 0,
+      "text": "Yar den smukke Dronning Mathilde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 0,
+      "text": "Paa Christiansborg gik Dands igjen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 0,
+      "text": "Da Maanen, netop fyldt paany,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 0,
+      "text": "I Sølvflor hylled Slot og By.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 0,
+      "text": "Hist fra sin stille Bane den",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 0,
+      "text": "Saa' bredet Nattens klamme Gys,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 0,
+      "text": "Hvor Livets Straaler funkled nys;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 0,
+      "text": "Saa' Glædens tonerige Larm",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 0,
+      "text": "Afløst af Mørkets skumle Daad;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 0,
+      "text": "Saa' Kinden zittrende af Graad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 0,
+      "text": "Der nylig gløded elskovsvarm.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 0,
+      "text": "Endt Ballet var, Musikens Flugt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 0,
+      "text": "Var standset, Lys og Fakkel slukt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 0,
+      "text": "Nu laa det prægtige Palads",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 0,
+      "text": "Som øde paa den tause Plads;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 0,
+      "text": "Kun Vagtens monotone Skridt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 0,
+      "text": "Lød i de hvalte Gange vidt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 0,
+      "text": "Men Hævnens Tiger ikke sov:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 0,
+      "text": "Den lister lurende omkring,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 0,
+      "text": "Og maaler sindrig af det Spring,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 0,
+      "text": "Hvori den knuse vil sit Rov;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 0,
+      "text": "Og Herskesygen rejser sig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 0,
+      "text": "Megæren, gusten som et Lig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 0,
+      "text": "Med Slanger i den kolde Barm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 0,
+      "text": "Med Sværdet i den magre Arm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 0,
+      "text": "Hun bygger i det mørke Slot",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 0,
+      "text": "En Trone nu af et Skafot. -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 0,
+      "text": "Hvad rørte sig i Nattens Skød?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 0,
+      "text": "Der flagred hist og her et Skin",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 0,
+      "text": "Af Lys, - der trampe d tunge Trin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 0,
+      "text": "Og Vaaben klirred, Stemmer lød, -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 0,
+      "text": "Og atter Alt igjen blev tyst. -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 0,
+      "text": "Men Dronningens Gemak er lyst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 0,
+      "text": "Der staar hun selv i natlig Dragt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 0,
+      "text": "Nys af sin Lykkes Drømme vakt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 0,
+      "text": "Nu knust af Smerte, stum af Skræk,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 0,
+      "text": "Med bævende og blege Træk.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 0,
+      "text": "Forgjæves om Medlidenhed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 0,
+      "text": "Hun bad, med Øjet sænket ned,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 0,
+      "text": "Som Tankens hemmelige Krog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 0,
+      "text": "Hun vilde dække med dets Laag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 0,
+      "text": "Forgjæves med fornyet Mod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 0,
+      "text": "Hun standser sine Taarers Flod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 0,
+      "text": "Og trodser paa sin Højheds Ret;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 0,
+      "text": "Thi Vredens Pil afprelled let",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 0,
+      "text": "Fra Lejesvendens haarde Skind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 0,
+      "text": "Og Taarer rørte ej hans Sind. -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 136,
+      "stanza_id": 0,
+      "text": "Men hvor var han, som med sin Magt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 137,
+      "stanza_id": 0,
+      "text": "Stod for sin Hustrus Ære Vagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 138,
+      "stanza_id": 0,
+      "text": "Som skulde hævnet hendes Skam,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 139,
+      "stanza_id": 0,
+      "text": "Hvis den var til for Gud og ham?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 140,
+      "stanza_id": 0,
+      "text": "En Olding svag i Livets Vaar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 141,
+      "stanza_id": 0,
+      "text": "Et Barn i Tanke, Mand i Aar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 142,
+      "stanza_id": 0,
+      "text": "En Slave i en Konges Sted,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 143,
+      "stanza_id": 0,
+      "text": "En Dukke, som man leged med,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 144,
+      "stanza_id": 0,
+      "text": "Henstrakt i vaagen Søvn han laa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 145,
+      "stanza_id": 0,
+      "text": "Og husked ikke længer paa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 146,
+      "stanza_id": 0,
+      "text": "At nys sin Hustru og sin Ven",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 147,
+      "stanza_id": 0,
+      "text": "Han gav til Død og Skændsel hen. -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 148,
+      "stanza_id": 0,
+      "text": "Omsider fødtes Morgnens Gry,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 149,
+      "stanza_id": 0,
+      "text": "Indsvøbt i tætte Taagers Sky;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 150,
+      "stanza_id": 0,
+      "text": "Af Sengen Borgermanden steg",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 151,
+      "stanza_id": 0,
+      "text": "Og traven efter Vejret keg.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 152,
+      "stanza_id": 0,
+      "text": "Forbløffet han bemærked, at",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 153,
+      "stanza_id": 0,
+      "text": "Soldater Slottet holdt besat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 154,
+      "stanza_id": 0,
+      "text": "Og saa Dragonerne, der red",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 155,
+      "stanza_id": 0,
+      "text": "Paa Pladsen foran op og ned;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 156,
+      "stanza_id": 0,
+      "text": "Saa' Portens Pløje lukkes op;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 157,
+      "stanza_id": 0,
+      "text": "Saa' bruse frem en Ryttertrop,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 158,
+      "stanza_id": 0,
+      "text": "Som tæt en lukket Vogn omgav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 159,
+      "stanza_id": 0,
+      "text": "Og hørte deres skarpe Trav",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 160,
+      "stanza_id": 0,
+      "text": "Gjenlyde dump i Morgnens Stille.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 161,
+      "stanza_id": 0,
+      "text": "Men Sukket, som fra Vognen lød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 162,
+      "stanza_id": 0,
+      "text": "Og Taaren, som ustandset flød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 163,
+      "stanza_id": 0,
+      "text": "Derinde, blev ej hørt, ej set;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 164,
+      "stanza_id": 0,
+      "text": "Thi Fangen i den mørke Karet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 165,
+      "stanza_id": 0,
+      "text": "Var den smukke Dronning Mathilde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 166,
+      "stanza_id": 0,
+      "text": "Paa Østerfælled gik der Dands.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 167,
+      "stanza_id": 0,
+      "text": "Blodstraalen sprang i Solens Glands;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 168,
+      "stanza_id": 0,
+      "text": "Et Hoved faldt for Bødlens Sværd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 169,
+      "stanza_id": 0,
+      "text": "Der var en bedre Skæbne værd;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 170,
+      "stanza_id": 0,
+      "text": "Et Navn med Haan udslettet blev,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 171,
+      "stanza_id": 0,
+      "text": "Som Saga paa sit Skjold opskrev;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 172,
+      "stanza_id": 0,
+      "text": "Et Rygte Pøblen søndersled,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 173,
+      "stanza_id": 0,
+      "text": "Der voxed med den Tort, det led;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 174,
+      "stanza_id": 0,
+      "text": "Den Mand, der Ordet havde løst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 175,
+      "stanza_id": 0,
+      "text": "Med Ordets Gift blev overøst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 176,
+      "stanza_id": 0,
+      "text": "Og det var ham, som nylig stolt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 177,
+      "stanza_id": 0,
+      "text": "I Tømme tvende Riger holdt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 178,
+      "stanza_id": 0,
+      "text": "Hvis Kongemagt og Kongeglands",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 179,
+      "stanza_id": 0,
+      "text": "Kun savned Kronens gyldne Krands;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 180,
+      "stanza_id": 0,
+      "text": "Som Lysets første Dæmring saa'",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 181,
+      "stanza_id": 0,
+      "text": "I Tidens Horizont opgaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 182,
+      "stanza_id": 0,
+      "text": "Og voved kjæk at lægge ned",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 183,
+      "stanza_id": 0,
+      "text": "I Livets Mark sin Tankes Sæd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 184,
+      "stanza_id": 0,
+      "text": "Men fjern var end den Morgenstund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 185,
+      "stanza_id": 0,
+      "text": "Der endte Folkets lange Blund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 186,
+      "stanza_id": 0,
+      "text": "Og Livets Ager, haard og gold,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 187,
+      "stanza_id": 0,
+      "text": "Bar Hadets kun og Hævnens Fold,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 188,
+      "stanza_id": 0,
+      "text": "Og krøved, før hans Sæd slog Rod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 189,
+      "stanza_id": 0,
+      "text": "En Vanding af hans eget Blod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 190,
+      "stanza_id": 0,
+      "text": "Han faldt - thi han var voxet fra",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 191,
+      "stanza_id": 0,
+      "text": "Den Tid, som han var fostred a',",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 192,
+      "stanza_id": 0,
+      "text": "Men mægted, trods sin Vælde, ej",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 193,
+      "stanza_id": 0,
+      "text": "At løfte Tiden op til sig;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 194,
+      "stanza_id": 0,
+      "text": "Han faldt - fordi, af Overmod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 195,
+      "stanza_id": 0,
+      "text": "Og egen Storheds Drøm berust,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 196,
+      "stanza_id": 0,
+      "text": "Den Verden, der engang bestod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 197,
+      "stanza_id": 0,
+      "text": "Han vilde sparket ned og knust,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 198,
+      "stanza_id": 0,
+      "text": "Og af sin endelige Kraft",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 199,
+      "stanza_id": 0,
+      "text": "En ny og bedre atter skabt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 200,
+      "stanza_id": 0,
+      "text": "Han faldt - fordi den Ærens Tind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 201,
+      "stanza_id": 0,
+      "text": "Han stræbte mod, var kun et Skin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 202,
+      "stanza_id": 0,
+      "text": "Fordi hans Maal, det var ham selv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 203,
+      "stanza_id": 0,
+      "text": "Men Midlet kun var Folkets Vel;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 204,
+      "stanza_id": 0,
+      "text": "Han faldt - og soned med sin Død",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 205,
+      "stanza_id": 0,
+      "text": "Vist meget mer, end han forbrød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 206,
+      "stanza_id": 0,
+      "text": "Udslettet blev af smaaligt Nid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 207,
+      "stanza_id": 0,
+      "text": "Hvert Minde om hans kjække Id,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 208,
+      "stanza_id": 0,
+      "text": "Men eet dog i al Evighed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 209,
+      "stanza_id": 0,
+      "text": "Fra Slægt til Slægt skal arves ned",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 210,
+      "stanza_id": 0,
+      "text": "Og funkle fra hans glemte Grav:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 211,
+      "stanza_id": 0,
+      "text": "At Folkets Røst han Frihed gav.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 212,
+      "stanza_id": 0,
+      "text": "Han faldt - og hun, som havde laht",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 213,
+      "stanza_id": 0,
+      "text": "Udi hans Haand sin egen Magt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 214,
+      "stanza_id": 0,
+      "text": "Hvis Naades straalerige Væld",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 215,
+      "stanza_id": 0,
+      "text": "Befrugtede hans stolte Sjæl",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 216,
+      "stanza_id": 0,
+      "text": "Og lokked frem hans høje Kald,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 217,
+      "stanza_id": 0,
+      "text": "- Hun knustes af ham i hans Fald.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 218,
+      "stanza_id": 0,
+      "text": "Hvor Sjælland strækker ud sin Arm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 219,
+      "stanza_id": 0,
+      "text": "Som længtes det mod Sveas Barm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 220,
+      "stanza_id": 0,
+      "text": "Hvor Odden deler Øresund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 221,
+      "stanza_id": 0,
+      "text": "Der staar endnu den gamle Borg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 222,
+      "stanza_id": 0,
+      "text": "Som skued hendes bittre Sorg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 223,
+      "stanza_id": 0,
+      "text": "Som hørte hendes egen Mund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 224,
+      "stanza_id": 0,
+      "text": "Bekjende, for at frelse ham,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 225,
+      "stanza_id": 0,
+      "text": "Den skjulte Brødes tunge Skam.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 226,
+      "stanza_id": 0,
+      "text": "Den er et Vidne taust, der veed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 227,
+      "stanza_id": 0,
+      "text": "Om Ordet, som hun har udsagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 228,
+      "stanza_id": 0,
+      "text": "Var vristet frem ved Svig og Magt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 229,
+      "stanza_id": 0,
+      "text": "Om hun fortjente, hvad hun led;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 230,
+      "stanza_id": 0,
+      "text": "Om hendes Ære, ren og blank,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 231,
+      "stanza_id": 0,
+      "text": "Kun som et grusomt Offer sank",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 232,
+      "stanza_id": 0,
+      "text": "For usle Rænkers lumske Spil;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 233,
+      "stanza_id": 0,
+      "text": "Thi den har ogsaa lyttet til,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 234,
+      "stanza_id": 0,
+      "text": "Naar hun i ydmyg Bøn til Gud",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 235,
+      "stanza_id": 0,
+      "text": "Sit Hjertes Løndom folded ud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 236,
+      "stanza_id": 0,
+      "text": "Nu er hun død, - og Danmark gav",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 237,
+      "stanza_id": 0,
+      "text": "Sin Dronning ej engang en Grav;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 238,
+      "stanza_id": 0,
+      "text": "Nu smuldrer paa en fremmed Kyst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 239,
+      "stanza_id": 0,
+      "text": "Den friske Mund, det fulde Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 240,
+      "stanza_id": 0,
+      "text": "Der fordum aanded Liv og Lyst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 241,
+      "stanza_id": 0,
+      "text": "Den Slægt, der stirrede sig blind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 242,
+      "stanza_id": 0,
+      "text": "I hendes Yndes varme Skin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 243,
+      "stanza_id": 0,
+      "text": "Er gangen samme Vej som den.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 244,
+      "stanza_id": 0,
+      "text": "Kun Sagnet gaar endnu igjen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 245,
+      "stanza_id": 0,
+      "text": "Vemodigt toner det fra hver",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 246,
+      "stanza_id": 0,
+      "text": "En Plet, hun engang havde kjær,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 247,
+      "stanza_id": 0,
+      "text": "Det sukker i de gamle Træ'r,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 248,
+      "stanza_id": 0,
+      "text": "Hvis dunkle, melankolske Krands",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 249,
+      "stanza_id": 0,
+      "text": "Omgiver Hirschholms sjunkne Glands;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 250,
+      "stanza_id": 0,
+      "text": "Det suser langs det friske Sund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 251,
+      "stanza_id": 0,
+      "text": "Fra hendes Glædes lyse Lund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 252,
+      "stanza_id": 0,
+      "text": "Og naar en Sanger i dens milde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 253,
+      "stanza_id": 0,
+      "text": "Vaargrønne Højsal træder ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 254,
+      "stanza_id": 0,
+      "text": "Saa griber Mindets Kraft hans Sind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 255,
+      "stanza_id": 0,
+      "text": "Saa fødes paa hans stille Gang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 256,
+      "stanza_id": 0,
+      "text": "Af Sagn og Drøm en klagende Sang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 257,
+      "stanza_id": 0,
+      "text": "Om den smukke Dronning Mathilde.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

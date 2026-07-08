@@ -1,0 +1,543 @@
+{
+  "id": null,
+  "title": "241. Meer end himmel-søde",
+  "year_created": 1739,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Adolph Brorson",
+    "country": null,
+    "wiki": "Q348003"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Troens Rare Klenodie",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1739,
+    "url": "https://tekstnet.dk/books/brorson-ha_troens-rare-klenodie/231/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Meer end himmel-søde",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: Bruden."
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Milde Jesse riis,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "See mit hierte bløde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Efter dig, min priis,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "See! hvordan mig driver",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Kierlighedens iver",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Fra mig selv til dig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Til dig, mit paradiis.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Jorden har kun møye,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "Ubestandighed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 1,
+      "text": "Sielens klare øye",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 1,
+      "text": "Af det støv er keed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 1,
+      "text": "Bort de tankers nelder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 1,
+      "text": "Som til verden helder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "Tag mig, at jeg kun",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "Af dig allene veed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 2,
+      "text": "Prægtigste fyrstinde,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: Brudgommen."
+      ]
+    },
+    {
+      "id": 17,
+      "stanza_id": 2,
+      "text": "Det er troens pragt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 5,
+      "text": "Amen! ja jeg bliver",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: Bruden."
+      ]
+    },
+    {
+      "id": 19,
+      "stanza_id": 5,
+      "text": "Fast ved dette baand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 5,
+      "text": "At mig intet river",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 5,
+      "text": "Af din hulde haand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 5,
+      "text": "Men mit arme hierte",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 5,
+      "text": "Des uagtet smerte",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 5,
+      "text": "Daglig føle maa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 5,
+      "text": "Som qvæler haardt min aand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 6,
+      "text": "Vil du med regiere,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: Brudgommen."
+      ]
+    },
+    {
+      "id": 27,
+      "stanza_id": 6,
+      "text": "Dog gaae kors forbi,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 8,
+      "text": "Brudgom! milde hierte!",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: Bruden."
+      ]
+    },
+    {
+      "id": 29,
+      "stanza_id": 8,
+      "text": "Hist er alting sødt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 8,
+      "text": "Her er idel smerte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 8,
+      "text": "Alting koldt og dødt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 8,
+      "text": "Er det da ey billigt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 8,
+      "text": "At mit sind er villigt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 8,
+      "text": "Snart at gaae herfra,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 8,
+      "text": "Som er af sorg forstødt?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 9,
+      "text": "Flyve-tanker drage",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: Brudgommen."
+      ]
+    },
+    {
+      "id": 37,
+      "stanza_id": 9,
+      "text": "Dig i verden ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 9,
+      "text": "Selv sig at forsage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 9,
+      "text": "Giør et himmel-sind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 9,
+      "text": "Stille skal du tie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 9,
+      "text": "Til jeg kommer, bie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 9,
+      "text": "Nok, at jeg er din,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 9,
+      "text": "Og du min rosen-kind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 10,
+      "text": "Lad dig ey forvilde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 10,
+      "text": "Af dit eget mod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 10,
+      "text": "Aldrig foer hand ilde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 10,
+      "text": "Som sig overlod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 12,
+      "text": "JEsu, jeg med smerte",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: Bruden."
+      ]
+    },
+    {
+      "id": 49,
+      "stanza_id": 12,
+      "text": "Klager, mig ey værd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 12,
+      "text": "At dit milde hierte",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 12,
+      "text": "Har min siel saa kier,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 12,
+      "text": "Vil din livsens lære",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 12,
+      "text": "Stedse lydig være;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 12,
+      "text": "Thi du ene veedst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 12,
+      "text": "Hvad mig kand tiene her.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 13,
+      "text": "Skal jeg længer bære",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 13,
+      "text": "Dette svage leer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 13,
+      "text": "Du mit liv skal være,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 13,
+      "text": "Nu hvad vil jeg meer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 13,
+      "text": "Skal jeg afskeed tage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 13,
+      "text": "Glad vil jeg da drage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 13,
+      "text": "Ind i himlens fryd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 13,
+      "text": "Ja, amen, vist det skeer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 14,
+      "text": "O! hvor skal min tone,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 14,
+      "text": "Hvad jeg kand formaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 14,
+      "text": "I saphirers throne",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 14,
+      "text": "For dig liflig gaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 14,
+      "text": "Naar jeg skal fornemme",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 14,
+      "text": "Alle englers stemme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 14,
+      "text": "Og at jeg blant dem",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 14,
+      "text": "I jubel-fryd skal staae.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

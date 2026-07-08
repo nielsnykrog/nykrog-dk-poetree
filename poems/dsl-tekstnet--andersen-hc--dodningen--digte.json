@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "title": "Dödningen",
+  "year_created": 1830,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1830,
+    "url": "https://tekstnet.dk/books/andersen-hc_digte-1830/049/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "»Mährchen noch so wunderbar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Dichterkünste machen’s wahr.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "»Kold og hvid, varm og rød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Kongekrone eller Død« –",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "id": null,
+  "title": "Synderen",
+  "year_created": [
+    1570,
+    1573
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Langebeks kvart",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1573,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/LNGK60.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Ieg stod enn morgen saa hiemmeliig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "ieg horde enn røst saa gredeliig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "mon siig saa inckelliig klage:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "\"Ouwer, mig arme creatur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "sa stor er nu min klage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Min iammer er stor, end nogen wiid,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "min pine er bode kold och heed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "som ieg for sinden schall liide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "som ieg Gud haffuer fortornet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "diig mig tiil store angist och quide.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Som ieg then røst nu horde saa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "ieg miig der heeden skynde maa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 2,
+      "text": "thenne saag forfare herre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 2,
+      "text": "huor-for thett arme mennische,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 2,
+      "text": "sa monne siig klage och kiere.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 3,
+      "text": "Der ieg nu kom tiill den same steed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 3,
+      "text": "ther sad en mennische och gredtt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 3,
+      "text": "sa sare inckelig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 3,
+      "text": "och iammerde siig offuer sin store sorrig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 3,
+      "text": "sa mogitt bitterlige.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 4,
+      "text": "Ieg sagde: \"Huad skadder diig, arme mand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 4,
+      "text": "attu icke afflade khannd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 4,
+      "text": "saa grede och saa klag;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 4,
+      "text": "du siige meg thett, och dølle thett ey,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 4,
+      "text": "huad er thin sorrig och plage?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 5,
+      "text": "\"Huad khan ieg siige vdaff min nød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 5,
+      "text": "thy meg staar for then euige død,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 5,
+      "text": "for sinder ieg haffuer bedreffuitt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 5,
+      "text": "o we, meg arme vsle mand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 5,
+      "text": "wor ylde haffuer ieg leffuitt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 6,
+      "text": "Och myne samuittighett trenger saa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 6,
+      "text": "aff synder bode stor och smaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 6,
+      "text": "ieg khand denom ey quitt bliffue;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 6,
+      "text": "och, hadde ieg nogen fuldtro wen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 6,
+      "text": "meg raaden wille giffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 7,
+      "text": "Ieg haffuer werit hosz pawen y Rom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 7,
+      "text": "ieg war fast war, ieg igien kom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 7,
+      "text": "hand wiisde mig weyen vrange;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 7,
+      "text": "ieg motte heller haffue weritt ther-fra",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 7,
+      "text": "end gaaett then wey saa laanghe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 8,
+      "text": "Ieg war och wed then hellige graff",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 8,
+      "text": "baade med puose och med staff",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 8,
+      "text": "och andere steder flere;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 8,
+      "text": "ieg vdrette icke anditt der-med,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 8,
+      "text": "end min sin der-tiill att formehre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 9,
+      "text": "Ia mere ieg mig med saadan ting",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 9,
+      "text": "och med min egen gierning,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 9,
+      "text": "att ieg wille fullest noch giøre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 9,
+      "text": "io reddere min samuittighed er,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 9,
+      "text": "will meg till myshobe føre.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 10,
+      "text": "Ieg sagde tiill hanum: \"Nu høre tiill,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 10,
+      "text": "ieg diig then rette mand wise will,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 10,
+      "text": "som deg khan trøsten giffue:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 10,
+      "text": "Iesus Christus then same er,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 10,
+      "text": "hand giffuer aanen och liffuitt.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 11,
+      "text": "\"Ieg haffuer vell hørett nogitt therom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 11,
+      "text": "men ieg horde en anden lerdom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 11,
+      "text": "ieg schulle thet selffuer fortiene,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 11,
+      "text": "eller och med en anden patron",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 11,
+      "text": "forhuerue hielp allene.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 12,
+      "text": "\"Den sande patron er Iesus Christ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 12,
+      "text": "hand liide døden for osz wist,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 12,
+      "text": "hielp osz aff Satans riige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 12,
+      "text": "och ingen anden, ehuo hand er tiill,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 12,
+      "text": "findis att were hans liighe.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 13,
+      "text": "\"Ieg will meg giffue til Iesum Christ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 13,
+      "text": "tro, hand er al min salighed wiist,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 13,
+      "text": "hand will meg ey forlaade;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 13,
+      "text": "giff raad, giff raad, o Iesu Christ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 13,
+      "text": "o, hielp meg aff min waade.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 14,
+      "text": "\"Ia gierne will ieg nu hielpe diig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 14,
+      "text": "men huor bleffuet du salenge fra meg?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 14,
+      "text": "dett monne meg saare fortriide;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 14,
+      "text": "kom hiid, kom hiid, du vsle mand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 14,
+      "text": "min naade schaltt du nyde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 15,
+      "text": "Din taar och inckelige graad",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 15,
+      "text": "will ieg aff-stige, och dødsens braad",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 15,
+      "text": "till inthett wil ieg giøre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 15,
+      "text": "och giffue diig altt dett som ieg haffuer loffuitt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 15,
+      "text": "diig y liffuett yndføre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 16,
+      "text": "Ieg kom therfor tiill werden need",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 16,
+      "text": "att redde tiig aff thin vselhed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 16,
+      "text": "och andere thine liige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 16,
+      "text": "och giøre diig tiill Gudz guodtt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 16,
+      "text": "vdj thett euige riige.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 17,
+      "text": "Naar nogen synder beklager siig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 17,
+      "text": "siig hannom huad ieg giordtt mod diig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 17,
+      "text": "leed hanom til meg komme:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 17,
+      "text": "ieg wil hannom forlaade sinder all",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 17,
+      "text": "til euig gled och fromme.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 18,
+      "text": "I synder alle, mercker med flydtt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 18,
+      "text": "aangerer ethers sinder thij thett er tidt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 18,
+      "text": "tiill Christe eder Gud wende;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 18,
+      "text": "alle sorge och wrede will hand tange bortt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 18,
+      "text": "schick alting till en gode ennde.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

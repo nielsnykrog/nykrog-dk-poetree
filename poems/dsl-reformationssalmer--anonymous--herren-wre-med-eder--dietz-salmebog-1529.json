@@ -1,0 +1,42 @@
+{
+  "id": null,
+  "title": "Herren wære med eder.",
+  "year_created": 1529,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "Een ny handbog med Psalmer oc aandelige lofsange",
+    "year_published": 1529,
+    "publisher": "Ludwig Dietz",
+    "printer": "Ludwig Dietz",
+    "place": "Rostock",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/dietz-salmebog-1529/9/31"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Herren wære med eder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 1,
+      "text": "Oc med thÿn aand.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

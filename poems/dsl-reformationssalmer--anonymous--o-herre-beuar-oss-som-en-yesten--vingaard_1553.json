@@ -1,0 +1,42 @@
+{
+  "id": null,
+  "title": "O Herre beuar oss som en øyesten",
+  "year_created": 1553,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "En ny Psalmebog",
+    "year_published": 1553,
+    "publisher": "Hans Vingaard",
+    "printer": "Hans Vingaard",
+    "place": "København",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/vingaard_1553/1/24"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "O Herre beuar oss som en øyesten",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Vnder dine vingers skygge beskerme oss",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

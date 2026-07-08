@@ -1,0 +1,74 @@
+{
+  "id": null,
+  "title": "HEllig/ Hellig/ hellig",
+  "year_created": 1533,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "[tabt]",
+    "year_published": 1533,
+    "publisher": "Christiern Pedersen",
+    "printer": "Joh. Hoochstraten",
+    "place": "Malmø",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/malmoe-salmebog/2/28"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "HEllig/ Hellig/ hellig",
+      "part": false,
+      "marginal_notes": [
+        "Esa vi"
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "est dw Herre Gud Sabaot",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Hiemmelen oc iorden er op fyld met din ære",
+      "part": false,
+      "marginal_notes": [
+        "Mat xxi"
+      ]
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Salig gør oss wdi det øffuerste Benedidet være den",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "som kommer i Herrens naffn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Salig gør oss vdi det øffuerste",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,970 @@
+{
+  "id": null,
+  "title": "VIII Den vilde Jagt",
+  "year_created": 1886,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Jens Peter Jacobsen",
+    "country": null,
+    "wiki": "Q370246"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Gurresange",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1886,
+    "url": "https://tekstnet.dk/books/jacobsen-jp_gurresange/008/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Vaagner, alle Kong Volmers Mænd!",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: valdemar"
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Spænder rustede Sværd ved Lænd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Henter i Kirker det støvede Skjold,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Prydet med Mærker af Dyr og af Trold.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Væk Eders Heste, der græsse i Muld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Sæt dem I Siden de Kringler af Guld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Sprænger mod Gurreby,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Det er Dødningegry!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Klap, klap med Kistelaag,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: bondens sang"
+      ]
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "Tunge Trin af Nattetog;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 1,
+      "text": "Græstørv skyder af Muld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 1,
+      "text": "Toften klinger af Guld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 1,
+      "text": "Klirren og Klappen i Vaabenhus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 1,
+      "text": "Hvisten og Kasten med gammelt Grus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "Stenene ramle i Kirkegaardsdige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "Høgene suse fra Taarnet og skrige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 1,
+      "text": "Kirkeporten slaar op og i, –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 1,
+      "text": "Ned under Dynen, der fòr de forbi.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 2,
+      "text": "– Jeg slaar tre hellige Herrens Kors",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 2,
+      "text": "For Folk og Hus, for Ko og Hors,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 2,
+      "text": "Tre Gange nævner jeg Frelserens Navne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 2,
+      "text": "Saa skade de ikke min Sæd for en Avne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 2,
+      "text": "Saa tegner jeg mig paa Ledemod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 2,
+      "text": "Hvor Herrens hellige Vunder stod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 2,
+      "text": "Da bliver for Elverskud jeg fri,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 2,
+      "text": "For Mareridt og for Troldespi;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 2,
+      "text": "Sidst lægger for Døren jeg Staal og Sten,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 2,
+      "text": "Da voldes slet ingen i Huset Mèn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 3,
+      "text": "Vær hilset, Konge, ved Gurre Sø!",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: valdemars mænd"
+      ]
+    },
+    {
+      "id": 29,
+      "stanza_id": 3,
+      "text": "Nu spænde Jagten vi over Ø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 3,
+      "text": "Vi Pile sende fra strengløs Bue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 3,
+      "text": "Med Øjne sigte, som ej kan skue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 3,
+      "text": "Vi Hjortens Skygge med Vunder slaar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 3,
+      "text": "Og Engvand siver som Blod af Saar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 3,
+      "text": "Hør Valravn svinge",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 3,
+      "text": "Med sorten Vinge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 3,
+      "text": "Og Løvet skumme om Hestens Bringe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 3,
+      "text": "Saa skal vi jage, har somme sagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 3,
+      "text": "Hver Nat til Dommedags vilde Jagt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 3,
+      "text": "Holla, Hest, og holla, Hund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 3,
+      "text": "Stanser Jagten stakket Stund!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 3,
+      "text": "Her er Slottet, som fordum var;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 3,
+      "text": "Hest skal fodres med Lokes Havre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 3,
+      "text": "Mand kan æde sit Ry til Davre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 4,
+      "text": "Skoven hvisker med Toves Røst,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: valdemar"
+      ]
+    },
+    {
+      "id": 45,
+      "stanza_id": 4,
+      "text": "Søen skuer med Toves Øje,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 4,
+      "text": "Stjerner lyse med Toves Smil,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 4,
+      "text": "Skyen svulmer som Barmens Høje.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 4,
+      "text": "Sanserne jage for hende at fatte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 4,
+      "text": "Tankerne kæmpe for hende at samle.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 4,
+      "text": "Men Tove er hist og Tove er her,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 4,
+      "text": "Tove er fjærn og Tove er nær.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 4,
+      "text": "Er du da, Tove, med Trolddomsmagt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 4,
+      "text": "Bundet i Søens og Skovens Pragt?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 4,
+      "text": "Hjertet svulmer, som skulde det sprænges,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 4,
+      "text": "Tove, Tove, Valdemar længes!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 5,
+      "text": "»Aalen hun er en sælsom Fugl,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: klaus nar"
+      ]
+    },
+    {
+      "id": 57,
+      "stanza_id": 5,
+      "text": "Lever som helst i Vandet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 5,
+      "text": "Vrider sig dog i Maaneskin",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 5,
+      "text": "Ofte en Stund paa Landet.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 5,
+      "text": "Det har jeg sunget om andre en Gang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 5,
+      "text": "Bedst passer nu paa mig selv min Sang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 5,
+      "text": "Jeg er ikkun Husmand nu og mit Hus er lille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 5,
+      "text": "Og skjøndt ej jeg bad en Gjæst, leved' ganske stille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 5,
+      "text": "Blev jeg halvvejs dog ædt ud af mit Hus det lille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 5,
+      "text": "Saa jeg kan ej byde stort, skjøndt jeg gjerne vilde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 5,
+      "text": "Dog – den skal faa min Nattero,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 5,
+      "text": "Som kan mig det forklare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 5,
+      "text": "Hvorfor jeg skal hver Midienat",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 5,
+      "text": "Omkring et Vandhul fare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 5,
+      "text": "At Palle Glob og Erik Paa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 5,
+      "text": "Det skulle, kan jeg godt forstaa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 5,
+      "text": "De var saa lidet fromme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 5,
+      "text": "De doble nu, endskjøndt til Hest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 5,
+      "text": "Om svalest Sted og Døren næst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 5,
+      "text": "Naar de til Helved' komme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 5,
+      "text": "Og Kongen, han som løber gal ved mørke Nattetide",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 5,
+      "text": "Og raaber paa en Pige, som for Aar og Dage siden",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 5,
+      "text": "Med Engle og med Vildgæs fløj, han maa med Rette ride;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 5,
+      "text": "Thi han var altfor raa oprigtig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 5,
+      "text": "Og man maa være højst forsigtig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 5,
+      "text": "Og tage mægtigt sig i Agt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 5,
+      "text": "Naar man er Nar hos slig en Magt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 5,
+      "text": "Som ham, der bor hinsides Maanen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 5,
+      "text": "Men at jeg, Klaus Nar til Farum,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 5,
+      "text": "Jeg, som troede, at de Døde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 5,
+      "text": "Vare fri for Legemsmøde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 5,
+      "text": "At èns Støv blev Aandens Anker,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 5,
+      "text": "Saa i Fred man sine Tanker",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 5,
+      "text": "Kunde samle til den store",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 5,
+      "text": "Hoffest, som Bro'r Knud har sagt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 5,
+      "text": "Blæses ind med Guldbasuner,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 5,
+      "text": "Hvor vi Gode vel ved Magt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 5,
+      "text": "Æde Onde som Kapuner,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 5,
+      "text": "Ak, at jeg paa en Fole galen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 5,
+      "text": "Med min Næse vendt imod Halen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 5,
+      "text": "Skal humpe om, mens Folk er i Senge, ...",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 5,
+      "text": "Var ej det for sent, jeg vilde mig hænge. –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 5,
+      "text": "O, men hvor sødt det skal smage forvist,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 5,
+      "text": "Naar jeg nu dog bliver salig tilsidst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 5,
+      "text": "Vel har jeg syndet lidt mer end de fleste,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 5,
+      "text": "Kan dog vel snakke mig fra det meste:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 5,
+      "text": "Hvem gav den nøgne Sandhed Klæder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 5,
+      "text": "Og tog dens Prygl paa Vej og Stræder?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 5,
+      "text": "Jo – i Fald der er Billighed til,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 5,
+      "text": "Saa maa jeg bænkes i Himmerigs Sale, ...",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 5,
+      "text": "Naa, hvor jeg dér skal Værten bagtale!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 6,
+      "text": "Nu lèr du der oppe,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: valdemar"
+      ]
+    },
+    {
+      "id": 108,
+      "stanza_id": 6,
+      "text": "Du strenge Dommer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 6,
+      "text": "Men dette drage du dig til Minde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 6,
+      "text": "Naar Dommedag kommer:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 6,
+      "text": "En Sjæl er elskende Mand og Kvinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 6,
+      "text": "Du rive ikke vor Sjæl i tvende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 6,
+      "text": "Til Helved' mig og til Himlen hende.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 6,
+      "text": "Thi da faar jeg Magt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 6,
+      "text": "Da splitter jeg din Englevagt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 6,
+      "text": "Og sprænger med min vilde Jagt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 6,
+      "text": "I Himmerige ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 7,
+      "text": "Hanen løfter sit Hoved til Gal,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: valdemars mænd"
+      ]
+    },
+    {
+      "id": 119,
+      "stanza_id": 7,
+      "text": "Har alt Dag i Kroppen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 7,
+      "text": "Og Morgenduggen driver rød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 7,
+      "text": "Af Rust, fra vore Sværd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 7,
+      "text": "Omme er Tiden!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 7,
+      "text": "Graven kalder med aaben Mund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 7,
+      "text": "Og Jorden suger al lyssky Rædsel.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 7,
+      "text": "Synker, synker!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 7,
+      "text": "Livet kommer i Magt og Glans",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 7,
+      "text": "Med Daad og bankende Hjerter,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 7,
+      "text": "Og vi er Dødens,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 7,
+      "text": "Sorgens og Dødens,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 7,
+      "text": "Smertens og Dødens.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 7,
+      "text": "Til Gravs! til Gravs! til drømmesvanger Ro –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 7,
+      "text": "O, fik i Fred vi hvile!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

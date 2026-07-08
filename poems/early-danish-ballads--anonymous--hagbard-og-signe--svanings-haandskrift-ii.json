@@ -1,0 +1,1713 @@
+{
+  "id": null,
+  "title": "Hagbard og Signe",
+  "year_created": [
+    1575,
+    1590
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Svanings Håndskrift II",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1590,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/SVII44.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Hagbard konning oc Sigvord",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "de ypide en hadings-kiff:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "dett kam for stalltenn Signe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "det aller-weniste liff.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": ":: Huad eller om adt i winnder mig eller en saa wenen. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Hagbor konng hand drømpte enn drøm",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "om natten som hand laa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "wognid hannd saa modig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "hand sagde sinn moder der-aff.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "\"Meg tøgte, ieg var udi Himmerig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "der uar saa faurenn by:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "meg ieg haffde stalt Signill udi min arm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 2,
+      "text": "ieg falt igemen denn skye.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "\"Hør du, Hagbord kongen-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 3,
+      "text": "du giff det icke giem:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 3,
+      "text": "ieg skall hente dig dig spaa-quinnde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 3,
+      "text": "der raade skall dinn drøm.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 4,
+      "text": "Innd daa kom de spaa-quind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 4,
+      "text": "der drømen sknlle sknlle raade:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 4,
+      "text": "hanns moder gred oc hender slaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 4,
+      "text": "hanns søster hun felder thaare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 5,
+      "text": "\"Alt er det eder till løcke lagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 5,
+      "text": "at y skall vinnde denn møe:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 5,
+      "text": "men vide-mend, Hagbor kongen-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 5,
+      "text": "for hinnde skall i dø.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 6,
+      "text": "\"Er dett mig till løcke lagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 6,
+      "text": "ad ieg kannd winde denn møe:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 6,
+      "text": "saa lidet ieg det wurde vill,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 6,
+      "text": "at ieg skall for hinde døe.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 7,
+      "text": "Hagbor lader sig voxe har",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 7,
+      "text": "oc iumfrue oc iumfrue-kleder at skere:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 7,
+      "text": "saa drager hand till Dannemark,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 7,
+      "text": "enn stolt iomfrue att vere.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 8,
+      "text": "Mit udi denn borge-gard",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 8,
+      "text": "der axlid hannd sinn skinnd:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 8,
+      "text": "saa gaar hand i fruer-stue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 8,
+      "text": "for stalt Signill inndt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 9,
+      "text": "\"Hør y, stalltenn Signill,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 9,
+      "text": "vill y meg det unde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 9,
+      "text": "ad ieg maa slignid aff eder lere?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 9,
+      "text": "saa faa er de, hinnde kunde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 10,
+      "text": "Minn fader har mig till eder send,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 10,
+      "text": "ieg skulle her slignid lerre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 10,
+      "text": "ach, vill y mig dett kiende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 10,
+      "text": "da beder ieg eder saa giernne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 11,
+      "text": "Lenge stoed stalstenn Signild",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 11,
+      "text": "oc tengkte, huad hun skulle suare:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 11,
+      "text": "\"Ieg vill mig i lofftid gaa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 11,
+      "text": "oc spørge min fader till raade.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 12,
+      "text": "Op stoed staldstenn Signilld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 12,
+      "text": "oc suøbte hun sig udi skinnd:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 12,
+      "text": "saa gaar hun y høffuid-lofft",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 12,
+      "text": "for sinn kierre fader ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 13,
+      "text": "\"Hør y, min kiere fader,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 13,
+      "text": "vill i stede der-till minde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 13,
+      "text": "meg er sent en skønn iomfrue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 13,
+      "text": "der ieg skulde sligning kiennde?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 14,
+      "text": "\"Leger y eders kleder samell",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 14,
+      "text": "ad med saa møgen god vilge:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 14,
+      "text": "wogter eder for herre Hagbard,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 14,
+      "text": "hand kand saa lystelig gillie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 15,
+      "text": "Well maa y till-sammen vere",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 15,
+      "text": "effter bege eders raad:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 15,
+      "text": "och vogter eder for her Habord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 15,
+      "text": "hand daarer eder icke baade.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 16,
+      "text": "Alle sad de skønne iomfruer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 16,
+      "text": "oc syde huer som kunde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 16,
+      "text": "for-udenn Hagbor kongen-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 16,
+      "text": "haand haffde sinn naell i munde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 17,
+      "text": "For-udenn Hagbor kongen-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 17,
+      "text": "hannd hade sinn nall i munde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 17,
+      "text": "hannd fick aldrig saa stor en skaall,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 17,
+      "text": "hand drack denn io ud till grunde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 18,
+      "text": "Hannd tog ud sinn lidenn kniff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 18,
+      "text": "alt som hand fuld-well kunde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 18,
+      "text": "hannd skreff bade hiort oc hind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 18,
+      "text": "som de i skovenn runde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 19,
+      "text": "Suarid det den thieniste-møe",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 19,
+      "text": "det neste der hun torde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 19,
+      "text": "\"Ieg saa alldrig nogenn skiønn iomfrue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 19,
+      "text": "der drancker hade fore.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 20,
+      "text": "Aaller saa ieg nogenn skiønn iomfrue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 20,
+      "text": "der vere kunde sømme lynn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 20,
+      "text": "ieg saa aller naagen stalt iomfrue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 20,
+      "text": "der bere kunde dricke winn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 21,
+      "text": "Hunn syer alldrig saa lidenn en søm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 21,
+      "text": "hun har io naall i munde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 21,
+      "text": "hun faaer aldrig saa stor enn skoell,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 21,
+      "text": "hun dricker denn ud till grunde.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 22,
+      "text": "\"Stat oc thie, du thieniste-mø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 22,
+      "text": "oc skøt slet intet om mig:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 22,
+      "text": "huad eller du gaar ud eller ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 22,
+      "text": "daa seer ieg slet intet till dig.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 23,
+      "text": "Dett led fast ad afftenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 23,
+      "text": "der de skulle sengenn byge:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 23,
+      "text": "alt spurde Hagbord konge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 23,
+      "text": "oc huor hand skulle lige.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 24,
+      "text": "\"Hør i det, min skiønne iumfrue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 24,
+      "text": "ieg siger eder det saa giernne:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 24,
+      "text": "i skall edde aff fad med mig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 24,
+      "text": "och soffue hos min thernne.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 25,
+      "text": "\"Ieg haffuer slit rød skarlagenn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 25,
+      "text": "oc souid hos konngenns børnn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 25,
+      "text": "skall ieg hos denn terne soffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 25,
+      "text": "daa dør ieg aff denn harm.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 26,
+      "text": "\"Hør i det, min skiønne iomfrue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 26,
+      "text": "enn bønn vill ieg eder vide:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 26,
+      "text": "y skall ede aff fad med mig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 26,
+      "text": "oc hoss mig sellff at lige.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 27,
+      "text": "De tennde op de voxlius,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 27,
+      "text": "de ware med eren snod:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 27,
+      "text": "saa fnlde de de iomfruer tho",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 27,
+      "text": "till deris soffue-stuffne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 28,
+      "text": "Hun lagde hand paa Hagbords bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 28,
+      "text": "denn skinner aff guld saa rød:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 28,
+      "text": "\"Hui er icke brøstenn voxen paa eder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 28,
+      "text": "alt som paa anndenn møe?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 29,
+      "text": "\"Det er saa sed paa min faders land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 29,
+      "text": "at iomfruer de rider till thinnge:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 29,
+      "text": "fordi er icke brystenn voxenn paa mig:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 29,
+      "text": "udaff de brønie-ringe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 30,
+      "text": "I sige mig, stalltenn Signill,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 30,
+      "text": "men wi ere enne tho:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 30,
+      "text": "oc er der naagenn i verdenn till,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 30,
+      "text": "der eders huff liger paa?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 31,
+      "text": "\"Der er ingenn i verdenn till,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 31,
+      "text": "der min huff liger paa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 31,
+      "text": "for-udenn Hagbord kongenn-søn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 31,
+      "text": "oc ham maa ieg icke faa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 32,
+      "text": "For-udenn Hagbord kongen-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 32,
+      "text": "ieg alldrig med øgenn saae:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 32,
+      "text": "udenn ieg hørde hanns forgylte liud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 32,
+      "text": "hannd rider till tingit oc fra.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 33,
+      "text": "\"Er det Hagbord kongenns-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 33,
+      "text": "i haffuer udi hiertet kier:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 33,
+      "text": "y wennder eder om, thager hannem udi arm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 136,
+      "stanza_id": 33,
+      "text": "hand soffuer eder alt saa ner.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 137,
+      "stanza_id": 34,
+      "text": "\"Hør y, Hagbord kongen-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 138,
+      "stanza_id": 34,
+      "text": "hui ville i mig saa skende:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 139,
+      "stanza_id": 34,
+      "text": "hui red i icke till min faders gard",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 140,
+      "stanza_id": 34,
+      "text": "med høg paa huidenn hende?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 141,
+      "stanza_id": 35,
+      "text": "\"Huor skulle ieg ride i eders faders gaard",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 142,
+      "stanza_id": 35,
+      "text": "med høg paa huidenn hende:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 143,
+      "stanza_id": 35,
+      "text": "huer sinnde hand hør mig neffne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 144,
+      "stanza_id": 35,
+      "text": "daa truer hand mig att henge.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 145,
+      "stanza_id": 36,
+      "text": "\"Hør i, Habord kongen-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 146,
+      "stanza_id": 36,
+      "text": "her bliffuer fuldt-ont at raade:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 147,
+      "stanza_id": 36,
+      "text": "spør det kiere fader min,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 148,
+      "stanza_id": 36,
+      "text": "hand lader os bode forraade.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 149,
+      "stanza_id": 37,
+      "text": "\"Hør i, stalltenn Signill,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 150,
+      "stanza_id": 37,
+      "text": "her bliffuer fuld-god en ferd:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 151,
+      "stanza_id": 37,
+      "text": "her liger under mit hoffuit-gierd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 152,
+      "stanza_id": 37,
+      "text": "min brønie oc mitt suerdt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 153,
+      "stanza_id": 38,
+      "text": "Her liger vid mitt hoffuit-gierdt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 154,
+      "stanza_id": 38,
+      "text": "min brynie oc mit suerd:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 155,
+      "stanza_id": 38,
+      "text": "ieg reddis ick hundrit raaske hoffmend",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 156,
+      "stanza_id": 38,
+      "text": "oc alle udi enn ferdt.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 157,
+      "stanza_id": 39,
+      "text": "Icke viste de unge tho andit,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 158,
+      "stanza_id": 39,
+      "text": "end de var enne tho:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 159,
+      "stanza_id": 39,
+      "text": "der stod den føgte ternne",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 160,
+      "stanza_id": 39,
+      "text": "oc lydde paa deris ord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 161,
+      "stanza_id": 40,
+      "text": "Der stoed denn forbandede therne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 162,
+      "stanza_id": 40,
+      "text": "lyde hun der-paa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 163,
+      "stanza_id": 40,
+      "text": "hun stall bort hanns guode suerd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 164,
+      "stanza_id": 40,
+      "text": "oc saa hans brønie blaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 165,
+      "stanza_id": 41,
+      "text": "Hun staall bort hanns gode suerd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 166,
+      "stanza_id": 41,
+      "text": "oc saa hans brønie blaa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 167,
+      "stanza_id": 41,
+      "text": "hun gick till Siguordt kongenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 168,
+      "stanza_id": 41,
+      "text": "hun sagde ham ordenn saa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 169,
+      "stanza_id": 42,
+      "text": "\"Waager op, Siguord konnge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 170,
+      "stanza_id": 42,
+      "text": "y soffuer alt-for lenge:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 171,
+      "stanza_id": 42,
+      "text": "det er Hagbord kongen-sønn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 172,
+      "stanza_id": 42,
+      "text": "allt med eders datter i senge.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 173,
+      "stanza_id": 43,
+      "text": "\"Stat oc ty, du thernne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 174,
+      "stanza_id": 43,
+      "text": "oc liu du icke paa hinnde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 175,
+      "stanza_id": 43,
+      "text": "i morgenn førind solenn ned-gaar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 176,
+      "stanza_id": 43,
+      "text": "daa skall ieg lade dig brende.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 177,
+      "stanza_id": 44,
+      "text": "\"Hør y, Siguord kongenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 178,
+      "stanza_id": 44,
+      "text": "i maa mig vell throe:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 179,
+      "stanza_id": 44,
+      "text": "her er Hagbors gode suerd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 180,
+      "stanza_id": 44,
+      "text": "oc saa hans brønye blaa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 181,
+      "stanza_id": 45,
+      "text": "Dett vor Siguord kongenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 182,
+      "stanza_id": 45,
+      "text": "hand raaber offuer all sinn gard:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 183,
+      "stanza_id": 45,
+      "text": "\"Oc vell op, alle minne mend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 184,
+      "stanza_id": 45,
+      "text": "y drager eders brynie paa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 185,
+      "stanza_id": 46,
+      "text": "Well op, alle mine mend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 186,
+      "stanza_id": 46,
+      "text": "drager brønnen paa uden all falsk:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 187,
+      "stanza_id": 46,
+      "text": "her er Hagbor konngenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 188,
+      "stanza_id": 46,
+      "text": "hand er saa haar en hals.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 189,
+      "stanza_id": 47,
+      "text": "Wogenn laa stalt Signill,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 190,
+      "stanza_id": 47,
+      "text": "oc lyde hun der-paa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 191,
+      "stanza_id": 47,
+      "text": "\"Uoger op, Hagbord konngenn-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 192,
+      "stanza_id": 47,
+      "text": "min fader hand kallder saa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 193,
+      "stanza_id": 48,
+      "text": "Det var Hagbord konngenn-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 194,
+      "stanza_id": 48,
+      "text": "hand lette under hoffuidt-gier:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 195,
+      "stanza_id": 48,
+      "text": "borte war hans brønie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 196,
+      "stanza_id": 48,
+      "text": "oc saa hans gode suer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 197,
+      "stanza_id": 49,
+      "text": "\"Hør i, staltenn Signill,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 198,
+      "stanza_id": 49,
+      "text": "her bliffuer fuld-und en ferd:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 199,
+      "stanza_id": 49,
+      "text": "borte er min brønie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 200,
+      "stanza_id": 49,
+      "text": "oc saa mit gode suerdt.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 201,
+      "stanza_id": 50,
+      "text": "Støtte de paa dørenn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 202,
+      "stanza_id": 50,
+      "text": "bode med glauend oc spiud:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 203,
+      "stanza_id": 50,
+      "text": "\"Du stat op, Hagbord konngenn-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 204,
+      "stanza_id": 50,
+      "text": "du gack i gardenn udt.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 205,
+      "stanza_id": 51,
+      "text": "Det var Hagbord kongenn-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 206,
+      "stanza_id": 51,
+      "text": "hand ud aff døren løb:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 207,
+      "stanza_id": 51,
+      "text": "XXX ud-aff kongens mend",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 208,
+      "stanza_id": 51,
+      "text": "dem slog hannd for sit skiødt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 209,
+      "stanza_id": 52,
+      "text": "Somme hand med hender slo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 210,
+      "stanza_id": 52,
+      "text": "som hand med føder støtte:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 211,
+      "stanza_id": 52,
+      "text": "de var vell siu-oc-siu-sinde-XX,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 212,
+      "stanza_id": 52,
+      "text": "for Signils bur laa døde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 213,
+      "stanza_id": 53,
+      "text": "Toge de Hagbord kongenn-sønn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 214,
+      "stanza_id": 53,
+      "text": "de lagde ham fiederne paa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 215,
+      "stanza_id": 53,
+      "text": "alle da stuncke de sønnder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 216,
+      "stanza_id": 53,
+      "text": "som de haffde verit aff straa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 217,
+      "stanza_id": 54,
+      "text": "Skam daa foe den therne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 218,
+      "stanza_id": 54,
+      "text": "hun gaff ud det raad:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 219,
+      "stanza_id": 54,
+      "text": "\"I for icke Haagbord bondenn udi dag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 220,
+      "stanza_id": 54,
+      "text": "uden med stalt Signills haar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 221,
+      "stanza_id": 55,
+      "text": "Tager it haar aff Signillds hoffuidt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 222,
+      "stanza_id": 55,
+      "text": "y binnder om Hagbors hender:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 223,
+      "stanza_id": 55,
+      "text": "før da brøster hans hierte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 224,
+      "stanza_id": 55,
+      "text": "ennd hand slider det sønder.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 225,
+      "stanza_id": 56,
+      "text": "De thuge it har aff Signills hoffuid,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 226,
+      "stanza_id": 56,
+      "text": "de band om Hagbors hender:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 227,
+      "stanza_id": 56,
+      "text": "daa stod here Haagbord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 228,
+      "stanza_id": 56,
+      "text": "som hand vaar smed udi iernn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 229,
+      "stanza_id": 57,
+      "text": "Melte det stalltenn Sinelld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 230,
+      "stanza_id": 57,
+      "text": "hinnde rand thar paa kinnd:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 231,
+      "stanza_id": 57,
+      "text": "\"Habord, i slar det haar i sønder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 232,
+      "stanza_id": 57,
+      "text": "ieg haffuer vell fler igienn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 233,
+      "stanza_id": 58,
+      "text": "Tog de Haabord kongen-søn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 234,
+      "stanza_id": 58,
+      "text": "lagde ham i boyenn hin haarde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 235,
+      "stanza_id": 58,
+      "text": "stalt Signill gaar hanem bode till oc fra,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 236,
+      "stanza_id": 58,
+      "text": "hun fellte saa modige thare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 237,
+      "stanza_id": 59,
+      "text": "Toge de Haabord kongennssøn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 238,
+      "stanza_id": 59,
+      "text": "lagde ham y hardenn iernn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 239,
+      "stanza_id": 59,
+      "text": "stalt Signill gar bode ud oc ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 240,
+      "stanza_id": 59,
+      "text": "hun beder for hannem saa girrnne.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

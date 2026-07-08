@@ -1,0 +1,696 @@
+{
+  "id": null,
+  "title": "Peder Tordenskjold",
+  "year_created": 1848,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Carl Ploug",
+    "country": null,
+    "wiki": "Q347860"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1848,
+    "url": "https://tekstnet.dk/books/ploug-c_peder-tordenskjold/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "I Nord er Vikingaanden født og baaren:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Her diede den Havets fulde Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Naar Vinden løste op dets Baand om Vaaren",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Og drev det, hvidt af Skum, mod skovklædt Kyst;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Her vugged den sig, spæd endnu, paa Vigen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Her lærte den at pejle Stjernens Fyr,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Og herfra drog den ud paa Eventyr, -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "En mandbar Søn af Ungdomskraftens Higen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Det var en mægtig Aand. Europa gyste,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Naar den fo'r frem i Vest- og Sønderled;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Thi Blodet svam, og tændte Kirker lyste,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "Hvor Nordens vilde Trækfuglflok slog ned.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Og atter har den oprejst stolte Tinder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "Og gydt i visne Stammer kraftig Marv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "Og den har efterladt en kostbar Arv",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "Af skjønne Sagn og ærefulde Minder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "Men den blev tæmmet i Kulturens Skole:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "De snilde Klerker spændte den i Aag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "Og den trak Ploven som en lydig Fole",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "Og syslede med Alen, Læst og Bog:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "Og \"Dragen\", tømret om til Kjøbmandsskude,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "Gik om imellem Havnene paa Fragt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "Og Kæmpen smøged af sig Bjørnens Dragt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "Og pynted sig med nederlandske Klude.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "Den frie Bonde skød ej mer i Vandet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "Sin egen \"Knor\", naar Drotten bad derom;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Den stolte Lensmand tumled helst paa Landet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "Sin Rytterskare og lod Søen tom.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "Paa Riddertiden fulgte Adelsnykker,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "Som siden kyssed Enevældens Ris; -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "Da kom en Old, spagfærdig, from og vis,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "Men al dens Visdom gjemtes i Parykker.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 0,
+      "text": "Hvor var den gamle Vikingaand? Bedøvet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 0,
+      "text": "Ikkun den laa, men den var ikke død.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 0,
+      "text": "Per slog et Lyn igjennem Pudderstøvet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 0,
+      "text": "En Torden gjennem Tidens Hvisken lød;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 0,
+      "text": "En Skrædderdreng sprang ned fra Skrædderbordet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 0,
+      "text": "Fra Norges Kyst løb ud en liden ,,Snau\", -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 0,
+      "text": "Og Vikingaanden over Nordens Hav",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 0,
+      "text": "Fløj atter, ungdomskjæk og staalomgjordet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 0,
+      "text": "Nær Strømstad er en Vig, nu taus og øde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 0,
+      "text": "Men engang zittred den af Kampens Brag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 0,
+      "text": "Og engang mylrede dens Bølger røde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 0,
+      "text": "Af svedne Lig og sønderskudte Vrag!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 0,
+      "text": "Der slog den norske Løve til med Bilen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 0,
+      "text": "Og knuste Carl den Tolvtes sidste Haab,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 0,
+      "text": "Og der fik Peder Tordenskjold sin Daab,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 0,
+      "text": "Og Døbefonten hedder Dynakilen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 0,
+      "text": "Men ingen Bølge gaar i Kattegattet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 0,
+      "text": "Og ingen Brænding slaar mod Sveas Skær",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 0,
+      "text": "Der ikke til hans Heltery har skattet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 0,
+      "text": "Der ej har set hans raske Vikingfærd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 0,
+      "text": "Som ej hans glatte Lag har overdøvet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 0,
+      "text": "Som ej blev tøjlet af hans Viljes Magt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 0,
+      "text": "Saa tidt han, lige glad og uforsagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 0,
+      "text": "Med Stormen eller Fjenden Styrke prøved.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 0,
+      "text": "Og intet Smuthul hist ved Stranden findes,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 0,
+      "text": "Hvorind hans skarpe Øje ej er trængt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 0,
+      "text": "Og ingen By, hvor jo med Skræk han mindes",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 0,
+      "text": "Som den, for hvem ej Port og Bom var stængt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 0,
+      "text": "Halvandethundred Aar er næsten omme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 0,
+      "text": "I dem har Kirken gjemt hans Sarkofag;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 0,
+      "text": "Men Skaanes Kvinde siger end idag:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 0,
+      "text": ",,Ti stille, Barn! Hvis ej, vil Tornskøld komme\".",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 0,
+      "text": "Hans Liv var kort. Hvi skulde han vel graane?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 0,
+      "text": "Hvi skulde dølge sig hans Morgens Gry",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 0,
+      "text": "Bag Middagsdis og blegen Aftenmaane,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 0,
+      "text": "Mens nu den straaler evig ung og ny?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 0,
+      "text": "Hvor skulde han, de vilde Vovers Tæmmer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 0,
+      "text": "Der skued Verden fra sin høje Stavn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 0,
+      "text": "Vel trives i et Hus paa Christianshavn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 0,
+      "text": "Og røre sig bag Hverdagslivets Tremmer?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 0,
+      "text": "Nej! Endt var Banen og fuldbragt, hans Gjerning,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 0,
+      "text": "Da Danmarks Svaner var i Lejet lagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 0,
+      "text": "Og den forløbne Spillers falske Tærning",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 0,
+      "text": "Var kun et Redskab for en større Magt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 0,
+      "text": "Kong Carl og Han, de skulde følges sammen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 0,
+      "text": "I Livets Tvekamp og i Dødens Fred,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 0,
+      "text": "I Daadens Glands og Rygtets Evighed;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 0,
+      "text": "Thi de var Tvillingskud af Asastammen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 0,
+      "text": "Men hvor er Aanden, den, som ham besjæled?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 0,
+      "text": "Var han det sidste Glimt, endnu den gav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 0,
+      "text": "Før den, vanartet, sløvet og forkjælet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 0,
+      "text": "Sank ned til Kæmperne i deres Grav?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 0,
+      "text": "Hvis den var med, da hin Skærtorsdagspsalme",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 0,
+      "text": "Fra Kongedybet over Norden klang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 0,
+      "text": "Hvor var den, da Skærtorsdag anden Gang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 0,
+      "text": "Kom uden Ærens Krands og Sejrens Palme?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 0,
+      "text": "Den kan ej dø, saalænge dens Bedrifter",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 0,
+      "text": "Af Folket gjemmes som dets bedste Skat;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 0,
+      "text": "Saalænge Vinden Kraft og Sundhed vifter",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 0,
+      "text": "Herind fra Vestervov og Kattegat;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 0,
+      "text": "Mens Havet er en Mark, hvor Hænder tomme",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 0,
+      "text": "End høste Guld og hente dagligt Brød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 0,
+      "text": "Og kjække Sjæle trodse Storm og Død.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 0,
+      "text": "Naar Nødens Time slaar, vil Aanden komme!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": null,
+  "title": "⁕ Nu haffuer din wdygd foet ende",
+  "year_created": 1553,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "En ny Psalmebog",
+    "year_published": 1553,
+    "publisher": "Hans Vingaard",
+    "printer": "Hans Vingaard",
+    "place": "København",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/vingaard_1553/1/37"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "⁕ Nu haffuer din wdygd foet ende",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "O daatter Sion/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Gud vil icke nu tiere lade føre dig hæden/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Men din wdygd vil han besøge du Daatter Edom/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Dine synder vil han blottelige obenbare",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

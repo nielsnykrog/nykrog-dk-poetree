@@ -1,0 +1,101 @@
+{
+  "id": null,
+  "title": "5",
+  "year_created": 1514,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Michael",
+    "country": null,
+    "wiki": "Q108476156"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "De Vita Hominis",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1514,
+    "url": "https://tekstnet.dk/books/hr-michael_de-vita-hominis/005/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "In speculo vultum concerno, pecto capillos.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Non curo multum si quis perspexerit illos.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "I thettæ spegæl som foræ mig staar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "myn ting staar mig tillighæ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Baadhæ hwid och rød haffuer Gud mig sckafft,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "for hoffmod haffuer ieg thet fortafft,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "for inghæn wil ieg wighæ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "ey paa mynæ synder och ey paa Crist,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "thet worder ieg siælff at giældhæ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Myn acht staar effther penninghæ och guld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "at drickæ, at doblæ och slaa mig fuld,",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

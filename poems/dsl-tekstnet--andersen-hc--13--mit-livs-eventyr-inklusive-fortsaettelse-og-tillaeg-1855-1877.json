@@ -1,0 +1,360 @@
+{
+  "id": null,
+  "title": "13",
+  "year_created": 1855,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Mit Livs Eventyr (Inklusive Fortsættelse Og Tillæg). 1855-1877",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1855,
+    "url": "https://tekstnet.dk/books/andersen-hc_mit-livs-eventyr-inklusive-fortsaettelse-og-tillaeg-1855-1877/014/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Hvil sødt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Som var Du lagt i Dødens Skrin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Du min Erindrings Rose, faur og fiin!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Du er ei Verdens meer, Du er kun min,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "For Dig jeg synger, mine Taarer trille –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Natten er smuk, Natten er stille; –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Dødt! – Alt er dødt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "Du Pebersvend! vor Sang Du veed:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "»Gaae Du iseng, træk Nathuen ned,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "Speil Du Dig ret i Drømmenes Elv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 1,
+      "text": "Du seer helst Dig selv og drømmer Dig selv!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "Ja, i mig selv ligger gjemt en Skat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 2,
+      "text": "Hvad veed Verden om den derinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 2,
+      "text": "Hvad veed den om Tankerne mangen Nat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 2,
+      "text": "Om Taarer, som lønligt rinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 2,
+      "text": "Den lydløse, bittre Taarernes Elv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 2,
+      "text": "Der ruller saa tungt, uden Vove.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 2,
+      "text": "– En Pebersvend tænker kun paa sig selv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 2,
+      "text": "Lad ham sove!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 3,
+      "text": "Verständen wir, was bunte Vögel singen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 3,
+      "text": "Die Düfte, die aus Blumen zu uns bringen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 3,
+      "text": "Verständen wir, was in den Gräbern lebt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 3,
+      "text": "Und was das kalte Leben oft begräbt, –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 3,
+      "text": "Und könnten die Geheimniße erlauschen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 3,
+      "text": "Aus Waldesweh’n und Meeresrauschen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 3,
+      "text": "Verständen wir was holde Kinderaugen sagen:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 3,
+      "text": "Wir brauchten Deine Werke nicht zu übertragen!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 3,
+      "text": "A. Glaßbrenner.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 4,
+      "text": "»Hvor man jo som Amphibier",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 4,
+      "text": "Boer halv i Vandet –!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 5,
+      "text": "Onbekend, gesmaad, verstooten,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 5,
+      "text": "Dwaalde een halploos Kieken rond",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 5,
+      "text": "Over Funens vruchtb’ren grond",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 5,
+      "text": "Rijk van stroom en beek doorvloten o.s.v.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 6,
+      "text": "Saa Søndags-festligt hele Landet staaer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 6,
+      "text": "Saa Søndags-festligt lød for mig Din Stemme!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 6,
+      "text": "En Have Holland er, let Hjertet slaaer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 6,
+      "text": "Og her man strax sig føler glad og hjemme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 7,
+      "text": "»Land of brown heath and shaggy wood,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 7,
+      "text": "Land of the mountain and the flood!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 8,
+      "text": "Med Længsel, hvori dog sig Angest blandet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 8,
+      "text": "Jeg gik til Shakspears Land, min Barndoms Hu,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 8,
+      "text": "Og dansk, med Mark og Skov, sig hæved’ Landet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 8,
+      "text": "Jeg var som hjemme, strax i første Nu;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 9,
+      "text": "Og om mig Sproget ei for Læben føied’,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 9,
+      "text": "Jeg Hjertets Sprog forstod igjennem Øiet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 9,
+      "text": "En Solskins-Dag saa rig mig England gav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 9,
+      "text": "I Blomst sprang Hverdagslivets Aronstav.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "id": null,
+  "title": "Den vilde Jagt",
+  "year_created": 1861,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Carsten Hauch",
+    "country": null,
+    "wiki": "Q688529"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Valdemar Atterdag",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1861,
+    "url": "https://tekstnet.dk/books/hauch-c_valdemar-atterdag/028/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Da man troede, Danmarks Drot",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Slumred alt i Graven rolig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Fløi en Tale fast utrolig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Gjennem By og Land og Slot,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Rygtet sagde: »Kongen jager",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "End ved Nat paa Sjællands Ø",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Over Skov og Mark og Ager,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Meest dog nærved Gurresø.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Paa Gangeren høi den Herre man saae",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Ved Midnatstid over Lunde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Ham fulgte de Skygger og Dødninger graae",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "Og glammende sorte Hunde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 1,
+      "text": "Sagn i Tidens Afgrund gjemt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 1,
+      "text": "Vendte nu igjen tilbage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "Kæmper fra de svundne Dage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "Fabelhelte, halv forglemt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 1,
+      "text": "Hedningkonger, længst bortvegne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 1,
+      "text": "En utallig Qvindehær",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 1,
+      "text": "Troede man af Grav opstegne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 1,
+      "text": "For at ride Volmer nær.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 1,
+      "text": "Som Vinger det sused bag Skov og Vang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 1,
+      "text": "Sig Dvergen i Dybet gjemmer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 1,
+      "text": "I Luften hørte man Valdhornklang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 1,
+      "text": "Og Skrig og selsomme Stemmer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 2,
+      "text": "Kongens Blikke var som Lyn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 2,
+      "text": "Aldrig fandt han Rast og Hvile,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 2,
+      "text": "Stedse mon han fremad ile,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 2,
+      "text": "Saae man da et selsomt Syn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 2,
+      "text": "Nærmest ved Kong Volmers Side",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 2,
+      "text": "Traved over Mark og Sø",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 2,
+      "text": "Mellem Skygger graae og hvide",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 2,
+      "text": "Let og rank en deilig Mø.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 2,
+      "text": "Hendes Lokker flagred i vilden Blæst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 2,
+      "text": "Hun sukked i Nattens Vinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 2,
+      "text": "Bleg som Døden paa sneehvid Hest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 2,
+      "text": "Og dog den deiligste Qvinde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 3,
+      "text": "Over Borg og høien Huus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 3,
+      "text": "Svæved Falk og Ravn og Ugle,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 3,
+      "text": "Dybets ubekjendte Fugle,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 3,
+      "text": "Store, dunkle Flaggermuus.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 3,
+      "text": "Blege Lys paa Nattens Kinder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 3,
+      "text": "Dyr med hundred Ledemod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 3,
+      "text": "Ulve graae med Hexeqvinder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 3,
+      "text": "Seiled gjennem Luftens Flod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 3,
+      "text": "Og Vindenes Hviin og Jægernes Kald",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 3,
+      "text": "Og Latter og Hundenes Gjøen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 3,
+      "text": "Og Hestenes Vrinsken og Pidskeknald",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 3,
+      "text": "Hørtes i Luft over Søen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 4,
+      "text": "Foran flygted Hjort og Raa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 4,
+      "text": "Vilden Daa og letten Hare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 4,
+      "text": "Baarne som paa Vinger snare",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 4,
+      "text": "Mellem Nattens Skyer graae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 4,
+      "text": "Allerforrest saae man ile",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 4,
+      "text": "Høi og bleg en saaret Hind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 4,
+      "text": "Truffen alt af mange Pile",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 4,
+      "text": "Skjælved den i Nattens Vind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 4,
+      "text": "Tidt sagde de Bønder, naar sammen de gik,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 4,
+      "text": "Og Talen sig saa kunde føie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 4,
+      "text": "At naar man betragtede Hindens Blik,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 4,
+      "text": "Da ligned det Helvigs Øie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 5,
+      "text": "Skov og Træer, liig Tryllenet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 5,
+      "text": "Stod i Luften uden Rødder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 5,
+      "text": "Hjorten flygted uden Fødder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 5,
+      "text": "Blev dog ei af Flugten træt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 5,
+      "text": "Sorten Snog og røden Drage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 5,
+      "text": "Dukked frem af Dybets Skjød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 5,
+      "text": "Liig en Aand mon Stormen klage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 5,
+      "text": "Dømt til evig Qval og Død.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 5,
+      "text": "Men Maanen stod som en Trold i Blod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 5,
+      "text": "Den agted ei Jordens Jammer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 5,
+      "text": "Den koglede Skygger med grusomt Mod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 5,
+      "text": "Frem af Afgrundens Flammer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 6,
+      "text": "Ofte naar i Høstens Stund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 6,
+      "text": "Nattestormen kom tilbage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 6,
+      "text": "Sukked over Bondens Tage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 6,
+      "text": "Hvisked han med blegen Mund:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 6,
+      "text": "»Hjelp os Christ og Himlens Frue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 6,
+      "text": "Frels os fra den Ondes Magt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 6,
+      "text": "Vind og Veir og Djævle true,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 6,
+      "text": "Det er Konning Volmers Jagt.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 6,
+      "text": "De meente, det var en afgjort Sag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 6,
+      "text": "Som ingen Bøn kunde vende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 6,
+      "text": "At han skulde jage til Dommens Dag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 6,
+      "text": "Til Verdens og Tidernes Ende.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

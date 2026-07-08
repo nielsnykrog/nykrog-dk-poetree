@@ -1,0 +1,51 @@
+{
+  "id": null,
+  "title": "I Rosenslund",
+  "year_created": 1584,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Dronning Sophias visebog",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1584,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/DRS15A.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Slig er unger-suend y sin thale,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "som mand thager en aall om hale.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "Slig er ungensuend y sin thro,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "som mand rider paa røden broo.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

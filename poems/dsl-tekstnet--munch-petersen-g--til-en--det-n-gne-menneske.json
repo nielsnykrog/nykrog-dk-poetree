@@ -1,0 +1,108 @@
+{
+  "id": null,
+  "title": "til en",
+  "year_created": 1932,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Gustaf Munch-Petersen",
+    "country": null,
+    "wiki": "Q1364400"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Det Nøgne Menneske",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1932,
+    "url": "https://tekstnet.dk/books/munch-petersen-g_det-noegne-menneske/045/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "– dig tør jeg ikke elske –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "din store blødtfavnende kærlighed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "lægger sig som olje",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "paa min ungdoms urolige hav –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "– mens jeg endnu beruset sover",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "mellem dine vuggende lemmer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "tømmer du legende",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "mit kogger<button id=note8 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p>beholder til pile</p> \" data-title=\" Fodnote 8\">F8</button> for pile –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "– dig vil jeg ikke elske –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "jeg vil se solen gennem brydende søer –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "– til de haarde toner fra min bues streng",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "vil jeg gaa ud at jage livet –",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": null,
+  "title": "en tak",
+  "year_created": 1932,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Gustaf Munch-Petersen",
+    "country": null,
+    "wiki": "Q1364400"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Det Nøgne Menneske",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1932,
+    "url": "https://tekstnet.dk/books/munch-petersen-g_det-noegne-menneske/048/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "kære –,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "jeg ved ikke, om dit sind bærer skjulte saar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "jeg kender ikke dine lyse og mørke timer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "ikke dine hverdage –,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "men dine smil –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "du tog min uro,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "du gav hvile til mit søgende legeme –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "af dig fik jeg arbejdets kraft tilbage – ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 3,
+      "text": "og jeg fik dine smil",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "den nat –",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

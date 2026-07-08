@@ -1,0 +1,108 @@
+{
+  "id": null,
+  "title": "Vandrerens Sang",
+  "year_created": 1876,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Af Samlede Skrifter. Tre Og Tredivte Bind",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1876,
+    "url": "https://tekstnet.dk/books/andersen-hc_af-samlede-skrifter-tre-og-tredivte-bind/001/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Hvor Stormen løfter høit sin stærke Stemme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Hvor Bølgen svulmer paa det stolte Hav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Jeg tænker kun paa Dig. – Dig Gud mig gav!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "– Jeg kan Dig aldrig glemme!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Paa Sletten, hvor den vilde Hingst har hjemme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Paa Fjeldets Tind, høit i den kolde Sky,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "Jeg seer kun Dig, – selv i hver fremmed By –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "– Jeg kan Dig aldrig Glemme!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "O bort, ja bort – det snevert er her hjemme –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Did hen, hvor Granerne paa Bjerget groe!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Langt bort, langt bort! – Faaer Hjertet da vel Ro?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "– Jeg kan Dig aldrig glemme!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

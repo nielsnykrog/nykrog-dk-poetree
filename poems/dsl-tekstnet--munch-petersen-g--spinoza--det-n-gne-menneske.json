@@ -1,0 +1,80 @@
+{
+  "id": null,
+  "title": "spinoza",
+  "year_created": 1932,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Gustaf Munch-Petersen",
+    "country": null,
+    "wiki": "Q1364400"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Det Nøgne Menneske",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1932,
+    "url": "https://tekstnet.dk/books/munch-petersen-g_det-noegne-menneske/051/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "paa dit skarpe tuberkuløse ansigt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "laa visdommens ro i vemodige smil –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "din godhed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "var din races hjælpsomme humor",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "trænet under inkvisitionens bedske kærtegn–",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "din tro",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "havde klarhedens styrke",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "og forstaaelsens mildhed –",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

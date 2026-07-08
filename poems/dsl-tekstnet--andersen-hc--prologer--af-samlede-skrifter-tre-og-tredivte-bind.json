@@ -1,0 +1,654 @@
+{
+  "id": null,
+  "title": "Prologer",
+  "year_created": 1876,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Af Samlede Skrifter. Tre Og Tredivte Bind",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1876,
+    "url": "https://tekstnet.dk/books/andersen-hc_af-samlede-skrifter-tre-og-tredivte-bind/027/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Den Dag, vi fødtes, bliver os en Fest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Et Høidepunkt imellem Livets Dage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Hvor Alvor staaer hos os som Glædens Gjest",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Og viser Veien, vi har lagt tilbage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Hvad der vi virkede og hvad vi vandt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Jo større Virkekreds, des større Skuen!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "En tro, hengiven Kreds sin Krands da bandt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Og smykkede paa den Dag festligt Stuen;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Det er en Trang for hvert taknemligt Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Det er en Trang, hvor Kjærligheden lever!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "– Hvem Gud har stillet høit, ham Sorg og Lyst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "I større Bølgeslag igjennembæver,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Ham derfor bringes mere udstrakt, stort",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "Det inderlige Tegn paa Hjertets Glæde;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "Det er ei om den Pragt, der bliver gjort,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "Men om det Sindelag, der er tilstede;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "Og her er Sindelag, just Hjertelag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "For ham, Gud satte paa den danske Throne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "Hans danske Hjerte har paa Prøvens Dag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "Forherliget den kongelige Krone,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "Hans Tid og Navn engang i dansk Historie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "Vil lyse frem og staae med varig Skrift;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "Thi Kjærligheds og Sammenholdets Glorie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "Omstraaler Drot og Folk til god Bedrift.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "– Der var en Tid, da Kongeherlighed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "fandt Storhed i den stolte Høiheds Skranke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Forbi det kongelige Slot hver Borger skred",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "Med blottet Hoved; ei det kom i Tanke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "At selv en Mand, som Holberg, han, hvis Ord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "Udsaa’de Snillets Guld for Land og Rige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "Indrømmedes en Plads ved Kongens Bord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "At Aand og Dygtighed gjør »Adelige«!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 0,
+      "text": "Nu sidder Bonden med i Kongens Raad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 0,
+      "text": "Fra Kongehjertet straaler Kongemagten, –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 0,
+      "text": "Alt Godt og Stort udfolde sig i Daad!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 0,
+      "text": "Velsigne Gud hver ædel Id og Tragten!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 0,
+      "text": "Med Kongen Folket paa hans Høitidsdag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 0,
+      "text": "Fornemmer Sammenholdets Liv og Lykke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 0,
+      "text": "Thi vaie derfor festligt Krands og Flag!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 0,
+      "text": "I Troskab bygge er i Gud at bygge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 1,
+      "text": "I Riddertiden, som De Alle vide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 1,
+      "text": "Sad Damerne i Kreds høit over Skranken",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 1,
+      "text": "Og saae paa Kampen med de vilde Dyr.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 1,
+      "text": "Og kasted’ Damen da sin Handske ned",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 1,
+      "text": "Og bød sin Ridder kjækt at hente den,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 1,
+      "text": "Saa adlød han. – – Det var i Riddertiden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 1,
+      "text": "At mangen ædel Frøken, fornem Frue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 1,
+      "text": "Tog mildt sig af den Fattige og Syge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 1,
+      "text": "I Stilhed øvede den bedste Daad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 1,
+      "text": "Som Roserne fremskyde ny’ hvert Aar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 1,
+      "text": "Saa lever ogsaa Hines ædle Gjerning.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 1,
+      "text": "Men Handskens Kasten blandt de vilde Dyr",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 1,
+      "text": "Er nu kun til i Sagn og gamle Sange.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 1,
+      "text": "Den ædle Qvinde gaaer til Armods Skjul",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 1,
+      "text": "Og virker godt ved milde Ord og Gjerning.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 1,
+      "text": "Hvo er ei gjerne hendes Tjener her",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 1,
+      "text": "Og hjælper med at samle, med at bære;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 1,
+      "text": "Et Blik, et Ord kun – ja her det forstaaes,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 1,
+      "text": "At man kan springe ned selv paa Arena.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 1,
+      "text": "Og egenligt gjør vi her noget Sligt –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 1,
+      "text": "Vi springe ikke ned, men op paa Scenen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 1,
+      "text": "Vi stille vore svage Kræfter frem;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 1,
+      "text": "Men det er Hjertets Sag; derfor det voves",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 1,
+      "text": "I Vennekreds. – Vel sandt, den er lidt stor",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 1,
+      "text": "Den kjære Vennekreds, som her er samlet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 1,
+      "text": "Men stor, det er just godt for Øiemedet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 1,
+      "text": "Vi virke Alle med: vi vise Mod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 1,
+      "text": "Idet vi træde op; De vise Taalmod!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 1,
+      "text": "Vi give; – ja, de Fleste har vist seet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 1,
+      "text": "I deres Kredse, i den sidste Tid,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 1,
+      "text": "Hvor Alle følte, at vi er eet Folk",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 1,
+      "text": "Og Brødre Alle! Kjærligt gav Enhver,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 1,
+      "text": "Selv Børnene tog Deel, de fik istand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 1,
+      "text": "En Tombola med ganske ringe Sager,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 1,
+      "text": "Men gjerne Smaa og Store toge Nummer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 1,
+      "text": "Man mored sig og smilte glad mod selv",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 1,
+      "text": "Det Ubetydeligste, som man vandt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 1,
+      "text": "Thi det at vinde var jo ikke Tanken.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 1,
+      "text": "Husk, at vor Forestilling denne Aften",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 1,
+      "text": "Er slig en Tombola, og da I ville",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 1,
+      "text": "Med venligt Sind modtage, hvad I faae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 1,
+      "text": "Hvad vi kan bringe, falder i det Smaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 1,
+      "text": "Men i en Vennekreds kan Meget gaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 1,
+      "text": "Der ellers aldrig gaaer. Og her er Venner,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 1,
+      "text": "Ja, Venner af den Fattige, som lider,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 1,
+      "text": "Som uforskyldt maa prøve tunge Tider.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 1,
+      "text": "Og nu – ja, nu det første Skridt er gjort!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 1,
+      "text": "Tag mildt til Takke – De faaer ikke Stort.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 1,
+      "text": "Husk paa, De virke med saa godt som Nogen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 1,
+      "text": "Og derfor tusind Tak! – Det var Prologen.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

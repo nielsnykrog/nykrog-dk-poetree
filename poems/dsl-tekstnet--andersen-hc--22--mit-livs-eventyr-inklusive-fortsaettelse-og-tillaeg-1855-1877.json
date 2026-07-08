@@ -1,0 +1,521 @@
+{
+  "id": null,
+  "title": "22",
+  "year_created": 1855,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Mit Livs Eventyr (Inklusive Fortsættelse Og Tillæg). 1855-1877",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1855,
+    "url": "https://tekstnet.dk/books/andersen-hc_mit-livs-eventyr-inklusive-fortsaettelse-og-tillaeg-1855-1877/025/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Fornuften i Fornuften er det Sande;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Fornuften i Følelsen er det Skjønne",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "Et Digt forlanger De! jeg eier intet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Jeg ellers bragte Dem mit allerbedste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Her i Montreux groe Laurbær, men ei Digte;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Det sidste her var Byrons om Chillon.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "Naturen rundt om er vel selv et Digt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "Mit Hjerte rummer det, men ei Papiret;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Jeg kan ei tegne Aftnen her ved Søen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "Hvor Vandet skifter om med Blaat og Purpur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 1,
+      "text": "Et luftigt Rosenblad mod Himlens Guldgrund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 1,
+      "text": "Liig mægtige Chorstole i en Kirke",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 1,
+      "text": "Staaer Klippe sælsomt stillet op ved Klippe;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 1,
+      "text": "Der hænge Skovene som Drapperier,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "Og fjernest løfter sig Høialteret,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "Et Bjerg med evig Snee til Alterdug<button id=note29 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p> NDent du midi</p> \" data-title=\" Fodnote 29\">F29</button>.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 1,
+      "text": "Her er en Fred, en Deilighed i Aftnen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 1,
+      "text": "Et Farvespil, som ingen Maler giver.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 1,
+      "text": "Og dog i al den Glands og Deilighed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 1,
+      "text": "Min Harpe hænger uden Klang og Toner,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 1,
+      "text": "Den lette Bjergluft lader den ei zittre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 1,
+      "text": "Mit Hjertes stærke Slag ei virke vil;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 1,
+      "text": "Det er som Strængene i Slummer laae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 1,
+      "text": "Som om de samled’ Kræfter for at klinge",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 1,
+      "text": "Med større Fylde og med nye Toner,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 1,
+      "text": "Snart i det Skjønheds Land, der aabnes for mig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 1,
+      "text": "Hvor brændende Granatblomst mellem Laurbær",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 1,
+      "text": "Vildt groer paa Gjerdet i det stærke Sollys,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 1,
+      "text": "I Cids og i Cervantes Fædreland.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 1,
+      "text": "Der sende Naadens Gud mig Digtergaven,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 1,
+      "text": "Den bruse gjennem de nu tause Strænge",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 1,
+      "text": "Og bære hjem til vore grønne Øer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 1,
+      "text": "Hvor Bøgen skygger over Kjæmpegrave,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 1,
+      "text": "Fata Morgana fra Granadas Have.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 2,
+      "text": "I Africanerbyen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 2,
+      "text": "i Cartagena jeg boer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 2,
+      "text": "I den smalle, snevre Gade,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 2,
+      "text": "saa snever, Du knap det troer;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 2,
+      "text": "Jeg naaer med Haanden Balconen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 2,
+      "text": "derovre hos Gjenbomo’er,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 2,
+      "text": "Hvor den deilige Datter sidder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 2,
+      "text": "i Ungdommens Skjønhedsflor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 2,
+      "text": "Saa fyldig, kraftig og ildfuld;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 2,
+      "text": "det lange, kulsorte Haar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 2,
+      "text": "Nu Moderen løser af Fletning;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 2,
+      "text": "det ned til Fødderne naaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 2,
+      "text": "Og Skuldren er som Antikens,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 2,
+      "text": "og Øinene som et Lyn;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 2,
+      "text": "Det er næsten ikke mueligt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 2,
+      "text": "at udholde dette Syn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 2,
+      "text": "Fra Africa brænder Luften,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 2,
+      "text": "og Blodet er Ild som den;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 2,
+      "text": "Nu vil jeg slukke Lampen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 2,
+      "text": "og hvert et Ord med den.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 3,
+      "text": "Som en Æolsharpe brudt itu,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 3,
+      "text": "Men endnu ophængt ved Darros Bjergkant",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 3,
+      "text": "Seer jeg Dig, Alhambra, billedsmykket,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 3,
+      "text": "Rigt udskaaret; dog Din største Skjønhed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 3,
+      "text": "Ligger i Erindringen om Klangen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 3,
+      "text": "Tonerne fra Dine brudte Strænge!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 3,
+      "text": "Klang som Sværdet gav, som Snillet har den,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 3,
+      "text": "Dertil Elskovs Toner bløde, søde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 3,
+      "text": "Svulmende til stormende Scirocco.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 3,
+      "text": "Brudt itu er Harpen, Resten hænger",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 3,
+      "text": "Af den mellem sørgende Cypresser,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 3,
+      "text": "Kostbar rigt indlagt – det er Alhambra.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 4,
+      "text": "»Her ligger det sletteste Menneske i Verden«.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 5,
+      "text": "– »Locomotivet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 5,
+      "text": "Som kommer og bruser herfra; –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 5,
+      "text": "Og saa er igjen det stille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 5,
+      "text": "Alt rundt om øde og stort.«",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

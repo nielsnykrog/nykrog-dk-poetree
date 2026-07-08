@@ -1,0 +1,2047 @@
+{
+  "id": null,
+  "title": "Af Deviser med Presenter",
+  "year_created": 1876,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Af Samlede Skrifter. Tre Og Tredivte Bind",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1876,
+    "url": "https://tekstnet.dk/books/andersen-hc_af-samlede-skrifter-tre-og-tredivte-bind/023/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Lille og nysselig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "See dog, hvor sød!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Med det er Du kysselig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Bliv dog ei rød!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "En Kurv kan man bruge mod Amors Rænker.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Her faaer Du, hvad Du til de Andre skjænker.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Fluer i Hovedet, ja, det er slemt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "Fluer om Hjertet er værre!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "Vogt Dig, man bliver saa underligt stemt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Vogt Dig, min unge Herre!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Amor som Flue Dig giver din Rest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "Derfor knap sammen Kjole og Vest!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 3,
+      "text": "Jeg vilde gjerne blæse Dig et Stykke;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "Men blæs for mig – og ad din Lykke!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 4,
+      "text": "Hos Dig forvandles Alt til Engel.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 4,
+      "text": "Tillad, jeg prøver nu med denne Bengel.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 5,
+      "text": "Her er en yndig Junker;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 5,
+      "text": "Han grynter, men har Grunker.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 6,
+      "text": "Paa Jorden og alle Planeter",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 6,
+      "text": "Behøver man en Trompeter.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 7,
+      "text": "For med Visitkaart ei at staae tilskamme",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 7,
+      "text": "Og for ei at levere just det Samme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 7,
+      "text": "Tillad, jeg sender mit, sat i en Ramme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 8,
+      "text": "Her har Du Heibergs , hun er saa pyntet, hun;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 8,
+      "text": "– Før var han selv en Stjerne, men nu han kigger kun!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 9,
+      "text": "Det dundrer under Hestens Hov",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 9,
+      "text": "Gjennem den grønne, duftende Skov.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 9,
+      "text": "Hundene halse, Hjorten sig reiser,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 9,
+      "text": "Flygter og kneiser.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 9,
+      "text": "Skuddet den rammer; Jæger, spring til,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 9,
+      "text": "Stød den med Kniven! Vi juble vil:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 9,
+      "text": "Trara! Trara! Joachim, trara!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 10,
+      "text": "Den lille Dreng paa det gule Bind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 10,
+      "text": "Han er her lige paa Pletten,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 10,
+      "text": "Ja see, han træder i Stuen ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 10,
+      "text": "Leverer til Dig Bouquetten",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 10,
+      "text": "Og siger: »Jeg skulde bringe den",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 10,
+      "text": "Saa god, som den var at finde;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 10,
+      "text": "Den kommer fra H. C. Andersen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 10,
+      "text": "Til Anna, som er hans Veninde.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 11,
+      "text": "Modtag et Træ, der fuldt med Roser groer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 11,
+      "text": "Et Billed paa dit Hjertes Blomsterflor;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 11,
+      "text": "Og seer Du her den fine, spæde Knop,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 11,
+      "text": "Den tyder Blomst, som Tiden ruller op;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 11,
+      "text": "Ja, den oprulle Dig et Rosenrige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 11,
+      "text": "Du sjæleskjønne, kjære, fromme Pige!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 11,
+      "text": "Veninder kysse Dig, ej unge blot,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 11,
+      "text": "Den ældste med! Gud give Dig alt Godt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 12,
+      "text": "Paa Menneskets Ord slaa Dig ei til Ro!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 12,
+      "text": "Hvad Dyrene tale, kan bedre Du troe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 13,
+      "text": "Som Englene det Jordiske bortbære",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 13,
+      "text": "Hen over Jorden, gjennem Himlens Blaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 13,
+      "text": "Vor Tro paa Gud den Fjederham vil være",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 13,
+      "text": "Der løfter op, hvor ingen Skygger naae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 13,
+      "text": "»En Stjerne mellem Stjerner er vor Klode«;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 13,
+      "text": "Guds Villie altid skeer, den er det Gode,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 13,
+      "text": "Det Bedste for hver Enkelt udi Vrimlen;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 13,
+      "text": "Os Børn – vort Juletræ er Stjernehimlen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 14,
+      "text": "Du har en Kunstnersjæl, jeg troer derpaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 14,
+      "text": "Dens Straaler jeg i dine Skizzer saae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 14,
+      "text": "Du har et ærligt Øje; – Hjertets Grund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 14,
+      "text": "Staaer i et trofast Smiil omkring Din Mund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 14,
+      "text": "Jeg strax forstod Dig. Eventyr de skikke",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 14,
+      "text": "Dig denne Juul; Veninden har dem bragt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 14,
+      "text": "Et lille Vers jeg har i Bogen lagt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 14,
+      "text": "Du har en Ven i Danmark; glem ham ikke!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 15,
+      "text": "Da en Syndflods Vande",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 15,
+      "text": "Bragte Død og Grav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 15,
+      "text": "Mennesker og Lande",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 15,
+      "text": "Sank i salten Hav;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 15,
+      "text": "Arken, da det endte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 15,
+      "text": "Stod paa Ararat;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 15,
+      "text": "Duen Noah sendte",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 15,
+      "text": "Ud i Frygtens Nat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 15,
+      "text": "Bunden som til Sengen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 15,
+      "text": "Hver i Arken sad;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 15,
+      "text": "Duen kom fra Engen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 15,
+      "text": "Med et Olieblad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 15,
+      "text": "Doctoren som Duen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 15,
+      "text": "Tidt man venter paa;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 15,
+      "text": "Træder han i Stuen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 15,
+      "text": "Hjertet haabe maa;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 15,
+      "text": "Ingen Laurbærblade",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 15,
+      "text": "Han i Munden har,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 15,
+      "text": "Vi ham ryge lade",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 15,
+      "text": "Da en god Cigar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 15,
+      "text": "Træder Du i Stuen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 15,
+      "text": "Ryger, som vi bad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 15,
+      "text": "Ja, da er Du Duen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 15,
+      "text": "Som har Haabets Blad!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 16,
+      "text": "Til Melodi gik Livs-Disharmonien,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 16,
+      "text": "Hver blodig Taare til en Perle blev;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 16,
+      "text": "Ved ham var slig en Kraft i Poesien.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 16,
+      "text": "Bær Livets Dissonants – som han den skrev!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 17,
+      "text": "Ved Islands Geyser staaer hans Sommertelt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 17,
+      "text": "Han rider paa den afrikanske Løve,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 17,
+      "text": "Han, Poesiens unge, tydske Helt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 17,
+      "text": "Med ham det nok er værdt en Dyst at prøve;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 17,
+      "text": "Han har en riig Provinds i Kunstens Stat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 17,
+      "text": "Her kommer han, – hans Navn er Freiligrath.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 18,
+      "text": "Dukken her er ingen Dukke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 18,
+      "text": "Hun er en forhexet En,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 18,
+      "text": "Kan ei græde, kan ei sukke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 18,
+      "text": "Røre Arme eller Been;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 18,
+      "text": "Kun ved inderlig Caresse",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 18,
+      "text": "Og ved Omgang blid og god",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 18,
+      "text": "Hun forvandles til Prindsesse,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 18,
+      "text": "Som hun var, det Rosenblod!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 19,
+      "text": "I Ægtestandens søde Fryd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 19,
+      "text": "Faaer Piben nok en anden Lyd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 20,
+      "text": "Med Blomster staaer hun fra Fod til Top;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 20,
+      "text": "Hun er saa sød, hun kan spises op.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 21,
+      "text": "Til Skjønhed og Høihed hav ingen Fidus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 21,
+      "text": "Det gaaer som en Røg og en Fidibus.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 22,
+      "text": "Slaa Du med Aand og Tale,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 22,
+      "text": "Som han med Hamren slaaer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 22,
+      "text": "Dit Navn da i Stændersale",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 22,
+      "text": "Hugget for Slægter staaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 23,
+      "text": "Da en Gang Blomsterne Dig saae",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 23,
+      "text": "I Graad en Aften silde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 23,
+      "text": "Da græd de med, og store, smaa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 23,
+      "text": "Blev alle til en Kilde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 23,
+      "text": "Her har Du Lidt fra Kildens Væld;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 23,
+      "text": "Det hentet blev i Juleqvæld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 24,
+      "text": "Alverden jeg gavner",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 24,
+      "text": "Med den Spaakraft, jeg har;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 24,
+      "text": "Men spaae en Kjøbenhavner –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 24,
+      "text": "Nei, han gjør kun Nar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 25,
+      "text": "Jeg var en Gang paa den grønne Green,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 25,
+      "text": "Jeg var selv en Green, ja, en deilig En –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 25,
+      "text": "Jeg svaied i Vinden med Blade paa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 25,
+      "text": "Og Fuglene sang, de velsignede Smaa!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 25,
+      "text": "Det var min Barndoms Dage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 26,
+      "text": "Men jeg slog mig en Dag fra Familien løs,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 26,
+      "text": "En Prygl var jeg bleven, jeg kaldte mig Knøs",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 26,
+      "text": "Og drog saa i Verden paa Eventyr;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 136,
+      "stanza_id": 26,
+      "text": "Der sprang jeg i Splinter og blev denne Fyr",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 137,
+      "stanza_id": 26,
+      "text": "Jeg nu er. – Vil De bare behage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 138,
+      "stanza_id": 27,
+      "text": "Nu er jeg et Mandfolk, der har en Couleur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 139,
+      "stanza_id": 27,
+      "text": "Samt Lemmer, Manerer, Alt, som sig bør;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 140,
+      "stanza_id": 27,
+      "text": "Jeg seer med Foragt paa den Tid, som forsvandt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 141,
+      "stanza_id": 27,
+      "text": "En Broder jeg søgte, – en Broder jeg fandt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 142,
+      "stanza_id": 27,
+      "text": "I mig Du dit Billed modtage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 143,
+      "stanza_id": 28,
+      "text": "Naar efter Aar og Dage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 144,
+      "stanza_id": 28,
+      "text": "Saa mangt et Lys er brændt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 145,
+      "stanza_id": 28,
+      "text": "Staaer end i denne Stage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 146,
+      "stanza_id": 28,
+      "text": "Erindrings-Lyset tændt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 147,
+      "stanza_id": 28,
+      "text": "Just deri ligger Kraften,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 148,
+      "stanza_id": 28,
+      "text": "Som hver Erindring har.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 149,
+      "stanza_id": 28,
+      "text": "Fra denne Juleaften",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 150,
+      "stanza_id": 28,
+      "text": "Dets Lue skinne klar!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 151,
+      "stanza_id": 29,
+      "text": "Ved denne Du i Verden huske maa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 152,
+      "stanza_id": 29,
+      "text": "Ei Alt, der trykkes, har just Blomster paa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 153,
+      "stanza_id": 30,
+      "text": "Paa Jagten smager en Cigar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 154,
+      "stanza_id": 30,
+      "text": "Og her Du Foderalet har.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 155,
+      "stanza_id": 31,
+      "text": "Den glade Juul Dig lover ret",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 156,
+      "stanza_id": 31,
+      "text": "Presenter smaa at sanke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 157,
+      "stanza_id": 31,
+      "text": "Her skal Du faae paa Hovedet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 158,
+      "stanza_id": 31,
+      "text": "Hvad Du vist har i Tanke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 159,
+      "stanza_id": 32,
+      "text": "Da Roser mangle ved Julens Leg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 160,
+      "stanza_id": 32,
+      "text": "Din Stue vi ikke kan smykke;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 161,
+      "stanza_id": 32,
+      "text": "Men som en Blomst dog for din Væg",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 162,
+      "stanza_id": 32,
+      "text": "Du faaer dette Kobberstykke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 163,
+      "stanza_id": 33,
+      "text": "Uden Devise og uden Fraser",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 164,
+      "stanza_id": 33,
+      "text": "Komme til Dig to smaabitte Vaser.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 165,
+      "stanza_id": 34,
+      "text": "Den tør Du eje",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 166,
+      "stanza_id": 34,
+      "text": "Trods Verdens Snak;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 167,
+      "stanza_id": 34,
+      "text": "Nu kan Du neje",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 168,
+      "stanza_id": 34,
+      "text": "Og sige Tak!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 169,
+      "stanza_id": 35,
+      "text": "Italien, blomstrende Mandelstav!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 170,
+      "stanza_id": 35,
+      "text": "Orangegreen i det luftblaae Hav!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 171,
+      "stanza_id": 35,
+      "text": "Henover den klinger Erindringens Qvad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 172,
+      "stanza_id": 35,
+      "text": "Derfra bringer jeg Dig et Mindeblad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 173,
+      "stanza_id": 36,
+      "text": "Fordi man gaaer med Kravebaand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 174,
+      "stanza_id": 36,
+      "text": "Derfor har man ej Slaveaand;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 175,
+      "stanza_id": 36,
+      "text": "Det trøste Dig, du Lilievaand!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 176,
+      "stanza_id": 37,
+      "text": "Gaven her er nydelig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 177,
+      "stanza_id": 37,
+      "text": "Ikke ubetydelig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 178,
+      "stanza_id": 37,
+      "text": "Blomster-Vase meget net!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 179,
+      "stanza_id": 37,
+      "text": "Uden mindste Skaar og Plet!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 180,
+      "stanza_id": 37,
+      "text": "Den har kostet, kan Du troe;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 181,
+      "stanza_id": 37,
+      "text": "Kjøb een til, saa har Du to!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 182,
+      "stanza_id": 38,
+      "text": "Den hverken bjæffer eller brummer;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 183,
+      "stanza_id": 38,
+      "text": "Men den gjør meget Meer: den skummer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 184,
+      "stanza_id": 39,
+      "text": "Uden Snakken, uden Takken,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 185,
+      "stanza_id": 39,
+      "text": "Modtag Pungen til Tobakken!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 186,
+      "stanza_id": 40,
+      "text": "Det røde Guld betyder Elskovs Tro,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 187,
+      "stanza_id": 40,
+      "text": "Og Ringens Form betegner Evigheden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 188,
+      "stanza_id": 40,
+      "text": "Hvad Gaven siger her, forstaaer Du jo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 189,
+      "stanza_id": 40,
+      "text": "Som skabte for mig Hjemmet til et Eden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 190,
+      "stanza_id": 41,
+      "text": "Et Huuskors faaer Du her; prøv dine Kræfter!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 191,
+      "stanza_id": 41,
+      "text": "De andre Kors – de komme siden efter!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 192,
+      "stanza_id": 42,
+      "text": "Sæt Dig i Stagen, men ikke for kroget!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 193,
+      "stanza_id": 42,
+      "text": "Et lille Lys er jo ogsaa Noget.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 194,
+      "stanza_id": 43,
+      "text": "Tag Koppen med Roeskilde-Byen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 195,
+      "stanza_id": 43,
+      "text": "Hvor Kirken knejser mod Skyen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 196,
+      "stanza_id": 43,
+      "text": "Som var den et mægtigt Fjeld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 197,
+      "stanza_id": 43,
+      "text": "Du Kaffe og Thee nu kan drikke;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 198,
+      "stanza_id": 43,
+      "text": "Siig ei, at den smager Dig ikke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 199,
+      "stanza_id": 43,
+      "text": "Den er jo af Roeskilde-Væld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 200,
+      "stanza_id": 44,
+      "text": "Et Mindeblad – det Sted, Du har beæret,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 201,
+      "stanza_id": 44,
+      "text": "Har Sort paa Hvidt for, at Du der har været.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 202,
+      "stanza_id": 45,
+      "text": "En Cavaleer kom nys hertil;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 203,
+      "stanza_id": 45,
+      "text": "Han gjør det Ansigt, som Du vil.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 204,
+      "stanza_id": 46,
+      "text": "I Kurven, paa Ballet, i Dands og i Leg",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 205,
+      "stanza_id": 46,
+      "text": "Jeg nynner saa sagte dette:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 206,
+      "stanza_id": 46,
+      "text": "Fugl Phønix er i det ene Æg;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 207,
+      "stanza_id": 46,
+      "text": "Men see nu, Du finder det rette!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 208,
+      "stanza_id": 47,
+      "text": "Et Kobberstykke skal Du faae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 209,
+      "stanza_id": 47,
+      "text": "See, det er nu det Samme!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 210,
+      "stanza_id": 47,
+      "text": "Men Du af egen Lomme maa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 211,
+      "stanza_id": 47,
+      "text": "Bekoste Dig en Ramme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 212,
+      "stanza_id": 48,
+      "text": "Du faaer til Julegave?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 213,
+      "stanza_id": 48,
+      "text": "Dig Verset det vil stave,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 214,
+      "stanza_id": 48,
+      "text": "Hold Dig nu smukt i Lave! – –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 215,
+      "stanza_id": 48,
+      "text": "En Krave!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 216,
+      "stanza_id": 49,
+      "text": "Her er Papir til mange Breve.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 217,
+      "stanza_id": 49,
+      "text": "Gid Du og de maae længe leve!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 218,
+      "stanza_id": 50,
+      "text": "Hille den sorte Jøde!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 219,
+      "stanza_id": 50,
+      "text": "Træk paa – er Hænderne røde!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 220,
+      "stanza_id": 51,
+      "text": "Naar Du med dette Dig befugter,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 221,
+      "stanza_id": 51,
+      "text": "O – hvor Du lugter!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 222,
+      "stanza_id": 52,
+      "text": "I Stykket her, vil Dig dit Hjerte sige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 223,
+      "stanza_id": 52,
+      "text": "Er Meer, end nogle Traades Farvepragt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 224,
+      "stanza_id": 52,
+      "text": "Og Meer end Billedet »En Fiskerpige«.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 225,
+      "stanza_id": 52,
+      "text": "To kostelige Perler er Dig bragt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 226,
+      "stanza_id": 52,
+      "text": "De kom fra Dybet, Hjertets Dyb, det rige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 227,
+      "stanza_id": 52,
+      "text": "Og deres Glands og deres Værd Du veed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 228,
+      "stanza_id": 52,
+      "text": "Du Kjærlige, Du Milde, Elskelige!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 229,
+      "stanza_id": 52,
+      "text": "Vi har kun disse: Troskab, Kjærlighed!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 230,
+      "stanza_id": 53,
+      "text": "Du voxte op i mit Hjertes Hjem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 231,
+      "stanza_id": 53,
+      "text": "Som Slægtning jeg paa Dig holder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 232,
+      "stanza_id": 53,
+      "text": "Tag her min Tanke-Skat, den gjem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 233,
+      "stanza_id": 53,
+      "text": "Mens dit eget Liv sig udfolder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 234,
+      "stanza_id": 53,
+      "text": "Og naar Du saa staaer med sølvhvidt Haar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 235,
+      "stanza_id": 53,
+      "text": "Og jeg er, hvor Du skal komme, –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 236,
+      "stanza_id": 53,
+      "text": "Husk, Du var mig kjær fra dit første Aar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 237,
+      "stanza_id": 53,
+      "text": "Og bliver – hvor Aarstal er omme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 238,
+      "stanza_id": 54,
+      "text": "Der sidder en Amme ved Rosenborg Slot;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 239,
+      "stanza_id": 54,
+      "text": "To Jægere er der i Haven indtraadt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 240,
+      "stanza_id": 54,
+      "text": "Ak Gud, hvor det Grønne gjør Øjnene godt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 241,
+      "stanza_id": 55,
+      "text": "Her er en Hund, og den er stor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 242,
+      "stanza_id": 55,
+      "text": "En Hund var hans Faer, en Hund hans Moer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 243,
+      "stanza_id": 55,
+      "text": "See, hvor han gloer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 244,
+      "stanza_id": 56,
+      "text": "I Kampens Stund han blæste kjækt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 245,
+      "stanza_id": 56,
+      "text": "Blandt Seiersraab og Sukke, –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 246,
+      "stanza_id": 56,
+      "text": "Men nu, da Stridens Saar er lægt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 247,
+      "stanza_id": 56,
+      "text": "Han blæser for de Smukke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 248,
+      "stanza_id": 57,
+      "text": "Sicilien er Skjønheds Hjem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 249,
+      "stanza_id": 57,
+      "text": "Det siger man med Rette;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 250,
+      "stanza_id": 57,
+      "text": "Dog er – det tør jeg sige frem –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 251,
+      "stanza_id": 57,
+      "text": "Her paa vor egen Slette",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 252,
+      "stanza_id": 57,
+      "text": "Een Ting meer skjøn; men hvilken? hvem?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 253,
+      "stanza_id": 57,
+      "text": "Ja, det maa selv De gjætte!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 254,
+      "stanza_id": 58,
+      "text": "Hver Dag læg hen som Hjertets Tavlepenge",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 255,
+      "stanza_id": 58,
+      "text": "En lille Skilling eller to,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 256,
+      "stanza_id": 58,
+      "text": "Og Du skal see, om ikke længe",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 257,
+      "stanza_id": 58,
+      "text": "Vil Skillingen til Daler groe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 258,
+      "stanza_id": 58,
+      "text": "Og Du vil, alvorsfuld og glad tillige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 259,
+      "stanza_id": 58,
+      "text": "Forstaae, hvad Rigdom siger nu:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 260,
+      "stanza_id": 58,
+      "text": "Imens Soldaten skjærmer Danmarks Rige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 261,
+      "stanza_id": 58,
+      "text": "Hans Børn og Hustru skjærmer Du.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 262,
+      "stanza_id": 59,
+      "text": "Velkommen! Træd kun ind, Du unge Pige!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 263,
+      "stanza_id": 59,
+      "text": "Besøg min Digtnings lille Solskins-Rige!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 264,
+      "stanza_id": 59,
+      "text": "Her synge, tale Blomster, Træer og Dyr.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 265,
+      "stanza_id": 59,
+      "text": "Vort Jordliv her er selv et Eventyr.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 266,
+      "stanza_id": 60,
+      "text": "Hvor Skjønhed lægges",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 267,
+      "stanza_id": 60,
+      "text": "Af Gud i Form og Aand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 268,
+      "stanza_id": 60,
+      "text": "Der kan kun rækkes",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 269,
+      "stanza_id": 60,
+      "text": "En Ridderhaand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 270,
+      "stanza_id": 61,
+      "text": "Mit hele Blomster-Mosaik",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 271,
+      "stanza_id": 61,
+      "text": "Er kun en fattig Skizze",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 272,
+      "stanza_id": 61,
+      "text": "Imod den Deilighed, det Digt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 273,
+      "stanza_id": 61,
+      "text": "Som kaldes .",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 274,
+      "stanza_id": 62,
+      "text": "Jeg kommer, Frøken Anna, med en Flaske af min Lugt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 275,
+      "stanza_id": 62,
+      "text": "Dertil to søde Hvalpe, mit Hjertes bedste Frugt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 276,
+      "stanza_id": 62,
+      "text": "»Bruun« var den Enes Fader, den Andens var nok »Spet«,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 277,
+      "stanza_id": 62,
+      "text": "Hver var en Gadestryger, men daarende honnet;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 278,
+      "stanza_id": 62,
+      "text": "Jeg selv er en Slags Norma, og jeg har følt og grædt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 279,
+      "stanza_id": 62,
+      "text": "Men det er nu det Samme, naar Hjertet kun er godt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 280,
+      "stanza_id": 62,
+      "text": "Med mig de gratulere og bringe noget Smaat:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 281,
+      "stanza_id": 62,
+      "text": "Et Stykke Chocolade og engelsk Naal og Staal;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 282,
+      "stanza_id": 62,
+      "text": "Og alle Tre vi raabe Hurra paa Hundemaal.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 283,
+      "stanza_id": 63,
+      "text": "Tak, kjære, unge Ven, for hver en Dag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 284,
+      "stanza_id": 63,
+      "text": "De lod mig læse Deres Hjertelag!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 285,
+      "stanza_id": 63,
+      "text": "Det lyste Solskin ind i Sind og Stue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 286,
+      "stanza_id": 63,
+      "text": "Og da De er den bedste Reisemand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 287,
+      "stanza_id": 63,
+      "text": "Saa følg mig nu i Eventyrets Land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 288,
+      "stanza_id": 63,
+      "text": "Og see, hvad Gud i Naade lod mig skue!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

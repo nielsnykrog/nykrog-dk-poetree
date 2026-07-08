@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "title": "Han over Strængene som Hersker byder!",
+  "year_created": 1862,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1862,
+    "url": "https://tekstnet.dk/books/andersen-hc_han-over-straengene-som-hersker-byder/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Han over Strængene som Hersker byder!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Strøm Tonevæld! gjør alvorsfuld og glad!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Snart er det, som et heelt Orchester lyder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Snart Alfers Dands paa Rosens fine Blad!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

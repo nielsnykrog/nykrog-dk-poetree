@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "title": "Til August Bournonville",
+  "year_created": 1842,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1842,
+    "url": "https://tekstnet.dk/books/andersen-hc_til-august-bournonville/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Ja, Du har følt og seet, forstaaet ret,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Og i en deilig Samklang Alt gjengivet!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Ja, det er og Folkelivet!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Tak for Din friske, duftende Bouqvet!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

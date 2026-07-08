@@ -1,0 +1,5005 @@
+{
+  "id": null,
+  "title": "Gud Fader vdi Himmerig/",
+  "year_created": 1569,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "Den danske Psalmebog",
+    "year_published": 1569,
+    "publisher": "Hans Thomissøn",
+    "printer": "Lorenz Benedicht",
+    "place": "København",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/thomissoen_1569/9"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Gud Fader vdi Himmerig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "sin villie hand oss kiende/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Der hand oss ned til Jorderig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "de Thi budord vdsende.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Det første Budord det er nu saa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Det bør dig nu at mercke/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "Affguder skalt du dig ey faa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "Men en Gud skalt du dyrcke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "Du skalt oc ey forfengelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Guds hellige Naffn paakalde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Om du vilt ey euindelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "J pinen det vndgielde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 3,
+      "text": "Du skalt oc komme ihu dernest/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "Sabbaths dag hellig at giøre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 3,
+      "text": "Oc tiene Gud som du kant bæst/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 3,
+      "text": "Guds ord da skalt du høre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 4,
+      "text": "Du skalt oc hedre oc ære",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 4,
+      "text": "Din Fader oc din Moder/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 4,
+      "text": "De som dig opfødde met ære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 4,
+      "text": "Met Gud du salig vorder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 5,
+      "text": "Du skalt oc ingen sla ihiel/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 5,
+      "text": "Oc ey manddrab bedriffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 5,
+      "text": "Din broder skalt du vnde vel/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 5,
+      "text": "Saa maat du salig bliffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 6,
+      "text": "Du skalt oc ey bedriffue hoer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 6,
+      "text": "Det monne saa mangen daare/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 6,
+      "text": "Wkyskheds synd hun snart forgaar/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 6,
+      "text": "Men pinen hun vel varer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 7,
+      "text": "Du skalt oc ingen stiæle fra",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 7,
+      "text": "Hans gods/ hans heder eller ære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 7,
+      "text": "J Verden skalt du leffue saa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 7,
+      "text": "At du retuiss kant være.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 8,
+      "text": "Du skalt oc ey falskt vidnisbyrd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 8,
+      "text": "Mod din Jeffnchristen bære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 8,
+      "text": "Eller det bliffuer dig fuld gantske dyrt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 8,
+      "text": "J euig pine at være.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 9,
+      "text": "Der nest du skalt oc ey attraa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 9,
+      "text": "Din Broders Hustru væne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 9,
+      "text": "Men all den stund du leffue maa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 9,
+      "text": "Din Broder skalt du tiene.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 10,
+      "text": "Det siste Budord det er nu saa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 10,
+      "text": "Det bør dig nu at mercke/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 10,
+      "text": "Din Broders gods du ey attraa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 10,
+      "text": "Hans Huss oc ey hans Suenne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 11,
+      "text": "Gud Fader Søn oc den hellig Aand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 11,
+      "text": "Hand giffue oss aff sin naade/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 11,
+      "text": "At wi maatte vdi alle Land/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 11,
+      "text": "Hans Budord vel beuare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 12,
+      "text": "Gud loed sin røst aff Skyen lyde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 12,
+      "text": "Jsrael hand monne tilbiude/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 12,
+      "text": "at bekiende sin Skabermand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 12,
+      "text": "hør til Jsrael/ sagde hand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 12,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 13,
+      "text": "Jeg er din rette Gud oc Herre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 13,
+      "text": "Thi haff du ingen Guder flere.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 13,
+      "text": "Alt haab oc trøst sæt du til mig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 13,
+      "text": "Oc lad mig elskis ret aff dig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 13,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 14,
+      "text": "Guds naffn vanære ingelund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 14,
+      "text": "Met mund eller aff hiertens grund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 14,
+      "text": "Lad ingen ting siunis dig saa god/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 14,
+      "text": "At du priser det mig imod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 14,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 15,
+      "text": "Din Sabbath skalt du holde helligt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 15,
+      "text": "Oc helst skal det være aandeligt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 15,
+      "text": "At du forlader gierning din/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 15,
+      "text": "Oc mig i dig lader skaffe min.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 15,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 16,
+      "text": "Elsk din Fader oc din Moder/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 16,
+      "text": "Tuctemestere/ Herrer oc Konger/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 16,
+      "text": "Lyd oc tiene dem aff din mact/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 16,
+      "text": "Saa leffuer du lenge i Legems krafft.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 16,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 17,
+      "text": "Plat ingen skalt du sla ihiel/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 17,
+      "text": "Ey heffne om du haffuer end skel/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 17,
+      "text": "vær ey hadsk/ men fuld met taal/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 17,
+      "text": "Elsk din Fiende oc vær hannem huld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 17,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 18,
+      "text": "Dit Ecteskab holt purt oc klart/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 18,
+      "text": "Eller oc bliff i Jomfru stat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 18,
+      "text": "Faste/ vaag/ oc holt Legemit i spægt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 18,
+      "text": "Oc holt dit leffnit reent oc ret.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 18,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 19,
+      "text": "En andens gods skalt du ey stiele/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 19,
+      "text": "Ey aagre/ ey met Tiuffuen fiele/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 19,
+      "text": "Tag icke vindning offuer skæl/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 19,
+      "text": "Met vndset huer som dig flyer til.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 19,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 20,
+      "text": "Falsk vidnisbyrd skalt du ey bære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 20,
+      "text": "Ey liuff paa din Jeffnchristens ære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 20,
+      "text": "For andre du forsuare hans rycte/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 20,
+      "text": "Dyl huad du vedst met hannem wtucte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 20,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 21,
+      "text": "Aff hiertens grund foruden liste/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 21,
+      "text": "Skalt du elske din Jeffnchristne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 21,
+      "text": "Begære du hans ey met wræt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 21,
+      "text": "Om du vilt leffue som dig er iæt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 21,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 22,
+      "text": "O Menniske tenck at Herre Gud",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 22,
+      "text": "Din synd dig lærer ved disse Bud",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 22,
+      "text": "At kiende ret/ oc beuiser here",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 22,
+      "text": "Huordant vort leffnit burde at være.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 22,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 23,
+      "text": "Thi hielpe oss her til Jesus Christ/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 23,
+      "text": "Som er vor Meglere vorden vist.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 23,
+      "text": "Det er met oss plat intet beuent/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 23,
+      "text": "Selff synde wi foruden ende.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 23,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 24,
+      "text": "Huo som vil leffue Christelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 24,
+      "text": "oc hoss Gud bliffue euindelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 24,
+      "text": "hand skal fuldkomme de Thi Guds bud/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 24,
+      "text": "som oss haffuer budet vor Herre Gud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 24,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 25,
+      "text": "Jeg er din Gud oc Herre allene/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 25,
+      "text": "Til ingen anden haff tilfluct din/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 25,
+      "text": "Men tro paa mig aff hiertens grund/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 25,
+      "text": "Oc haff mig kier i allen stund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 25,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 26,
+      "text": "Mit naffn du ey vanære skalt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 26,
+      "text": "Men prise oc paakalde det i nøden all.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 26,
+      "text": "Du skalt oc fire din Sabbaths dag/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 26,
+      "text": "At ieg i dig haffuer ro oc mag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 26,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 27,
+      "text": "Dernest hedre Fader oc Moder met flijd/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 27,
+      "text": "Saa gaar dig vel i alle tid.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 27,
+      "text": "Sla ingen ihiel/ fly heffn oc had.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 27,
+      "text": "Oc holt vel reen din Ecteskabs stat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 27,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 28,
+      "text": "En andens gods du skalt ey stiæle.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 28,
+      "text": "Oc ey mod hannem falskt vidne bære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 28,
+      "text": "Du skalt oc icke hans Hustru begære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 28,
+      "text": "Oc ey nogit aff det hans monne være.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 28,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 29,
+      "text": "Disse Bud oss alle giffne ere/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 29,
+      "text": "At de skulle oss vor Ondskab lære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 29,
+      "text": "Oc sige oss huad wi skulle giøre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 136,
+      "stanza_id": 29,
+      "text": "Om wi ville Gud i Himmerige tilhøre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 137,
+      "stanza_id": 29,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 138,
+      "stanza_id": 30,
+      "text": "Hand vil oss icke Himmerige giffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 139,
+      "stanza_id": 30,
+      "text": "Vden wi ville effter hans Budord leffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 140,
+      "stanza_id": 30,
+      "text": "Oc gaa der icke fra it straabrit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 141,
+      "stanza_id": 30,
+      "text": "Huilckit oss er alle wmueligt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 142,
+      "stanza_id": 30,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 143,
+      "stanza_id": 31,
+      "text": "Fordi kom til oss Jesus Christ/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 144,
+      "stanza_id": 31,
+      "text": "Oc haffuer dem opfylt for oss vist/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 145,
+      "stanza_id": 31,
+      "text": "Hannem bede wi alle om naade oc hielp/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 146,
+      "stanza_id": 31,
+      "text": "Thi vor egen mact hun er intet verd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 147,
+      "stanza_id": 31,
+      "text": "Gud miskunde oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 148,
+      "stanza_id": 32,
+      "text": "DEn som vil en Christen hede/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 149,
+      "stanza_id": 32,
+      "text": "Oc dette naffn ret bære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 150,
+      "stanza_id": 32,
+      "text": "Hand skal de Thi Budord vide/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 151,
+      "stanza_id": 32,
+      "text": "Som rette Reglene ere/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 152,
+      "stanza_id": 32,
+      "text": "Met Guds Finger i Stentafflen screffne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 153,
+      "stanza_id": 32,
+      "text": "Oc vaare paa Sinai Bierg vdgiffne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 154,
+      "stanza_id": 32,
+      "text": "Gennem den trofaste Mosen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 155,
+      "stanza_id": 33,
+      "text": "Tenck paa at du holder mine bud/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 156,
+      "stanza_id": 33,
+      "text": "Oc lær huad du skalt giøre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 157,
+      "stanza_id": 33,
+      "text": "Siger til oss vor Herre Gud/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 158,
+      "stanza_id": 33,
+      "text": "Som lærde Loffuen førre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 159,
+      "stanza_id": 33,
+      "text": "Haff mig for din Herre Gud allene/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 160,
+      "stanza_id": 33,
+      "text": "Oc holt mig troen skeer oc reen/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 161,
+      "stanza_id": 33,
+      "text": "Oc fly fremmede Guder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 162,
+      "stanza_id": 34,
+      "text": "Mit Naffn at ære du icke forgæt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 163,
+      "stanza_id": 34,
+      "text": "Men holt det i ære oc heder/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 164,
+      "stanza_id": 34,
+      "text": "Om du nogit misbruger det/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 165,
+      "stanza_id": 34,
+      "text": "Da vorder ieg paa dig vreder/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 166,
+      "stanza_id": 34,
+      "text": "Saa skalt du vide det er min Lou/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 167,
+      "stanza_id": 34,
+      "text": "At du giør hellig din Sabbaths dag/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 168,
+      "stanza_id": 34,
+      "text": "Oc lad mig i dig raade.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 169,
+      "stanza_id": 35,
+      "text": "Fader oc Moder hedre vel/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 170,
+      "stanza_id": 35,
+      "text": "Saa maat du lenge leffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 171,
+      "stanza_id": 35,
+      "text": "Oc sla icke din Næste ihiel.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 172,
+      "stanza_id": 35,
+      "text": "Oc Hoer skalt du ey bedriffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 173,
+      "stanza_id": 35,
+      "text": "Du skalt ey stiele. Ey falsk vidne bære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 174,
+      "stanza_id": 35,
+      "text": "Oc ey din nestis Hustru begære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 175,
+      "stanza_id": 35,
+      "text": "Eller hans eyedomme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 176,
+      "stanza_id": 36,
+      "text": "Disse ere Budordene alle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 177,
+      "stanza_id": 36,
+      "text": "Som lære oss Guds villie/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 178,
+      "stanza_id": 36,
+      "text": "Dem huert Menniske holde skal/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 179,
+      "stanza_id": 36,
+      "text": "Oc dem ey fra sig skillie/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 180,
+      "stanza_id": 36,
+      "text": "Troen kreffuer de try første Budord/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 181,
+      "stanza_id": 36,
+      "text": "J kierlighed vorde de andre fuldgiorde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 182,
+      "stanza_id": 36,
+      "text": "Naar Gud giffuer sin naade.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 183,
+      "stanza_id": 37,
+      "text": "Hør til i gode Christne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 184,
+      "stanza_id": 37,
+      "text": "huad Gud aff Himmelen tal/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 185,
+      "stanza_id": 37,
+      "text": "Huo ey vil høre skal vissne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 186,
+      "stanza_id": 37,
+      "text": "oc komme til Helffuedis qual.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 187,
+      "stanza_id": 37,
+      "text": "Jeg er din Gud allene/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 188,
+      "stanza_id": 37,
+      "text": "Elsk mig aff hiertens grund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 189,
+      "stanza_id": 37,
+      "text": "Tag ey mit Naffn det rene",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 190,
+      "stanza_id": 37,
+      "text": "forfengelig i din Mund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 191,
+      "stanza_id": 38,
+      "text": "Du skalt oc icke duæle",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 192,
+      "stanza_id": 38,
+      "text": "At holde din Sabbaths dag/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 193,
+      "stanza_id": 38,
+      "text": "Mit Ord lad for dig tæle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 194,
+      "stanza_id": 38,
+      "text": "All modgang lettelig drag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 195,
+      "stanza_id": 38,
+      "text": "Forældre skalt du ære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 196,
+      "stanza_id": 38,
+      "text": "Oc sla ret ingen død/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 197,
+      "stanza_id": 38,
+      "text": "Lad huer met Freden være/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 198,
+      "stanza_id": 38,
+      "text": "Din Næste hielp du aff nød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 199,
+      "stanza_id": 39,
+      "text": "Leff kysk oc from met ære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 200,
+      "stanza_id": 39,
+      "text": "Hoer/ styld/ falsk vidne fly/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 201,
+      "stanza_id": 39,
+      "text": "Dit Liff du heller ombære",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 202,
+      "stanza_id": 39,
+      "text": "Skalt/ end dette icke sky.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 203,
+      "stanza_id": 39,
+      "text": "Du aldrig skalt begære",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 204,
+      "stanza_id": 39,
+      "text": "Din Næstis Huss Ager oc Eng/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 205,
+      "stanza_id": 39,
+      "text": "Eller huad som hans monne være",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 206,
+      "stanza_id": 39,
+      "text": "Ey Hustru Pige eller Dreng.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 207,
+      "stanza_id": 40,
+      "text": "Gud Fader Søn oc hellig Aand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 208,
+      "stanza_id": 40,
+      "text": "Du oss din Naade betee/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 209,
+      "stanza_id": 40,
+      "text": "Frelss oss alle aff Syndsens baand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 210,
+      "stanza_id": 40,
+      "text": "Oc mildelig til oss see.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 211,
+      "stanza_id": 40,
+      "text": "Vor Siel fri fra all vaade/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 212,
+      "stanza_id": 40,
+      "text": "Wi bede dig Quinde oc Mand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 213,
+      "stanza_id": 40,
+      "text": "Alting vilt i oss raade/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 214,
+      "stanza_id": 40,
+      "text": "Oc giffue oss ret forstand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 215,
+      "stanza_id": 41,
+      "text": "Wi tro allesammen paa en Gud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 216,
+      "stanza_id": 41,
+      "text": "Som Himmel oc Jord oc allting skob/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 217,
+      "stanza_id": 41,
+      "text": "hand kalder sig vor Fader kier/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 218,
+      "stanza_id": 41,
+      "text": "som børn røre wi hannem paa nær/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 219,
+      "stanza_id": 41,
+      "text": "hand holder oss op vort daglige brød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 220,
+      "stanza_id": 41,
+      "text": "at vor Siel ey maa lide nød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 221,
+      "stanza_id": 41,
+      "text": "liff oc legem varer hand oc/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 222,
+      "stanza_id": 41,
+      "text": "hand seer oss for at wi faa nock/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 223,
+      "stanza_id": 41,
+      "text": "diss haffuer hand oc vel stor mact/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 224,
+      "stanza_id": 41,
+      "text": "Thi alting er hannem vnderlagt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 225,
+      "stanza_id": 42,
+      "text": "Wi tro ocsaa paa Jesum Christ/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 226,
+      "stanza_id": 42,
+      "text": "Vor Herre oc Frelsere allsomkierist/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 227,
+      "stanza_id": 42,
+      "text": "Som er Gud Faders euige Søn/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 228,
+      "stanza_id": 42,
+      "text": "Hannem lig i mact offuer huert køn/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 229,
+      "stanza_id": 42,
+      "text": "Aff Jomfru Maria føddis Mand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 230,
+      "stanza_id": 42,
+      "text": "Det bestillede den hellig Aand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 231,
+      "stanza_id": 42,
+      "text": "Død paa Kaarssit Helffuede hand brød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 232,
+      "stanza_id": 42,
+      "text": "Frelste oss saa aff alle vor nød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 233,
+      "stanza_id": 42,
+      "text": "Hand opstod/ oc i Rigit foer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 234,
+      "stanza_id": 42,
+      "text": "Redde oss rum vdi Engle Chor.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 235,
+      "stanza_id": 43,
+      "text": "Wi tro oc paa den hellig Aand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 236,
+      "stanza_id": 43,
+      "text": "Met Fader oc Søn en Gud sand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 237,
+      "stanza_id": 43,
+      "text": "Som oss i en Christen samfund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 238,
+      "stanza_id": 43,
+      "text": "Sambler oc pryder mangelund/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 239,
+      "stanza_id": 43,
+      "text": "Vocter oss fra syndelig ijd/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 240,
+      "stanza_id": 43,
+      "text": "Oc i vor brøst er hand oss blid/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 241,
+      "stanza_id": 43,
+      "text": "Wi skulle oc alle igen opstaa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 242,
+      "stanza_id": 43,
+      "text": "Met vor idret for Dommen gaa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 243,
+      "stanza_id": 43,
+      "text": "Riget skulle wi da faa sammen/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 244,
+      "stanza_id": 43,
+      "text": "Som Christus haffuer oss forhuærffuit/ Amen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 245,
+      "stanza_id": 44,
+      "text": "WJ tro allesammen paa en Gud/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 246,
+      "stanza_id": 44,
+      "text": "Himmels skabere oc Jordens/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 247,
+      "stanza_id": 44,
+      "text": "Guds Søn sin Faders villie giorde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 248,
+      "stanza_id": 44,
+      "text": "Paa det wi hans børn skulde bliffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 249,
+      "stanza_id": 44,
+      "text": "Hand vil oss forsee vor næring/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 250,
+      "stanza_id": 44,
+      "text": "Liff oc Siel i hans beuaring/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 251,
+      "stanza_id": 44,
+      "text": "Altid hand oss vil beuare/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 252,
+      "stanza_id": 44,
+      "text": "Jntet ont skal oss vederfare/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 253,
+      "stanza_id": 44,
+      "text": "Hand sørger for oss dag oc nat/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 254,
+      "stanza_id": 44,
+      "text": "For hand haffuer alting i sin mact.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 255,
+      "stanza_id": 45,
+      "text": "Wi tro oc alle paa Jesum Christ/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 256,
+      "stanza_id": 45,
+      "text": "Som er Guds Søn oc vor Herre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 257,
+      "stanza_id": 45,
+      "text": "Som aff den hellig Aand vndfangen vaar/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 258,
+      "stanza_id": 45,
+      "text": "Aff Guddommelig krafft oc ære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 259,
+      "stanza_id": 45,
+      "text": "Aff Maria den rene Jomfrue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 260,
+      "stanza_id": 45,
+      "text": "Jt sant helligt Menniske er vorden/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 261,
+      "stanza_id": 45,
+      "text": "Pint vnder Pontio Pilato/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 262,
+      "stanza_id": 45,
+      "text": "Kaarsfest/ død oc jordet/ til Helffuedis foer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 263,
+      "stanza_id": 45,
+      "text": "Paa tredie dag aff døde opstod/ til Himmels foer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 264,
+      "stanza_id": 45,
+      "text": "Vor Dommere er hand vorden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 265,
+      "stanza_id": 46,
+      "text": "Wi tro oc paa den hellig Aand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 266,
+      "stanza_id": 46,
+      "text": "Lig met Fader oc met Sønnen/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 267,
+      "stanza_id": 46,
+      "text": "Som alle bedrøffuedis Husualer er",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 268,
+      "stanza_id": 46,
+      "text": "Met dyrebar Gaffuer oc naader skøne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 269,
+      "stanza_id": 46,
+      "text": "All gantske Christenhed paa Jorden/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 270,
+      "stanza_id": 46,
+      "text": "Jt samfund giorde met sine Orde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 271,
+      "stanza_id": 46,
+      "text": "Met hannem vore Synder tilgiffne vorde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 272,
+      "stanza_id": 46,
+      "text": "Wi Menniske skulle alle opstande",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 273,
+      "stanza_id": 46,
+      "text": "Effter dette ælende/ it nyt leffnit er oss bered",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 274,
+      "stanza_id": 46,
+      "text": "J euighed til euig tid.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 275,
+      "stanza_id": 47,
+      "text": "Fader vor vdi Himmerig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 276,
+      "stanza_id": 47,
+      "text": "som badst oss leffue brøderlig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 277,
+      "stanza_id": 47,
+      "text": "oc dig met flid at kalde paa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 278,
+      "stanza_id": 47,
+      "text": "vor bøn du gierne høre maa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 279,
+      "stanza_id": 47,
+      "text": "giff at ey allene beder vor Mund/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 280,
+      "stanza_id": 47,
+      "text": "hielp at det gaar aff hiertens grund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 281,
+      "stanza_id": 48,
+      "text": "Helligt vorde Herre dit Naffn /",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 282,
+      "stanza_id": 48,
+      "text": "Dit ord lad komme oss til gaffn/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 283,
+      "stanza_id": 48,
+      "text": "At wi maa leffue Christelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 284,
+      "stanza_id": 48,
+      "text": "Dit Naffn kand æris flitelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 285,
+      "stanza_id": 48,
+      "text": "Fra falsk Lærdom du vær vor Tolck/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 286,
+      "stanza_id": 48,
+      "text": "Vent om det arme forførde Folck.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 287,
+      "stanza_id": 49,
+      "text": "Tilkomme oss dit Rige/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 288,
+      "stanza_id": 49,
+      "text": "Euigt hoss oss at bliffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 289,
+      "stanza_id": 49,
+      "text": "Den hellig Aand trøste oss sandelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 290,
+      "stanza_id": 49,
+      "text": "Met sine gaffuer mangfoldelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 291,
+      "stanza_id": 49,
+      "text": "Sla ned all Dieffuelens vold oc mact/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 292,
+      "stanza_id": 49,
+      "text": "Beuar din Kircke met din krafft.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 293,
+      "stanza_id": 50,
+      "text": "Din villie ske i Jorderig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 294,
+      "stanza_id": 50,
+      "text": "Lige som hand er i Himmerig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 295,
+      "stanza_id": 50,
+      "text": "Giff oss en god Taalmodighed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 296,
+      "stanza_id": 50,
+      "text": "Naar wi skulle lide sorrig oc nød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 297,
+      "stanza_id": 50,
+      "text": "Fordriff all legemlig begær/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 298,
+      "stanza_id": 50,
+      "text": "Som altid mod din villie er.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 299,
+      "stanza_id": 51,
+      "text": "Giff oss oc nu vort daglige Brød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 300,
+      "stanza_id": 51,
+      "text": "Met huess wi behøffue til liffsens nød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 301,
+      "stanza_id": 51,
+      "text": "Fri oss Herre Gud fra tuist oc strid/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 302,
+      "stanza_id": 51,
+      "text": "Fra Kranckhed oc den dyre tid/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 303,
+      "stanza_id": 51,
+      "text": "At wi maa nyde Freden god/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 304,
+      "stanza_id": 51,
+      "text": "Oc sky Gerighed den onde Roed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 305,
+      "stanza_id": 52,
+      "text": "Oc all vor skyld forlad oss HErr/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 306,
+      "stanza_id": 52,
+      "text": "At hun ey oss bedrøffuer meer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 307,
+      "stanza_id": 52,
+      "text": "Som wi oc vore Skyldener",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 308,
+      "stanza_id": 52,
+      "text": "Gierne forlade ville her/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 309,
+      "stanza_id": 52,
+      "text": "Giør oss at tiene alle bered",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 310,
+      "stanza_id": 52,
+      "text": "J kierlighed oc enighed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 311,
+      "stanza_id": 53,
+      "text": "Naar wi oc fristis lad oss staa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 312,
+      "stanza_id": 53,
+      "text": "At Sathan oss ey fange maa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 313,
+      "stanza_id": 53,
+      "text": "Til huilcken side hand komme kand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 314,
+      "stanza_id": 53,
+      "text": "Hielp oss at wi faa offuerhaand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 315,
+      "stanza_id": 53,
+      "text": "Met en fast Tro imod hans list",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 316,
+      "stanza_id": 53,
+      "text": "Der til hielp oss O Herre Christ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 317,
+      "stanza_id": 54,
+      "text": "Fra ont beuar oss sammelund/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 318,
+      "stanza_id": 54,
+      "text": "Thi ont er baade dag oc stund/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 319,
+      "stanza_id": 54,
+      "text": "Fri oss oc fra den euige død/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 320,
+      "stanza_id": 54,
+      "text": "Oc trøste oss i vor siste nød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 321,
+      "stanza_id": 54,
+      "text": "Forsee oss met en salig affgang/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 322,
+      "stanza_id": 54,
+      "text": "Vor Siel anamme i din haand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 323,
+      "stanza_id": 55,
+      "text": "Amen/ det ord er sant oc vist/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 324,
+      "stanza_id": 55,
+      "text": "Der til bestyrcke vor tro vel fast/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 325,
+      "stanza_id": 55,
+      "text": "At wi oc icke tuiffle der paa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 326,
+      "stanza_id": 55,
+      "text": "Huess wi her met nu bede saa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 327,
+      "stanza_id": 55,
+      "text": "Alt ved dit Ord i Naffnit dit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 328,
+      "stanza_id": 55,
+      "text": "Thi sige wi nu Amen frijt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 329,
+      "stanza_id": 56,
+      "text": "O Gud vor Fader du som est i Himmerig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 330,
+      "stanza_id": 56,
+      "text": "høyt offuer oss oc Aandelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 331,
+      "stanza_id": 56,
+      "text": "vilt du tilbeden vorde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 332,
+      "stanza_id": 56,
+      "text": "Dit hellig naffn lad nu vdspress saa veldelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 333,
+      "stanza_id": 56,
+      "text": "at det kand være priseligt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 334,
+      "stanza_id": 56,
+      "text": "i Himmelen oc paa jorden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 335,
+      "stanza_id": 56,
+      "text": "Dit Rige tilkomme oss naadelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 336,
+      "stanza_id": 56,
+      "text": "som oss kand Freden giffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 337,
+      "stanza_id": 56,
+      "text": "oc huess dig ey er behageligt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 338,
+      "stanza_id": 56,
+      "text": "i oss du vilt vddriffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 339,
+      "stanza_id": 56,
+      "text": "paa det at wi maa euindelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 340,
+      "stanza_id": 56,
+      "text": "vdi dit Rige bliffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 341,
+      "stanza_id": 57,
+      "text": "O milde Gud din villie lad ske i jorderig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 342,
+      "stanza_id": 57,
+      "text": "J alle maade at være lig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 343,
+      "stanza_id": 57,
+      "text": "Som vdi Himmerige/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 344,
+      "stanza_id": 57,
+      "text": "Der heden oc ingen komme kand oc maa bestaa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 345,
+      "stanza_id": 57,
+      "text": "Foruden den huess villie er saa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 346,
+      "stanza_id": 57,
+      "text": "Met din aldelis lige.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 347,
+      "stanza_id": 57,
+      "text": "Oc giff oss nu vort daglige Brød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 348,
+      "stanza_id": 57,
+      "text": "Som Legemit kand bespise/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 349,
+      "stanza_id": 57,
+      "text": "Velsignet met din Guddoms ord/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 350,
+      "stanza_id": 57,
+      "text": "At wi dig loffue oc prise/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 351,
+      "stanza_id": 57,
+      "text": "Som til vort Liffs nødtørfftighed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 352,
+      "stanza_id": 57,
+      "text": "Den rette hielp vilt vise.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 353,
+      "stanza_id": 58,
+      "text": "Vor Misgierning oc all vor skyld forlad oss her/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 354,
+      "stanza_id": 58,
+      "text": "Huad du aff oss fortørnit er",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 355,
+      "stanza_id": 58,
+      "text": "Vilt du det oc vdslette/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 356,
+      "stanza_id": 58,
+      "text": "Disligest giøre wi i samme maade vor skyldere/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 357,
+      "stanza_id": 58,
+      "text": "Oc huess de oss fortørnit haffue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 358,
+      "stanza_id": 58,
+      "text": "Det ville wi plat forgætte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 359,
+      "stanza_id": 58,
+      "text": "J nogen fristelse oss ey indfør",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 360,
+      "stanza_id": 58,
+      "text": "At wi der i forfare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 361,
+      "stanza_id": 58,
+      "text": "Fra saadant Ont du oss beuare",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 362,
+      "stanza_id": 58,
+      "text": "Der Sielen kand fordærffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 363,
+      "stanza_id": 58,
+      "text": "Oc giør oss allesammen lige/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 364,
+      "stanza_id": 58,
+      "text": "At wi dit Rige maa arffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 365,
+      "stanza_id": 59,
+      "text": "O Fader vor wi bede dig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 366,
+      "stanza_id": 59,
+      "text": "som oss haffuer lærd vor Herre Jesus Christ/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 367,
+      "stanza_id": 59,
+      "text": "Hør oss dine børn for din godhed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 368,
+      "stanza_id": 59,
+      "text": "thi du vden tuil ret Barmhiertig est/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 369,
+      "stanza_id": 59,
+      "text": "J Himmerig er din bolig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 370,
+      "stanza_id": 59,
+      "text": "som oss dit Ord monne lære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 371,
+      "stanza_id": 59,
+      "text": "dog steds din mact baade dag oc nat/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 372,
+      "stanza_id": 59,
+      "text": "oss her paa Jorden altid beskermer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 373,
+      "stanza_id": 60,
+      "text": "Helligt vorde dit Naffn altid/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 374,
+      "stanza_id": 60,
+      "text": "J huilcket allene wi salige bliffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 375,
+      "stanza_id": 60,
+      "text": "Giff oss din krafft at prise det/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 376,
+      "stanza_id": 60,
+      "text": "Met ord oc gierninger christelig leffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 377,
+      "stanza_id": 60,
+      "text": "Tilkomme lad dit Rige/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 378,
+      "stanza_id": 60,
+      "text": "Huilcket retuished fred oc glæde er.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 379,
+      "stanza_id": 60,
+      "text": "Paa jorden vorde din villie som i Himmelen/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 380,
+      "stanza_id": 60,
+      "text": "At wi dig lyde/ vor villie sla neder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 381,
+      "stanza_id": 61,
+      "text": "Giff oss i dag vort daglige brød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 382,
+      "stanza_id": 61,
+      "text": "Til liff oc Siel wi bede dig gierne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 383,
+      "stanza_id": 61,
+      "text": "Forlad oss oc vore Synder snøde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 384,
+      "stanza_id": 61,
+      "text": "Ret lige som wi veluillige ere",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 385,
+      "stanza_id": 61,
+      "text": "At forlade dem oss giøre imod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 386,
+      "stanza_id": 61,
+      "text": "Oc leed oss icke i Fristelse ind/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 387,
+      "stanza_id": 61,
+      "text": "At oss ey offueruinder vor Fiende.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 388,
+      "stanza_id": 61,
+      "text": "Men frelss oss fra Ont altid/ Amen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 389,
+      "stanza_id": 62,
+      "text": "O Herre Gud miskunde dig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 390,
+      "stanza_id": 62,
+      "text": "Oc see til oss paa Jorden/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 391,
+      "stanza_id": 62,
+      "text": "Wi ere dine Børn saa wselig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 392,
+      "stanza_id": 62,
+      "text": "Vor Fader est du vorden/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 393,
+      "stanza_id": 62,
+      "text": "Du sidder høyt i Himmerig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 394,
+      "stanza_id": 62,
+      "text": "Oc wi vdi Dødsens snare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 395,
+      "stanza_id": 62,
+      "text": "Giff priss dit Naffn i Jorderig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 396,
+      "stanza_id": 62,
+      "text": "Lad oss ey saa henfare/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 397,
+      "stanza_id": 62,
+      "text": "J din wgunst saa saare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 398,
+      "stanza_id": 63,
+      "text": "O Fader forøg dit Rige fast/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 399,
+      "stanza_id": 63,
+      "text": "Lad Dieffuelen ey selff raade/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 400,
+      "stanza_id": 63,
+      "text": "Men frels oss fra den skadelige gæst/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 401,
+      "stanza_id": 63,
+      "text": "Begaffue oss met din naade/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 402,
+      "stanza_id": 63,
+      "text": "At wi maa være dine lydige Børn/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 403,
+      "stanza_id": 63,
+      "text": "Oc lade dig styre oc raade.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 404,
+      "stanza_id": 63,
+      "text": "Din villie ske i Jorderig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 405,
+      "stanza_id": 63,
+      "text": "Alt som i Himmelens Throne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 406,
+      "stanza_id": 63,
+      "text": "Lær oss dine Børn til gode.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 407,
+      "stanza_id": 64,
+      "text": "Giff oss i dag vort daglige Brød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 408,
+      "stanza_id": 64,
+      "text": "Dine Ord oc hellige naade/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 409,
+      "stanza_id": 64,
+      "text": "Oc frelss oss fra den euige død/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 410,
+      "stanza_id": 64,
+      "text": "Och saa fra Dieffuelens vaade.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 411,
+      "stanza_id": 64,
+      "text": "Borttag fra oss met Naaden din",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 412,
+      "stanza_id": 64,
+      "text": "Pharisaiske Surdey oc lære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 413,
+      "stanza_id": 64,
+      "text": "Skenck oss igen den klare Vin/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 414,
+      "stanza_id": 64,
+      "text": "Som Christus monne frembære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 415,
+      "stanza_id": 64,
+      "text": "Det er ret tro oc lære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 416,
+      "stanza_id": 65,
+      "text": "O kiere Fader vær oss huld/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 417,
+      "stanza_id": 65,
+      "text": "Oc spar oss i vor brøste/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 418,
+      "stanza_id": 65,
+      "text": "Vor brøde er saa mangefold/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 419,
+      "stanza_id": 65,
+      "text": "Hielp at wi ey mistrøste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 420,
+      "stanza_id": 65,
+      "text": "J vor strid stat oss mandelig bj/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 421,
+      "stanza_id": 65,
+      "text": "At offueruinde wuenner grumme/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 422,
+      "stanza_id": 65,
+      "text": "Aandelig oc Verdzlig genstrid/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 423,
+      "stanza_id": 65,
+      "text": "Ont vent fra oss allesammen/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 424,
+      "stanza_id": 65,
+      "text": "Oss hør kiere Fader/ Amen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 425,
+      "stanza_id": 66,
+      "text": "Priss loff oc heder til euig tid/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 426,
+      "stanza_id": 66,
+      "text": "Er vor begæring alle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 427,
+      "stanza_id": 66,
+      "text": "Skal giffuis dig vor Fader saa blid/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 428,
+      "stanza_id": 66,
+      "text": "Din Søn det oc for alle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 429,
+      "stanza_id": 66,
+      "text": "Der til den Aand vor trøstermand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 430,
+      "stanza_id": 66,
+      "text": "Skal giffuis den samme ære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 431,
+      "stanza_id": 66,
+      "text": "Aff fattig oc Rig i alle Land/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 432,
+      "stanza_id": 66,
+      "text": "Som dig nu saare begære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 433,
+      "stanza_id": 66,
+      "text": "Giff dem den euige ære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 434,
+      "stanza_id": 67,
+      "text": "Christus kom selff til Jordans flod/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 435,
+      "stanza_id": 67,
+      "text": "effter sin Faders villie/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 436,
+      "stanza_id": 67,
+      "text": "Oc aff Sanct Hans sig døbe loed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 437,
+      "stanza_id": 67,
+      "text": "sit Embede at opfylde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 438,
+      "stanza_id": 67,
+      "text": "Jt bad hand stifftet der/ oc bød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 439,
+      "stanza_id": 67,
+      "text": "at afftoe alle vor Synder/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 440,
+      "stanza_id": 67,
+      "text": "oc sencke ned den bitter død/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 441,
+      "stanza_id": 67,
+      "text": "vdi sit blod oc vunder/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 442,
+      "stanza_id": 67,
+      "text": "det galt om it nyt leffnit.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 443,
+      "stanza_id": 68,
+      "text": "Saa hører til oc mercker here/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 444,
+      "stanza_id": 68,
+      "text": "Huad Gud monne Daaben kalde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 445,
+      "stanza_id": 68,
+      "text": "Oc huad en Christens tro skal være/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 446,
+      "stanza_id": 68,
+      "text": "At vndfly Ketter alle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 447,
+      "stanza_id": 68,
+      "text": "Gud vil at der skal være Vand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 448,
+      "stanza_id": 68,
+      "text": "Dog icke Vand allene/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 449,
+      "stanza_id": 68,
+      "text": "Hans salige Ord met hellig Aand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 450,
+      "stanza_id": 68,
+      "text": "Er der hoss oc oss tiene/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 451,
+      "stanza_id": 68,
+      "text": "Hand selff er den oss Døber.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 452,
+      "stanza_id": 69,
+      "text": "Det vilde Gud for Verden klar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 453,
+      "stanza_id": 69,
+      "text": "Met Ord oc tegen giøre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 454,
+      "stanza_id": 69,
+      "text": "Gud Faders røst mand obenbar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 455,
+      "stanza_id": 69,
+      "text": "Da kunde hoss Jordan høre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 456,
+      "stanza_id": 69,
+      "text": "Det er min elskelig Søn/ sagde Gud/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 457,
+      "stanza_id": 69,
+      "text": "Hand monne mig vel befalle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 458,
+      "stanza_id": 69,
+      "text": "Thi er til eder min villie oc bud/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 459,
+      "stanza_id": 69,
+      "text": "At i hannem hører alle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 460,
+      "stanza_id": 69,
+      "text": "Oc følger saa hans lære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 461,
+      "stanza_id": 70,
+      "text": "Guds Søn hand siunlig ocsaa staar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 462,
+      "stanza_id": 70,
+      "text": "J Mandom sin met ære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 463,
+      "stanza_id": 70,
+      "text": "Den hellig Aand oc nederfoer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 464,
+      "stanza_id": 70,
+      "text": "J Due skick vilde hand være/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 465,
+      "stanza_id": 70,
+      "text": "At wi skulle icke tuile der paa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 466,
+      "stanza_id": 70,
+      "text": "Naar wi til Daaben komme/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 467,
+      "stanza_id": 70,
+      "text": "All tre Personer oss Døber saa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 468,
+      "stanza_id": 70,
+      "text": "Oc der met oss til fromme/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 469,
+      "stanza_id": 70,
+      "text": "Vil hoss oss bo oc bygge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 470,
+      "stanza_id": 71,
+      "text": "Christ siger/ i Discipler mine/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 471,
+      "stanza_id": 71,
+      "text": "Gaar hen all Verden lærer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 472,
+      "stanza_id": 71,
+      "text": "Hun er fortabt i Synder sine/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 473,
+      "stanza_id": 71,
+      "text": "Det er tid hun sig bedrer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 474,
+      "stanza_id": 71,
+      "text": "Huo tror oc lader Døbe sig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 475,
+      "stanza_id": 71,
+      "text": "Skal der ved salig bliffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 476,
+      "stanza_id": 71,
+      "text": "Jt nyfød Menniske er vden suig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 477,
+      "stanza_id": 71,
+      "text": "Som ey skal dø/ men leffue/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 478,
+      "stanza_id": 71,
+      "text": "Oc Himmerig vist arffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 479,
+      "stanza_id": 72,
+      "text": "Huo icke tror huad Gud her bød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 480,
+      "stanza_id": 72,
+      "text": "Hand bliffuer i synder sine/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 481,
+      "stanza_id": 72,
+      "text": "Oc er fordømt til euig død/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 482,
+      "stanza_id": 72,
+      "text": "Dybt ned til Helffuedis pine/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 483,
+      "stanza_id": 72,
+      "text": "Hans fromhed ingen hielp tilfør/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 484,
+      "stanza_id": 72,
+      "text": "Forgeffuis hans gierning ere/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 485,
+      "stanza_id": 72,
+      "text": "Den Arffsynd dem til intet giør/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 486,
+      "stanza_id": 72,
+      "text": "Som hand ifød monne være/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 487,
+      "stanza_id": 72,
+      "text": "Hand kand sig selff ey hielpe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 488,
+      "stanza_id": 73,
+      "text": "Vor øyne seer alleniste vand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 489,
+      "stanza_id": 73,
+      "text": "Som Menniske vandit rører/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 490,
+      "stanza_id": 73,
+      "text": "Men krafften lærer vor tro i Aand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 491,
+      "stanza_id": 73,
+      "text": "Som Christi blod tilfører/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 492,
+      "stanza_id": 73,
+      "text": "Det er for troen en røder flod/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 493,
+      "stanza_id": 73,
+      "text": "Aff Christi blod vel farffuit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 494,
+      "stanza_id": 73,
+      "text": "Til alle Synd en lægdom god/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 495,
+      "stanza_id": 73,
+      "text": "Som wi aff Adam arffuit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 496,
+      "stanza_id": 73,
+      "text": "Oc selffuer haffue bedreffuit.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 497,
+      "stanza_id": 74,
+      "text": "Esaias den Prophet monne det saa gaa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 498,
+      "stanza_id": 74,
+      "text": "at hand i Aanden Herren sidde saa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 499,
+      "stanza_id": 74,
+      "text": "J den høye Throne oc klare skin/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 500,
+      "stanza_id": 74,
+      "text": "hans klæder opfylte det Chor omkring/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 501,
+      "stanza_id": 74,
+      "text": "Tho Seraphin stode hoss hannem der/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 502,
+      "stanza_id": 74,
+      "text": "Sex vinger saa hand dennem haffue huer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 503,
+      "stanza_id": 74,
+      "text": "met de tho skiulte de deris Ansict klar/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 504,
+      "stanza_id": 74,
+      "text": "met tho betecte de deris føder bar/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 505,
+      "stanza_id": 74,
+      "text": "oc met de andre tho fløye de frijt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 506,
+      "stanza_id": 74,
+      "text": "mod huer andre robte de met megen flijt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 507,
+      "stanza_id": 74,
+      "text": "Hellig er Gud vor Herre Zebaoth/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 508,
+      "stanza_id": 74,
+      "text": "Hellig er Gud vor Herre Zebaoth/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 509,
+      "stanza_id": 74,
+      "text": "Hellig er Gud vor Herre Zebaoth.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 510,
+      "stanza_id": 74,
+      "text": "Som haffuer all Jorden opfylt met megit gaat/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 511,
+      "stanza_id": 74,
+      "text": "Aff det rob skalff grunduol oc bielcker suar/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 512,
+      "stanza_id": 74,
+      "text": "oc Husit fuld aff røg oc taage vaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 513,
+      "stanza_id": 75,
+      "text": "Hellig er Gud vor Fader/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 514,
+      "stanza_id": 75,
+      "text": "Hellig er och saa Guds Søn/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 515,
+      "stanza_id": 75,
+      "text": "met dem baade oc vor Husualere",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 516,
+      "stanza_id": 75,
+      "text": "den hellig Aand er hellig oc skøn/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 517,
+      "stanza_id": 75,
+      "text": "en eniste velgiørere",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 518,
+      "stanza_id": 75,
+      "text": "mod oss oc vore Forfædre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 519,
+      "stanza_id": 75,
+      "text": "met flijd hand oss forsørger.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 520,
+      "stanza_id": 76,
+      "text": "Sterck Første oc mectige Herre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 521,
+      "stanza_id": 76,
+      "text": "Offuer Zebaoth alle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 522,
+      "stanza_id": 76,
+      "text": "Baade Synd oc Død oc der til Helffuede",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 523,
+      "stanza_id": 76,
+      "text": "For hannem gantske maatte falde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 524,
+      "stanza_id": 76,
+      "text": "Derfor er baade Himmel oc Jord",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 525,
+      "stanza_id": 76,
+      "text": "Opfylte met hans æris ord/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 526,
+      "stanza_id": 76,
+      "text": "Oc siunge nu Hosianna.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 527,
+      "stanza_id": 77,
+      "text": "Christo være all loff oc priss/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 528,
+      "stanza_id": 77,
+      "text": "Den som kom i Herrens naffn/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 529,
+      "stanza_id": 77,
+      "text": "Som aff sin naade met vnderlig viss",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 530,
+      "stanza_id": 77,
+      "text": "Vore Synder allesammen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 531,
+      "stanza_id": 77,
+      "text": "Veldelig haffuer offueruundet/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 532,
+      "stanza_id": 77,
+      "text": "Oc haffuer sit Rige saa indnommet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 533,
+      "stanza_id": 77,
+      "text": "Nu robe alle Hosianna.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 534,
+      "stanza_id": 78,
+      "text": "Dig være loff oc priss O Herre Christ/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 535,
+      "stanza_id": 78,
+      "text": "Benedidet er den dag foruist/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 536,
+      "stanza_id": 78,
+      "text": "wi loffue dig nu oc til euig tid.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 537,
+      "stanza_id": 78,
+      "text": "Hellig hellig hellig est du i det Høyeste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 538,
+      "stanza_id": 79,
+      "text": "Englene oc Offuerengle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 539,
+      "stanza_id": 79,
+      "text": "Thronerne oc det Himmelske Herskab/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 540,
+      "stanza_id": 79,
+      "text": "Dig loffue Cherubin oc Seraphin/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 541,
+      "stanza_id": 79,
+      "text": "Hellig hellig hellig/ siungis i det Høyeste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 542,
+      "stanza_id": 80,
+      "text": "Dit folck O Christe loffuer dig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 543,
+      "stanza_id": 80,
+      "text": "Din Brud aff hiertet nu glæder sig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 544,
+      "stanza_id": 80,
+      "text": "For din Naade oc Barmhiertighed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 545,
+      "stanza_id": 80,
+      "text": "Hellig hellig hellig/ hun siunger dig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 546,
+      "stanza_id": 81,
+      "text": "O Guds lam wskyldig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 547,
+      "stanza_id": 81,
+      "text": "paa Kaarssit vaar slactet/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 548,
+      "stanza_id": 81,
+      "text": "din Fader varst du lydig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 549,
+      "stanza_id": 81,
+      "text": "Jhuor du varst foractet/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 550,
+      "stanza_id": 81,
+      "text": "all synd haffuer du borttagit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 551,
+      "stanza_id": 81,
+      "text": "ellers vaare wi fortabit.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 552,
+      "stanza_id": 81,
+      "text": "Forbarme dig offuer oss O Jesu.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 553,
+      "stanza_id": 82,
+      "text": "O Guds lam wskyldig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 554,
+      "stanza_id": 82,
+      "text": "paa Kaarssit vaar slactet/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 555,
+      "stanza_id": 82,
+      "text": "din Fader varst du lydig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 556,
+      "stanza_id": 82,
+      "text": "Jhuor du varst foractet/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 557,
+      "stanza_id": 82,
+      "text": "all synd haffuer du borttagit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 558,
+      "stanza_id": 82,
+      "text": "ellers vaare wi fortabit.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 559,
+      "stanza_id": 82,
+      "text": "Miskunde dig offuer oss O Jesu.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 560,
+      "stanza_id": 83,
+      "text": "O Guds lam wskyldig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 561,
+      "stanza_id": 83,
+      "text": "paa Kaarssit vaar slactet/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 562,
+      "stanza_id": 83,
+      "text": "din Fader varst du lydig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 563,
+      "stanza_id": 83,
+      "text": "Jhuor du varst foractet/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 564,
+      "stanza_id": 83,
+      "text": "all synd haffuer du borttagit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 565,
+      "stanza_id": 83,
+      "text": "ellers vaare wi fortaabit.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 566,
+      "stanza_id": 83,
+      "text": "Giff oss din fred O Jesu.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 567,
+      "stanza_id": 84,
+      "text": "Jesus Christus er vor salighed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 568,
+      "stanza_id": 84,
+      "text": "som fra oss tog Gud Faders vrede/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 569,
+      "stanza_id": 84,
+      "text": "met sin pine oc hellige Død/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 570,
+      "stanza_id": 84,
+      "text": "frelste hand oss fra Helffuedis nød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 571,
+      "stanza_id": 85,
+      "text": "At wi aldrig det forgæde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 572,
+      "stanza_id": 85,
+      "text": "Gaff hand oss sit Legem at æde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 573,
+      "stanza_id": 85,
+      "text": "Som er skiult vdi Brødsens skin/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 574,
+      "stanza_id": 85,
+      "text": "Oc at dricke sit Blod i Vin.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 575,
+      "stanza_id": 86,
+      "text": "Huem aff denne kaast vil æde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 576,
+      "stanza_id": 86,
+      "text": "Sit hierte oc sin sag hand ey forgæde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 577,
+      "stanza_id": 86,
+      "text": "Huem wuerdig her til gaar/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 578,
+      "stanza_id": 86,
+      "text": "For Liffuit den euige Død hand faar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 579,
+      "stanza_id": 87,
+      "text": "Thi skalt du Gud Fader prise/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 580,
+      "stanza_id": 87,
+      "text": "At hand dig saa vel vilde spise/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 581,
+      "stanza_id": 87,
+      "text": "Oc hand for dine Synders lyst/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 582,
+      "stanza_id": 87,
+      "text": "J Døden sin Søn haffuer giffuit vist.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 583,
+      "stanza_id": 88,
+      "text": "Saadan naade oc Barmhiertighed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 584,
+      "stanza_id": 88,
+      "text": "Søger it hierte i stort arbed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 585,
+      "stanza_id": 88,
+      "text": "Est du Karsk saa bliff her fra/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 586,
+      "stanza_id": 88,
+      "text": "At du skalt icke Fordømmelsen faa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 587,
+      "stanza_id": 89,
+      "text": "Du skalt nu bliffue i stadige tro/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 588,
+      "stanza_id": 89,
+      "text": "Da faar du naade miskund oc ro",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 589,
+      "stanza_id": 89,
+      "text": "Aff denne kaast hand haffuer giffuit",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 590,
+      "stanza_id": 89,
+      "text": "Oss Arme/ til det euige Liff.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 591,
+      "stanza_id": 90,
+      "text": "Hand siger selff/ kommer i Arme/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 592,
+      "stanza_id": 90,
+      "text": "Jeg vil mig offuer eder forbarme/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 593,
+      "stanza_id": 90,
+      "text": "Jngen Læge haffue de Karske behoff/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 594,
+      "stanza_id": 90,
+      "text": "Hans konst er dem en spot oc wro.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 595,
+      "stanza_id": 91,
+      "text": "Vilde du met dine gierninger fange/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 596,
+      "stanza_id": 91,
+      "text": "Oc i Himmelen for dem indgange/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 597,
+      "stanza_id": 91,
+      "text": "Da vaar min pine oc Død ey fyllist/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 598,
+      "stanza_id": 91,
+      "text": "For du dig selff din Salighed est.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 599,
+      "stanza_id": 92,
+      "text": "Tror du fast aff hiertens grund/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 600,
+      "stanza_id": 92,
+      "text": "Oc bekiender det met din Mund/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 601,
+      "stanza_id": 92,
+      "text": "Saa est du ret gantske vel skicket/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 602,
+      "stanza_id": 92,
+      "text": "Oc denne kaast din Siel vederqueger.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 603,
+      "stanza_id": 93,
+      "text": "Denne fruct kand ey heden være/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 604,
+      "stanza_id": 93,
+      "text": "Brødre oc søstre skalt du ære/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 605,
+      "stanza_id": 93,
+      "text": "Met din penning gods oc Jord/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 606,
+      "stanza_id": 93,
+      "text": "Der met dem hielp som Gud haffuer budit.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 607,
+      "stanza_id": 94,
+      "text": "Gud være loffuit altid oc benedidet/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 608,
+      "stanza_id": 94,
+      "text": "som oss selff haffuer bespiset/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 609,
+      "stanza_id": 94,
+      "text": "met sit Legem oc met sit Blod/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 610,
+      "stanza_id": 94,
+      "text": "det giffue oss Herre gud til gode/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 611,
+      "stanza_id": 94,
+      "text": "Kyrieleison.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 612,
+      "stanza_id": 94,
+      "text": "Herre ved dit hellige Legem/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 613,
+      "stanza_id": 94,
+      "text": "det som aff din Moder Maria kom/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 614,
+      "stanza_id": 94,
+      "text": "dit hellige Blod oc din død/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 615,
+      "stanza_id": 94,
+      "text": "hielp oss Herre aff all vor nød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 616,
+      "stanza_id": 94,
+      "text": "Kyrieleison.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 617,
+      "stanza_id": 95,
+      "text": "2.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 618,
+      "stanza_id": 95,
+      "text": "DJt hellige Legem er for oss giffuit",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 619,
+      "stanza_id": 95,
+      "text": "J døden/ at wi skulle leffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 620,
+      "stanza_id": 95,
+      "text": "Jngen større gaffue kunde hand oss skencke/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 621,
+      "stanza_id": 95,
+      "text": "Der met wi hannem oc hans Død betencke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 622,
+      "stanza_id": 95,
+      "text": "Kyrieleison.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 623,
+      "stanza_id": 95,
+      "text": "Kierlighed O Herre dig saare tuingit haffuer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 624,
+      "stanza_id": 95,
+      "text": "At dit Blod ey offuer oss klaffuer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 625,
+      "stanza_id": 95,
+      "text": "Som betalede all vor skyld/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 626,
+      "stanza_id": 95,
+      "text": "At oss Gud er vorden huld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 627,
+      "stanza_id": 95,
+      "text": "Kyrieleison.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 628,
+      "stanza_id": 96,
+      "text": "3.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 629,
+      "stanza_id": 96,
+      "text": "BVd i alle gaffuer oss vil velsigne/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 630,
+      "stanza_id": 96,
+      "text": "At wi paa hans vey skulle bliffue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 631,
+      "stanza_id": 96,
+      "text": "J ret Kierlighed oc brøderlige tro.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 632,
+      "stanza_id": 96,
+      "text": "At den Mad kommer oss ey til wro.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 633,
+      "stanza_id": 96,
+      "text": "Kyrieleison.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 634,
+      "stanza_id": 96,
+      "text": "Herre met din Aand oss aldrig forlad/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 635,
+      "stanza_id": 96,
+      "text": "Men lad oss dig paakalde i allen stad/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 636,
+      "stanza_id": 96,
+      "text": "At din arme Christenhed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 637,
+      "stanza_id": 96,
+      "text": "Maa leffue i fred oc samdrectighed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 638,
+      "stanza_id": 96,
+      "text": "Kyrieleison.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 639,
+      "stanza_id": 97,
+      "text": "DEr Jesus Christus vor Herre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 640,
+      "stanza_id": 97,
+      "text": "Viste sin tid kommen at være/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 641,
+      "stanza_id": 97,
+      "text": "At hand skulde tagis aff dage/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 642,
+      "stanza_id": 97,
+      "text": "Til Bords met sine Discipler sad/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 643,
+      "stanza_id": 97,
+      "text": "Det Paaskelam hand met dem aad/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 644,
+      "stanza_id": 97,
+      "text": "Der hand nu Døden vilde smage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 645,
+      "stanza_id": 97,
+      "text": "Sagde/ ieg begærede hiertelig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 646,
+      "stanza_id": 97,
+      "text": "Førend ieg døer/ nu endelig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 647,
+      "stanza_id": 97,
+      "text": "Met eder æde Paaskelammit/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 648,
+      "stanza_id": 97,
+      "text": "Jeg siger eder at her effter",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 649,
+      "stanza_id": 97,
+      "text": "Aff dette æder ieg icke meer/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 650,
+      "stanza_id": 97,
+      "text": "Førend Guds Rige kommer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 651,
+      "stanza_id": 98,
+      "text": "Da vilde hand dem til hiertens trøst/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 652,
+      "stanza_id": 98,
+      "text": "(At de skulde icke aff syndsens brøst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 653,
+      "stanza_id": 98,
+      "text": "J Mishaabs banghed falde)",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 654,
+      "stanza_id": 98,
+      "text": "Jndsette sit hellige Sacrament/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 655,
+      "stanza_id": 98,
+      "text": "Tog Brødit met tacksigelss i hend/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 656,
+      "stanza_id": 98,
+      "text": "Brød det/ gaff dem/ oc talede.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 657,
+      "stanza_id": 98,
+      "text": "Tager hen/ æder/ mit Legem det er/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 658,
+      "stanza_id": 98,
+      "text": "Paa Kaarssens træ alt for eder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 659,
+      "stanza_id": 98,
+      "text": "Skal det bortgiffuit vorde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 660,
+      "stanza_id": 98,
+      "text": "Det giører til hukommelse min",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 661,
+      "stanza_id": 98,
+      "text": "At ieg eder frelser met min pine/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 662,
+      "stanza_id": 98,
+      "text": "Alle som tro her paa Jorden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 663,
+      "stanza_id": 99,
+      "text": "Der Naderen vaar da vel fuldendt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 664,
+      "stanza_id": 99,
+      "text": "Fuldkommede hand sit Sacrament/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 665,
+      "stanza_id": 99,
+      "text": "Styrckte sine Discipler suage/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 666,
+      "stanza_id": 99,
+      "text": "Tog Kalcken lige maade i sin haand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 667,
+      "stanza_id": 99,
+      "text": "Tackit oc gaff dem saa paa stand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 668,
+      "stanza_id": 99,
+      "text": "Oc venlig til dem sagde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 669,
+      "stanza_id": 99,
+      "text": "Tager hen/ dricker alle/ denne Kalck god",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 670,
+      "stanza_id": 99,
+      "text": "Er det ny Testamentis Blod/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 671,
+      "stanza_id": 99,
+      "text": "Som ieg paa Kaarssit ophengder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 672,
+      "stanza_id": 99,
+      "text": "Vdgiffue vorder for eders Synd/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 673,
+      "stanza_id": 99,
+      "text": "Saa offte i Dricke sammelund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 674,
+      "stanza_id": 99,
+      "text": "Det giøre ati paa mig tencker.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 675,
+      "stanza_id": 100,
+      "text": "Huem nu vil æde aff dette Brød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 676,
+      "stanza_id": 100,
+      "text": "Oc dricke aff Herrens Kalck/ som hand bød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 677,
+      "stanza_id": 100,
+      "text": "Den skal hans død forkynde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 678,
+      "stanza_id": 100,
+      "text": "At Jesus Christus Guds Søn god",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 679,
+      "stanza_id": 100,
+      "text": "Paa Kaarssit giorde fuld plict oc bod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 680,
+      "stanza_id": 100,
+      "text": "For alles vore Synder/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 681,
+      "stanza_id": 100,
+      "text": "Oc at Gud nu er oss naadig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 682,
+      "stanza_id": 100,
+      "text": "Om wi aff Hiertens grund tro sligt/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 683,
+      "stanza_id": 100,
+      "text": "Oc det til enden fast holde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 684,
+      "stanza_id": 100,
+      "text": "Saa skulle wi Guds børn bliffue da/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 685,
+      "stanza_id": 100,
+      "text": "Oc Himmerigs Arffdeel visselig faa/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 686,
+      "stanza_id": 100,
+      "text": "Det kand Guds naade volde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 687,
+      "stanza_id": 101,
+      "text": "Saa skal huert Menniske prøffue sig vel/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 688,
+      "stanza_id": 101,
+      "text": "Før hand til Guds bord gaar met skel/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 689,
+      "stanza_id": 101,
+      "text": "At hand sit hierte ret kiender",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 690,
+      "stanza_id": 101,
+      "text": "Om hand rettelig i Troen staar/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 691,
+      "stanza_id": 101,
+      "text": "Oc wdi sand Kierlighed fremgaar/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 692,
+      "stanza_id": 101,
+      "text": "Oc hiertelig staar aff Synden/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 693,
+      "stanza_id": 101,
+      "text": "At hand ey æder den euige dom/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 694,
+      "stanza_id": 101,
+      "text": "Der hand ey paa Christi Legem",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 695,
+      "stanza_id": 101,
+      "text": "Ret forskel monne giøre/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 696,
+      "stanza_id": 101,
+      "text": "Saa skal mand oc Syndsens surdey",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 697,
+      "stanza_id": 101,
+      "text": "Ved den hellig Aand ret vdfeye/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 698,
+      "stanza_id": 101,
+      "text": "Christo Guds lam til ære.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 699,
+      "stanza_id": 102,
+      "text": "Der for lader oss alle tillige",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 700,
+      "stanza_id": 102,
+      "text": "Gud Fader vdi Himmerige",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 701,
+      "stanza_id": 102,
+      "text": "Aff gantske hierte bede/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 702,
+      "stanza_id": 102,
+      "text": "Ved Jesum Christ hans enbaarne Søn/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 703,
+      "stanza_id": 102,
+      "text": "Som frelste oss ved sin pine oc Bøn/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 704,
+      "stanza_id": 102,
+      "text": "Oc Døden for oss lidde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 705,
+      "stanza_id": 102,
+      "text": "At hand oss met den hellig Aand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 706,
+      "stanza_id": 102,
+      "text": "Styrcker/ til en fast tro oc sand/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 707,
+      "stanza_id": 102,
+      "text": "Effter hans ord at leffue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 708,
+      "stanza_id": 102,
+      "text": "J kierlighed oc enighed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 709,
+      "stanza_id": 102,
+      "text": "At hand oss effter denne tid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 710,
+      "stanza_id": 102,
+      "text": "Den euige glæde vil giffue.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

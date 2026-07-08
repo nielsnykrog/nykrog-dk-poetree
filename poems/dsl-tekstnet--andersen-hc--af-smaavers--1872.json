@@ -1,0 +1,53 @@
+{
+  "id": null,
+  "title": "Af Smaavers",
+  "year_created": 1872,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1872,
+    "url": "https://tekstnet.dk/books/andersen-hc_smaavers-1872/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 2,
+      "text": "En velopdragen lille Hund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 2,
+      "text": "Skal følge med og holde Mund!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 2,
+      "text": "Vi lege, at vi kjøre nu,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 2,
+      "text": "Og Kudsk er jeg og »Spoervogn« Du!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

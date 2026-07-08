@@ -1,0 +1,570 @@
+{
+  "id": null,
+  "title": "Ellehöien",
+  "year_created": 1803,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Adam Oehlenschläger",
+    "country": null,
+    "wiki": "Q168356"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1803,
+    "url": "https://tekstnet.dk/books/oehlenschlaeger-a_digte/012/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Paa hede Dag den svale Aften fulgte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "der glimted Purpur bag de sorte Grene,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "den dunkle Landevei var heel beskygget.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Jeg langsomt reed og grubled henrykt ene,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "mens tætte Skov de röde Roser dulgte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "hvor Nattergalen skiult sin Rede bygged.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Da kom jeg til en Bakke, som beskygged",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "med sine venliggrönne Lindekroner",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "for stærke Vindpust og for lumre Varme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "Södt tryllet hen af Somrens Aftentoner",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 3,
+      "text": "jeg sank i Græssets blomsterklædte Arme",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 3,
+      "text": "og lytted smilende og slumred ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 4,
+      "text": "Da vaagned jeg igien thi Höien bæved.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 4,
+      "text": "En guldhaarfager Möe med Rosenkind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 4,
+      "text": "sig svævende og rank af Höien hæved.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 5,
+      "text": "Da blev jeg ræd, med Slag saa selsomt vilde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 5,
+      "text": "mit Hierte mod det blanke Pandser slog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 5,
+      "text": "jeg vilde tale, men jeg kunde ikke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 6,
+      "text": "Og see en anden Möe steeg op og tog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 6,
+      "text": "en Haandfuld Vand af klaren Sölverkilde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 6,
+      "text": "og stirred hen paa mig med kielne Blikke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 7,
+      "text": "Hun stænkte mig: Hvad giör du her saa silde?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 7,
+      "text": "Der skal dig intet Onde vederfares,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 7,
+      "text": "frygt ei du smukke staalbeklædte Kiempe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 8,
+      "text": "Nei, sang den anden med sin söde Stemme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 8,
+      "text": "men Undertegn her skal dig aabenbares,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 8,
+      "text": "som i dit Liv du aldrig meer vil glemme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 9,
+      "text": "Sin Rislen monne Sölverkilden dæmpe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 9,
+      "text": "for Lyden af den skiönne Sang at höre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 9,
+      "text": "der rasled ei et Blad i sagte Vinde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 10,
+      "text": "Naturen overalt var lutter Öre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 10,
+      "text": "bag Nattens Trylleslör kun smilte Glæde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 10,
+      "text": "alt lytted til den hulde Sangerinde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 11,
+      "text": "Klart blinkte Söens blaa henspændte Klæde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 11,
+      "text": "hvor Fisken svam og legte med sin Finde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 11,
+      "text": "og atter aabned sig den lukte Rose.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 12,
+      "text": "Den rödmed giennem Nattens Sölvertaare;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 12,
+      "text": "og Lillien som klæder sorten Baare",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 12,
+      "text": "den smilte hist i dybe Taagemose.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 13,
+      "text": "Skiönt sang hun, men jeg skielved dog saa saare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 13,
+      "text": "thi noget rædsomt löd i hendes Stemme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 13,
+      "text": "som ei jeg tolke kan men kun fornemme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 14,
+      "text": "Fölg, sang hun, fölg os ind i dunkle Field,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 14,
+      "text": "hvor græsbeklædte Væg for Stormen luner.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 14,
+      "text": "Fölg, sang hun, fölg os ind i aabne Rolig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 15,
+      "text": "Der skal jeg lære dig at kaste Runer;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 15,
+      "text": "men toe dig först i dette Kildevæld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 15,
+      "text": "saa bliver du med Alferne fortrolig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 16,
+      "text": "De Blomster som du her paa Höien skuer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 16,
+      "text": "de spragle meget skiönnere derinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 16,
+      "text": "som Græs Smaragderne i Bierget funkler.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 17,
+      "text": "Fölg med, gientog den anden Sangerinde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 17,
+      "text": "Rubinen der langt meer end Rosen luer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 17,
+      "text": "Safirens Blaae Kierminderne fordunkler.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 18,
+      "text": "Da stirred jeg til Himlens hvalte Buer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 18,
+      "text": "og greb om Korset paa mit Sværd og tænkte:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 18,
+      "text": "Saa höit et Loft dog ikke der du skuer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 19,
+      "text": "Min lange Taushed Ellepigen krænkte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 19,
+      "text": "Kom Ungersvend hvi bliver du tilbage?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 19,
+      "text": "Hun smilte rædsomt med sin Rosenlæbe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 20,
+      "text": "Du dræbe skal den stærke Ædderdrage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 20,
+      "text": "og faae det röde Guld hvorpaa hun ruger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 20,
+      "text": "du lære skal den stærke Biörn at dræbe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 21,
+      "text": "Men strax dit Hierteblod jeg varmt udsuger",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 21,
+      "text": "hvis nu du ikke med i Hulen fölger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 21,
+      "text": "min Mening jeg dig længer ei fordölger.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 22,
+      "text": "Da blev jeg mod, thi mine matte Arme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 22,
+      "text": "som vilde hævnende mit Glavind svinge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 22,
+      "text": "sank langsomt ned ved hendes Trylletale.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 23,
+      "text": "Hun nærmed sig, for Döden mig at bringe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 23,
+      "text": "Da rysted Morgenhanen med sin Vinge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 23,
+      "text": "den gol – og hun forsvandt i Biergets Sale!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 24,
+      "text": "Og bleg jeg svang mig paa min bange Fole",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 24,
+      "text": "og ilte fra de fæle Rædselsteder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 24,
+      "text": "mens Solen slukkede de mindre Sole.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 25,
+      "text": "Vogt unge Kiempe dig for slige Höie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 25,
+      "text": "den lumske Död der Blomsterne beklæder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 25,
+      "text": "og Trolden suger Blodet af dit Öie.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

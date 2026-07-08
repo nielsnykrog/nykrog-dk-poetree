@@ -1,0 +1,38 @@
+{
+  "id": null,
+  "title": "Motto",
+  "year_created": 1868,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Jens Peter Jacobsen",
+    "country": null,
+    "wiki": "Q370246"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Hervert Sperring",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1868,
+    "url": "https://tekstnet.dk/books/jacobsen-jp_hervert-sperring/002/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Der hjelper ej Drømme saalidt som Digt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Er Fondet end aldrig saa stort og rigt.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

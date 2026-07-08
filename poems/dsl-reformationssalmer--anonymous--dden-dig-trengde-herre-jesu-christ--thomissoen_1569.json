@@ -1,0 +1,77 @@
+{
+  "id": null,
+  "title": "Døden dig trengde Herre Jesu Christ/",
+  "year_created": 1569,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "Den danske Psalmebog",
+    "year_published": 1569,
+    "publisher": "Hans Thomissøn",
+    "printer": "Lorenz Benedicht",
+    "place": "København",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/thomissoen_1569/4/6"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Døden dig trengde Herre Jesu Christ/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "der du paa Kaarssit hengde vdi liffsens frist.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Nu sidder du met din Fader hen op i Himmerig/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "oc Synden forlader her ned paa Jorderig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Kyrie eleison/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Christe eleison/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Kyrie eleison.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": null,
+  "title": "33. O, Jeg har siddet engang som Drot",
+  "year_created": 1858,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Vilhelm Kaalund",
+    "country": null,
+    "wiki": "Q2362214"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Et Foraar. Digte, Ældre Og Nyere",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1858,
+    "url": "https://tekstnet.dk/books/kaalund-hv_et-foraar/032/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "O, jeg har siddet engang som Drot",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "paa Fantasiens Throne;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "men Tiden kom og styrted mit Slot",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "og røvede mig min Krone.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Nu maa jeg forjage den gyldne Drøm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "nu snige sig Timerne tunge;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "dog synes mig tidt ved Tidens Strøm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "at jeg er en falden Konge.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": null,
+  "title": "Gurre. Aftenlandskab",
+  "year_created": 1842,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1842,
+    "url": "https://tekstnet.dk/books/andersen-hc_gurre/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Nyligt for vort Øre",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: CHOR AF BØNDERFOLK"
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Over Søen klang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Unge Karles Sang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Det var smukt at høre!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Her vi sidde ville",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "I det friske Hø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "Ved den blanke Søe;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "Aftnen er saa stille.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Jeg troer der er skjønnest i Danmark!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "– Skjønnest i Danmark!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Jeg troer der er skjønnest i Danmark",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: CHOR"
+      ]
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "– Skjønnest i Danmark!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 3,
+      "text": "Jeg troer der er skjønnest i Danmark!",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: CHOR"
+      ]
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "– Skjønnest i Danmark!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 4,
+      "text": "Jeg troer der er skjønnest i Danmark!",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: CHOR"
+      ]
+    },
+    {
+      "id": 15,
+      "stanza_id": 4,
+      "text": "– Skjønnest i Danmark!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

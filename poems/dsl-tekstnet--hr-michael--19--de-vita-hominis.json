@@ -1,0 +1,101 @@
+{
+  "id": null,
+  "title": "19",
+  "year_created": 1514,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Michael",
+    "country": null,
+    "wiki": "Q108476156"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "De Vita Hominis",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1514,
+    "url": "https://tekstnet.dk/books/hr-michael_de-vita-hominis/019/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Integer ad idem perfectus homoque manebo",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "ut fueram pridem, cito iudicis acta videbo.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "I iordhen laa ieg manghæ aar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "at ieg haffuer toldh sligh mødhæ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Iordhen haffuer thæret myn wslæ krop,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "oermæ och paddher haffuæ ædt hannum op,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "sidhen ieg gick først til dødhæ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "tilsamen æræ sanckedhæ the paltughæ been,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "thet giordhæ Gud siælff meth allæ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Snart schal ieg see Wor Hærres hæffnd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "for han haffuer mig nw for sig stæffnd,",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

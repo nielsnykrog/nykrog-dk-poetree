@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "title": "Dedikation",
+  "year_created": 1851,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "I Sverrig",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1851,
+    "url": "https://tekstnet.dk/books/andersen-hc_i-sverrig/002/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Digteren, Vennen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "den ædle",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Bernhard v. Beskow",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "tilegnet",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

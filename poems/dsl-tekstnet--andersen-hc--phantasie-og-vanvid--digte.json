@@ -1,0 +1,668 @@
+{
+  "id": null,
+  "title": "Phantasie og Vanvid",
+  "year_created": 1830,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1830,
+    "url": "https://tekstnet.dk/books/andersen-hc_digte-1830/029/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Bag Brombærhækken hist ved Afgrunds Randen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Staaer Vandringsmanden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Han stirrer taus mod Himlens dunkle Blaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Og vil dens høie Stjerne-Skrift forstaae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Hvo kan vel følge Herrens skjulte Traade,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Hvo løser Livets underfulde Gaade?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Alt er en Labyrint hvor Viisdom boer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Hvis Hjeroglypher sige: »Gud er stor.«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Men som han grunder, toner Harpe-Klang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Sært blander den sig med en barnlig Sang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "For Sjælen stige underlige Drømme;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "Mørk stirrer Øiet ned i Elvens Strømme;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Da seer han paa den haarde Klippe-Seng",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "En underdeilig Dreng;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "Han synger om det Dybe og det Høie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "Og maaler Himlen med sit Flamme-Øie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "I Buskene de gyldne Harper staae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "Useete Alfer Dem med Vingen slaae;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "Hiin Side Elven, hvor sig Fjeldet buer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "En Møe han skuer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "Med Valmue-Krandsen om sit sorte Haar;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "Hun synger som naar Stormen Bølgen slaaer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "Bleg er hun, vildt det mørke Øie brænder;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "En Dolk hun holder i de hvide Hænder;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "Og med baccantisk Lyst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "Hun ridser Blomster paa sit unge Bryst;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Halv synes hun at vaage, halv at drømme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "Og stirrer vildt i Elvens dybe Strømme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "»Hvo er’ de Børn?« Den Vandrer spørger. – Stille!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "Nu nærmer han sig alt den kjære Lille.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "»Hvo er’ I Børn? Hvad gjør I her saa silde?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "Kom smukke Dreng, lad os ei Tiden spilde!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 0,
+      "text": "Hvor er Dit Hjem?Did lad os stræbe ......«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 0,
+      "text": "Da afbrød Drengen ham med Smiil paa Læbe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 1,
+      "text": "»Jeg boer hos Hyrden hist ved Bjergets Fod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 1,
+      "text": "Hvor Hjorden græsser dybt i Dalens Skygge;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 1,
+      "text": "Tidt sidder jeg hos ham ved Bøgens Rod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 1,
+      "text": "Høit i hvis Top de vilde Duer bygge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 1,
+      "text": "Naar han paa Fløiten tolker Elskovs Lyst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 1,
+      "text": "Og Phyllissynker salig til hans Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 1,
+      "text": "Da staaer jeg hos Dem, blæser Bobler skjønne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 1,
+      "text": "Mens Solen synker hist bag Skovens Grønne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 2,
+      "text": "Jeg boer paa Fjeldet, hist i Ridderborgen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 2,
+      "text": "I Folkestue og i Kongesal;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 2,
+      "text": "Jeg har mit Hjem hos Glæden og hos Sorgen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 2,
+      "text": "Paa Bjergets Aas og i den snevre Dal.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 2,
+      "text": "Jeg boer i Skibets Rum bag Plankens Sider;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 2,
+      "text": "Med Fiskeren jeg over Dybet glider.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 2,
+      "text": "Jeg trænger gjennem Klostrets skumle Muur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 2,
+      "text": "Og gjæster Nonnen i sit Fangebuur.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 3,
+      "text": "Snart leger jeg i Fjeldets dybe Grotte;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 3,
+      "text": "Og jeg kan mane Nattens Aander frem;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 3,
+      "text": "I Syd og Nord staae mine Trylleslotte;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 3,
+      "text": "I Dybet og i Himlen er mit Hjem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 3,
+      "text": "Paa Kampens Dag staaer jeg for Heltens Øie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 3,
+      "text": "Og bringer Seirens Palme fra det Høie;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 3,
+      "text": "Jeg følger Vandreren i Ørknens Sand;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 3,
+      "text": "Jeg aabner Skjalden Aandens Drømme-Land.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 4,
+      "text": "Selv Barn, jeg helst vil lege med de Smaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 4,
+      "text": "Min Trylle-Verden De jo bedst kan fatte;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 4,
+      "text": "I Hytte og i Borg De migforstaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 4,
+      "text": "Jeg bringer med saa underfulde Skatte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 4,
+      "text": "Vi kjende ikke Livets Kamp og Sorg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 4,
+      "text": "Os Hyttens Krog blier til en Ridderborg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 4,
+      "text": "Ja Stokken er en stolt og modig Ganger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 4,
+      "text": "Den lille Svale Borgens Mester-Sanger.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 5,
+      "text": "Da lege vi i Aften-Solens Guld;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 5,
+      "text": "Som Bjerge staae de gyldne Skyers Række;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 5,
+      "text": "Da toner Træ og Blomst saa underfuld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 5,
+      "text": "Paa Bækken seiler Sivets lette Snekke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 5,
+      "text": "En Uveirs-Sky staaer over Bjergets Lund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 5,
+      "text": "Regnbuen luer fra den sorte Grund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 5,
+      "text": "Hist dykker Maagen sig i Bølgens Strømme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 5,
+      "text": "O! kan Du glemme Barndoms søde Drømme?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 6,
+      "text": "Da Du var lille, tit vi leged’ sammen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 6,
+      "text": "Paa Skammelen vi ved Kaminen sad;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 6,
+      "text": "Da saae vi Billeder i Gløde-Flammen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 6,
+      "text": "Og Sjælen følte sig saa salig glad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 6,
+      "text": "Hvert Eventyr os Sandheds Præget bar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 6,
+      "text": "Kun Livet her et Eventyr os var;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 6,
+      "text": "Vi saae ei blot Cherubers skjønne Vrimmel,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 6,
+      "text": "Nei, selv Gud Fader i sin høie Himmel.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 7,
+      "text": "Nu staaer Du her, og grandsker Livets Gaade,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 7,
+      "text": "Vil følge Herrens fine, skjulte Traade,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 7,
+      "text": "Og fatte ham, Din Aand, det Heles Liv –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 7,
+      "text": "– Nu vel! saa følg mig i min Baad af Siv!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 7,
+      "text": "Frygt ikke Elvens skumbeklædte Vande!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 7,
+      "text": "Jeg bringer Dig til mine Trylle-Lande.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 7,
+      "text": "Men vogt Dig! – Seer Du Strømmens vilde Kyster?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 7,
+      "text": "Den blege Pige hist – hun er min Søster;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 7,
+      "text": "Jeg aabner for Dig Aanders Salighed;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 7,
+      "text": "Hun styrter Dig i Dybets Malstrøm ned.«",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

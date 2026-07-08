@@ -1,0 +1,56 @@
+{
+  "id": null,
+  "title": "Kyrie/ Gud Fader forbarme dig offuer oss.",
+  "year_created": 1553,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "En ny Psalmebog",
+    "year_published": 1553,
+    "publisher": "Hans Vingaard",
+    "printer": "Hans Vingaard",
+    "place": "København",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/vingaard_1553/1/43"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Kyrie/ Gud Fader forbarme dig offuer oss.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 1,
+      "text": "⁕ Christe du est vort Liff oc opstandelsse/ forbarme dig offuer oss",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 2,
+      "text": "⁕ Kyrie HelligAand hielp oss vor Trøstermand/ forbarme dig offuer oss",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 3,
+      "text": "⁕ Kyrie vor Gud oc Herre/ miskunde dig offuer oss",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

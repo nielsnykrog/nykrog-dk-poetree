@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "title": "Et Par Ord",
+  "year_created": 1854,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Af. Samlede Skrifter. Femtende Bind",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1854,
+    "url": "https://tekstnet.dk/books/andersen-hc_af-samlede-skrifter-femtende-bind/006/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Høistærede! – jeg troer De vil mig kjende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "De veed jeg fører ei den lange Snak;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "En kort Replik og saa er Alt tilende –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Iaften skal jeg sige – »Mangetak!«",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

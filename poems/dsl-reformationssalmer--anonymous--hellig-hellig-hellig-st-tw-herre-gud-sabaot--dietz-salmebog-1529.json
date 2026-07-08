@@ -1,0 +1,60 @@
+{
+  "id": null,
+  "title": "HEllig. Hellig. Hellig æst tw Herre Gud Sabaot.",
+  "year_created": 1529,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "Een ny handbog med Psalmer oc aandelige lofsange",
+    "year_published": 1529,
+    "publisher": "Ludwig Dietz",
+    "printer": "Ludwig Dietz",
+    "place": "Rostock",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/dietz-salmebog-1529/9/21"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "HEllig. Hellig. Hellig æst tw Herre Gud Sabaot.",
+      "part": false,
+      "marginal_notes": [
+        "Esaie. vj."
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Himmel oc iorden er forfylt med thÿn ære Salig giør oss wdi thet offuerste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Benedidet wære then ther kommer ÿ Herrens naffn.",
+      "part": false,
+      "marginal_notes": [
+        "Math. x."
+      ]
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Salig giør oss wdi thet offuerste.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

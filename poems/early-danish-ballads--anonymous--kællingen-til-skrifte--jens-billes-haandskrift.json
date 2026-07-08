@@ -1,0 +1,82 @@
+{
+  "id": null,
+  "title": "Kællingen til skrifte",
+  "year_created": [
+    1555,
+    1559
+  ],
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Jens Billes Håndskrift",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1559,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/BILL36.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Iegh haffde en saa stubett en knÿff",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": ":: traa her | met skiell | ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Saa snartt raade iegh den hoffmandtt aff lÿff |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "nu liger handtt der |",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Iegh skall sette digh fasten haardtt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": ":: traa her met | skiell | ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "Støcke flesk och feder kaall",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "dett hielper digh | vell |",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": null,
+  "title": "20. Bien",
+  "year_created": 1845,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Vilhelm Kaalund",
+    "country": null,
+    "wiki": "Q2362214"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Fabler For Børn",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1845,
+    "url": "https://tekstnet.dk/books/kaalund-hv_fabler-for-boern/021/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "God Nat, lille Bi;",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: Gartneren:"
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "nu lukkes for Vintren din Kube i.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Saa skal man engang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "til Dvalen lang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "naar jeg sænkes ned i den mørke Grube,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "tillukke omkring mig min Kube.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Og Stormen rusked den sorte Skov,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "og Bien sødt indtil Vaaren sov;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "men da man tog fra Drivhuset væk",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "de flettede Maatter og klipped hver Hæk,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "da flagrede Bien til Gartneren hen:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "\"Se nu er jeg vaagnet igjen.\"",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

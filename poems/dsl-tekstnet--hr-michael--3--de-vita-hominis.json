@@ -1,0 +1,101 @@
+{
+  "id": null,
+  "title": "3",
+  "year_created": 1514,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Michael",
+    "country": null,
+    "wiki": "Q108476156"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "De Vita Hominis",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1514,
+    "url": "https://tekstnet.dk/books/hr-michael_de-vita-hominis/003/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "In cunis iaceo, viuo de lacte mamille.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Plorans non taceo michi si desit liquor ille.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "meth graad och suck giffuær ieg mig wed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "for wærdzens storæ wandæ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Fanger ieg ey dij aff moders bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "aff dødæn myt hiarthæ worder kryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Thet waræ mig bæddræ ieg haffdæ warit død",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "før ieg war fød, end lidhæ slig nød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "som wærdhen wil mig nw skiænkæ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Then twang som mig nw foræstaar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "kwnnæ ieg thet rætthelighen tænkæ.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": null,
+  "title": "13. Fiolen",
+  "year_created": 1845,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Vilhelm Kaalund",
+    "country": null,
+    "wiki": "Q2362214"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Fabler For Børn",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1845,
+    "url": "https://tekstnet.dk/books/kaalund-hv_fabler-for-boern/014/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Du lille Fiol, kom frem! kom frem!",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: Lærken."
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Da aabned den først sin Dør paa Klem",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "og titted frem paa sin grønne Stængel",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "med Øjne blaa som en. lille Engel.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Jeg tør ikke kaste min grønne Kyse,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "jeg er saa angst for ihjel at fryse.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Dog frem sig voved den lille Fiol,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "da dækked en Regnsky den klare Sol;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "men Skræppen slog op som en Paraply",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "sit brede Blad mod den mørke Sky.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Derunder stod glad Fiolen den lille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "mens Draaberne maattte fra Bladet trille.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

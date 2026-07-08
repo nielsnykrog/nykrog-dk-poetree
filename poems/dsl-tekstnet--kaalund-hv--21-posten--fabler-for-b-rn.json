@@ -1,0 +1,111 @@
+{
+  "id": null,
+  "title": "21. Posten",
+  "year_created": 1845,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Vilhelm Kaalund",
+    "country": null,
+    "wiki": "Q2362214"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Fabler For Børn",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1845,
+    "url": "https://tekstnet.dk/books/kaalund-hv_fabler-for-boern/022/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Hvi staar Du i Hø, Du lange Post?",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: Drengen:"
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Jeg er angst, der skal gaa i mit Hjerte Frost.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Har Du et Hjerte? det gad jeg se!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Ja vist har jeg Hjerte, og det af Træ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "hos Blokkedrejeren er det gjort;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "ak, naar det bare ej er for stort.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Posten saae sletikke følsom ud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "dens Mund var en simpel Pumpetud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Neppe den Lille greb dens Stang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "fused der ud en Straale lang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "alt hvad der kom, var det bare Vand;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "jeg tror, det kunde have fyldt en Spand.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

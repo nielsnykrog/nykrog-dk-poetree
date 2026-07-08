@@ -1,0 +1,66 @@
+{
+  "id": null,
+  "title": "Tiden",
+  "year_created": 1912,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Thøger Larsen",
+    "country": null,
+    "wiki": "Q323530"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Bakker Og Bølger",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1912,
+    "url": "https://tekstnet.dk/books/larsen-t_bakker-og-boelger/009/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Tiden ejes af Kloderne",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "og gribes af Mands og Kvindes",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "solbesværgede Jordsjæl,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "der savner og tror at mindes",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "den inter-astrale Lykke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "der vist maa i Verden findes.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

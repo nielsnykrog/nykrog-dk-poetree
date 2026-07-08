@@ -1,0 +1,56 @@
+{
+  "id": null,
+  "title": "O Menniske tenck paa Jesu død/",
+  "year_created": 1569,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "Den danske Psalmebog",
+    "year_published": 1569,
+    "publisher": "Hans Thomissøn",
+    "printer": "Lorenz Benedicht",
+    "place": "København",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/thomissoen_1569/back/8"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "O Menniske tenck paa Jesu død/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Som dig haffuer frelst aff Synd oc nød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "For Adam hand haffde ilde giord/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "J Paradiss brød vor Herris ord.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

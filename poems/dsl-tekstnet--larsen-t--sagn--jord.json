@@ -1,0 +1,451 @@
+{
+  "id": null,
+  "title": "Sagn",
+  "year_created": 1904,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Thøger Larsen",
+    "country": null,
+    "wiki": "Q323530"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Jord",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1904,
+    "url": "https://tekstnet.dk/books/larsen-t_jord/013/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Det Barn, der dør inden Daaben,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "kan ikke faa Himmelen aaben.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "Det sidder nøgent i Nattens Vind'",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "og hulker for at komme derind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 2,
+      "text": "Gaar der en Mand ad samme Sti,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "ved samme Nattens Tid forbi –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 3,
+      "text": "da for hans Fod det bitte Barn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 3,
+      "text": "trimler af Sted som et Nøgle Garn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 4,
+      "text": "Det klager og jamrer: »Mand, Mand!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 4,
+      "text": "Ord, Ord! – Vand, Vand!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 5,
+      "text": "Det klager og jamrer i spæde Raab:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 5,
+      "text": "»Mand, Mand! – Daab, Daab!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 6,
+      "text": "»Jeg lider Kuld', og jeg lider Meen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 6,
+      "text": "Av, der slog jeg min Kind paa Sten,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 6,
+      "text": "av, der stak jeg min Ryg paa Tjørn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 7,
+      "text": "»Mand! Jeg har ikke Hjem og Sted,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 7,
+      "text": "vilde saa nødig i Helvede ned,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 7,
+      "text": "Djævelen er saa ond ved Børn«.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 8,
+      "text": "Det trimler hen over Sten og Knold,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 8,
+      "text": "Vejen er vaad, og Vinden kold.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 9,
+      "text": "Det trimler hen for hans tavse Fod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 9,
+      "text": "omkring det klæber sig Smuds og Blod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 10,
+      "text": "Det klager sig atter: »Mand, o Mand!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 10,
+      "text": "Kan ikke du døbe i Ord og Vand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 10,
+      "text": "»saa tag mig om min arme Krop",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 10,
+      "text": "og bær mig paa Kirkegaarden op,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 11,
+      "text": "»og grav mig ned, før Hanen kalder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 11,
+      "text": "i Jord, hvor Kirkens Tagdryp falder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 12,
+      "text": "»Kunde hænde, naar Præsten da nævner Guds Navn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 12,
+      "text": "inde i Kirkens viede Favn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 13,
+      "text": "»at over den Jord, hvori du mig slap,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 13,
+      "text": "de hellige Tagbrynsdraaber drap –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 14,
+      "text": "»da gælder dette for Daaben,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 14,
+      "text": "og Himmelen lades aaben«. –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 15,
+      "text": "Er Manden ræd for det bitte Barn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 15,
+      "text": "som trimler om i Skidt og Skarn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 16,
+      "text": "og tør han ej give det kristen Daab,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 16,
+      "text": "maa det atter i Jorden uden Haab.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 17,
+      "text": "Sagtmodigt da klager det sidste Gang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 17,
+      "text": "det lyder saa tungt som Vinden sin Sang:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 18,
+      "text": "»Der er Bølger om alle Strande,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 18,
+      "text": "hvi nægtes mig Daabens Vande?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 19,
+      "text": "»Kulden galer i Karme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 19,
+      "text": "Hvor er min Moders Varme?«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 20,
+      "text": "Det stanser og hælder sit Øre ned",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 20,
+      "text": "og lytter til Jorden:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 21,
+      "text": "»Tys! Nu galer Hanen den sorte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 21,
+      "text": "Hvor er min hvide Skjorte?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 22,
+      "text": "»Og nu galer den gule.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 22,
+      "text": "Hvor er min Gravsens Hule?«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 23,
+      "text": "Paa Panden perler det Angstens Sved,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 23,
+      "text": "det lytter til Jorden:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 24,
+      "text": "»Og nu galer Hanen den røde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 24,
+      "text": "for Ilden under de døde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 25,
+      "text": "»Ak – hist galer Hanen den blaa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 25,
+      "text": "blandt Himlens Stjerner smaa«.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 26,
+      "text": "Nu skal det skynde sig ned i Graven.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 26,
+      "text": "Det stenter af Sted, forrevet, forgrædt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 26,
+      "text": "med Stenkast-Hop fra Plet til Plet;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 27,
+      "text": "thi snart galer Hanen den hvide",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 27,
+      "text": "for Dagning i Østerlide.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+# Deletion log
+
+Created: 2026-07-02 06:07:18
+
+Reason: remove Latin-only / Latin-loop poems from dataset.
+Decision rule: from review_buckets (V1 classification), delete everything in
+  - A_pure_latin/
+  - B_latin_title_with_danish_mixed/
+Except 7 Danish hymns the user explicitly preserved (see PROTECTED set in scripts/apply_deletion.py).
+
+Total deleted: 170
+
+## Tier A (pure Latin)
+
+- dsl-reformationssalmer--anonymous--amen--malmoe-salmebog.json
+- dsl-reformationssalmer--anonymous--gloria-in-excelsis-deo--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--gloria-in-excelsis-deo--jespersen_1573--3.json
+- dsl-reformationssalmer--anonymous--gloria-in-excelsis-deo--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--kyrie-eleison--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--kyrie-eleison--thomissoen_1569.json
+
+## Tier B (Latin-titled poems)
+
+- dsl-reformationssalmer--anonymous--ad-te-leuaui-animam-meam-deus-meus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--adorate-deum-omnes-angelj-eius-audiuit-et-ltata-est-sion-et-exultauerunt-fili-iu--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--adorate-deum-omnes-angelj-eius-audiuit-et-ltata-est-sion-et-exultauerunt-fili-iu--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--aeterne-deus--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--aeterne-deus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--alleluia--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--apparuerunt-apostolis-dispertit-lingu-tanquam-ignis--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--benedicite-domino-omnes-angeli-eius--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--benedicta-semper-sancta-sit-trinitas--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--benedicta-sit-sancta-trinitas--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--cantate-domino-canticum-nouum--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--cantate-domino-canticum-nouum--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--christe-vdi-naadsens-throne--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--christus-nos-reuisit--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--christus-pro-nobis-passus-est--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--cjrcumdederunt-me-gemitus-mortis--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--cjrcumdederunt-me-gemitus-mortis--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--cognoscimus-domine-quia-peccauimus-ueniam-petimus-quam-non-meremur--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--credo-in-vnum-deum--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--credo-in-vnum-deum-patrem-etc--oluf-ulriksen-messehaandbog-1539.json
+- dsl-reformationssalmer--anonymous--da-pacem-domine-sustinentibus-te--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--da-pacem-domine-sustinentibus-te--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--deus-in-adiutorium-meum-intende--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--deus-in-adiutorium-meum-intende--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--deus-in-loco-sancto-suo--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--deus-in-loco-sancto-suo--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--deus-qui-corda-fidelium--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--dicit-dominus--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--dicit-dominus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--dies-est-ltici--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--discubuit-iesus-et-discipuli-eius-cum-eo-et-ait--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--djes-est-leticie--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--djscubuit-jesus-et-discipuli-eius-cum-eo-et-ait--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--domine-in-tua-misericordia-speraui--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--domine-in-tua-misericordia-speraui--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--domine-ne-longe-facias-auxilium-tuum-a-me--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--domine-ne-longe-facias-auxilium-tuum-a-me--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--dominus-fortitudo-plebis-su--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--dominus-fortitudo-plebis-su--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--dominus-illuminatio-mea--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--dominus-illuminatio-mea--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--dominus-vobiscum--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--dominus-vobiscum--malmoe-salmebog.json
+- dsl-reformationssalmer--anonymous--dum-medium-silentium-teneret-omnia--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--dum-medium-silentium-teneret-omnia--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--dvm-clamarem-ad-dominum-exaudiuit-vocem--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--dvm-clamarem-ad-dominum-exaudiuit-vocem--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--ecce-aduenit-dominator-dominus-et-regnum-in-manu-eius--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--ecce-aduenit-dominator-dominus-et-regnum-in-manu-eius--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--ecce-deus-adiuuat-me--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--edite-et-bibite-ex-hoc-omnes-et-facite-quotiescunque-feceritis-in-mei-commemorat--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--eja-recolamus-laudibus-piis-digna-huius-diei-carmina--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--esto-mihi-in-deum-protectorem--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--et-postquam-consummati-sunt-dies-octo--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--et-postquam-consummati-sunt-dies-octo--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--etenim-sederunt-principes--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--etenim-sederunt-principes--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--exaudi-domine-vocem-meam--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--exaudi-domine-vocem-meam--jespersen_1573--3.json
+- dsl-reformationssalmer--anonymous--exaudi-domine-vocem-meam--jespersen_1573--4.json
+- dsl-reformationssalmer--anonymous--exaudi-domine-vocem-meam--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--factus-est-dominus-protector-meus--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--factus-est-dominus-protector-meus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--gaudeamus-omnes-in-domino--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--gaudete-in-domino-semper--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--gaudete-in-domino-semper--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--gloria-patri-et-filio--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--grates-nunc-omnes-reddamus--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--grates-nunc-omnes-reddamus--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--grates-nunc-omnes-reddamus-domino-deo--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--haleluia-ascendit-deus-in-iubilatione-et-dominus-in-voce-tub--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--haleluia-domine-refugium-factus-es-nobis--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--hoss-babylonis-flod--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--in-excelso-throno-vidi-sedere-virum--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--in-excelso-throno-vidi-sedere-virum--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--in-quo-completurmensi-lunatio-detur--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--in-voluntate-tua-domine-vniuersa-sunt-posita--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--inclina-domine-aurem-tuam-ad-me--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--inclina-domine-aurem-tuam-ad-me--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--inuocauit-me--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--ite-in-orbem-vniuersum--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--iubilate-deo-omnis-terra--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--iubilate-deo-omnis-terra--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--ivdica-me-deus--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--ivdica-me-deus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--ivstus-es-domine--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--kyrie--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--kyrie-eleison--thomissoen_1569--2.json
+- dsl-reformationssalmer--anonymous--kyrie-gudh-fadher-alsom-hegeste-trest--claus-mortensen-messe-1529.json
+- dsl-reformationssalmer--anonymous--laus-tibi-christe-qui-pateris--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--laus-tibi-christe-qui-pateris--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--magnum-nomen-domini-emanuel--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--mane-prima-sabbathi-surgens-dei-filius-nostra-spes-et-gloria--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--media-uita-in-morte-sumus--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--memento-nostri-domine--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--memento-nostri-domine--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--mjserere-mihi-domine--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--mjserere-mihi-domine--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--mjsericordia-domini-plena-est-terra--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--mjsericordia-domini-plena-est-terra--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--oculi-mei-semper-ad-dominum--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--oculi-mei-semper-ad-dominum--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--omnes-gentes-plaudite-manibus--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--omnes-gentes-plaudite-manibus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--omnia-qu-fecisti-nobis-domine--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--omnia-qu-fecisti-nobis-domine--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--omnis-terra-adoret-te-deus-et-psallat-tibi-psalmum-dicat-nomini-tuo-altissime--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--omnis-terra-adoret-te-deus-et-psallat-tibi-psalmum-dicat-nomini-tuo-altissime--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--populus-sion--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--populus-sion--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--postquam-resurrexit--thomissoen_1569--2.json
+- dsl-reformationssalmer--anonymous--postquam-resurrexit--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--protector-noster-aspice-deus--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--protector-noster-aspice-deus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--puer-natus-in-bethlehem--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--pver-natus-est-nobis--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--pver-natus-in-bethlehem--vingaard_1553--2.json
+- dsl-reformationssalmer--anonymous--pver-natus-in-bethlehem--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--quia-consolatorem-spiritum-sanctum-alleluia--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--quia-tu-solus-nostram-captiuitatem-alleluia--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--qvando-christus-ascenderat--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--qvasi-modo-geniti-infantes-haleluia--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--qvasi-modo-geniti-infantes-haleluia--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--reminiscere-miserationum-tuarum-domine--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--reminiscere-miserationum-tuarum-domine--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--rens-konning-o-christe-haleluia--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--resonet-in-laudibus--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--resonet-in-laudibus--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--respice-domine-in-testamentum-tuum--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--respice-in-me-et-miserere-mei-domine--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--respice-in-me-et-miserere-mei-domine--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--resurrexi-et-adhuc-tecum-sum--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--resurrexit-christus--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--rex-christe-omnes-tu-te-letamur-alleluia--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--sacerdotes-eius-induant-salutare--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--sacerdotes-eius-induant-salutare--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--salue-hlsel-mildeste-jesu-christe--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--salus-populi-ego-sum-dicit-dominus--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--salus-populi-ego-sum-dicit-dominus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--sancti-spiritus-adsit-nobis-gratia--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--sanctus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--scio-quod-redemptor-meus-uiuit--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--sj-iniquitates-obseruaueris-domine--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--sj-iniquitates-obseruaueris-domine--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--spiritus-domini-repleuit-orbem-terrarum--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--spiritus-sancti-gratia-dignetur-illuminare-sensus--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--svmm-trinitati--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--svscepimus-deus-misericordiam-tuam--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--svscepimus-deus-misericordiam-tuam--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--te-deum-laudamus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--tjbi-laus-salus-sit-christe--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--tjmete-dominum-omnes-sancti-eius--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--tjmete-dominum-omnes-sancti-eius--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--veni-sancte-spiritus--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--veni-sancte-spiritus--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--veni-sancte-spiritus--vingaard_1553.json
+- dsl-reformationssalmer--anonymous--veni-sancte-spiritus-et-emitte-coelitus-lucis-tu-radium--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--vere-dignum-et-iustum-est--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--vidit-et-vt-vidit-peruerso-lumine-momus--thomissoen_1569.json
+- dsl-reformationssalmer--anonymous--vjctim-paschali-laudes-immolant-christiani--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--vocem-iucunditatis-annunciate--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--vocem-iucunditatis-annunciate--jespersen_1573.json
+- dsl-reformationssalmer--anonymous--vvltum-tuum-deprecabuntur-omnes-diuites-plebis--jespersen_1573--2.json
+- dsl-reformationssalmer--anonymous--vvltum-tuum-deprecabuntur-omnes-diuites-plebis--jespersen_1573.json
+
+
+## Duplicate / containment cleanup — 2026-07-02 06:24:28
+
+Removed 86 duplicate / contained-in-other files.
+Source: review_duplicates/PLAN.md (88 pairs, 2 files in multiple pairs).
+
+Files deleted:
+
+
+
+## Duplicate / containment cleanup — 2026-07-02 06:24:41
+
+Removed 86 duplicate / contained-in-other files.
+Source: review_duplicates/PLAN.md (89 pairs, 2 files in multiple pairs).
+
+Files deleted:
+
+- `dsl-reformationssalmer--anonymous--af-dybsens-nd-raaber-ieg-til-dig--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--aff-diybsens-nd-rober-ieg-til-teg--dietz-salmebog-1529--2.json`
+- `dsl-reformationssalmer--anonymous--aff-dybhedtzens-ndt-raaber-ieg-til-dig--oluf-ulriksen-messehaandbog-1539--2.json`
+- `dsl-reformationssalmer--anonymous--alle-christne-fryde-sig-nu--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--alleniste-gud-i-himmerig--thomissoen_1569--3.json`
+- `dsl-reformationssalmer--anonymous--benaade-oss-o-herre-gud--vingaard_1553--2.json`
+- `dsl-reformationssalmer--anonymous--christ-laa-y-ddzens-bond--dietz-salmebog-1529--2.json`
+- `dsl-reformationssalmer--anonymous--christus-kom-selff-til-jordans-flod--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--de-retferdiges-sile-ere-i-guds-hand--oluf-ulriksen-messe-1535--2.json`
+- `dsl-reformationssalmer--anonymous--den-signede-dag-o-skaber-god--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--det-dagis-nu-i-sten--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--esaias-den-prophet-monne-det-saa-gaa--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--exurge--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--fader-vor-vdi-hiemmerig--vingaard_1553.json`
+- `dsl-reformationssalmer--anonymous--fra-mennisken-haffuer-ieg-vend-min-hu--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--gud-fader-vdi-himmerig--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--gvd-fader-bliff-du-nu-met-oss--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--gvd-fader-bliff-tw-nw-med-oss--dietz-salmebog-1529.json`
+- `dsl-reformationssalmer--anonymous--gvd-vre-loffuit-oc-benedidet--malmoe-salmebog--2.json`
+- `dsl-reformationssalmer--anonymous--haleluia--thomissoen_1569--3.json`
+- `dsl-reformationssalmer--anonymous--haleluia--thomissoen_1569--4.json`
+- `dsl-reformationssalmer--anonymous--haleluia--thomissoen_1569--5.json`
+- `dsl-reformationssalmer--anonymous--haleluia--thomissoen_1569--6.json`
+- `dsl-reformationssalmer--anonymous--haleluia--thomissoen_1569--7.json`
+- `dsl-reformationssalmer--anonymous--haleluia--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--herr-christ-gud-faders-enborne-sn--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--herr-christ-gud-faders-enborne-sn--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--herren-sagde-til-myn-herre--dietz-salmebog-1529--2.json`
+- `dsl-reformationssalmer--anonymous--hielp-gud-at-ieg-nu-kunde--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--hvi-storme-oc-fnyse-de-hedninge-saa--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--hwo-som-wil-leffue-christelig--dietz-salmebog-1529--2.json`
+- `dsl-reformationssalmer--anonymous--i-jesu-naffn-begynde-wi--malmoe-salmebog.json`
+- `dsl-reformationssalmer--anonymous--i-jesu-naffn-begynde-wi--vingaard_1553.json`
+- `dsl-reformationssalmer--anonymous--i-jhesu-naffn-begynde-wy--dietz-salmebog-1529--3.json`
+- `dsl-reformationssalmer--anonymous--i-jhesu-naffn-begynde-wy--dietz-salmebog-1529.json`
+- `dsl-reformationssalmer--anonymous--ieg-arme-syndige-menniske-bekender-mig-for-gud-almectiste--malmoe-salmebog--2.json`
+- `dsl-reformationssalmer--anonymous--ieg-raaber-til-dig-o-herre-christ--vingaard_1553.json`
+- `dsl-reformationssalmer--anonymous--in-medio-ecclesi-aperuit-os-eius--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--jerusalem-du-hellige-stad--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--jesus-christ-vor-frelsermand--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--kom-hedningers-frelser-sand--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--kom-hedningers-frelser-sand--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--kom-o-herre-hellig-aand--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--kyrie-gud-fader-aff-himmerig--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--kyrie-gud-fader-allsomhyeste-trst--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--kyrie-gud-fader-forbarme-dig-offuer-oss--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--kyrie-gud-fader-forbarme-dig-offuer-oss--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--kyrieelleyson--oluf-ulriksen-messe-1535--2.json`
+- `dsl-reformationssalmer--anonymous--lader-oss-nu-alle--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--lader-oss-nw-alle-bede--oluf-ulriksen-messe-1535--2.json`
+- `dsl-reformationssalmer--anonymous--loffuer-gud-i-fromme-christne--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--ltare-jerusalem--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--men-wi-leffue-paa-jorden-her--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--nos-autem-gloriari-oportet-in-cruce-domini-nostri-jesu-christi--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--nv-er-fd-oss-jesus-christ--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--nv-er-oss-gud-miskundelig--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--nw-frygder-eder-alle-christne-mend--dietz-salmebog-1529.json`
+- `dsl-reformationssalmer--anonymous--nw-lader-oss-alle-tacke-gud-wor-herre--dietz-salmebog-1529--2.json`
+- `dsl-reformationssalmer--anonymous--o-gud-aff-hiemmelen-see-her-til--malmoe-salmebog--2.json`
+- `dsl-reformationssalmer--anonymous--o-gud-aff-himmelen-see-her-til--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--o-gud-vor-fader-i-euighed--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--o-herre-for-dig-ret-ynckelig--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--o-herre-forbarme-dig-offuer-oss--malmoe-salmebog.json`
+- `dsl-reformationssalmer--anonymous--o-herre-gud-benaade-mig--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--o-herre-gud-fader-met-din-krafft--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--o-herre-gud-miskunde-teg--dietz-salmebog-1529.json`
+- `dsl-reformationssalmer--anonymous--o-herre-huad-er-det--vingaard_1553--2.json`
+- `dsl-reformationssalmer--anonymous--o-himmelske-fader-wi-ere-dine--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--o-jesu-christ-som-mandom-tog--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--oc-euige-gud--oluf-ulriksen-messehaandbog-1539--2.json`
+- `dsl-reformationssalmer--anonymous--oc-euige-gud--oluf-ulriksen-messehaandbog-1539--3.json`
+- `dsl-reformationssalmer--anonymous--oc-euige-gud--oluf-ulriksen-messehaandbog-1539--4.json`
+- `dsl-reformationssalmer--anonymous--rorate-coeli-desuper--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--saa-taler-den-wuise-mund--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--salig-er-den-i-guds-fryct-staar--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--then-som-wil-een-christen-hede--dietz-salmebog-1529--2.json`
+- `dsl-reformationssalmer--anonymous--vaager-op-i-christen-alle--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--vaager-op-i-christen-alle--thomissoen_1569.json`
+- `dsl-reformationssalmer--anonymous--vaare-gud-icke-met-oss-denne-tid--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--vden-herren-opholder-vort-huss-oc-gaard--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--vel-er-den-mand-der-vandrer-ey--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--vel-er-den-mand-der-vandrer-ey--vingaard_1553.json`
+- `dsl-reformationssalmer--anonymous--velsignere--thomissoen_1569--2.json`
+- `dsl-reformationssalmer--anonymous--vjri-galili--jespersen_1573--2.json`
+- `dsl-reformationssalmer--anonymous--vor-gud-hand-er-saa-fast-en-borg--jespersen_1573.json`
+- `dsl-reformationssalmer--anonymous--vor-hielp-vere-i-herrens-naffn--vingaard_1553.json`
+
+
+## v5 WORDS-based Latin removal — 2026-07-02 10:53:20
+
+Removed 57 files using Whitaker's WORDS Latin dictionary.
+Source: review_buckets_v5/ (Tier A + Tier B minus 2 false-positives).
+Method: scripts/classify_v5.py (body-only classification, 2.29M Latin forms).
+
+Files deleted:
+
+- `dsl-reformationssalmer--anonymous----jespersen_1573--2.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous----jespersen_1573.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--de-ventre-matris-me-vocauit-me-dominus-nomine-meo--jespersen_1573.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--exurge--jespersen_1573.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--10.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--11.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--12.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--13.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--14.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--15.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--16.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--17.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--18.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--19.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--2.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--20.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--21.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--22.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--23.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--24.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--25.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--26.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--27.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--28.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--29.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--3.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--30.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--31.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--32.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--33.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--34.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--35.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--36.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--37.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--38.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--39.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--4.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--40.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--41.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--42.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--43.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--44.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--45.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--46.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--47.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--48.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--49.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--5.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--7.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--8.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--9.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573.json` (from B_latin_body_small)
+- `dsl-reformationssalmer--anonymous--in-medio-ecclesi-aperuit-os-eius--jespersen_1573.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--ltare-jerusalem--jespersen_1573.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--patrem-omnipotentem--vingaard_1553.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--rorate-coeli-desuper--jespersen_1573.json` (from A_pure_latin)
+- `dsl-reformationssalmer--anonymous--vjri-galili--jespersen_1573.json` (from A_pure_latin)
+
+
+## Manual single-poem Latin removal — 2026-07-02 11:45
+
+Removed 1 file:
+- `dsl-reformationssalmer--anonymous--haleluia--jespersen_1573--50.json`
+
+Reason: missed by the WORDS-based v5 classifier because the body contained
+`regnauit` (perfect 3sg of *regno* "to reign"), a perfect-tense form whose
+perfect-stem (`regnav-`) is not in Whitaker's STEMLIST.GEN. The remaining
+text (*Dominus regnauit, decorem induit, ...* — Psalm 93:1) is unambiguously
+Latin. User caught this manually.
+
+
+================================================================================
+2026-07-08 — pre-sharing workspace cleanup pass
+================================================================================
+Removed (verdicts 1, 2 — clear deletes):
+  - scripts/__pycache__/                             (Python bytecode)
+  - sources/early-danish-ballads/__pycache__/        (Python bytecode)
+  - sources/tekstnet-dsl/__pycache__/                (Python bytecode)
+  - sources/early-danish-ballads/pilot/              (936 JSON, all byte-identical to poems/)
+  - sources/early-danish-ballads/pilot_redundant_quarantine/  (12 JSON + QUARANTINE_LOG.md, all content in poems/)
+  - sources/early-danish-ballads/samples/            (3 dev HTML, LNGK1/50/93)
+  - sources/dsl-reformationssalmer/pilot/            (3 JSON + PILOT_NOTES.md, all content in poems/)
+  - sources/tekstnet-dsl/pilot/                      (9 JSON + 16 raw HTML, all content in poems/)
+  - data/author_lookup.json                          (4 KB, unused — Wikidata lookups live in sources/authors.json)
+
+Moved to ~/Documents/latin-detection-toolkit/ (verdicts 3, 4):
+  - scripts/classify_v2.py
+  - scripts/classify_v3.py
+  - scripts/classify_v4.py
+  - scripts/classify_v5.py
+  - scripts/apply_deletion.py
+  - scripts/apply_v5_deletion.py
+  - scripts/bucket_examples.py
+  - scripts/build_latin_dict.py
+  - scripts/build_latin_inflected_forms.py
+  - scripts/scan_language.py
+  - data/latin_inflected_forms.json                  (38 MB)
+  - data/latin_words.json                            (456 KB)
+
+Moved to ~/Documents/danish-dramas/ (verdict 7):
+  - danish-dramas/                                   (44 JSON — dramatic poetry, not part of poems/)
+
+Created (verdict 6):
+  - README.md                                        (project documentation)
+  - .gitignore                                       (excludes raw/, __pycache__/, etc.)
+
+Safety check (pilot folders): all 936+12+3+9 = 960 pilot JSONs verified to have
+content that exists in poems/ (by byte-hash for the 936; by title match for the
+24 with older author-slug conventions). PILOT_NOTES.md and QUARANTINE_LOG.md
+preserved in sources/*/ for audit trail. The 16 raw HTMLs in tekstnet-dsl/pilot/_raw/
+are dev snapshots — content in poems/ by title.
+
+poems/ count: 3,424 (unchanged).
+
+Later same session — followup:
+  - sources/early-danish-ballads/_parse_tmp_langebek.json  (1.1 MB scratch from parse run, not a finished poem; .gitignore already excluded it but cleaned up anyway)

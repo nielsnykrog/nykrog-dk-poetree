@@ -1,0 +1,87 @@
+{
+  "id": null,
+  "title": "Morgen",
+  "year_created": 1937,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Gustaf Munch-Petersen",
+    "country": null,
+    "wiki": "Q1364400"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Nitten Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1937,
+    "url": "https://tekstnet.dk/books/munch-petersen-g_nitten-digte/015/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "I Vintermorgens sorte Mørke",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "lyder fra Huse Hanernes Kor –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Skygger af Mænd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "tramper mod Havnens Lygte –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Motorers Dunk trækker usynlige Baade",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "mod pibende Hav –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Istunge Byger fejer fra lave Tage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Kulrøgens brune Sløjfer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "udover Havet –",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

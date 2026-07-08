@@ -1,0 +1,65 @@
+{
+  "id": null,
+  "title": "CHrist stod op aff døde/",
+  "year_created": 1529,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "Een ny handbog med Psalmer oc aandelige lofsange",
+    "year_published": 1529,
+    "publisher": "Ludwig Dietz",
+    "printer": "Ludwig Dietz",
+    "place": "Rostock",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/dietz-salmebog-1529/6/8"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "CHrist stod op aff døde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Frelste all werden aff nøde/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Thÿ maa wÿ alle glade wære/",
+      "part": false,
+      "marginal_notes": [
+        "Matthei. xxviij."
+      ]
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "oc siunge Christ loff med heder oc ære",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Kyrioley.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

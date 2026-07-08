@@ -1,0 +1,108 @@
+{
+  "id": null,
+  "title": "[uden fælles titel]",
+  "year_created": 1866,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1866,
+    "url": "https://tekstnet.dk/books/andersen-hc_uden-faelles-titel-1866/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Hun drömte om Alfer i Stuens Krog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "De kom da hun sov med sin Eventyrbog.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "Infanterie mod Cavallerie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Blodig er Kampen, men snart forbi.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 2,
+      "text": "Jeg er en Dame med Slæb og Maneer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "Og De, min Herre, en fiin Cavaleer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 3,
+      "text": "Jovist faaer Du Sukker men för det kan skee,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 3,
+      "text": "Som lille Broder Du sige: »be’e, be’e!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 4,
+      "text": "Med fire Heste jeg flyver afsted,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 4,
+      "text": "Sid op, der er Plads, vil Du kjöre med!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 5,
+      "text": "Læs Aftenbönnen för Du sover ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 5,
+      "text": "I Drömme Guds Engle da kysse din Kind.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

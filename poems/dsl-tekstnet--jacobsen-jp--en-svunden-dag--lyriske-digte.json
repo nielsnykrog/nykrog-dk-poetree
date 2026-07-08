@@ -1,0 +1,73 @@
+{
+  "id": null,
+  "title": "En svunden Dag",
+  "year_created": 1924,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Jens Peter Jacobsen",
+    "country": null,
+    "wiki": "Q370246"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Lyriske Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1924,
+    "url": "https://tekstnet.dk/books/jacobsen-jp_lyriske-digte/030/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "En svunden Dag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "En svunden Tid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Vaagner igjen i mit Minde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Skyggers og Solstraalers brogede Strid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Henover Skovstiens Bane",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Sommerens Dufte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Legende Lufte.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

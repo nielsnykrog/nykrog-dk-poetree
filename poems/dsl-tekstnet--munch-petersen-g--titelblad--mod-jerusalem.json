@@ -1,0 +1,38 @@
+{
+  "id": null,
+  "title": "Titelblad",
+  "year_created": 1934,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Gustaf Munch-Petersen",
+    "country": null,
+    "wiki": "Q1364400"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Mod Jerusalem",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1934,
+    "url": "https://tekstnet.dk/books/munch-petersen-g_mod-jerusalem/001/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "my infinite world is",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "in the closed egg of my will towards god -",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

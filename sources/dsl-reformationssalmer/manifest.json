@@ -1,0 +1,65 @@
+{
+  "source_id": "dsl-reformationssalmer",
+  "corpus_name": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+  "publisher_site": "Det Danske Sprog- og Litteraturselskab (DSL)",
+  "site_url": "https://salmer.dsl.dk/texts",
+  "fetched_at": "2026-07-01T22:00:00Z",
+  "scope": {
+    "in_scope": [
+      "dietz-salmebog-1529",
+      "malmoe-salmebog",
+      "dietz-salmebog-1536",
+      "vingaard_1553",
+      "thomissoen_1569",
+      "claus-mortensen-messe-1529",
+      "oluf-ulriksen-messe-1535",
+      "oluf-ulriksen-messehaandbog-1539",
+      "jespersen_1573"
+    ],
+    "out_of_scope": [
+      "christian-3-bibel (Bible, not a hymn book)"
+    ]
+  },
+  "discovered_endpoints": {
+    "text_page": "GET https://salmer.dsl.dk/<book-slug>/<chapter>/<verse>",
+    "metadata_colophons": "GET https://salmer.dsl.dk/meta/<book-slug>/colophons",
+    "metadata_introductions": "GET https://salmer.dsl.dk/meta/<book-slug>/introductions",
+    "metadata_sources": "GET https://salmer.dsl.dk/meta/<book-slug>/sources"
+  },
+  "html_structure": {
+    "stanza": "<div class=\"poetry\">",
+    "verse_line": "<div class=\"verse-line\">",
+    "hymn_wrapper": "<div id=\"<slugified-first-line>-<book-slug>\">",
+    "h1": "page section / introductory line; NOT the title -- skip",
+    "marginal_note": "<span class=\"marginal-note\"><span class=\"marginal-note-content\">...</span></span>",
+    "text_critical": "<span class=\"app\"><span class=\"lemma\">...</span>...</span> -- strip",
+    "page_break": "<span class=\"legacy-page-break\"><span class=\"page-break-mark\">|</span><a ...>3r</a></span> -- strip"
+  },
+  "field_policy": {
+    "title": "first <div class=\"verse-line\"> inside the first <div class=\"poetry\">",
+    "author": "anonymous (all hymns in this corpus)",
+    "year_created": "= source.year_published (book year)",
+    "preserve_orthography": true,
+    "strip_apparatus": true,
+    "strip_page_breaks": true,
+    "extract_marginal_notes": true,
+    "marginal_notes_field": "body[].marginal_notes[] (local extension; will discuss with PoeTree)"
+  },
+  "scrape_discriminator": "page is a poem-bearing page iff it contains >= 1 <div class=\"poetry\">",
+  "books": [
+    {"slug": "dietz-salmebog-1529", "title": "Een ny handbog med Psalmer oc aandelige lofsange", "publisher": "Ludwig Dietz", "printer": "Ludwig Dietz", "place": "Rostock", "year_published": 1529},
+    {"slug": "malmoe-salmebog",      "title": "[tabt]",                                  "publisher": "Christiern Pedersen", "printer": "Joh. Hoochstraten", "place": "Malmø", "year_published": 1533},
+    {"slug": "dietz-salmebog-1536", "title": "Nogle nye Psalmer oc Lofsange",          "publisher": "Ludwig Dietz", "printer": "Ludwig Dietz", "place": "Rostock", "year_published": 1536},
+    {"slug": "vingaard_1553",        "title": "En ny Psalmebog",                         "publisher": "Hans Vingaard", "printer": "Hans Vingaard", "place": "København", "year_published": 1553},
+    {"slug": "thomissoen_1569",      "title": "Den danske Psalmebog",                   "publisher": "Hans Thomissøn", "printer": "Lorenz Benedicht", "place": "København", "year_published": 1569},
+    {"slug": "claus-mortensen-messe-1529",  "title": "Thet cristelighe mesẞeembedhe",    "publisher": "Claus Mortensen Tøndebinder", "printer": "Oluf Ulriksen",   "place": "Malmø", "year_published": 1529, "header_year_mismatch": "DSL header says 1569; explicit Udgivelsesår: 1529 used"},
+    {"slug": "oluf-ulriksen-messe-1535",    "title": "Een handbog som inde holler det hellige Euangeliske Messe embede", "publisher": "Oluf Ulriksen", "printer": "Oluf Ulriksen", "place": "Malmø", "year_published": 1535},
+    {"slug": "oluf-ulriksen-messehaandbog-1539", "title": "Handbog Om den rette Euangeliske Messe", "publisher": "Frands Vormodsen", "printer": "Oluf Ulricksøn", "place": "Malmø", "year_published": 1539},
+    {"slug": "jespersen_1573",       "title": "Gradval. En Almindelig Sangbog",          "publisher": "Niels Jespersen", "printer": "Lorenz Benedicht", "place": "København", "year_published": 1573, "header_year_mismatch": "DSL header says 1529; explicit Udgivelsesår: 1573 used"}
+  ],
+  "pilot_poems_planned": [
+    {"slug": "dietz-salmebog-1529", "url": "https://salmer.dsl.dk/dietz-salmebog-1529/1/1"},
+    {"slug": "malmoe-salmebog",     "url": "https://salmer.dsl.dk/malmoe-salmebog/1/30"},
+    {"slug": "thomissoen_1569",     "url": "https://salmer.dsl.dk/thomissoen_1569/1/1"}
+  ]
+}

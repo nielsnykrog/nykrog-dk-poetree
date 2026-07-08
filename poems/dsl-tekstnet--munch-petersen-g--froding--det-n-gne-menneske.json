@@ -1,0 +1,73 @@
+{
+  "id": null,
+  "title": "fröding",
+  "year_created": 1932,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Gustaf Munch-Petersen",
+    "country": null,
+    "wiki": "Q1364400"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Det Nøgne Menneske",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1932,
+    "url": "https://tekstnet.dk/books/munch-petersen-g_det-noegne-menneske/052/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "din stille latter",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "gjorde andres nagende synder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "og forspildte liv",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "til munter dans paa solgrønne enge–",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "jeg ser den fortvivlede kamp,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "som rev dit eget sind i laser – ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "og jeg tier –",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

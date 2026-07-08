@@ -1,0 +1,245 @@
+{
+  "form": [
+    {
+      "_val": "alcaic",
+      "_desc": "Alcaic strophe; four-line stanzas with basic meter-patterns:\n<table class='val-tab'>\n<tr><td>wSwSwSwwSww</td><td>OR</td><td>SwSwwSwwSww</td><td>OR</td><td>wSwSwSwwSwS</td></tr>\n<tr><td>wSwSwSwwSww</td><td></td><td>SwSwwSwwSww</td><td></td><td>wSwSwSwwSwS</td></tr><tr><td>wSwSwSwSw</td><td></td><td>SwSwSwSww</td><td></td><td>wSwSwSwSw</td></tr>\n<tr><td>SwwSwwSwSw</td><td></td><td>SwwSwwSwSw</td><td></td><td>SwwSwwSwSw</td></tr>\n<tr><td>(cs)</td><td></td><td>(cs)</td><td></td><td>(de)</td></tr>\n</table>"
+    },
+    {
+      "_val": "arte mayor",
+      "_desc": "eight-line stanzas with abbaacca rhyme scheme"
+    },
+    {
+      "_val": "asclepiad 4",
+      "_desc": "four-line stanzas with basic meter-patterns:\n<table class='val-tab'>\n<tr><td>SwSwwSwSwwSww</td><td>OR</td><td>SwSwwSSwwSwS</td></tr>\n<tr><td>SwSwwSwSwwSww</td><td></td><td>SwSwwSSwwSwS</td></tr>\n<tr><td>SwSwwSw</td><td></td><td>SwSwwSw</td></tr>\n<tr><td>SwSwwSww</td><td></td><td>SwSwwSwS</td></tr>\n<tr><td>(cs)</td><td></td><td>(de)</td></tr>\n</table>"
+    },
+    {
+      "_val": "burns",
+      "_desc": "Burns stanza; six-line stanzas rhyming aaabab, the lines being I4.I4.I4.I2.I4.I2 or T4.T4.T4.T2.T4.T2"
+    },
+    {
+      "_val": "elegiac",
+      "_desc": "Elegian couplet; seven-line stanzas with rhyme scheme ababbcc"
+    },
+    {
+      "_val": "english sonnet",
+      "_desc": "poem consisting of three four-line and one two-line stanzas"
+    },
+    {
+      "_val": "glyconic",
+      "_desc": "four-line stanzas with basic meter-patterns:\n<table class='val-tab'>\n<tr><td>SwSwwSw[Sw]</td></tr>\n<tr><td>SwSwwSw[Sw]</td></tr>\n<tr><td>SwSwwSw[Sw]</td></tr>\n<tr><td>SwSwwSw</td></tr>\n</table>"
+    },
+    {
+      "_val": "ghazal",
+      "_desc": "poem containing radif (i.e. a repeated word at the end of a line) distributed according to the scheme rr(xr)+x?"
+    },
+    {
+      "_val": "huitain",
+      "_desc": "eight-line stanzas with rhyme scheme ababbcbc or abbaacac"
+    },
+    {
+      "_val": "heroic",
+      "_desc": "two-lines stanzas with rhyme scheme aa consisting of lines I5.I5"
+    },
+    {
+      "_val": "italian sonnet",
+      "_desc": "poem consisting of two four-line and two three-line stanzas"
+    },
+    {
+      "_val": "limerick",
+      "_desc": "poem consisting of one stanza with rhyme scheme aabba"
+    },
+    {
+      "_val": "madrigal",
+      "_desc": "three-line stanzas, the last line being identical in each stanza"
+    },
+    {
+      "_val": "onegin",
+      "_desc": "fourteen-line stanzas with rhyme scheme ababccddeffegg"
+    },
+    {
+      "_val": "ottava rima",
+      "_desc": "eight-line stanzas with rhyme scheme abababcc"
+    },
+    {
+      "_val": "qasida",
+      "_desc": "two-line stanzas with rhyme scheme aa.ax.ax... or aa.aa.aa... or aa.ba.ca..."
+    },
+    {
+      "_val": "rhyme royal",
+      "_desc": "seven-line stanzas with rhyme scheme ababbcc"
+    },
+    {
+      "_val": "ritornello",
+      "_desc": "poem consisting of one stanza with rhyme scheme axa"
+    },
+    {
+      "_val": "rondel",
+      "_desc": "poem consisting of three stanzas, in which only two rhymes are used, the first line being identical with the last, or the first line being identical with the penultimate and at the same time the second line being identical with the last"
+    },
+    {
+      "_val": "rondeau",
+      "_desc": "poem consisting of two or three stanzas; only two rhymes; the initial part of the first line (or the whole first line) is repeated at the end of the last line of each stanza except the first"
+    },
+    {
+      "_val": "sapphic",
+      "_desc": "four-line stanzas with basic meter-patterns:\n<table class='val-tab'>\n<tr><td>SwSwSwwSwSw</td></tr>\n<tr><td>SwSwSwwSwSw</td></tr>\n<tr><td>SwSwSwwSwSw</td></tr>\n<tr><td>SwwSw</td></tr>\n</table>"
+    },
+    {
+      "_val": "sapphic barock",
+      "_desc": "four-line stanzas with basic meter-patterns:\n<table class='val-tab'>\n<tr><td>SwwSwSwSwSw</td></tr>\n<tr><td>SwwSwSwSwSw</td></tr>\n<tr><td>SwwSwSwSwSw</td></tr>\n<tr><td>SwwSw</td></tr>\n</table>"
+    },
+    {
+      "_val": "sapphic german",
+      "_desc": "four-line stanzas with basic meter-patterns:\n<table class='val-tab'>\n<tr><td>SwwSwSwSwSw</td></tr>\n<tr><td>SwSwwSwSwSw</td></tr>\n<tr><td>SwSwSwwSwSw</td></tr>\n<tr><td>SwwSw</td></tr>\n</table>"
+    },
+    {
+      "_val": "sapphic iamb",
+      "_desc": "four-line stanzas with basic meter-patterns:\n<table class='val-tab'>\n<tr><td>wSwSwSwSwSw</td></tr>\n<tr><td>wSwSwSwSwSw</td></tr>\n<tr><td>wSwSwSwSwSw</td></tr>\n<tr><td>wSwSw</td></tr>\n</table>"
+    },
+    {
+      "_val": "sestina",
+      "_desc": "poem consisting of six-line stanzas, the final stanza having three lines"
+    },
+    {
+      "_val": "sicilian",
+      "_desc": "Sicilian octave; eight-line stanzas with rhyme scheme abababab"
+    },
+    {
+      "_val": "spenserian",
+      "_desc": "nine-line stanzas with rhyme scheme ababbcbcc, consisting of lines I5.I5.I5.I5.I5.I5.I5.I5.I6"
+    },
+    {
+      "_val": "terza rima",
+      "_desc": "poem consisting of three-line stanzas and final one-line or four-line stanza with rhyme scheme of aba bcb cdc... yzy z, or aba bcb cdc... yzyz"
+    },
+    {
+      "_val": "triolet",
+      "_desc": "poem consisting of single eight-line stanza; first, fourth, and seventh line being identical, second line and last one being identical"
+    },
+    {
+      "_val": "venus and adonis",
+      "_desc": "six-line stanzas with rhyme scheme ababcc"
+    }
+  ],
+  "body-meter-type": [
+    {
+      "_val": "iamb",
+      "_isin": "cs, de, ru1, ru2",
+      "_desc": "accentual-syllabic iambic meter: wS..."
+    },
+    {
+      "_val": "trochee",
+      "_isin": "cs, de, ru1, ru2",
+      "_desc": "accentual-syllabic trochaic meter: Sw..."
+    },
+    {
+      "_val": "dactyl",
+      "_isin": "cs, de, ru1, ru2",
+      "_desc": "accentual-syllabic dactylic meter: Sww..."
+    },
+    {
+      "_val": "amphibrach",
+      "_isin": "cs, de, ru1, ru2",
+      "_desc": "accentual-syllabic amphibrachic meter: wSw..."
+    },
+    {
+      "_val": "anapest",
+      "_isin": "de, ru1, ru2",
+      "_desc": "accentual-syllabic anapestic meter: wwS..."
+    },
+    {
+      "_val": "creticus",
+      "_isin": "de",
+      "_desc": "accentual-syllabic cretic meter: SwS..."
+    },
+    {
+      "_val": "paeon",
+      "_isin": "ru2",
+      "_desc": "accentual-syllabic paeonic (quaternary) meter: Swww...|wSww...|wwSw...|wwwS..."
+    },
+    {
+      "_val": "logaedic",
+      "_isin": "cs, de, ru1, ru2",
+      "_desc": "accentual-syllabic logaedic meter: w?(Sw|Sww)+"
+    },
+    {
+      "_val": "syllabic",
+      "_isin": "cs, de, fr, ru2",
+      "_desc": "line in syllabic verse"
+    },
+    {
+      "_val": "quantitative",
+      "_isin": "cs",
+      "_desc": "line in quantitative verse"
+    },
+    {
+      "_val": "accentual",
+      "_isin": "de, ru2",
+      "_desc": "line in accentual verse"
+    },
+    {
+      "_val": "quotation",
+      "_isin": "cs",
+      "_desc": "if line is a quotation deviating current meter"
+    }
+  ],
+  "body-meter-subtype": [
+    {
+      "_val": "alexandrine",
+      "_isin": "cs, fr",
+      "_desc": "12- or 13-syllable line with constant word boundary after 6th syllable; in CS this apply only to iambic meter (I6)()"
+    },
+    {
+      "_val": "p?[dt]+",
+      "_isin": "cs, de",
+      "_desc": "specification of basic patter for AS logaedic meters: p = initial w-position; d = dactylic foot (Sww); t = trochaic foot (Sw)"
+    },
+    {
+      "_val": "hexameter",
+      "_isin": "cs, de, ru2",
+      "_desc": "AS imitation of quantitative dactylic hexameter (logaedic line): Sww?Sww?Sww?Sww?Sww?Sw; in DE meter patterns for hexameter and pentameter are not available and are assigned just XXX*"
+    },
+    {
+      "_val": "pentameter",
+      "_isin": "cs, de, ru2",
+      "_desc": "AS imitation of quantitative dactylic pentameter (logaedic line): Sww?Sww?Sw?Sww?Sww?S; in DE meter patterns for hexameter and pentameter are not available and are assigned just XXX*"
+    },
+    {
+      "_val": "(.)*\\+(.)*",
+      "_isin": "fr, ru2",
+      "_desc": "caesured verse; this may separate integers in syllabic verse (such as 4+6 in fr) or meters in accentucal syllabic (such as T3m+T3m in ru2); in latter case there's however no clear border between this and logaedic line"
+    },
+    {
+      "_val": "dolnik",
+      "_isin": "ru2",
+      "_desc": "subtype of accentual verse; no more than 2 unstressed syllables in a row"
+    },
+    {
+      "_val": "taktovik",
+      "_isin": "ru2",
+      "_desc": "subtype of accentual verse; no more than 3 unstressed syllables in a row"
+    }
+  ],
+  "body-meter-ending": [
+    {
+      "_val": "s",
+      "_isin": "cs, de, ru1, ru2",
+      "_desc": "Strong ending. Meter pattern ends with an S-position"
+    },
+    {
+      "_val": "w",
+      "_isin": "cs, de, ru1, ru2",
+      "_desc": "Weak ending. Meter pattern ends with Sw"
+    },
+    {
+      "_val": "a",
+      "_isin": "cs, de, ru1, ru2",
+      "_desc": "Acatalectic/dactylic ending. Meter pattern ends with Sww. In ru1 ending is derived from the meter pattern generated by PP, thus annotation correspons to cs & de standards (binary meters can not have a-ending). In ru2, this is taken from the labels in RPC - binary meters may have a-ending."
+    },
+    {
+      "_val": "h",
+      "_isin": "ru2",
+      "_desc": "Hyperdactylic ending. Meter pattern ends with Swww"
+    }
+  ]
+}

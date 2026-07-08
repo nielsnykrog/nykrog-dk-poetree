@@ -1,0 +1,80 @@
+{
+  "id": null,
+  "title": "Nat",
+  "year_created": 1868,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Jens Peter Jacobsen",
+    "country": null,
+    "wiki": "Q370246"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Hervert Sperring",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1868,
+    "url": "https://tekstnet.dk/books/jacobsen-jp_hervert-sperring/010/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "O! naar Maanens Straaler milde spille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Naar omkring mig Alt er tyst og stille,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Da er Vand mig ikke Søens Vove,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Træer ej de dunkle tavse Skove,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Sky ej, hvad mig Himlens Hvælving dølger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Dal og Bakke ikke Jordens Bølger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Form ej Form og Farven ikke Farve,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Alt et Udtryk for hvad Gud har drømt.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

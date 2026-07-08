@@ -1,0 +1,596 @@
+{
+  "id": null,
+  "title": "Sange af Vaudevillen »Fuglen i Pæretræet«",
+  "year_created": 1844,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1844,
+    "url": "https://tekstnet.dk/books/andersen-hc_sange-af-vaudevillen-fuglen-i-paeretraeet/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Ved Bondens Tag, der er af Straa,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: HERMAN"
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Og der, hvor Marmorsøiler staae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Der Fuglen boer, – dens Navn Du veed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Den lille Guldfugl: Kjærlighed!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Den synger os en mægtig Sang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Guds Engle sang den første Gang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Det er, som man fik Dandsens Flugt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Jeg intet veed saa stort og smukt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Den Guldfugl gjæster Grubens Nat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Paa Skibets Seil den har sig sat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Den boer hos Hyrden høit paa Fjeld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "Den boer ved Dalens Kildevæld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Man siger, den er ikke tro!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "Men Verden lyver, veed man jo!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "Sit Næb den i vort Hjerte slaaer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "Et Guddoms-Kys det er, man faaer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "Dens Sang gjør hvert et Hjerte godt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "Forvandler Hytten til et Slot,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "Den flagrer over Gravens Blomst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "Og synger Mødets Atterkomst!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "Havet har jeg kjær, som Dig min Pige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "Havet bringer Ære, Guld og Magt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "Til din lille Mand ombord Du stige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "London skal Du see, der er en Pragt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "Themsens tusind Skibe for Dig flage!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "Som et Trylleslot staaer hver Boutik!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Vi med Damp gaae over Londons Tage!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "Vi til Tunnel’n maae et Øieblik!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 1,
+      "text": "Hjemad gaaer igjen den korte Reise,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 1,
+      "text": "Sjællands Kyster sees en Morgenstund;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 1,
+      "text": "Stolt bag ved os Kullens Klipper kneise,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 1,
+      "text": "O hvor deiligt er det danske Sund!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 1,
+      "text": "Seer Du Kronborg Slot! og seer Du Hveen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 1,
+      "text": "Mange hundred Skibe gaae forbi!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 1,
+      "text": "Ei Morgana – Du jo husker Feen? –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 1,
+      "text": "Mægter større Skjønheds Trylleri! –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 2,
+      "text": "Høie Graner, mosbegroede Fjelde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 2,
+      "text": "Flyve vi forbi! Hvad straaler hist,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 2,
+      "text": "Hvilken Storhed, hvilken Pragt og Vælde?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 2,
+      "text": "Ja, det er en Keiserstad for vist!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 2,
+      "text": "Petersborg og London, hvor de throne!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 2,
+      "text": "Eet de mangle dog! – veed Du dets Navn?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 2,
+      "text": "– Skjønnest er der hos min lille Kone,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 2,
+      "text": "Og hun boer i Kongens Kjøbenhavn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 7,
+      "text": "Snart er jeg glad, snart sorrigfuld,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: HENRIETTE"
+      ]
+    },
+    {
+      "id": 45,
+      "stanza_id": 7,
+      "text": "Saa rigt, saa tungt er Elskovs Guld!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 7,
+      "text": "Du Rosenflor i al din Pragt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 7,
+      "text": "Har Lænken om mit Hjerte lagt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 8,
+      "text": "Blomsterne var det, som førte os sammen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 8,
+      "text": "Hen til vort Vindue de fængsled’ hans Blik;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 8,
+      "text": "Indenfor sad jeg og syede ved Rammen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 8,
+      "text": "Da han mig saae, en Hilsen jeg fik!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 9,
+      "text": "Han kom hver Dag og standsed’ lidt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 9,
+      "text": "Paa Blomsterne han saae ret tidt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 9,
+      "text": "Han hilsed’ mig – og jeg – jeg veed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 9,
+      "text": "Man maa jo vise Høflighed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 10,
+      "text": "Siden vi mødtes paa Bal, jeg kan nøie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 10,
+      "text": "Huske det, vi var ei Fremmede meer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 10,
+      "text": "Blomster og Toner kan Hjerterne bøie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 10,
+      "text": "Selv man veed ikke, hvorledes det skeer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 11,
+      "text": "Snart er jeg glad, snart sorrigfuld",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 11,
+      "text": "Saa rigt, saa tungt er Elskovs Guld!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 11,
+      "text": "Du Rosenflor i al din Pragt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 11,
+      "text": "Har Lænken om mit Hjerte lagt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 11,
+      "text": "Med Orgeltoner Stormen bruser,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 11,
+      "text": "Høit Tord’nen ruller! o hvor stort!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 11,
+      "text": "Som Pilen Lynet suser",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 11,
+      "text": "Fra Himlens aabne Port!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 11,
+      "text": "Fra Skyen styrter Regnens Strømme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 11,
+      "text": "Tordenbrag! Lyn paa Lyn! hvilken Pragt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 11,
+      "text": "Vi sidde begge i Elskovs Drømme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 11,
+      "text": "Haanden paa Hjertet lagt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 11,
+      "text": "Stor er Gud Amors Magt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 11,
+      "text": "To Kjærestefolk, som sidde sammen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 11,
+      "text": "De glemme Storm og Tordenbrag!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 11,
+      "text": "Havde vi nu Svanehammen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 11,
+      "text": "Vi fløi med stærke Vingeslag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 11,
+      "text": "Vi fløi som Skyen og som Svalen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 11,
+      "text": "O, saa langt over Land, over Hav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 11,
+      "text": "Høit paa Fjeld og dybt i Dalen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 11,
+      "text": ":|: Gud Amor Leide gav! :|:",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

@@ -1,0 +1,3111 @@
+{
+  "id": null,
+  "title": "Fru Kerjean",
+  "year_created": 1848,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Carl Ploug",
+    "country": null,
+    "wiki": "Q347860"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1848,
+    "url": "https://tekstnet.dk/books/ploug-c_fru-kerjean/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Hist i Bretagnes Hertugdom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Som Tiden strøjfed udenom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Naar den med sine tunge Fjed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Et mosdækt Minde tramped ned,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Naar den med ubarmhjertig Haand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Rev sønder et ærværdigt Baand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Naar den et luftigt Pindehus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Slog op paa Kæmpeværkers Grus; -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "I dette Land, hvor Liv og Sprog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Endnu har tusendaarig Duft;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Hvor Sagnet hvisker i hver Krog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "Og der er Sang i Hav og Luft;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Hvor arvet Sæd og Fædres Tro",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "Med barnlig Kløgt og Enfold tryg",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "Endnu i Bondens Hjerte gro,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "Som paa hans Mark den hvide Byg; -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "Der viser man en brusten Mur;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "Op til den støttes Hyrdens Skur.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "Portalens vide, aabne Gang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "Har unge Egetræ'r gjort trang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "Den sorte, gabende Kamin",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "Til Dagligstue Uglen tog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "Og for det nøgne Vindve drog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "Den vilde Humle sit Gardin.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "Men paa Ruinens Plads engang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "Der stod et Slot, som hed Kerjean.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Der sad en Herre, djerv og brav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "Hvis aabne Træk hans Skudsmaal gav.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "Han havde arvet af sin Slægt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "At værge Land og Ære kjækt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "Men var de Begge fri' og frelst',",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "Saa bygged han i Hjemmet helst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 0,
+      "text": "Og dyrked sine Fædres Jord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 0,
+      "text": "Og red sin gode Ganger træt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 0,
+      "text": "I Hjortens eller Rævens Spor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 0,
+      "text": "Og øved Herre-Pligt og Ret,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 0,
+      "text": "Var sine Undergivne huld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 0,
+      "text": "Hjalp dem med Raad og tidt med Guld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 0,
+      "text": "Men den, der gav hans Hjem Behag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 0,
+      "text": "Der klared for ham Livets Dag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 0,
+      "text": "Og lyste for ham i dets Nat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 0,
+      "text": "Hans bedste Lyst, hans største Skat -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 0,
+      "text": "Det var hans Hustru, faur og fin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 0,
+      "text": "Saa hed og sød som ædel Vin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 0,
+      "text": "Saa ren og frisk som Morgendug,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 0,
+      "text": "Saa duftende som Rosens Blad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 0,
+      "text": "Saa frydefuld som Lærkens Kvad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 0,
+      "text": "Saa hjertensgod, som ung og smuk.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 0,
+      "text": "Hun elsked ham, hun gav sin Tro;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 0,
+      "text": "Men, som hun ejed Vid for To,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 0,
+      "text": "Saa havde hendes Hjerte Rum",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 0,
+      "text": "For mer end een Slags Kjærlighed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 0,
+      "text": "Og hendes Ømheds rige Sum",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 0,
+      "text": "Slog til for alle dem, der led.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 0,
+      "text": "Slotsporten aabnede hun vidt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 0,
+      "text": "Derind tren mødig Vandrer frit,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 0,
+      "text": "Og hilsedes med milde Ord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 0,
+      "text": "Og bænkedes ved dækket Bord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 0,
+      "text": "Hvis træt ej blot, men syg han kom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 0,
+      "text": "Saa fandt han Seng og Lægedom.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 0,
+      "text": "Var fattig han, men rask og stærk,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 0,
+      "text": "Hans Arme satte hun i Værk",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 0,
+      "text": "Med Leen paa den grønne Mo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 0,
+      "text": "Med Plejlen i den fulde Lo.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 0,
+      "text": "Og hun ej vented paa den Nød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 0,
+      "text": "Der gjerne sig til Skue bød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 0,
+      "text": "Men søgte ogsaa den, der sky",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 0,
+      "text": "De Lykkeliges Blik vil fly.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 0,
+      "text": "Til Hytterne hun vandred om,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 0,
+      "text": "Og bragte Trøst, saa vidt hun kom.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 0,
+      "text": "Den unge Kvinde, som hun saa'",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 0,
+      "text": "Med tomme Hænder ledig staa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 0,
+      "text": "Til Stalden sendtes hen paa Stand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 0,
+      "text": "At malke fuld den hvide Spand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 0,
+      "text": "Men hvor hun fandt et gammelt Skrog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 0,
+      "text": "I Armens mørke, kolde Krog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 0,
+      "text": "Did sendte hun af Hør et Bundt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 0,
+      "text": "Og snart sig Tenen snurred rundt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 0,
+      "text": "Og Ilden tændtes op igjen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 0,
+      "text": "Og Gryden kogte over den.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 0,
+      "text": "I Væv blev sat det spundne Garn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 0,
+      "text": "Og Lærredet til nøgent Barn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 0,
+      "text": "Til ussel Krøbling, pjaltet Brud",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 0,
+      "text": "Med begge Hænder deltes ud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 0,
+      "text": "Men er brugt op den glatte Hør,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 0,
+      "text": "Ej Fattigfolk dog sulte tør;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 0,
+      "text": "Da lige lystig Rokken gaar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 0,
+      "text": "I Hytterne med stride Blaar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 0,
+      "text": "Og Slottets Frue samler ind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 0,
+      "text": "For Spindeløn og kristent Sind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 0,
+      "text": "En Skat af Blaargarn, ru og skævet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 0,
+      "text": "Hør, hvordan ogsaa den blev vævet!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 0,
+      "text": "Kong Ludvig til sit Hof har kaldt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 0,
+      "text": "Bretagnes ædle Ridderskare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 0,
+      "text": "Paa Landets Slotte overalt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 0,
+      "text": "Man flux er færdig til at fare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 0,
+      "text": "De bedste Heste sadles op,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 0,
+      "text": "Og snart der færdes Trop paa Trop",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 0,
+      "text": "Af blonde Qvinder, raske Mænd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 0,
+      "text": "Ad Veien til Versailles hen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 0,
+      "text": "Kun Hr. Olivier Kerjean",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 0,
+      "text": "Ei kommen er endnu afsted,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 0,
+      "text": "Thi Fru Françéza vil ej med.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 0,
+      "text": "\"O, lad mig blive her!\" - hun bad -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 0,
+      "text": "\"Her er jeg fri, her er jeg glad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 0,
+      "text": "\"Hvem skal, naar Begge bort vi drage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 0,
+      "text": "\"Paa vore Pligter Vare tage?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 0,
+      "text": "\"Hvor skal de Fattige faa Brød?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 0,
+      "text": "\"Skal Sot og Jammer, Last og Død",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 0,
+      "text": "\"Da hilse os velkomne hjem",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 0,
+      "text": "\"Og Nag forbittre vore Dage?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 0,
+      "text": "\"Nej, lad mig blive mellem dem!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 0,
+      "text": "\"Rejs Du med Gud! Kom snart tilbage!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 0,
+      "text": "Da stod han ikke mer imod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 0,
+      "text": "Men kjendte hendes Villie god,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 0,
+      "text": "Og rusted ene sig til Fart,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 0,
+      "text": "Og hented ind de Andre snart.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 0,
+      "text": "Ved Ludvigs ridderlige Hof",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 0,
+      "text": "Vandt Hr. Olivier Kerjean",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 0,
+      "text": "Ved Sindets Snit og Hjertets Stof,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 0,
+      "text": "Mer end ved Byrds og Rigdoms Rang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 0,
+      "text": "En hædret Plads blandt Ligemænd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 0,
+      "text": "Og mangen brav og ærlig Ven.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 0,
+      "text": "Men Vennerne ham spurgte tidt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 0,
+      "text": "Hvorfor hans Dame ei kom hid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 0,
+      "text": "Til Aands og Skjønheds Væddestrid;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 0,
+      "text": "Og da det sande Svar han gav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 0,
+      "text": "At Fru Françéza havde frit",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 0,
+      "text": "For Hoffets Lyst valgt Hjemmets Krav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 0,
+      "text": "Saa mumled En, det kom vel af,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 0,
+      "text": "At hun var Aand og Skjønhed kvit.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 0,
+      "text": "Men Alle af bretagnisk Blod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 0,
+      "text": "Som Een da raabte: \"Tvertimod!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 0,
+      "text": "\"Thi hendes Skjønhed og Forstand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 0,
+      "text": "\"Er blevet Ordsprog i vort Land.\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 0,
+      "text": "\"Ha, ha!\" - saa lød de Andres Svar -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 136,
+      "stanza_id": 0,
+      "text": "\"Nu er os Tingen ganske klar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 137,
+      "stanza_id": 0,
+      "text": "\"Hvi Hr. Olivier sin Skat",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 138,
+      "stanza_id": 0,
+      "text": "\"Har under Laas og Lukke sat;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 139,
+      "stanza_id": 0,
+      "text": "\"Thi hun en Anden mere værd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 140,
+      "stanza_id": 0,
+      "text": "\"Sin Gunst jo kunde finde her.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 141,
+      "stanza_id": 0,
+      "text": "Da Hr. Olivier blev vred",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 142,
+      "stanza_id": 0,
+      "text": "Og vidned for det hele Lag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 143,
+      "stanza_id": 0,
+      "text": "At han var sikker paa sin Sag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 144,
+      "stanza_id": 0,
+      "text": "Og paa sin Hustrus Kjærlighed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 145,
+      "stanza_id": 0,
+      "text": "\"Vor Herre stoled ogsaa vist",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 146,
+      "stanza_id": 0,
+      "text": "\"Paa Eva, vor Fru Oldemor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 147,
+      "stanza_id": 0,
+      "text": "\"Men skuffedes ved Slangens List.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 148,
+      "stanza_id": 0,
+      "text": "\"I maa da ei fortryde paa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 149,
+      "stanza_id": 0,
+      "text": "\"At En og Anden af os tror,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 150,
+      "stanza_id": 0,
+      "text": "\"Det Eder ligedan kan gaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 151,
+      "stanza_id": 0,
+      "text": "\"Se, Hr. Aiguillon staar der",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 152,
+      "stanza_id": 0,
+      "text": "\"En halv Odysseus, halv Achil",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 153,
+      "stanza_id": 0,
+      "text": "\"I Cyprias Belejringshær,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 154,
+      "stanza_id": 0,
+      "text": "\"Og lige skabt og oplagt til",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 155,
+      "stanza_id": 0,
+      "text": "\"At spille Slange mod Enhver.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 156,
+      "stanza_id": 0,
+      "text": "\"Send ham tilbage til Jert Slot!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 157,
+      "stanza_id": 0,
+      "text": "\"Og hvis han taber sit Parti,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 158,
+      "stanza_id": 0,
+      "text": "\"Men det gaar Eder Frue godt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 159,
+      "stanza_id": 0,
+      "text": "\"Skal ei alene alle vi,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 160,
+      "stanza_id": 0,
+      "text": "\"Men hele Frankrig Vidne bære",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 161,
+      "stanza_id": 0,
+      "text": "\"Om hendes Troskab, Dyd og Ære.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 162,
+      "stanza_id": 0,
+      "text": "Da Hr. Kerjean sin Læbe bed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 163,
+      "stanza_id": 0,
+      "text": "Og havde heller sagt Besked",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 164,
+      "stanza_id": 0,
+      "text": "Med Sværdets blanke, hvasse Tunge;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 165,
+      "stanza_id": 0,
+      "text": "Men hvis han slog paa Prøven Vrag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 166,
+      "stanza_id": 0,
+      "text": "Hun havde forud tabt sin Sag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 167,
+      "stanza_id": 0,
+      "text": "Da vilde Løgn og Klaffer sjunge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 168,
+      "stanza_id": 0,
+      "text": "Thi gav han nølende sit Ord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 169,
+      "stanza_id": 0,
+      "text": "Og Fristeren til Slottet fo'r.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 170,
+      "stanza_id": 0,
+      "text": "Hr. Aiguilion er paa Kerjean",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 171,
+      "stanza_id": 0,
+      "text": "Har Fruen set, med hende talt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 172,
+      "stanza_id": 0,
+      "text": "Og sander, Rygtet har ei malt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 173,
+      "stanza_id": 0,
+      "text": "Med falske Farver denne Gang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 174,
+      "stanza_id": 0,
+      "text": "Des mere flammer kun hans Blod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 175,
+      "stanza_id": 0,
+      "text": "Des mere ægges kun hans Mod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 176,
+      "stanza_id": 0,
+      "text": "Han spilder ei med Suk sin Tid,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 177,
+      "stanza_id": 0,
+      "text": "Men ødsler med sin Skjemt, sin Vid,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 178,
+      "stanza_id": 0,
+      "text": "Sin Finhed og sin Smigrekunst;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 179,
+      "stanza_id": 0,
+      "text": "Dog, længe er det Alt omsonst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 180,
+      "stanza_id": 0,
+      "text": "I Brevet, som han overgav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 181,
+      "stanza_id": 0,
+      "text": "Har Hr. Kerjean sin \"Ven\" ham kaldt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 182,
+      "stanza_id": 0,
+      "text": "Det Navn hun husker fremfor Alt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 183,
+      "stanza_id": 0,
+      "text": "Og trolig lyder hun dets Krav.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 184,
+      "stanza_id": 0,
+      "text": "Hun jager med sin ædle Gjæst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 185,
+      "stanza_id": 0,
+      "text": "Igjennem Skovene tilhest;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 186,
+      "stanza_id": 0,
+      "text": "Hun morer ham med Spil og Sang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 187,
+      "stanza_id": 0,
+      "text": "Hun sidder Vinteraftnen lang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 188,
+      "stanza_id": 0,
+      "text": "Og lytter til, mens han fortæller",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 189,
+      "stanza_id": 0,
+      "text": "Italiens ypperste Noveller.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 190,
+      "stanza_id": 0,
+      "text": "Han nærmes hende mer og mer;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 191,
+      "stanza_id": 0,
+      "text": "Hans Øje alt om Elskov be'r.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 192,
+      "stanza_id": 0,
+      "text": "I Spøg forlanger han og faa'r",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 193,
+      "stanza_id": 0,
+      "text": "En Sløife, sat paa hendes Haar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 194,
+      "stanza_id": 0,
+      "text": "Saa raner han med Finger let",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 195,
+      "stanza_id": 0,
+      "text": "En Naal, hun bar i sit Korset.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 196,
+      "stanza_id": 0,
+      "text": "Tilsidst af hendes Haand han sled",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 197,
+      "stanza_id": 0,
+      "text": "En Ring - da blev hun næsten vred,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 198,
+      "stanza_id": 0,
+      "text": "Men burde jo tilgive den,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 199,
+      "stanza_id": 0,
+      "text": "Som hendes Husbond kaldte Ven.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 200,
+      "stanza_id": 0,
+      "text": "Nu, mener han, er Maalet nært,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 201,
+      "stanza_id": 0,
+      "text": "Og hvad tilbage staar ej svært.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 202,
+      "stanza_id": 0,
+      "text": "Nu vover han en dristig Bøn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 203,
+      "stanza_id": 0,
+      "text": "Om hun vil møde ham i Løn;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 204,
+      "stanza_id": 0,
+      "text": "Men Svaret er et fyndigt Nej.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 205,
+      "stanza_id": 0,
+      "text": "Han bøjer altsaa af sin Vej;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 206,
+      "stanza_id": 0,
+      "text": "Men da en føje Tid er gaa't,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 207,
+      "stanza_id": 0,
+      "text": "Saa tror han atter Maalet naa't,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 208,
+      "stanza_id": 0,
+      "text": "Og vover samme Bøn igjen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 209,
+      "stanza_id": 0,
+      "text": "Hun svarer rolig! - \"Ja, min Ven!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 210,
+      "stanza_id": 0,
+      "text": "\"Men siig mig, hvor vi mødes skal?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 211,
+      "stanza_id": 0,
+      "text": "\"Det gaaer ej an i denne Sal,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 212,
+      "stanza_id": 0,
+      "text": "\"Hvor Tyendet gaar ud og ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 213,
+      "stanza_id": 0,
+      "text": "\"Og i mit Sovekammer vil",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 214,
+      "stanza_id": 0,
+      "text": "\"Min Pige lægge Øret til.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 215,
+      "stanza_id": 0,
+      "text": "\"I Haven var der bedre Ro,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 216,
+      "stanza_id": 0,
+      "text": "\"Men kold og mørk er Natten jo.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 217,
+      "stanza_id": 0,
+      "text": "\"Dog, Noget rinder mig i Sind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 218,
+      "stanza_id": 0,
+      "text": "\"I Pulterkamret tæt herved,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 219,
+      "stanza_id": 0,
+      "text": "\"Der har ikkun min Væv sit Sted",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 220,
+      "stanza_id": 0,
+      "text": "\"Og mine Fattigkoners Spind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 221,
+      "stanza_id": 0,
+      "text": "\"Der mærkes Stevnemødet ej.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 222,
+      "stanza_id": 0,
+      "text": "\"Hvis I vil sidde indelukt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 223,
+      "stanza_id": 0,
+      "text": "\"I det, til hvert et Lys er slukt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 224,
+      "stanza_id": 0,
+      "text": "\"Paa Slottet - vel, saa kommer jeg.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 225,
+      "stanza_id": 0,
+      "text": "Nu er han sikker paa sin Sejr.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 226,
+      "stanza_id": 0,
+      "text": "Midt i sin skjønne Fjendes Lejr",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 227,
+      "stanza_id": 0,
+      "text": "Han alt med sine Ønsker stod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 228,
+      "stanza_id": 0,
+      "text": "Og Sejrens Løn sig smage lod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 229,
+      "stanza_id": 0,
+      "text": "Hun havde jo Geværet strakt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 230,
+      "stanza_id": 0,
+      "text": "Og anerkjendt hans Overmagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 231,
+      "stanza_id": 0,
+      "text": "Og udleverede sig selv",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 232,
+      "stanza_id": 0,
+      "text": "Endnu i denne samme Kveld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 233,
+      "stanza_id": 0,
+      "text": "Og mens de Ventetimer krøb",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 234,
+      "stanza_id": 0,
+      "text": "Som Snegle, snelt hans Tanker løb.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 235,
+      "stanza_id": 0,
+      "text": "Hvi skulde han ej Tiden bruge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 236,
+      "stanza_id": 0,
+      "text": "Og melde sit afgjorte Held",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 237,
+      "stanza_id": 0,
+      "text": "Til dem, af hvem han var udsendt?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 238,
+      "stanza_id": 0,
+      "text": "Der gik jo Tid, gik mindst en Uge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 239,
+      "stanza_id": 0,
+      "text": "Før hans Bedrift blev dem bekjendt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 240,
+      "stanza_id": 0,
+      "text": "Som tænkt, saa gjort. Han skrev et Brev,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 241,
+      "stanza_id": 0,
+      "text": "Hvori hans Sejr berettet blev",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 242,
+      "stanza_id": 0,
+      "text": "I zirlig Stil med klassisk Sving,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 243,
+      "stanza_id": 0,
+      "text": "Bilagt med Sløjfe, Naal og Bing,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 244,
+      "stanza_id": 0,
+      "text": "Og sendte flux med dette Bud",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 245,
+      "stanza_id": 0,
+      "text": "Sin Tjener til Versailles ud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 246,
+      "stanza_id": 0,
+      "text": "Saa gjorde han sit Toilet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 247,
+      "stanza_id": 0,
+      "text": "Sit Haar han lod i Krøller slaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 248,
+      "stanza_id": 0,
+      "text": "Trak hvide Silkestrømper paa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 249,
+      "stanza_id": 0,
+      "text": "Og Sko med Spænder af Demant;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 250,
+      "stanza_id": 0,
+      "text": "Trak i sin røde Fløjels Dragt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 251,
+      "stanza_id": 0,
+      "text": "Med Guldgaloner rigt belagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 252,
+      "stanza_id": 0,
+      "text": "Besat med brabantsk Kniplingskant.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 253,
+      "stanza_id": 0,
+      "text": "Han Galakaarden om sig bandt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 254,
+      "stanza_id": 0,
+      "text": "Og satte paa sin Fjerbaret,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 255,
+      "stanza_id": 0,
+      "text": "Og iled saa med lette Fjed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 256,
+      "stanza_id": 0,
+      "text": "Til Selskabssalen atter ned,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 257,
+      "stanza_id": 0,
+      "text": "Hvor Fruen sad med Smil paa Kind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 258,
+      "stanza_id": 0,
+      "text": "Og hurtig lukkede ham ind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 259,
+      "stanza_id": 0,
+      "text": "I Kammeret til Væv og Spind. -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 260,
+      "stanza_id": 0,
+      "text": "Der stod han da i al sin Pragt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 261,
+      "stanza_id": 0,
+      "text": "Og glatted stadig paa sin Dragt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 262,
+      "stanza_id": 0,
+      "text": "Imens han lytted som en Hund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 263,
+      "stanza_id": 0,
+      "text": "Den lange, lange Aftenstund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 264,
+      "stanza_id": 0,
+      "text": "Til Slottets store Port var lukt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 265,
+      "stanza_id": 0,
+      "text": "Og hvert et Lys forinden slukt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 266,
+      "stanza_id": 0,
+      "text": "Saa hørte han en Dør, der gik.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 267,
+      "stanza_id": 0,
+      "text": "Endnu han kastede et Blik",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 268,
+      "stanza_id": 0,
+      "text": "I Mørket nedad sin Person",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 269,
+      "stanza_id": 0,
+      "text": "Og satte sig i Position.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 270,
+      "stanza_id": 0,
+      "text": "Han lytted atter, - sagte Fjed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 271,
+      "stanza_id": 0,
+      "text": "Ned gjennem Korridoren gled.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 272,
+      "stanza_id": 0,
+      "text": "Der var ei længer Tvivl derom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 273,
+      "stanza_id": 0,
+      "text": "Hans Lykkes Time slog. - Hun kom.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 274,
+      "stanza_id": 0,
+      "text": "Hans Tjener drog imidlertid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 275,
+      "stanza_id": 0,
+      "text": "Ad Vejen mod Versailles frem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 276,
+      "stanza_id": 0,
+      "text": "Og naa'de langt om længe did,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 277,
+      "stanza_id": 0,
+      "text": "Og bragte Brev og Bud til dem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 278,
+      "stanza_id": 0,
+      "text": "Der bort hans Herre havde sendt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 279,
+      "stanza_id": 0,
+      "text": "Dets Indhold næste Øieblik",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 280,
+      "stanza_id": 0,
+      "text": "Var hele Hoffets Kreds bekjendt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 281,
+      "stanza_id": 0,
+      "text": "Og Hr. Kerjean sin Skændsel fik",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 282,
+      "stanza_id": 0,
+      "text": "Berettet med et ynksomt Smil,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 283,
+      "stanza_id": 0,
+      "text": "Der saared mer end hvasscst Pil.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 284,
+      "stanza_id": 0,
+      "text": "Han stod, som ramt af Himlens Lyn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 285,
+      "stanza_id": 0,
+      "text": "Bort fra hans Kind al Farve veg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 286,
+      "stanza_id": 0,
+      "text": "Mens Blodet op fra Brystet steg",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 287,
+      "stanza_id": 0,
+      "text": "Og stemmede hans Aandedræt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 288,
+      "stanza_id": 0,
+      "text": "En Taage trak sig for hans Syn;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 289,
+      "stanza_id": 0,
+      "text": "I Haand han knuged sin Baret;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 290,
+      "stanza_id": 0,
+      "text": "Til Gulvet gro'de fast hans Fod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 291,
+      "stanza_id": 0,
+      "text": "Som den hans Tanke stille stod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 292,
+      "stanza_id": 0,
+      "text": "Og Krampe rystede hans Krop.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 293,
+      "stanza_id": 0,
+      "text": "Saa stod han - men kun eet Minut.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 294,
+      "stanza_id": 0,
+      "text": "Da var hans Smertes Trolddom brudt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 295,
+      "stanza_id": 0,
+      "text": "Da hented dybt han Aanden op,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 296,
+      "stanza_id": 0,
+      "text": "Og Lyn der fra hans Øje skød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 297,
+      "stanza_id": 0,
+      "text": "Og frygtelig hans Stemme lød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 298,
+      "stanza_id": 0,
+      "text": "Da han begjærede sin Hest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 299,
+      "stanza_id": 0,
+      "text": "Og sprængte bort i Slud og Blæst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 300,
+      "stanza_id": 0,
+      "text": "Han red, han vidste selv ej hvor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 301,
+      "stanza_id": 0,
+      "text": "Kun frem og altid frem mod Vest.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 302,
+      "stanza_id": 0,
+      "text": "Han spurgte ej om Vej, om Spor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 303,
+      "stanza_id": 0,
+      "text": "Men lod sin gode Hest derom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 304,
+      "stanza_id": 0,
+      "text": "Blot frem og altid frem han kom.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 305,
+      "stanza_id": 0,
+      "text": "Han red ved Dag, han red ved Nat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 306,
+      "stanza_id": 0,
+      "text": "Men saa' ej Morgenrøden gry,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 307,
+      "stanza_id": 0,
+      "text": "Ej Aftensolen synke mat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 308,
+      "stanza_id": 0,
+      "text": "Ej Nattens Stjerne, Dagens Sky.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 309,
+      "stanza_id": 0,
+      "text": "Han mærked ikke Stormens Tag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 310,
+      "stanza_id": 0,
+      "text": "Ej Regnens Fald, ej Haglens Slag;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 311,
+      "stanza_id": 0,
+      "text": "Men frem og altid frem han red,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 312,
+      "stanza_id": 0,
+      "text": "Og standsede kun da, naar træt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 313,
+      "stanza_id": 0,
+      "text": "Hans raske Ganger sank i Knæ.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 314,
+      "stanza_id": 0,
+      "text": "Saa søgte han en Hyttes Læ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 315,
+      "stanza_id": 0,
+      "text": "Og hen til den en Skofte smed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 316,
+      "stanza_id": 0,
+      "text": "Og saa afsted, naar den var mæt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 317,
+      "stanza_id": 0,
+      "text": "Saadan i Dage sex han red;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 318,
+      "stanza_id": 0,
+      "text": "Mod Kveld den syvende nu led.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 319,
+      "stanza_id": 0,
+      "text": "Da følte paa sin hede Kind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 320,
+      "stanza_id": 0,
+      "text": "Han Klap af Havets friske Vind;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 321,
+      "stanza_id": 0,
+      "text": "Da hørte han den dybe Klang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 322,
+      "stanza_id": 0,
+      "text": "Af Bølgerne, der brød sig mod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 323,
+      "stanza_id": 0,
+      "text": "Bretagnes stejle Klippefod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 324,
+      "stanza_id": 0,
+      "text": "Og saa' sig om for første Gang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 325,
+      "stanza_id": 0,
+      "text": "Og saa', at han var nær sit Hjem;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 326,
+      "stanza_id": 0,
+      "text": "Thi over Skoven titted frem",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 327,
+      "stanza_id": 0,
+      "text": "De høje Gavle af Kerjean.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 328,
+      "stanza_id": 0,
+      "text": "Da holdt han stille og steg af,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 329,
+      "stanza_id": 0,
+      "text": "Og fri sin sprængte Ganger gav,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 330,
+      "stanza_id": 0,
+      "text": "Som stønnende sig fremad slæbte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 331,
+      "stanza_id": 0,
+      "text": "Da fra hans Bryst et Suk der brød:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 332,
+      "stanza_id": 0,
+      "text": "\"Tilgiv mig, Gud! Min Hest jeg dræbte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 333,
+      "stanza_id": 0,
+      "text": "\"Som var mig tro indtil sin Død,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 334,
+      "stanza_id": 0,
+      "text": "\"Alt for en Viv, som er det ej.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 335,
+      "stanza_id": 0,
+      "text": "Saa tog han gjennem Skoven Vej",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 336,
+      "stanza_id": 0,
+      "text": "Derop, og naa'de Porten snart,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 337,
+      "stanza_id": 0,
+      "text": "Og banked, saa det havde Art.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 338,
+      "stanza_id": 0,
+      "text": "Igjennem Slottets hvalte Gang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 339,
+      "stanza_id": 0,
+      "text": "Porthamrens dumpe Stemme klang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 340,
+      "stanza_id": 0,
+      "text": "Françéza i sit Kammer sad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 341,
+      "stanza_id": 0,
+      "text": "Og hørte den og raabte glad:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 342,
+      "stanza_id": 0,
+      "text": "\"Min Gud, nu banker Hr. Kerjean!\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 343,
+      "stanza_id": 0,
+      "text": "Flux nedad Trapperne hun fløj,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 344,
+      "stanza_id": 0,
+      "text": "At kaste sig udi hans Favn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 345,
+      "stanza_id": 0,
+      "text": "Da hørte hun med Stemme høj",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 346,
+      "stanza_id": 0,
+      "text": "Og barsk ham nævne hendes Navn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 347,
+      "stanza_id": 0,
+      "text": "End mer bevinged hun sit Skridt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 348,
+      "stanza_id": 0,
+      "text": "Og aabned sine Arme vidt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 349,
+      "stanza_id": 0,
+      "text": "Men mørk og kold og stiv han staar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 350,
+      "stanza_id": 0,
+      "text": "Og griber hendes Hænder haardt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 351,
+      "stanza_id": 0,
+      "text": "Og drager hende ilsomt bort",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 352,
+      "stanza_id": 0,
+      "text": "Ind i det ensomme Kapel,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 353,
+      "stanza_id": 0,
+      "text": "Som var ej langt derfra, og selv",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 354,
+      "stanza_id": 0,
+      "text": "De tunge Dørre i han slaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 355,
+      "stanza_id": 0,
+      "text": "Hans bittre Harm, han Smertes Glød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 356,
+      "stanza_id": 0,
+      "text": "Som længe holdtes stænget inde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 357,
+      "stanza_id": 0,
+      "text": "Nu frem i høje Flammer brød;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 358,
+      "stanza_id": 0,
+      "text": "Og mens han knuged hendes Haand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 359,
+      "stanza_id": 0,
+      "text": "Udraabte han: \"Du slette Kvinde!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 360,
+      "stanza_id": 0,
+      "text": "\"Siig mig, hvor er Aiguillon?\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 361,
+      "stanza_id": 0,
+      "text": "\"For Himlens Skyld!\" - hun stammed bleg -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 362,
+      "stanza_id": 0,
+      "text": "\"Vær ikke vred, jeg har gjort Alt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 363,
+      "stanza_id": 0,
+      "text": "\"At hindre det, som forefaldt.\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 364,
+      "stanza_id": 0,
+      "text": "\"Men ikke kunnet det?\" - han skreg. -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 365,
+      "stanza_id": 0,
+      "text": "\"Nej men det er hans egen Fejl.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 366,
+      "stanza_id": 0,
+      "text": "\"Han blev forelsket strax og løb",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 367,
+      "stanza_id": 0,
+      "text": "\"Fremad for fler og flere Sejl.\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 368,
+      "stanza_id": 0,
+      "text": "\"Og Du gav mer og mere Kjøb?\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 369,
+      "stanza_id": 0,
+      "text": "\"Det var dog ikke store Ting.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 370,
+      "stanza_id": 0,
+      "text": "\"Et Baand, en Naal af Guld fik han.\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 371,
+      "stanza_id": 0,
+      "text": "\"Og saa en Ring?\" - fnøs hendes Mand. -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 372,
+      "stanza_id": 0,
+      "text": "\"Ak ja, jeg tror, han tog en Ring.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 373,
+      "stanza_id": 0,
+      "text": "\"Men dermed han ej nøjes vilde;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 374,
+      "stanza_id": 0,
+      "text": "\"Saa maatte jeg ham lukke ind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 375,
+      "stanza_id": 0,
+      "text": "\"I Pulterkamret til mit Spind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 376,
+      "stanza_id": 0,
+      "text": "\"Mod Løfte om at komme silde\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 377,
+      "stanza_id": 0,
+      "text": "\"Du kom?\" - \"Til Dørens Laage hen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 378,
+      "stanza_id": 0,
+      "text": "\"Jeg gik og sagde til din Ven\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 379,
+      "stanza_id": 0,
+      "text": "\"Hvad talte Du med ham? Siig frem!\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 380,
+      "stanza_id": 0,
+      "text": "\"At han kom ikke ud igjen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 381,
+      "stanza_id": 0,
+      "text": "\"Før Hr. Kerjean var kommen hjem.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 382,
+      "stanza_id": 0,
+      "text": "Da gjorde Hr. Kerjean et Spring:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 383,
+      "stanza_id": 0,
+      "text": "\"Har Aiguilion Du lukket inde?\" -",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 384,
+      "stanza_id": 0,
+      "text": "\"Ja, indtil han er færdig med",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 385,
+      "stanza_id": 0,
+      "text": "\"At væve hvert et Blaargarnsfed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 386,
+      "stanza_id": 0,
+      "text": "\"Som han i Kammeret kan finde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 387,
+      "stanza_id": 0,
+      "text": "\"Først gjorde han sig vred og vild,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 388,
+      "stanza_id": 0,
+      "text": "\"Men Sult har gjort ham blid og spag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 389,
+      "stanza_id": 0,
+      "text": "\"Og hurtig lærte han sig til",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 390,
+      "stanza_id": 0,
+      "text": "\"At væve Tepper godt og smukt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 391,
+      "stanza_id": 0,
+      "text": "\"Som Ingen før har kjendt og brugt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 392,
+      "stanza_id": 0,
+      "text": "\"Hør blot, hvor flittig Væven gaar!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 393,
+      "stanza_id": 0,
+      "text": "Forbauset lytter Hr. Kerjean,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 394,
+      "stanza_id": 0,
+      "text": "Som op til Døren lænet staar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 395,
+      "stanza_id": 0,
+      "text": "Og ganske rigtig: Vævens Slag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 396,
+      "stanza_id": 0,
+      "text": "Gjenlyde i den stille Gang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 397,
+      "stanza_id": 0,
+      "text": "Endnu han tvivler dog, endnu",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 398,
+      "stanza_id": 0,
+      "text": "Er han ej rigtig glad i Hu.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 399,
+      "stanza_id": 0,
+      "text": "Da føres han ved hendes Arm",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 400,
+      "stanza_id": 0,
+      "text": "Til Pulterkamret hen og ser",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 401,
+      "stanza_id": 0,
+      "text": "Den fine, strunke Kavaler,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 402,
+      "stanza_id": 0,
+      "text": "Sejrvinderen fra Hoffets Fester,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 403,
+      "stanza_id": 0,
+      "text": "I Fløjl og Guld og Knipling klædt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 404,
+      "stanza_id": 0,
+      "text": "Med Kaarde og med Fjerbaret,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 405,
+      "stanza_id": 0,
+      "text": "Beskæftiget som Vævermester.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 406,
+      "stanza_id": 0,
+      "text": "Da brast hans sidste Tvivl og Harm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 407,
+      "stanza_id": 0,
+      "text": "Han drog sin Hustru til sin Barm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 408,
+      "stanza_id": 0,
+      "text": "Og fyldte med sin Latters Klang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 409,
+      "stanza_id": 0,
+      "text": "Det lykkelige Slot, Kerjean.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 410,
+      "stanza_id": 0,
+      "text": "Den fangne Fugl blev sluppen ud",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 411,
+      "stanza_id": 0,
+      "text": "Mod Løfte om, at Brev og Bud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 412,
+      "stanza_id": 0,
+      "text": "Som altfor tidlig sendtes bort,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 413,
+      "stanza_id": 0,
+      "text": "Og ramte uret Mand saa haardt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 414,
+      "stanza_id": 0,
+      "text": "Skal vorde udi Eet og Alt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 415,
+      "stanza_id": 0,
+      "text": "Højtidelig tilbagekaldt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 416,
+      "stanza_id": 0,
+      "text": "At Frankrigs Ridderskab skal kjende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 417,
+      "stanza_id": 0,
+      "text": "Hvor skammelig han kom tilkort,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 418,
+      "stanza_id": 0,
+      "text": "Hvor dybt han har fornærmet hende;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 419,
+      "stanza_id": 0,
+      "text": "At strax tilbage han sit Rov",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 420,
+      "stanza_id": 0,
+      "text": "Af Sløjfe, Naal og Ring skal sende.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 421,
+      "stanza_id": 0,
+      "text": "Men Fru Françéza gi'r ham Lov",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 422,
+      "stanza_id": 0,
+      "text": "At gjemme hine Minder smaa",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 423,
+      "stanza_id": 0,
+      "text": "Om hendes Sejr og hans Forlis;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 424,
+      "stanza_id": 0,
+      "text": "De være skal en Ærespris",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 425,
+      "stanza_id": 0,
+      "text": "For Tepperne, han hitted paa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 426,
+      "stanza_id": 0,
+      "text": "Saa rejste Hr. Aiguillon",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 427,
+      "stanza_id": 0,
+      "text": "Bort til Versailles og Paris.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 428,
+      "stanza_id": 0,
+      "text": "Hans Blaargarnstepper fandt et Hjem",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 429,
+      "stanza_id": 0,
+      "text": "I Hytterne omkring Leon,*)<button id=note2 type=button class=\"btn btn-outline-secondary btn-sm comment\" data-container=body data-toggle=popover data-template=\"<div class='popover' role='tooltip'><div class='arrow'></div><h3 class='popover-header'></h3><div class='popover-body'></div></div>\" data-placement=auto data-html=true data-content=\" <p>*) Et af Bretagnes fire Bispedømmer.</p> \" data-title=\" Fodnote 2\">F2</button>",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 430,
+      "stanza_id": 0,
+      "text": "Hvor hendes Haand uddelte dem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 431,
+      "stanza_id": 0,
+      "text": "Der væves de den Dag idag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 432,
+      "stanza_id": 0,
+      "text": "Der varme de endnu hver Nat",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 433,
+      "stanza_id": 0,
+      "text": "Rødkindet Pusling, Gubbe svag",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 434,
+      "stanza_id": 0,
+      "text": "Og haardfør Mand, af Møje mat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 435,
+      "stanza_id": 0,
+      "text": "Der mindes, hvordan de blev til.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 436,
+      "stanza_id": 0,
+      "text": "Der prises over hendes Grav",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 437,
+      "stanza_id": 0,
+      "text": "Den Dyst, hun, lige skjøn og snild,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 438,
+      "stanza_id": 0,
+      "text": "Gik ud med Sejr og Ære af.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 439,
+      "stanza_id": 0,
+      "text": "Der lever end i Sagn og Sang",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 440,
+      "stanza_id": 0,
+      "text": "Den gode Frue paa Kerjean.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

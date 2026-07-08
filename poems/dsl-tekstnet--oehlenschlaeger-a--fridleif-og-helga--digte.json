@@ -1,0 +1,640 @@
+{
+  "id": null,
+  "title": "Fridleif og Helga",
+  "year_created": 1803,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Adam Oehlenschläger",
+    "country": null,
+    "wiki": "Q168356"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1803,
+    "url": "https://tekstnet.dk/books/oehlenschlaeger-a_digte/015/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Alt Skoven saa prud udi Blomster staaer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "vanked der liden Helga vel svöbt udi Maar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "Vandet rinder over hin liden smaae Steen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "der satte hun sig Helga, den Möe saa reen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 2,
+      "text": "Satte hun sig der Helga, den Möe saa bold.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "Fremtreen han Fridleif, med Sværd og Skiold.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 3,
+      "text": "Det siger jeg Eder skiön Jomfru for sand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 3,
+      "text": "ret aldrig saae jeg hvidere Lillievand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 4,
+      "text": "I er den faureste Blomme som staaer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 4,
+      "text": "udi Eders Faders Abildgaard.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 5,
+      "text": "Hveden kommer I unge Herr Fridleif her",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 5,
+      "text": "saa seent i Qvel under disse Træer?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 6,
+      "text": "Ikke havde jeg Roe, ikke havde jeg Rist,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 6,
+      "text": "her qviddred Smaafuglen paa Bögeqvist.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 7,
+      "text": "I give mig Eders Love og Troe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 7,
+      "text": "liden Helga saa fanger jeg Rist og Roe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 8,
+      "text": "Det var liden Helga, hun sank i hans Arm saa röd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 8,
+      "text": "som Solen sænkes udi Havets Skiöd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 9,
+      "text": "Aarle hun hastede brat afsted;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 9,
+      "text": "han fulgte hende til Borgeled.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 10,
+      "text": "Og hör I nu unge Herr Fridleif fiin!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 10,
+      "text": "tag denne Guldring af Armen min.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 11,
+      "text": "I tage denne Ring udaf Guld hin röd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 11,
+      "text": "I svige mig ikke indtil Eders Död.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 12,
+      "text": "Herr Fridleif var sig saa sær i Sind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 12,
+      "text": "hannem randt salten Taare paa Kind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 13,
+      "text": "Nu lader jeg til Eders kier Fader staae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 13,
+      "text": "paa min Ros, hin snare Abildgraae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 14,
+      "text": "Herr Fridleif rider under grönne Lide;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 14,
+      "text": "hannem lyster til Höieloft at ride.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 15,
+      "text": "Hans Hielm var blinkend, hans Spore var klingend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 15,
+      "text": "hans Ros var springend, selv var han saa svingend.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 16,
+      "text": "Ung Fridleif rider som han kan bedst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 16,
+      "text": "ved Borgestuering han binder sin Hest.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 17,
+      "text": "Op axler han sit Skarlagenskind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 17,
+      "text": "saa triner han fast for Herr Erik ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 18,
+      "text": "Hel sidde I Herr Erik höviske Mand!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 18,
+      "text": "jeg fæster Eders Dotter den Lillievand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 19,
+      "text": "Hure kommer I af Landet fraa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 19,
+      "text": "siden I alt Helga min Dotter saae?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 20,
+      "text": "Vel haver jeg draget saa vide om.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 20,
+      "text": "De Hellede vog jeg hvor jeg kom.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 21,
+      "text": "Han Erland var mig en Hals saa haard,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 21,
+      "text": "dog gieste jeg ham med Ulivssaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 22,
+      "text": "Her Erik skifte sin Mine brat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 22,
+      "text": "han ganger ud i den svarte Nat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 23,
+      "text": "Kryste saa fælen Ædder grön",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 23,
+      "text": "udi det Miödhorn, alt udi Lön.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 24,
+      "text": "I sætte Eder ned paa min Hynde blöd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 24,
+      "text": "I smage dertil min gamle Miöd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 25,
+      "text": "Ung Fridleif lagde sin Hielm og drak.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 25,
+      "text": "Den kolder Sved af hans Pande sprak.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 26,
+      "text": "Det sværger jeg ved den överste Gud!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 26,
+      "text": "ret aldrig stak jeg bedskere Bæger ud!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 27,
+      "text": "Aldrig smagte jeg bittrere Miöd",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 27,
+      "text": "og aldrig vented jeg mindre min Död.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 28,
+      "text": "Det da meldte Herr Erik med Læber blaa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 28,
+      "text": "Saamænd, Herr Fridleif! nu döer I paa Straa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 29,
+      "text": "Ædderen svam udi hin brune Miöd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 29,
+      "text": "Nu haver jeg hevnet min Frendes Död!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 30,
+      "text": "Hæl bliver Eder en bedre Brud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 30,
+      "text": "sortblaae, dertil blegelig seer hun ud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 31,
+      "text": "Herr Erik I haver en stor Forstand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 31,
+      "text": "I bliver Helved en kostelig Mand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 32,
+      "text": "I bringe liden Helga sin Ring saa röd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 32,
+      "text": "I skiule hende ikke ung Fridleifs Död",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 33,
+      "text": "Men för skal I vride Vand af Staal,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 33,
+      "text": "förre I skal qviste jert Niddingsmaal.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 34,
+      "text": "Saa svang han sit Glavind höit omkring,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 34,
+      "text": "Herr Fridleif, den unge Ædeling.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 35,
+      "text": "Han mærkede sig med sit skarpe Sværd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 35,
+      "text": "saa red han til Odin i Heltefærd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 36,
+      "text": "Herr Erik heder ad Dotteren sin:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 36,
+      "text": "Du komme ind til Brudgommen din.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 37,
+      "text": "Det da blegnede brat den vene Maard:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 37,
+      "text": "Min kiere Herre Fader hvi var I saa haard?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 38,
+      "text": "Liden Helgas Hierte slog saa fast,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 38,
+      "text": "jeg siger for sanden hendes Öie brast.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 39,
+      "text": "Ved Midienat stander Herr Erik i Blod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 39,
+      "text": "med tvende Liig ved sin kolder Fod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 40,
+      "text": "Han stod saa længe, han stod saa stiv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 40,
+      "text": "tilsidst saa stod han foruden Liv.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 41,
+      "text": "De lagde liden Helga og Fridleif paa Baal.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 41,
+      "text": "De kunde ei flytte Herr Erik fra Maal.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 42,
+      "text": "I trende Dage hans Legem stod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 42,
+      "text": "og stirred ned i det levret Blod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 43,
+      "text": "Den tredie Nat – da skede et Raab!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 43,
+      "text": "Herr Erik faldt ned i en Askehob.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": null,
+  "title": "Forord",
+  "year_created": 1915,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Johan Skjoldborg",
+    "country": null,
+    "wiki": "Q1490327"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Dynæs Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1915,
+    "url": "https://tekstnet.dk/books/skjoldborg-j_dynaes-digte/002/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Idet jeg udsender disse simpleHjem-Sange, hvoraf nogle er blevenen Del benyttet af Udgivere afAntologier og Sangbøger, beder jegsaadanne Udgivere for Fremtidenholde sig til den Form, Digtene hari denne Udgave.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

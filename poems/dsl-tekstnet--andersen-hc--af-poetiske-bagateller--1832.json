@@ -1,0 +1,85 @@
+{
+  "id": null,
+  "title": "Af Poetiske Bagateller",
+  "year_created": 1832,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1832,
+    "url": "https://tekstnet.dk/books/andersen-hc_af-poetiske-bagateller/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Moder, nær de Fiirs I er,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: DATTEREN"
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Og I vil – jeg gyste!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Nys fra Præd’kestolen her,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Præsten for Jer lyste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "Barn, Alt falder hen i Gruus,",
+      "part": false,
+      "marginal_notes": [
+        "Speaker: MODEREN"
+      ]
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Tiderne omskiftes!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "Hvem skal tække mig mit Huus?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "Jeg er nødt at giftes.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

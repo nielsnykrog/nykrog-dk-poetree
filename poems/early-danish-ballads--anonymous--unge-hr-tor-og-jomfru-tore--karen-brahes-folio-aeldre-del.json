@@ -1,0 +1,2354 @@
+{
+  "id": null,
+  "title": "Unge Hr. Tor og Jomfru Tore",
+  "year_created": 1583,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Karen Brahes folio, ældre del",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1583,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/KBRA12.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Hind vnnge her Tuor och Sølffuermord",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "dy legtte guld-thaffuelle y deris burre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "Och iumfrw Tuore dy legtte guld-thaffuell y deris burre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Y Y-desz lenger der dy legtte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "desz beddere guod-willig dy samell feeck.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "Der dy legtte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "desz beddere guod-wiillig dy samen fieck.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "\"Staltt Sølffuermuor op vnder øø!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "huor lenge vel y meg byde møø?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "Op vnder ø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 3,
+      "text": "huor lenge well y meg bide møø?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 3,
+      "text": "\"Waar thett for-vden min frenders wrede:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 3,
+      "text": "ieg wilde eder bide y wienthter IX.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 4,
+      "text": "Min frenders wrede.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 4,
+      "text": "ieg wilde eder bide y wenthter IX.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 4,
+      "text": "\"Ieg well eder icke bede saa lenge:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 4,
+      "text": "bidder meg i otte wienthter!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 5,
+      "text": "Saa lenge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 5,
+      "text": "bider meg y otte wienthter.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 5,
+      "text": "Dy otte aar forgangen waar:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 5,
+      "text": "iumfruens frender gick samell y raad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 6,
+      "text": "Forgangen vaar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 6,
+      "text": "iumfruenns brøder gaar saamell y raad:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 6,
+      "text": "\"Wy well gifftte wor søster y aar:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 6,
+      "text": "och hun skall icke haffue vngenn Thuor.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 7,
+      "text": "I aar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 7,
+      "text": "och hun skaall icke haffue vngen Thuor.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 7,
+      "text": "Hindir beddis bielle aff westen:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 7,
+      "text": "dy rigist och dy beste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 8,
+      "text": "Aff westen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 8,
+      "text": "dy rigist och dy beste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 8,
+      "text": "Hindes biedis speell aff østen:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 8,
+      "text": "di rigist och dy thrøste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 9,
+      "text": "Aff østen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 9,
+      "text": "dy rigist och dy thrøste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 9,
+      "text": "Hinder beddis denn rige greffue:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 9,
+      "text": "och ham well wy hind giffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 10,
+      "text": "Greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 10,
+      "text": "och ham well wy hind giffue.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 10,
+      "text": "Hindis faader war en mand saa braad:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 10,
+      "text": "hand gaff hinder bortt denn same dag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 11,
+      "text": "Mand saa braad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 11,
+      "text": "hand gaff hinder bortt denn same dag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 11,
+      "text": "Thett wor om enn hellig sønddag:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 11,
+      "text": "til kiercke kled seg den speedell klaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 12,
+      "text": "Hellig søndag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 12,
+      "text": "til kiercke kled seg den spedell klaar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 12,
+      "text": "Iumfrwenn staar paa hyffue-loffts-broff:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 12,
+      "text": "thær sier hun segell y sundenn raae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 13,
+      "text": "Hyffue-loffts-broff,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 13,
+      "text": "ther sier hun segell y sundden raae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 13,
+      "text": "Hun suo seg offuer haare:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 13,
+      "text": "saa mange skibbe y fiordde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 14,
+      "text": "Offuer haare",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 14,
+      "text": "saa mange skibbe y fiordde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 14,
+      "text": "Hun suo seg vnder lidde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 14,
+      "text": "saa mange giult snecke skridde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 15,
+      "text": "Vnder lidde",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 15,
+      "text": "saa mange giult snecke skryde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 15,
+      "text": "\"Nu komer well alle hiem till synn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 15,
+      "text": "men aldrig thør ieg wienttthte mynn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 16,
+      "text": "Hiem till synn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 16,
+      "text": "men alldrig thørr ieg wenthte myn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 16,
+      "text": "Hør du, Salmand, broder myn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 16,
+      "text": "du rid till straand for søster dynn!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 17,
+      "text": "Broder myn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 17,
+      "text": "du riidd tiell strand for søster dynn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 17,
+      "text": "Sallmand rider sinn ganger paa saand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 17,
+      "text": "her Tuor styrrer synn skib till land.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 18,
+      "text": "Paa saand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 18,
+      "text": "her Tor styrer sinn sneke tiell lannd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 18,
+      "text": "\"Hør du, suend y kiortell rød:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 18,
+      "text": "huor lidder dy møer paa denne ø?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 19,
+      "text": "Kiortell rød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 19,
+      "text": "huor lider dy mør paa denne ø?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 19,
+      "text": "\"Denn møø y otte wenter haffuer byd:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 19,
+      "text": "y dag da dreker hun brølup synn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 20,
+      "text": "Venter haffuer byd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 20,
+      "text": "y dag daa drecker hun brølup synn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 20,
+      "text": "Hun wrider hindis heender y-saa saare:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 20,
+      "text": "hun fellder aff hiarthett saa muodig tharre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 21,
+      "text": "I-saa saare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 21,
+      "text": "hun felder aff hiarthett saa modig thaare.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 21,
+      "text": "Alltt stuod den suend, hand liuder der-paa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 21,
+      "text": "hanom thøgtte, hans syend willd hanom forgaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 22,
+      "text": "Liuder der-paa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 22,
+      "text": "hand thøgtte, hans send willde hanom forgaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 22,
+      "text": "Vnge Thuor gaar till kiste:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 22,
+      "text": "hand thager thaffuell och harpe med leste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 23,
+      "text": "Till kiste,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 23,
+      "text": "hand thager thaffuell och harpe med leste.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 23,
+      "text": "Hand thog guld-harpe y hende:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 23,
+      "text": "hand gaar for brude-saallen at staande.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 24,
+      "text": "I hende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 24,
+      "text": "hand gaar for brude-sallenn att staande.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 24,
+      "text": "Første legtte hand enn leeg, saa leegtte hand thuo:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 24,
+      "text": "alt sad bruden och liude der-paa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 25,
+      "text": "Leegte hand thuo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 25,
+      "text": "altt saad bruden och liude der-paa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 25,
+      "text": "Den vnge brud thencker wedd seg enne:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 25,
+      "text": "\"Ieg hør ham, Thuor, alerkereste mynn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 26,
+      "text": "Seg enne:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 26,
+      "text": "\"Ieg hør ham, Thuor, allkereste myn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 26,
+      "text": "Her Thuor handd suøber seg hoffuet i skiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 26,
+      "text": "hannd gaar y saallenn for brudenn ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 27,
+      "text": "I skiend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 27,
+      "text": "hand gaar y saallenn for bruden ind:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 27,
+      "text": "\"Er her nu nogenn inde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 27,
+      "text": "som skauff-thaffs-lieeg kand wiende?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 28,
+      "text": "E I,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 28,
+      "text": "som skaff-thaffuels-lieg kand wiende:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 28,
+      "text": "Der skauffuthaffuels-lieg kannd wiende",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 28,
+      "text": "och guld aff fremede suene?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 29,
+      "text": "Kand viende",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 29,
+      "text": "och guld aff fremede suene.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 29,
+      "text": "Alle saad thi rider och taffued,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 29,
+      "text": "for-vdenn hindis fader, hand suaritt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 30,
+      "text": "Och taffued,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 30,
+      "text": "for-vden hyndis fader, hand suarit:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 30,
+      "text": "\"Her er ingenn indde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 30,
+      "text": "der skauffthauffuels-lieeg kand wiende.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 31,
+      "text": "Ingenn indde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 31,
+      "text": "der skauff-thaffuelsz-lieg kand wiende:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 31,
+      "text": "For-vden iumfrw Søllffuermuor:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 31,
+      "text": "och hun seeder brud offuer breden bord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 32,
+      "text": "Søllffuer-muor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 32,
+      "text": "och hun seedder brud offuer bredenn bordtt.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 32,
+      "text": "Thett suarett frw Thorfred, hyndis moder:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 32,
+      "text": "hun suaritt denom boude til guode.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 33,
+      "text": "Hyndis moder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 33,
+      "text": "hun suarit denom buode till guode:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 33,
+      "text": "\"Denn medtsomers-dag hun er saa lang:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 33,
+      "text": "saa well maa bruden till thauffuelbord gang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 34,
+      "text": "Er saa lang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 34,
+      "text": "saa well maa brudenn till tauffuelbord gang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 34,
+      "text": "Staar op, iumfru Sølffuermor, vnder ø:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 136,
+      "stanza_id": 34,
+      "text": "om y well liege guld-thaffuell saa rød!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 137,
+      "stanza_id": 35,
+      "text": "Vnder ø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 138,
+      "stanza_id": 35,
+      "text": "om y well liege guld-thauffuel saa rød.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 139,
+      "stanza_id": 35,
+      "text": "Thett suaritt brudenn med thuogt och syend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 140,
+      "stanza_id": 35,
+      "text": "hunn smyler saa lestlig vnder skiend.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 141,
+      "stanza_id": 36,
+      "text": "Thuogt och syend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 142,
+      "stanza_id": 36,
+      "text": "hun smyller saa lestelig vnder skiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 143,
+      "stanza_id": 36,
+      "text": "\"Først well ieg y lofftten gaa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 144,
+      "stanza_id": 36,
+      "text": "spørge well ieg myn fader til rad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 145,
+      "stanza_id": 37,
+      "text": "I lofftten gaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 146,
+      "stanza_id": 37,
+      "text": "spørge well ieg mynn faader till rad.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 147,
+      "stanza_id": 37,
+      "text": "Søllffuermuor axeller skaarlagenn-skiennd:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 148,
+      "stanza_id": 37,
+      "text": "hun gaar y lofftenn for faader synn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 149,
+      "stanza_id": 38,
+      "text": "Skaarlagenn-skiennd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 150,
+      "stanza_id": 38,
+      "text": "hun gaar y lofft for fader synn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 151,
+      "stanza_id": 38,
+      "text": "\"Myn kerre faader, maa ieg thett bieede:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 152,
+      "stanza_id": 38,
+      "text": "enn skauffthauffuelsz-lieg thett ieg maa liegg?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 153,
+      "stanza_id": 39,
+      "text": "M W,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 154,
+      "stanza_id": 39,
+      "text": "enn skauffthauffuels-lieeg thett ieg maa lieeg?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 155,
+      "stanza_id": 39,
+      "text": "Loffuer y meg till thaffuelbord att gaa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 156,
+      "stanza_id": 39,
+      "text": "denn lange dag maa meg for-gaa!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 157,
+      "stanza_id": 40,
+      "text": "Att gaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 158,
+      "stanza_id": 40,
+      "text": "denn lange dag mott meg for-gaa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 159,
+      "stanza_id": 40,
+      "text": "Denn rider lerrde sin datter",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 160,
+      "stanza_id": 40,
+      "text": "den lannge dag till afften.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 161,
+      "stanza_id": 41,
+      "text": "Sin datter",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 162,
+      "stanza_id": 41,
+      "text": "denn lange dag till affttenn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 163,
+      "stanza_id": 41,
+      "text": "\"Enn lidenn stund, dog icke lenge:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 164,
+      "stanza_id": 41,
+      "text": "du wiende icke guld aff fremiedt suene!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 165,
+      "stanza_id": 42,
+      "text": "Icke lenge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 166,
+      "stanza_id": 42,
+      "text": "du wiende icke guld aff fremidt suene.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 167,
+      "stanza_id": 42,
+      "text": "Du wogtte deg well for Thuor hind rige:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 168,
+      "stanza_id": 42,
+      "text": "ieg frøgter saa west, hand well deg suig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 169,
+      "stanza_id": 43,
+      "text": "Hind rige,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 170,
+      "stanza_id": 43,
+      "text": "ieg frøgter saa vest, hand well deg suige.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 171,
+      "stanza_id": 43,
+      "text": "Brudenn axeller skaarlagen-skiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 172,
+      "stanza_id": 43,
+      "text": "hun garr y lofft for vnge Thuor ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 173,
+      "stanza_id": 44,
+      "text": "Skaarlagen-skiend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 174,
+      "stanza_id": 44,
+      "text": "hun gar y lofft for vnge Thuor ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 175,
+      "stanza_id": 44,
+      "text": "Iumfruen ind aff dørenn threend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 176,
+      "stanza_id": 44,
+      "text": "vnge Thuor staar hind op igenn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 177,
+      "stanza_id": 45,
+      "text": "Dørenn threend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 178,
+      "stanza_id": 45,
+      "text": "vnge Thuor staar hind op igen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 179,
+      "stanza_id": 45,
+      "text": "Thend første thaffuell, paa thauffuelbordit rand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 180,
+      "stanza_id": 45,
+      "text": "hind vnge Thuorr liegen wand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 181,
+      "stanza_id": 46,
+      "text": "Bordit rand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 182,
+      "stanza_id": 46,
+      "text": "hind vnge Thuor liegenn wand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 183,
+      "stanza_id": 46,
+      "text": "\"Vlffuen hand løbber y skuoffuen:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 184,
+      "stanza_id": 46,
+      "text": "hand acter seeg wilde-braade.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 185,
+      "stanza_id": 47,
+      "text": "I skuoffuen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 186,
+      "stanza_id": 47,
+      "text": "hand acter seg wylde-braade.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 187,
+      "stanza_id": 47,
+      "text": "Hand ryffuer och hand kaster:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 188,
+      "stanza_id": 47,
+      "text": "saa mangett dyr hand laster.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 189,
+      "stanza_id": 48,
+      "text": "Hand kaster,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 190,
+      "stanza_id": 48,
+      "text": "saa mangett dyr hand laster.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 191,
+      "stanza_id": 48,
+      "text": "Fuld vndt er guld att winde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 192,
+      "stanza_id": 48,
+      "text": "saa er och throo-løsz quinde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 193,
+      "stanza_id": 49,
+      "text": "Att winde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 194,
+      "stanza_id": 49,
+      "text": "saa er och thruo-løsz quinde.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 195,
+      "stanza_id": 49,
+      "text": "Iumfrw Søllffuermordt thog, thett suerdd saa bratt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 196,
+      "stanza_id": 49,
+      "text": "hun war sørrind och, icke glad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 197,
+      "stanza_id": 50,
+      "text": "Saa bratt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 198,
+      "stanza_id": 50,
+      "text": "hun war sørrind och, ycke glad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 199,
+      "stanza_id": 50,
+      "text": "Thend anden thauffuell paa thauffuelbordit rand",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 200,
+      "stanza_id": 50,
+      "text": "thett worr iumfrw Sølffuermord lieegen wannd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 201,
+      "stanza_id": 51,
+      "text": "Bordit rand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 202,
+      "stanza_id": 51,
+      "text": "thett wor iumfru Søllffuermordt liegen waand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 203,
+      "stanza_id": 51,
+      "text": "\"Ørnen leger paa hiedde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 204,
+      "stanza_id": 51,
+      "text": "ham bleser paa wieeren hind wrede.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 205,
+      "stanza_id": 52,
+      "text": "Paa hiedde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 206,
+      "stanza_id": 52,
+      "text": "ham bleser paa wieren hind wredde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 207,
+      "stanza_id": 52,
+      "text": "Hand thaaber och hanom thymer:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 208,
+      "stanza_id": 52,
+      "text": "miest aff synne fiedder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 209,
+      "stanza_id": 53,
+      "text": "H T och hanom thymer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 210,
+      "stanza_id": 53,
+      "text": "miest aff syne fiedde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 211,
+      "stanza_id": 53,
+      "text": "Saa mange dy willd deris thro well holdde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 212,
+      "stanza_id": 53,
+      "text": "dy haffuer ickind ale dieris skiebind y wooldde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 213,
+      "stanza_id": 54,
+      "text": "Well holdde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 214,
+      "stanza_id": 54,
+      "text": "dy haffuer ickind alle dieris skiebind y wolde.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 215,
+      "stanza_id": 54,
+      "text": "\"Well y, skønn iumfru, eders thro da holde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 216,
+      "stanza_id": 54,
+      "text": "her er den suend, eder well beholde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 217,
+      "stanza_id": 55,
+      "text": "Da holde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 218,
+      "stanza_id": 55,
+      "text": "her er denn suend, eder well behollde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 219,
+      "stanza_id": 55,
+      "text": "Well y, skønn iunnfru, meg nu følge:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 220,
+      "stanza_id": 55,
+      "text": "ieg bryder for eder dy stercke bylle.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 221,
+      "stanza_id": 56,
+      "text": "Nu følge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 222,
+      "stanza_id": 56,
+      "text": "ieg bryder for eder dy stercke bylle.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 223,
+      "stanza_id": 56,
+      "text": "Hesten standerr till redde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 224,
+      "stanza_id": 56,
+      "text": "och skybbenn leeger paa skredde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 225,
+      "stanza_id": 57,
+      "text": "H S T R,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 226,
+      "stanza_id": 57,
+      "text": "och skybbenn legger paa skredde.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 227,
+      "stanza_id": 57,
+      "text": "\"Her Tuor, y ganger til straandenn først:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 228,
+      "stanza_id": 57,
+      "text": "ieg skall der kome til eder for west.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 229,
+      "stanza_id": 58,
+      "text": "Straandenn først,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 230,
+      "stanza_id": 58,
+      "text": "ieg skall der kome till edder for west.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 231,
+      "stanza_id": 58,
+      "text": "Den herre gieck vd for østen:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 232,
+      "stanza_id": 58,
+      "text": "denn brud kaam vd for westenn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 233,
+      "stanza_id": 59,
+      "text": "Vd for østen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 234,
+      "stanza_id": 59,
+      "text": "denn brud kaam vd for westenn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 235,
+      "stanza_id": 59,
+      "text": "Der hun kaam paa huidenn saand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 236,
+      "stanza_id": 59,
+      "text": "her Thuor hand recker hind huiden haand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 237,
+      "stanza_id": 60,
+      "text": "Huiden saand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 238,
+      "stanza_id": 60,
+      "text": "her Thuor hand recker hind huiden hand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 239,
+      "stanza_id": 60,
+      "text": "Her Thuor hand thuog hynder y synn arum,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 240,
+      "stanza_id": 60,
+      "text": "hand løffte hinder y forgyldene stauffuen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 241,
+      "stanza_id": 61,
+      "text": "I synn arum,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 242,
+      "stanza_id": 61,
+      "text": "hand løffte hynder y forgiuldene stauffen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 243,
+      "stanza_id": 61,
+      "text": "Thi wand op segel saa høfftt y raa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 244,
+      "stanza_id": 61,
+      "text": "saa laud thi at haffuett staa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 245,
+      "stanza_id": 62,
+      "text": "I raa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 246,
+      "stanza_id": 62,
+      "text": "saa luod thi att haffuet staa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 247,
+      "stanza_id": 62,
+      "text": "Braatt kaam buod for hindis fader ind:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 248,
+      "stanza_id": 62,
+      "text": "\"Her Thuord hand rømer med datter dynn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 249,
+      "stanza_id": 63,
+      "text": "Fader ind:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 250,
+      "stanza_id": 63,
+      "text": "\"Her Tuord hand rømer med datter dynn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 251,
+      "stanza_id": 63,
+      "text": "Thett saa suaritt hindis moder:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 252,
+      "stanza_id": 63,
+      "text": "\"Daa skaall dj søncke buode.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 253,
+      "stanza_id": 64,
+      "text": "Hindis moder:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 254,
+      "stanza_id": 64,
+      "text": "\"Daa skaall dy sønncke buode:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 255,
+      "stanza_id": 64,
+      "text": "Ieg well nu thett giøre saa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 256,
+      "stanza_id": 64,
+      "text": "att thi skall buode till grundenn gaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 257,
+      "stanza_id": 65,
+      "text": "Giøre saa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 258,
+      "stanza_id": 65,
+      "text": "att thi skaall buode till grundenn gaa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 259,
+      "stanza_id": 65,
+      "text": "Thi war icke komitt vdenn liditt fraa land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 260,
+      "stanza_id": 65,
+      "text": "da wexer der wieer aff wreden strand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 261,
+      "stanza_id": 66,
+      "text": "Fraa land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 262,
+      "stanza_id": 66,
+      "text": "daa wexer der wieer aff wredenn straand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 263,
+      "stanza_id": 66,
+      "text": "Ther gick staffuen fraa styre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 264,
+      "stanza_id": 66,
+      "text": "ale blegnet dy hellde saa dyre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 265,
+      "stanza_id": 67,
+      "text": "Fraa styre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 266,
+      "stanza_id": 67,
+      "text": "alle blegnett dy hellde saa dyre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 267,
+      "stanza_id": 67,
+      "text": "Skibenn thager att skumble saa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 268,
+      "stanza_id": 67,
+      "text": "att der kund ingenn weed styrrenn staa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 269,
+      "stanza_id": 68,
+      "text": "Skumble saa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 270,
+      "stanza_id": 68,
+      "text": "att der kund ingenn wed styrrenn staa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 271,
+      "stanza_id": 68,
+      "text": "Der kund ingen wed styrenn staa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 272,
+      "stanza_id": 68,
+      "text": "for-vdenn iumfru Sølffuermord med fenger smaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 273,
+      "stanza_id": 69,
+      "text": "Styrenn staa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 274,
+      "stanza_id": 69,
+      "text": "for-vdenn iumfrw Sølffuermord med fenger smaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 275,
+      "stanza_id": 69,
+      "text": "Hun stuod selleff wed styre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 276,
+      "stanza_id": 69,
+      "text": "med syn guldkronne saa dyrre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 277,
+      "stanza_id": 70,
+      "text": "Ved styre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 278,
+      "stanza_id": 70,
+      "text": "med synn guldkronne saa dyrre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 279,
+      "stanza_id": 70,
+      "text": "Med synn guldkronne saa dyrre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 280,
+      "stanza_id": 70,
+      "text": "saa thitt suod hun paa flyffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 281,
+      "stanza_id": 71,
+      "text": "Saa dyrre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 282,
+      "stanza_id": 71,
+      "text": "saa tiitt suod hun paa fløffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 283,
+      "stanza_id": 71,
+      "text": "Sellff war hun derris styrris-mand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 284,
+      "stanza_id": 71,
+      "text": "for hun løst efter, som hindis moder løst fraam.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 285,
+      "stanza_id": 72,
+      "text": "Styrris-mand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 286,
+      "stanza_id": 72,
+      "text": "for hun løst efter, som hindis moder løst fram.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 287,
+      "stanza_id": 72,
+      "text": "\"Smaa-drenng, lieb op y raa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 288,
+      "stanza_id": 72,
+      "text": "sie, om wy kand landit naa!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 289,
+      "stanza_id": 73,
+      "text": "Op i raa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 290,
+      "stanza_id": 73,
+      "text": "sie, om wy kand landit naa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 291,
+      "stanza_id": 73,
+      "text": "Huad hellder du gaar agter eller frem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 292,
+      "stanza_id": 73,
+      "text": "daa thred icke paa Thuord, min feste-mand!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 293,
+      "stanza_id": 74,
+      "text": "Agtter eller frem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 294,
+      "stanza_id": 74,
+      "text": "da thred icke paa Thuord, min feste-mand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 295,
+      "stanza_id": 74,
+      "text": "Du thred saa lestelig offuer dy thylle:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 296,
+      "stanza_id": 74,
+      "text": "threed icke Thuord, der sligtt lider for guod-willig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 297,
+      "stanza_id": 75,
+      "text": "Dy thylle,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 298,
+      "stanza_id": 75,
+      "text": "thred icke Thuord, der sligtt lydder for guod-willig.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 299,
+      "stanza_id": 75,
+      "text": "\"Nu sier ieg Norig-lande:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 300,
+      "stanza_id": 75,
+      "text": "Gud skyll osz wed denn waande!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 301,
+      "stanza_id": 76,
+      "text": "Norig-lande,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 302,
+      "stanza_id": 76,
+      "text": "Gud skeell osz wed denn waande!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 303,
+      "stanza_id": 76,
+      "text": "\"Er thett nu sannt, du siger meg:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 304,
+      "stanza_id": 76,
+      "text": "saa well daa skall ieg lønne deg.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 305,
+      "stanza_id": 77,
+      "text": "Siger meg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 306,
+      "stanza_id": 77,
+      "text": "saa well daa skall ieg lønne deg.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 307,
+      "stanza_id": 77,
+      "text": "Ieg skall sette deeg offuer mitt buordt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 308,
+      "stanza_id": 77,
+      "text": "huer dag skall ieg widde theg ordd.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 309,
+      "stanza_id": 78,
+      "text": "Mitt buordt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 310,
+      "stanza_id": 78,
+      "text": "huer dag skall ieg widde thieg ord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 311,
+      "stanza_id": 78,
+      "text": "Ieg skall giffue deg skiorttenn aff thett gouode",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 312,
+      "stanza_id": 78,
+      "text": "och fuollenn aff thett wilde stuod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 313,
+      "stanza_id": 79,
+      "text": "Aff thett guode",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 314,
+      "stanza_id": 79,
+      "text": "och fuoellenn aff thett willde stuod.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 315,
+      "stanza_id": 79,
+      "text": "Thett melltte her Thuor, y bunckenn luo:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 316,
+      "stanza_id": 79,
+      "text": "\"Saa mangen sier land, dy loffuer icke saa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 317,
+      "stanza_id": 80,
+      "text": "Bunckenn luo:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 318,
+      "stanza_id": 80,
+      "text": "\"Saa mangenn sier land, dy loffuer icke saa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 319,
+      "stanza_id": 80,
+      "text": "Thi kast acker paa huidenn sand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 320,
+      "stanza_id": 80,
+      "text": "her Thuord hand thriend seleff først y land.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 321,
+      "stanza_id": 81,
+      "text": "Huidenn sand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 322,
+      "stanza_id": 81,
+      "text": "her Thuord hand thrend selleff først y land.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 323,
+      "stanza_id": 81,
+      "text": "Huerindde mand, y Norig-land war,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 324,
+      "stanza_id": 81,
+      "text": "thi helsnid saa well hind rig her Tuordt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 325,
+      "stanza_id": 82,
+      "text": "Land war,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 326,
+      "stanza_id": 82,
+      "text": "thi helsnid saa well hind rig her Tuord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 327,
+      "stanza_id": 82,
+      "text": "Thi helsnid saa vell hind rig her Thuord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 328,
+      "stanza_id": 82,
+      "text": "saa giordde dy och-saa hans wene brud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 329,
+      "stanza_id": 83,
+      "text": "Her Thuord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 330,
+      "stanza_id": 83,
+      "text": "saa giordde dy och-saa hans wenne brud.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 331,
+      "stanza_id": 83,
+      "text": "Till Ager-huss luod hand iumfru Sølffuerlad førre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 332,
+      "stanza_id": 83,
+      "text": "med stuor erre luod hand sytt brølup giørre.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

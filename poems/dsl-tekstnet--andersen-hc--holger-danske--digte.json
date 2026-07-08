@@ -1,0 +1,346 @@
+{
+  "id": null,
+  "title": "Holger-Danske",
+  "year_created": 1830,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1830,
+    "url": "https://tekstnet.dk/books/andersen-hc_digte-1830/025/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Det gothisk, gamleKronborg i Maanelyset staaer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Mens sort og skumklædt Bølgen mod Fæstnings-Muren slaaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 1,
+      "text": "De stolte Skibe seile igjennem Sundets Bugt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Fra Helsingborg hist blinker et eenligt Lys saa smukt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 2,
+      "text": "Den danske Kyst staaer deilig med Skove og med Krat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 2,
+      "text": "Men beegsort hæver Kullen sig i den lyse Nat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 3,
+      "text": "Paa Kronborg klinger lystigt saa manget Gammens Ord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 3,
+      "text": "En Venneflok har samlet sig her om Gildes-Bord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 4,
+      "text": "See Punsche-Bollen damper, de synge og de lee;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 4,
+      "text": "Betrækkets blege Helte paa Lystigheden see.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 5,
+      "text": "Tilsidst sig Talen dreier – det er just Midenat –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 5,
+      "text": "Paa Holger, som skal bygge i KronborgsKassemat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 6,
+      "text": "»Ifald han hos os bygger, saa er det dog en Skam,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 6,
+      "text": "At ingen af os Svende, endnu besøgte ham.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 7,
+      "text": "Kom lad os undersøge, – og er da Sagen Digt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 7,
+      "text": "Vi stævne vil Poeten der først kom frem med Sligt!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 8,
+      "text": "Saaledes Een just taler, og neppe er det sagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 8,
+      "text": "Før ogsaa hele Toget er strax i Orden bragt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 9,
+      "text": "De rustne Hængsler knage og Faklen brænder rødt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 9,
+      "text": "Dybt i de dunkle Gange saa øde er og dødt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 10,
+      "text": "Hvert Fodtrin lydt man hører; hist ligger Steen og Gruus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 10,
+      "text": "Og sky og bange sværme de stygge Flagermuus.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 11,
+      "text": "Den tykke Jernport knager, nu er man der vel snart?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 11,
+      "text": "– Mod Muren slaaer man Faklen der ei vil brænde klart.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 12,
+      "text": "Den klamme Luft alt kjøler det hede Ungdoms Blod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 12,
+      "text": "Og Blodet kjøler atter det kaade Ungdoms Mod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 13,
+      "text": "Nu har de søgt saalænge i hver en Kassemat;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 13,
+      "text": "Endnu en Port de aabne, – da standser Skaren brat.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 14,
+      "text": "Thi i det hvalte Kammer hvor nu de træde ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 14,
+      "text": "See De en kraftfuld Gubbe med Haanden under Kind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 15,
+      "text": "I Steenbordets Flade hans Skjæg er voxet fast;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 15,
+      "text": "Hans Aasyn ellers ligner hiin Drots ved høien Mast.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 16,
+      "text": "Han sidder i sin Rustning med Sværdet i sin Haand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 16,
+      "text": "Og paa den høie Pande man læser Heltens Aand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 17,
+      "text": "I Drømme sært han taler, høit hæver sig hans Barm.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 17,
+      "text": "»Hvor staaer det til med Danmark? behøver det min Arm?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 18,
+      "text": "Ræk Ungersvend mig Haanden, see min jeg rækker her,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 18,
+      "text": "Dit Haandtryk skal mig lære hvor stærk vel Slægten er!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 19,
+      "text": "Men Svenden dreier mod ham rask Døren med sin Slaae;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 19,
+      "text": "For Holgers stærke Haandtryk sig Jernet bøie maae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 20,
+      "text": "Da smiler han i Drømme: »den er dog ei saa svag!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 20,
+      "text": "Og Holger Danske kommer til Hjælp paa Farens Dag!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 21,
+      "text": "– Saa tause og saa blege de Svende fra ham gaae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 21,
+      "text": "Og lettere de aande først under Himlens Blaae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 22,
+      "text": "De see de klare Stjerner og Maanen stor og rund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 22,
+      "text": "Mens Bølgen skumhvid vælter sig gjennem Øresund.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

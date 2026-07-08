@@ -1,0 +1,2781 @@
+{
+  "id": null,
+  "title": "Nilus og Adelus",
+  "year_created": 1583,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "country": null
+  },
+  "source": {
+    "corpus": "Den ældste danske viseoverlevering (University of Copenhagen)",
+    "title": "Karen Brahes folio, ældre del",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1583,
+    "url": "https://cst.dk/dighumlab/duds/DFK/Dorthe/html/KBRA36.htm"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Ther wegser op y kongens gaard",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "buod roser och edliger lilier;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "her Nielus och stalten Adelus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "thi haffuer tilsamel guodwillig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": ":: Saa løser hun suenden aff all syn angist. ::",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Her Peder hand buor seg ude wed aae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "hand haffuer thi døtter V;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "stalt Adelus heeder thend yngeste,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "hun ber blomster for alle dem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 2,
+      "text": "Her Nelus hand vnte stalt Adelus well,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "siden føste thett han hinder suo;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "hand bad saa endellig till wor-herre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 2,
+      "text": "hand matte den lili faa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 3,
+      "text": "Her Niellus hand er en rider saa bold,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 3,
+      "text": "thend fieerst ther hest matt ride;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 3,
+      "text": "feste hand stalte Adelus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 3,
+      "text": "till aller-kereste synn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 4,
+      "text": "Tthett tha spuorde thend gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 4,
+      "text": "hand buode seg ude wed aae:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 4,
+      "text": "her Nelus haffuer thend iumfru fest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 4,
+      "text": "der alld hans agtt til staar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 5,
+      "text": "Tthett tha wor thend gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 5,
+      "text": "hand beder lege saadell paa heste:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 5,
+      "text": "\"Ieg well ride meg op att land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 5,
+      "text": "daaner-kongen saa well ieg geste.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 6,
+      "text": "Tthett tha wor denn gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 6,
+      "text": "hand kaam der riden y gaard;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 6,
+      "text": "ud staar daner-kongenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 6,
+      "text": "hand wor well suøbt y mord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 7,
+      "text": "\"Wer well-komen, myn kerr mor-broder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 7,
+      "text": "wer wellkomen hiem till mitt!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 7,
+      "text": "huad hellder well y haffue den brune mød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 7,
+      "text": "eller drecke denn klaarre wynn?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 8,
+      "text": "\"Meg er icke om dynn brune mød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 8,
+      "text": "icke hellder dyn klarre wyn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 8,
+      "text": "her Nelus haffuer seg en iumfru fest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 8,
+      "text": "ieg haffde agthett hinder til kereste mynn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 9,
+      "text": "Nu er thu kong offuer alt thete land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 9,
+      "text": "du kiende meg guode rade!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 9,
+      "text": "her Nellus hand haffuer thend iumfru fest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 9,
+      "text": "ther all myn aagt til stuod.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 10,
+      "text": "\"Haffuer her Nellus thend iumfru fest,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 10,
+      "text": "ther alld eders agt til stuod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 10,
+      "text": "well thett Gud, ieg leffuer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 10,
+      "text": "hand hinder ret aldrig faarr.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 11,
+      "text": "Kongenn hand lader ett udbuod giørre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 11,
+      "text": "biuder ud buode rider och suene;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 11,
+      "text": "thett wor for bolde her Nelus skyld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 11,
+      "text": "hand matte ikiend werre hieme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 12,
+      "text": "Tthett wor daner-kongen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 12,
+      "text": "hand thaaller till suene thuo:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 12,
+      "text": "\"Beder y bolde her Nellus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 12,
+      "text": "y stoffuen ind for meg gaa!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 13,
+      "text": "Ind kaam bold her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 13,
+      "text": "och stedes hand for buor:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 13,
+      "text": "\"Huad wilde y meg, myn edelig herre?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 13,
+      "text": "hui haffuer y send meg ord?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 14,
+      "text": "\"Hør thu thett, bolde her Nelus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 14,
+      "text": "och huad ieg siger deg:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 14,
+      "text": "thu skalt faar y lieding y-aar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 14,
+      "text": "och førre mytt baner for meg.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 15,
+      "text": "Tthett suaridtt bolder her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 15,
+      "text": "hand wor en mand saa thrøst:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 15,
+      "text": "\"Ieg haffde agthett mitt brølup att giøre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 15,
+      "text": "y thene første høst.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 16,
+      "text": "\"I-aar skalt thu y lieding faarre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 16,
+      "text": "myn baner skalt thu førre;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 16,
+      "text": "første thu komer tilbage igen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 16,
+      "text": "thit brølup welt thu lad giørre.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 17,
+      "text": "\"Saa gernne well ieg y lieding faarre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 17,
+      "text": "for eders skyld wuoffue mitt lyff:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 17,
+      "text": "miest er meg for myn feste-mø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 17,
+      "text": "saa mange-foold er hindis quide.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 18,
+      "text": "Tthett wor bolde her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 18,
+      "text": "hand kaam saa mangtt y sinde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 18,
+      "text": "\"Nu well ieg till stalt Aadellusz ride,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 18,
+      "text": "och taalle well ieg med hinder.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 19,
+      "text": "Tthett wor bolde her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 19,
+      "text": "hand kaam ther riden y gaard;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 19,
+      "text": "udstuod stalltenn Adellusz",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 19,
+      "text": "for-inden syn skarlagen smaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 20,
+      "text": "Tthett wor bolde her Niellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 20,
+      "text": "thog hinder y arume syn;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 20,
+      "text": "saa fulis thi buode saa lestlig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 20,
+      "text": "y hyffuelofft ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 21,
+      "text": "\"Ieg haffde nu agthett mytt brølup at giøre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 21,
+      "text": "vdi theme første høst;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 21,
+      "text": "min herre well meg y lieding haffue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 21,
+      "text": "fraa eder, myn hygeste thrøst!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 22,
+      "text": "Lenge stuod stalltten Adelus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 22,
+      "text": "hun liude paa hans ord;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 22,
+      "text": "thi kiender, som førre wor rødde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 22,
+      "text": "thi suorthenet thaa som iord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 23,
+      "text": "Tthett suarid staltenn Aadelusz,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 23,
+      "text": "hun bleff y hindis kiender saa blegge:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 23,
+      "text": "\"Skall y nu y lieding y-aar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 23,
+      "text": "thett bliffuer meg liditt till glede.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 24,
+      "text": "\"Hør y thett, staltenn Adelus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 24,
+      "text": "ieg beder eder om en bønn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 24,
+      "text": "well y mig iumfru bide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 24,
+      "text": "till ieg komer hiem igen?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 25,
+      "text": "\"Ieg skall eder iumfru bide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 25,
+      "text": "thett loffuer ieg eder for saandt;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 25,
+      "text": "komer y icke aff lieding hiem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 25,
+      "text": "ieg loffuer aldrig anden mandt.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 26,
+      "text": "Melltte thett stalltenn Adelus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 26,
+      "text": "buode aff sorig och nød:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 26,
+      "text": "\"Komer y icke aff lieding hiem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 26,
+      "text": "ieg sørger meg selleff til død.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 27,
+      "text": "Her Nelus drog y leding vd,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 27,
+      "text": "hand war icke mogit glad;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 27,
+      "text": "igen saad staltenn Adellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 27,
+      "text": "hun sørgit aff hiartet saa saare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 28,
+      "text": "Tthett tha waar thend gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 28,
+      "text": "hand red seg under ø:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 28,
+      "text": "bortt till herre Peder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 28,
+      "text": "om stalt Adelus wilde hand bedde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 29,
+      "text": "Tthett tha war thend gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 29,
+      "text": "hand kaam der ridind y gard:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 29,
+      "text": "vd stuod herre Peder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 29,
+      "text": "suøbt wor hand y muor.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 30,
+      "text": "\"Her stander y, herre Peder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 30,
+      "text": "y er en mand saa fynn;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 30,
+      "text": "well y giffue meg stalltenn Adlus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 30,
+      "text": "till aller-kereste myn?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 31,
+      "text": "Tthett suarid herre Peder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 31,
+      "text": "hand stuod y skaarlagen rød:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 31,
+      "text": "\"Komer her Nellus aff lieding hiem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 31,
+      "text": "hun er hans feste-møø.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 32,
+      "text": "\"Icke løster meg at loffue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 32,
+      "text": "en vngers-suend feste-møø;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 32,
+      "text": "thett well ieg for sanndingenn sigge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 32,
+      "text": "her Nellus hand er død.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 33,
+      "text": "Her Peder fuld greffuen y stoffuen ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 33,
+      "text": "luod skienke for hanom wyn;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 33,
+      "text": "saa gaar hand y fruer-stoffue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 136,
+      "stanza_id": 33,
+      "text": "och rader med datter synn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 137,
+      "stanza_id": 34,
+      "text": "\"Her sedder du, mynn kerr datter,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 138,
+      "stanza_id": 34,
+      "text": "well er deg alle dyn dagge:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 139,
+      "stanza_id": 34,
+      "text": "deg beder til den gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 140,
+      "stanza_id": 34,
+      "text": "om du welt hanom haffue.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 141,
+      "stanza_id": 35,
+      "text": "\"Hør y thett, myn kerre fader,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 142,
+      "stanza_id": 35,
+      "text": "huy taller y slig ord?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 143,
+      "stanza_id": 35,
+      "text": "huad skulde ieg suare her Nelus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 144,
+      "stanza_id": 35,
+      "text": "som ieg haffuer giffuet myn thro?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 145,
+      "stanza_id": 36,
+      "text": "\"Her Nellus hand bleff y lieding slagenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 146,
+      "stanza_id": 36,
+      "text": "som du ber for denn thuang;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 147,
+      "stanza_id": 36,
+      "text": "thett well ieg for sandingen sigge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 148,
+      "stanza_id": 36,
+      "text": "thu thøste icke efter hanom lannge.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 149,
+      "stanza_id": 37,
+      "text": "\"Bleff her Nellus y lieding død,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 150,
+      "stanza_id": 37,
+      "text": "och siger du meg saa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 151,
+      "stanza_id": 37,
+      "text": "da loffuer ieg aldrig nogen iordrigs mand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 152,
+      "stanza_id": 37,
+      "text": "men hand icke leffue maa.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 153,
+      "stanza_id": 38,
+      "text": "\"Tthu skallt nu haffue thend gamble greffue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 154,
+      "stanza_id": 38,
+      "text": "buode med prisz och ere;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 155,
+      "stanza_id": 38,
+      "text": "hand haffuer buode slott och feste,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 156,
+      "stanza_id": 38,
+      "text": "haffuer theg och i hiartett saa kierr.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 157,
+      "stanza_id": 39,
+      "text": "\"Giffuer y meg den gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 158,
+      "stanza_id": 39,
+      "text": "och giør y meg den quide;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 159,
+      "stanza_id": 39,
+      "text": "daa skall ieg bede min Gud der-om,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 160,
+      "stanza_id": 39,
+      "text": "hand skall tage meg snart aff lyffue.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 161,
+      "stanza_id": 40,
+      "text": "Tthett giorde herre Peder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 162,
+      "stanza_id": 40,
+      "text": "hand war en mand saa haard:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 163,
+      "stanza_id": 40,
+      "text": "saa gaff hand bortt syn datter",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 164,
+      "stanza_id": 40,
+      "text": "imod hindis egen rad.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 165,
+      "stanza_id": 41,
+      "text": "Gaff hand bortt stallt Adellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 166,
+      "stanza_id": 41,
+      "text": "imod hindis egen iaa;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 167,
+      "stanza_id": 41,
+      "text": "siden drocke dy thett brølup",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 168,
+      "stanza_id": 41,
+      "text": "denn same manitzs-dag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 169,
+      "stanza_id": 42,
+      "text": "Drocke dy thett brølup",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 170,
+      "stanza_id": 42,
+      "text": "well y dage V;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 171,
+      "stanza_id": 42,
+      "text": "alt saad bruden buod sorig och muod,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 172,
+      "stanza_id": 42,
+      "text": "och folckett thett fuor hiem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 173,
+      "stanza_id": 43,
+      "text": "Her Nellus kaam fraa liedding hiem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 174,
+      "stanza_id": 43,
+      "text": "haffde wonden buode prisz och erre;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 175,
+      "stanza_id": 43,
+      "text": "thett war hans største begiering,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 176,
+      "stanza_id": 43,
+      "text": "hand matte finde synn hiartens-kiere.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 177,
+      "stanza_id": 44,
+      "text": "Ttha spurde hand thi tiding,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 178,
+      "stanza_id": 44,
+      "text": "som hanom gick miest till hand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 179,
+      "stanza_id": 44,
+      "text": "greffuenn haffde hans iumfru feste",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 180,
+      "stanza_id": 44,
+      "text": "och lagdtt hinder y sin arum.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 181,
+      "stanza_id": 45,
+      "text": "Her Nellus rider y kongens gaard,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 182,
+      "stanza_id": 45,
+      "text": "och hanom skienner haard som guld;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 183,
+      "stanza_id": 45,
+      "text": "thett weste well daner-kongen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 184,
+      "stanza_id": 45,
+      "text": "att hand war sorig-fuld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 185,
+      "stanza_id": 46,
+      "text": "Tthett wor bolde her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 186,
+      "stanza_id": 46,
+      "text": "hand rider y kongens gaard;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 187,
+      "stanza_id": 46,
+      "text": "op star daner-kongen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 188,
+      "stanza_id": 46,
+      "text": "hand gaar hanom selleff vd ymod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 189,
+      "stanza_id": 47,
+      "text": "\"Wer well-komen, bolde her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 190,
+      "stanza_id": 47,
+      "text": "thu were well-komen hiem!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 191,
+      "stanza_id": 47,
+      "text": "huor haffuer thieg lid i lieding",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 192,
+      "stanza_id": 47,
+      "text": "alt med myn erlig mend?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 193,
+      "stanza_id": 48,
+      "text": "\"Ieg haffuer werrit y lieding y-aar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 194,
+      "stanza_id": 48,
+      "text": "och eder buod huld och thro;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 195,
+      "stanza_id": 48,
+      "text": "borte er giffuen myn feste-mø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 196,
+      "stanza_id": 48,
+      "text": "och ald myn gled och ruo.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 197,
+      "stanza_id": 49,
+      "text": "\"Hør thu, bolde her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 198,
+      "stanza_id": 49,
+      "text": "och sørge du icke for-dy;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 199,
+      "stanza_id": 49,
+      "text": "ieg giffuer deg myn søster igenn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 200,
+      "stanza_id": 49,
+      "text": "er riger ind stalt Adeluszis X.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 201,
+      "stanza_id": 50,
+      "text": "\"Tthett y giffuer meg eders søster,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 202,
+      "stanza_id": 50,
+      "text": "ett spegell offuer alle quinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 203,
+      "stanza_id": 50,
+      "text": "saa kierr haffuer ieg stalt Adelus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 204,
+      "stanza_id": 50,
+      "text": "rett aldrig for-glemer ieg hinder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 205,
+      "stanza_id": 51,
+      "text": "Tthett giorde bolde herre Nellus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 206,
+      "stanza_id": 51,
+      "text": "alt efter syn herres rad:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 207,
+      "stanza_id": 51,
+      "text": "feste hand thend skønne iumfru,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 208,
+      "stanza_id": 51,
+      "text": "alt førind hand red ther-fra.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 209,
+      "stanza_id": 52,
+      "text": "Tthett wor daner-kongen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 210,
+      "stanza_id": 52,
+      "text": "hand wor en mand saa brad:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 211,
+      "stanza_id": 52,
+      "text": "hand luod sette thett brølup",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 212,
+      "stanza_id": 52,
+      "text": "thend same manitzs-dag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 213,
+      "stanza_id": 53,
+      "text": "Tthett melltte bolde her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 214,
+      "stanza_id": 53,
+      "text": "hand haffde stuor sorig y sinnde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 215,
+      "stanza_id": 53,
+      "text": "\"Alt skall ieg med stalt Adellus thalle,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 216,
+      "stanza_id": 53,
+      "text": "førrind ieg dreker brølup med hinder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 217,
+      "stanza_id": 54,
+      "text": "I lader nu bryge, y lader nu bleende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 218,
+      "stanza_id": 54,
+      "text": "y lader nu benkenn brede!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 219,
+      "stanza_id": 54,
+      "text": "selleff well ieg ride til stalt Adelus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 220,
+      "stanza_id": 54,
+      "text": "hun skall mynn vnge brud redde.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 221,
+      "stanza_id": 55,
+      "text": "Bortt red bolde her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 222,
+      "stanza_id": 55,
+      "text": "hand kaam till borig-led;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 223,
+      "stanza_id": 55,
+      "text": "vd da stuod den gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 224,
+      "stanza_id": 55,
+      "text": "och huiller hand seg weed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 225,
+      "stanza_id": 56,
+      "text": "\"Wer well-komen, bolde her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 226,
+      "stanza_id": 56,
+      "text": "wer well-komen hiem till min!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 227,
+      "stanza_id": 56,
+      "text": "huad hellder well i haffue den brune mød",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 228,
+      "stanza_id": 56,
+      "text": "hellder dreke denn klaare wynn?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 229,
+      "stanza_id": 57,
+      "text": "\"Meg er icke om eders brune mød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 230,
+      "stanza_id": 57,
+      "text": "icke hellder eders klaare wynn;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 231,
+      "stanza_id": 57,
+      "text": "ieg well thaalle med stalt Aadellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 232,
+      "stanza_id": 57,
+      "text": "som før wor aller-kereste mynn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 233,
+      "stanza_id": 58,
+      "text": "Her Nellus och den gamble greffue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 234,
+      "stanza_id": 58,
+      "text": "dy fuldis y fruerstoffue ind;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 235,
+      "stanza_id": 58,
+      "text": "thett første stalt Adelus her Nellus suo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 236,
+      "stanza_id": 58,
+      "text": "tha fallmet hind rosens-kiend.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 237,
+      "stanza_id": 59,
+      "text": "Hand gick till staltenn Adellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 238,
+      "stanza_id": 59,
+      "text": "stuor sorig hadde hand y sinde;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 239,
+      "stanza_id": 59,
+      "text": "stalt Adellus reker hanom huiden haand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 240,
+      "stanza_id": 59,
+      "text": "hinder falt daa thar paa kieend.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 241,
+      "stanza_id": 60,
+      "text": "Tthett ttha melltte den gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 242,
+      "stanza_id": 60,
+      "text": "hand stuod y skaarlagenn rød:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 243,
+      "stanza_id": 60,
+      "text": "\"Stalt Adellus, haffuer thu thett førre hortt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 244,
+      "stanza_id": 60,
+      "text": "her Nellus haffuer fest saa wenen møø.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 245,
+      "stanza_id": 61,
+      "text": "\"Haffuer hand fest seg saa wen en møø,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 246,
+      "stanza_id": 61,
+      "text": "och siger y meg saa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 247,
+      "stanza_id": 61,
+      "text": "Christ lade denom thett til glede bliffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 248,
+      "stanza_id": 61,
+      "text": "thett stund thi leffue maa!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 249,
+      "stanza_id": 62,
+      "text": "Her Nellus hand thog hinder y syn arumu,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 250,
+      "stanza_id": 62,
+      "text": "hand bad hinder om enn bønn:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 251,
+      "stanza_id": 62,
+      "text": "\"Well y nu med wor vnge droning",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 252,
+      "stanza_id": 62,
+      "text": "føre meg min vnge brud hiem?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 253,
+      "stanza_id": 63,
+      "text": "Lenge stuod stalltenn Adellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 254,
+      "stanza_id": 63,
+      "text": "hun thuorde hanom icke suarre;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 255,
+      "stanza_id": 63,
+      "text": "\"iaa,\" thaa sagde den gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 256,
+      "stanza_id": 63,
+      "text": "\"ieg well selleff med hind faare.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 257,
+      "stanza_id": 64,
+      "text": "Tthett wor bolde her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 258,
+      "stanza_id": 64,
+      "text": "hand thog thend fru y arum;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 259,
+      "stanza_id": 64,
+      "text": "thett will ieg for sandingen sigge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 260,
+      "stanza_id": 64,
+      "text": "thett wor aff rett hiarttens harum.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 261,
+      "stanza_id": 65,
+      "text": "Her Nellus red vd-aff greffuens gaard,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 262,
+      "stanza_id": 65,
+      "text": "thend hand skieldis fraa denn fru:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 263,
+      "stanza_id": 65,
+      "text": "saa saare tha sørgit thi vnge thuo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 264,
+      "stanza_id": 65,
+      "text": "thi haffde huer-andre y huoffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 265,
+      "stanza_id": 66,
+      "text": "Saa forde thi thend vnge brud",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 266,
+      "stanza_id": 66,
+      "text": "y bold her Nellus gaard;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 267,
+      "stanza_id": 66,
+      "text": "thett huide søliff, thett røde guld",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 268,
+      "stanza_id": 66,
+      "text": "wor icke for liegeren spaardt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 269,
+      "stanza_id": 67,
+      "text": "Tthi saatte bruden paa brude-benck,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 270,
+      "stanza_id": 67,
+      "text": "som thi kunde allderbest;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 271,
+      "stanza_id": 67,
+      "text": "satte thi stallten Adellus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 272,
+      "stanza_id": 67,
+      "text": "bruden allernest.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 273,
+      "stanza_id": 68,
+      "text": "Skenckitt thi ud buode mød och win",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 274,
+      "stanza_id": 68,
+      "text": "vdi den borig-stoffue;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 275,
+      "stanza_id": 68,
+      "text": "her Niellus och stalten Adelus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 276,
+      "stanza_id": 68,
+      "text": "thi haffde stuor sorig i hoffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 277,
+      "stanza_id": 69,
+      "text": "Tthett mellte daner-kongen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 278,
+      "stanza_id": 69,
+      "text": "hand gaar buod ud och ind:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 279,
+      "stanza_id": 69,
+      "text": "\"Huy mon stalltenn Adellus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 280,
+      "stanza_id": 69,
+      "text": "saa falme sin rosens-kiend?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 281,
+      "stanza_id": 70,
+      "text": "Tthett wor daner-kongen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 282,
+      "stanza_id": 70,
+      "text": "och reker hand haand fraa seg:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 283,
+      "stanza_id": 70,
+      "text": "\"Y staar op, stalltenn Adellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 284,
+      "stanza_id": 70,
+      "text": "och well y dantzs huosz mig?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 285,
+      "stanza_id": 71,
+      "text": "\"Saa gierne daa wilde ieg dantze,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 286,
+      "stanza_id": 71,
+      "text": "saa lystellig wilde ieg quede;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 287,
+      "stanza_id": 71,
+      "text": "sorigenn haffuer mynn hiartte bellagt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 288,
+      "stanza_id": 71,
+      "text": "ieg kand mig icke gledde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 289,
+      "stanza_id": 72,
+      "text": "Saa giernne wilde ieg dantze",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 290,
+      "stanza_id": 72,
+      "text": "saa lestlig wed eders haand;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 291,
+      "stanza_id": 72,
+      "text": "sorigenn haffuer mit hiarte klempt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 292,
+      "stanza_id": 72,
+      "text": "herre Gud løse alle min boond!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 293,
+      "stanza_id": 73,
+      "text": "\"Hør y thett, stalten Adelusz,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 294,
+      "stanza_id": 73,
+      "text": "y sørger icke for-dy:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 295,
+      "stanza_id": 73,
+      "text": "ieg haffuer eder giffuit den gamble greffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 296,
+      "stanza_id": 73,
+      "text": "er riger ind her Nellues X.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 297,
+      "stanza_id": 74,
+      "text": "Suaridtt thett stalltenn Adelus",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 298,
+      "stanza_id": 74,
+      "text": "med thuogt och høffske sinde:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 299,
+      "stanza_id": 74,
+      "text": "\"Matte ieg løffue y thusind aaar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 300,
+      "stanza_id": 74,
+      "text": "ieg kand hanom rett aldrig for-gleme.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 301,
+      "stanza_id": 75,
+      "text": "Tthett wor sildig om afften,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 302,
+      "stanza_id": 75,
+      "text": "thi fulde den brud til seng:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 303,
+      "stanza_id": 75,
+      "text": "her Nellus och stallten Aadelus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 304,
+      "stanza_id": 75,
+      "text": "thi holt den thaalle saa long.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 305,
+      "stanza_id": 76,
+      "text": "\"Hør thu thett, stalten Aadelus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 306,
+      "stanza_id": 76,
+      "text": "alt huad ieg sigger deg:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 307,
+      "stanza_id": 76,
+      "text": "war thett med dinn wilie giortt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 308,
+      "stanza_id": 76,
+      "text": "du brødst dinn thro mod meg?\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 309,
+      "stanza_id": 77,
+      "text": "Suarett thett stallttenn Adelusz,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 310,
+      "stanza_id": 77,
+      "text": "buode mett thuogt och erre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 311,
+      "stanza_id": 77,
+      "text": "\"Mangenn giffuer sit miende der-til,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 312,
+      "stanza_id": 77,
+      "text": "thett thi wilde møgitt helder lad werre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 313,
+      "stanza_id": 78,
+      "text": "Ieg siger eder, bold her Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 314,
+      "stanza_id": 78,
+      "text": "y faar saa wen en møø;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 315,
+      "stanza_id": 78,
+      "text": "ieg well bere sorigen for osz buode,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 316,
+      "stanza_id": 78,
+      "text": "och thett tuinger meg til døde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 317,
+      "stanza_id": 79,
+      "text": "I loffuer meg, herre Nellus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 318,
+      "stanza_id": 79,
+      "text": "y lader bortt-faare eders quide!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 319,
+      "stanza_id": 79,
+      "text": "ieg will ber sorgenn for osz buode,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 320,
+      "stanza_id": 79,
+      "text": "thett stund meg winndis liffue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 321,
+      "stanza_id": 80,
+      "text": "Wy staar saa lenge och snacker,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 322,
+      "stanza_id": 80,
+      "text": "thett bliffuer osz buode til ware:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 323,
+      "stanza_id": 80,
+      "text": "y bliffuer miszthengtt aff eders vnge brud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 324,
+      "stanza_id": 80,
+      "text": "saa giør ieg och aff min harre.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 325,
+      "stanza_id": 81,
+      "text": "\"Saa hiellpe meg Gud, for-offuen meg er,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 326,
+      "stanza_id": 81,
+      "text": "buode aff angist och haarum,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 327,
+      "stanza_id": 81,
+      "text": "som ieg wild helder thaalle mett theg",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 328,
+      "stanza_id": 81,
+      "text": "ind soffue y brudens arum!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 329,
+      "stanza_id": 82,
+      "text": "Her Nellus ginge till brude-seng",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 330,
+      "stanza_id": 82,
+      "text": "mett suock och sorig-fuld hoff;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 331,
+      "stanza_id": 82,
+      "text": "thett wor hans mieste quide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 332,
+      "stanza_id": 82,
+      "text": "hand skieldis fra den frue.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 333,
+      "stanza_id": 83,
+      "text": "Tthett wor stalltenn Adelusz,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 334,
+      "stanza_id": 83,
+      "text": "hun thi sper-lagenn samell drog;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 335,
+      "stanza_id": 83,
+      "text": "hun thog den sorig, nest hiarthett luoo,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 336,
+      "stanza_id": 83,
+      "text": "hun luod end som hun luo.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 337,
+      "stanza_id": 84,
+      "text": "Tthett wor stalltenn Adelusz,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 338,
+      "stanza_id": 84,
+      "text": "hun logtte den loffts-dør braatt:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 339,
+      "stanza_id": 84,
+      "text": "\"Her Nelus med eders vnge brud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 340,
+      "stanza_id": 84,
+      "text": "Gud giffue eder thusen god-nat!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 341,
+      "stanza_id": 85,
+      "text": "Tthett melltte stalltenn Adelus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 342,
+      "stanza_id": 85,
+      "text": "hun gaar aff thrapen nieder:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 343,
+      "stanza_id": 85,
+      "text": "\"Gode-natt, bolde her Nelus,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 344,
+      "stanza_id": 85,
+      "text": "wi findis rett aldrig merre.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 345,
+      "stanza_id": 86,
+      "text": "Tthett wor danske droning,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 346,
+      "stanza_id": 86,
+      "text": "hun tog den frue till sieg:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 347,
+      "stanza_id": 86,
+      "text": "\"Hør thu thett, stalltenn Adelusz,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 348,
+      "stanza_id": 86,
+      "text": "welt du gaa ind meg meg?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 349,
+      "stanza_id": 87,
+      "text": "Tthu kom hid, staltenn Adelusz,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 350,
+      "stanza_id": 87,
+      "text": "welt du gaa ind mett meg?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 351,
+      "stanza_id": 87,
+      "text": "weste ieg deg nogen glede,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 352,
+      "stanza_id": 87,
+      "text": "saa gierne huosuallitt ieg dieg.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 353,
+      "stanza_id": 88,
+      "text": "Tthett wor stalltenn Adellusz,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 354,
+      "stanza_id": 88,
+      "text": "hun ganger i fruer-stoffue ind;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 355,
+      "stanza_id": 88,
+      "text": "stor sorig haffde hun i hiarthett,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 356,
+      "stanza_id": 88,
+      "text": "saa stride rand hind thar paa kiend.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 357,
+      "stanza_id": 89,
+      "text": "Tthett melltte stalltenn Adellusz,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 358,
+      "stanza_id": 89,
+      "text": "hun tog guldringen aff huidenn hand:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 359,
+      "stanza_id": 89,
+      "text": "\"Sorigen haffuer mit hiartte klemptt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 360,
+      "stanza_id": 89,
+      "text": "herre Gud løsz alle mynn boend!\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 361,
+      "stanza_id": 90,
+      "text": "Tthett wor daner-droning,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 362,
+      "stanza_id": 90,
+      "text": "klaper hinder wed huiden kiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 363,
+      "stanza_id": 90,
+      "text": "\"Ieg beder deg for den wolde Gud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 364,
+      "stanza_id": 90,
+      "text": "du lader bort-faare sorgen dinn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 365,
+      "stanza_id": 91,
+      "text": "Melltte thett danske droning,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 366,
+      "stanza_id": 91,
+      "text": "och hinder rand thaar paa kiend:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 367,
+      "stanza_id": 91,
+      "text": "\"Ieg frøgter fuld-saare, min edlig herre",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 368,
+      "stanza_id": 91,
+      "text": "hand haffuer synd for sorig dynn.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 369,
+      "stanza_id": 92,
+      "text": "Tther wor stuor ynck y fruer-stoffue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 370,
+      "stanza_id": 92,
+      "text": "och haleff mere harum:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 371,
+      "stanza_id": 92,
+      "text": "stallt Adeluszis hiartte y synder sprack",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 372,
+      "stanza_id": 92,
+      "text": "y danske droningens arum.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 373,
+      "stanza_id": 93,
+      "text": "Stallt Adelus døde y fruer-stoffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 374,
+      "stanza_id": 93,
+      "text": "och alle dy fruer til quide;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 375,
+      "stanza_id": 93,
+      "text": "her Nellus hand døde y brude-seng",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 376,
+      "stanza_id": 93,
+      "text": "alt wed den unge bruds sidde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 377,
+      "stanza_id": 94,
+      "text": "Tthett melltte danske droning,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 378,
+      "stanza_id": 94,
+      "text": "hun war aff hiarthett wiee;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 379,
+      "stanza_id": 94,
+      "text": "\"Thett wor ret aldrig med wilig myn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 380,
+      "stanza_id": 94,
+      "text": "att den gierning skulde saa skiee.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 381,
+      "stanza_id": 95,
+      "text": "I matte well lade denom samell bliffue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 382,
+      "stanza_id": 95,
+      "text": "hind-anden aff hiarthett will vnd:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 383,
+      "stanza_id": 95,
+      "text": "saa will haffde kongens søster",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 384,
+      "stanza_id": 95,
+      "text": "och fangitt en anden mand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 385,
+      "stanza_id": 96,
+      "text": "Nu rader ieg huer vnger-suend,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 386,
+      "stanza_id": 96,
+      "text": "om han wilde liude myn lerre:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 387,
+      "stanza_id": 96,
+      "text": "feste sig aldrig nogen stalte iumfru,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 388,
+      "stanza_id": 96,
+      "text": "thett en anden haffuer i hiartett keer.\"",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 389,
+      "stanza_id": 97,
+      "text": "For synndenn kiercke saa lagde dy hanom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 390,
+      "stanza_id": 97,
+      "text": "for østen da lagde dy hinder;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 391,
+      "stanza_id": 97,
+      "text": "ther sprang tho roser aff beggis therisz brøst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 392,
+      "stanza_id": 97,
+      "text": "saa luod thi guod wilig kiende.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 393,
+      "stanza_id": 97,
+      "text": ":: Saa løser hun suenden aff all sin angist. ::",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

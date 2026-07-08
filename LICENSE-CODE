@@ -1,0 +1,41 @@
+Zero-Clause BSD (0BSD) License
+
+This license applies to the source code in this repository:
+
+    scripts/                 (Python scripts: validators, parsers, dedup tools)
+    sources/<id>/parser.py   (per-source HTML → JSON parsers)
+
+
+================================================================================
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+================================================================================
+
+Why 0BSD (and not MIT, and not CC0)?
+
+0BSD is a SPDX-recognized "no-attribution-required" license. The practical
+effect is the same as CC0 for code (do whatever you want, no attribution
+required), but unlike CC0 it is:
+
+  1. Widely accepted as a code license by major open-source toolchains
+     (Linux kernel, Apache, MIT projects all accept 0BSD contributions).
+  2. Audited for the specific use case of permissive open-source code.
+  3. Compatible with both MIT and Apache-2.0 re-licensing downstream.
+
+CC0 is a public-domain dedication, which the Apache-2.0 license §3 explicitly
+excludes from being combined into Apache-licensed codebases. 0BSD is the
+"CC0 for code" answer.
+
+SPDX-License-Identifier: 0BSD
+
+For more information, see <https://spdx.org/licenses/0BSD.html>

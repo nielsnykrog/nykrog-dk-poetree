@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "title": "Med Lindgreens Portrait",
+  "year_created": 1840,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1840,
+    "url": "https://tekstnet.dk/books/andersen-hc_med-lindgreens-portrait/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Tre Slægter har Din Ild, Dit Lune kjendt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Du virked’ ei for Øieblikket ene:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Een Stjerne meer om Holbergs Navn blev tændt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Da Du Dig viste paa den danske Scene.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

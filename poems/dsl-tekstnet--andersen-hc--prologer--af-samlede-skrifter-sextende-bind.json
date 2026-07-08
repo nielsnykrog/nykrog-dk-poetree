@@ -1,0 +1,815 @@
+{
+  "id": null,
+  "title": "Prologer",
+  "year_created": 1855,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Af. Samlede Skrifter. Sextende Bind",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1855,
+    "url": "https://tekstnet.dk/books/andersen-hc_af-samlede-skrifter-sextende-bind/009/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Nu er det Vinter, det vi Alle føle,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Og har vi ikke Snee, saa har vi Søle,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Fælt raakoldt, Storm, og Taage der kan smages,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Og Aftnen kommer naar Middagen dages.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "En saadan Tid, indsvøbt i Taagemassen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Har Trang til Trylleri – og Skuepladsen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Er Tryllekredsen – her staaer Skoven grøn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Her skinner Sommersolen varm og skjøn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Musiken klinger, Blomsten staaer i Flor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Og midt i Sommertiden man sig troer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Velkommen her til Scenens Tryllekreds,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "Kom med et venligt Sind, bliv veltilfreds.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Ei Holbergs Lune klinger her for Folket,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "Ei Nordens Old, som Oehlenschläger tolket,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 0,
+      "text": "Ei Vaudevillen spøgende og let;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 0,
+      "text": "Nei, noget Mindre vil man kalde det,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 0,
+      "text": "En Billedrække, som fra Syden kom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 0,
+      "text": "Og som Kaleidoskopet vexler om",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 0,
+      "text": "Med altid samme Treklang, samme Mine,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 0,
+      "text": "Pierrot, og Harlekin og Colombine.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 0,
+      "text": "Det Dumme og det Snu i Kamp herneden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 0,
+      "text": "En Skytsaand følger altid Kjærligheden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 0,
+      "text": "Vi bringe altsaa hvad de Alle kjende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 0,
+      "text": "Fra første Scene og til det maa ende.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 0,
+      "text": "Det er som om vi ned fra Hylden tog",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 0,
+      "text": "Ved Vintertid en gammel Billedbog,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 0,
+      "text": "Der moret Fae’r og Moe’r da de var smaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 0,
+      "text": "Og os, som Børn – ja hvad vi dengang saae",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 0,
+      "text": "Med Barnesind, i Glædens korte Time,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 0,
+      "text": "Betragt igjen i den gamle Pantomime.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 0,
+      "text": "Eengang om Aaret tages Bogen ned –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 0,
+      "text": "Betragt den med den gamle Kjærlighed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 1,
+      "text": "Prologen er altid en Slags Bouquet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 1,
+      "text": "Hvormed man siger: Velkommen herinde!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 1,
+      "text": "Men bringe een, som er ny og net,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 1,
+      "text": "De Blomster er ikke saa let at finde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 1,
+      "text": "Og vanskeligst, skal de være piquante.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 1,
+      "text": "Dog Fader og Moder og Onkel og Tante,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 1,
+      "text": "Cousinerne med, de sagde – »gaa dog.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 1,
+      "text": "Et hjerteligt Ord er den bedste Prolog!«",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 1,
+      "text": "Een har det i Tale og Een i Mimik,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 1,
+      "text": "Jeg her maa sige de Vers jeg fik,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 1,
+      "text": "Maa bringe de Blomster som var at faae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 1,
+      "text": "Den ærlige Villie vil Ingen forsmaae!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 1,
+      "text": "I Romerlandet hvor Apelsinen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 1,
+      "text": "Paa Træet hænger som Æblet her;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 1,
+      "text": "Der fødtes Pierroen og Harlekin,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 1,
+      "text": "De ved Casorti blev Dansken kjær,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 1,
+      "text": "Ja Pantomimen blev dansk som Nogen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 1,
+      "text": "Derom maa der staae i Mindebogen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 1,
+      "text": "Et Blad tages frem, med »« paa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 1,
+      "text": "Tableauer og Dandse skal Rammen slaae",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 1,
+      "text": "Saa broget, phantastisk og udenlandsk,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 1,
+      "text": "Men Hjertet deri er ved Slægten dansk.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 1,
+      "text": "Hav Tak for det Hjem vi har fundet her,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 1,
+      "text": "Hav Tak for det Bifald De gav os hver.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 1,
+      "text": "Det er en Tid siden sidst vi saaes,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 1,
+      "text": "Her foran Lampernes magiske Flamme,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 1,
+      "text": "Velkommen! Det venligt og godt forstaaes!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 1,
+      "text": "Velkommen! Gid De maae sige det samme!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 2,
+      "text": "Tillad jeg siger hvad De alt veed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 2,
+      "text": "Meget her maae De ikke vente,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 2,
+      "text": "Den gode Villie og vort Øiemed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 2,
+      "text": "Maae smukt De have in mente.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 2,
+      "text": "En Anecdote jeg husker paa:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 2,
+      "text": "I een af de store Stæder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 2,
+      "text": "En stakkels Blind man paa Gaden saae,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 2,
+      "text": "Han stod i fattige Klæder!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 2,
+      "text": "Og Mængden stormede travl forbi,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 2,
+      "text": "Den Blindes Hat kom ei Skilling i.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 2,
+      "text": "Da saaes en Sanger, Scenens største,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 2,
+      "text": "Han stillede sig ved den Blinde hen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 2,
+      "text": "Og sang en Vise, een af de første",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 2,
+      "text": "Der faldt ham ind; – hvor greb dog den!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 2,
+      "text": "En lyttende Skare stod rundtenom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 2,
+      "text": "Og Penge der til den Blinde kom.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 2,
+      "text": "Her er Noget ligt og dog ikke ligt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 2,
+      "text": "I Villie og Hensigt De Ligheden finde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 2,
+      "text": "De Ringeste er vi for Scenens Digt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 2,
+      "text": "Og ingen Betler er vor Blinde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 2,
+      "text": "Vi søgte ham op i hans mørke Nat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 2,
+      "text": "For Danmark gav han sin bedste Skat,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 2,
+      "text": "Sine Øines Lys, den solklare Dag,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 2,
+      "text": "For Danmarks klare, retfærdige Sag.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 2,
+      "text": "Nu samle vi her til hans Juletræ,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 2,
+      "text": "Hver tænder et Lys ved sin lille Gave,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 2,
+      "text": "Og Lysets Varme og Stuens Læ",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 2,
+      "text": "Vor tappre Broder vil føle og have.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 2,
+      "text": "Forstaae Deeltagelsens søde Musik!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 2,
+      "text": "I Natten gaaer Stjernen op for hans Blik!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 2,
+      "text": "Hver giver sin Skjærv, som han kan bedst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 2,
+      "text": "Og nu er Aftnen en Glædesfest.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 3,
+      "text": "Borddandsen kjende De! ja De har kjendt den",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 3,
+      "text": "Alt et Par Aar! Husk paa Ole Lukøie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 3,
+      "text": "Dragkisten dreier sig, den løfter Been.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 3,
+      "text": "Ildklemmen dandser, Skilderierne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 3,
+      "text": "Borddandsen kjende De forud for Andre,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 3,
+      "text": "Men Christians Feberangst, først nu De kjender,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 3,
+      "text": "Nu da De selv har Tryllekredsen sat",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 3,
+      "text": "Med lille Finger, lagt paa lille Finger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 3,
+      "text": "Følt der kom Gysning, Rivning, der kom Feber!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 3,
+      "text": "Hos Een og Anden! – Den er fæl den Feber,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 3,
+      "text": "Men hvad er den, mod den jeg har iaften.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 3,
+      "text": "Ak Borddands-Feber, Valg- og Bal- Geni- Kold-Feber,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 3,
+      "text": "De er igrunden ingen Ting mod min.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 3,
+      "text": "Min – ja De lee – lee kun – det letter.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 3,
+      "text": "Jeg gaaer iaften med Vertinde-Feber,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 3,
+      "text": "Tør jeg betroe Dem det: »Vertinde-Feber«.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 3,
+      "text": "Paa Gjester, Huus og paa Anretningen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 3,
+      "text": "Jeg tænker, tænkte, tænker meer end Nogen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 3,
+      "text": "»– Velkommen! tag til Takke! –« er Prologen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 3,
+      "text": "Og Dyden ved den er, at den er kort! –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 3,
+      "text": "Ved Deres Bifald gaaer min Feber bort!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

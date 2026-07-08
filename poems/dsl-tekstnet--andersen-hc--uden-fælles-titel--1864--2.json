@@ -1,0 +1,73 @@
+{
+  "id": null,
+  "title": "[uden fælles titel]",
+  "year_created": 1864,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1864,
+    "url": "https://tekstnet.dk/books/andersen-hc_uden-faelles-titel-1864b/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Gudfa’er fortæller; det er deiligt at høre derpaa. –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Ind storme alle de Smaa med lystigt Sind. – Stille!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Gudfa’er fortæller.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Gjallerhornet lød, og hen over Regnbuen rede Guderne,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "klædte i Staal, for at kæmpe den sidste Kamp; –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "– den hele Luft lyste om dem med Nordlys-Blink,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "men Mørket var det seirende.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "title": "Farvel, Prindsesse Dagmar! Du gaaer til Storhed og Glands",
+  "year_created": 1866,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1866,
+    "url": "https://tekstnet.dk/books/andersen-hc_farvel-prindsesse-dagmar-du-gaaer-til-storhed-og-glands/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Farvel, Prindsesse Dagmar! Du gaaer til Storhed og Glands.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "En Keiserkrone groer der jo i din Brudekrands.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Gud lade sit Solskin lyse i Dig og dit nye Hjem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Da blive til Perler de Taarer, som Skilsmissen nu kalder frem.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

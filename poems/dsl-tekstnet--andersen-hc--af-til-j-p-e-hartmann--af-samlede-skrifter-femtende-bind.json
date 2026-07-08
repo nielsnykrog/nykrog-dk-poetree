@@ -1,0 +1,60 @@
+{
+  "id": null,
+  "title": "Af Til J. P. E. Hartmann",
+  "year_created": 1854,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Af. Samlede Skrifter. Femtende Bind",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1854,
+    "url": "https://tekstnet.dk/books/andersen-hc_af-samlede-skrifter-femtende-bind/007/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 3,
+      "text": "Dyb Sørgemarschen lød, de Dødes Rækker",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 3,
+      "text": "Gik med bag Baaren op af Kirkens Gang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 3,
+      "text": "Da dybt for Kunstens Heros Orglet klang!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 3,
+      "text": "Et Hav af Toner med din Sjæl blev født,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 3,
+      "text": "Det svulmer høitidsfuldt, det smelter sødt.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ],
+  "dramatic_poem": true
+}

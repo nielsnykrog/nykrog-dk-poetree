@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "title": "Udlændinge",
+  "year_created": 1886,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Jens Peter Jacobsen",
+    "country": null,
+    "wiki": "Q370246"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "En Cactus Springer Ud",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1886,
+    "url": "https://tekstnet.dk/books/jacobsen-jp_en-cactus-springer-ud/005/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "\"Det var en Lørdagaften,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Jeg sad og vented' dig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Du loved' mig at komme vist,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Men kom dog ej til mig.\"",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

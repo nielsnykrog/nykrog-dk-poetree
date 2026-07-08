@@ -1,0 +1,38 @@
+{
+  "id": null,
+  "title": "Hvad den lille Hund siger",
+  "year_created": 1847,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1847,
+    "url": "https://tekstnet.dk/books/andersen-hc_hvad-den-lille-hund-siger/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Jeg vil til Benet, jeg vil til Fadet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Hvis ikke, gøer jeg ad Dig i Bladet!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

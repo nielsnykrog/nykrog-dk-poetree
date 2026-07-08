@@ -1,0 +1,65 @@
+{
+  "id": null,
+  "title": "GVds Engel sidder hooss graffuen/",
+  "year_created": 1529,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "Een ny handbog med Psalmer oc aandelige lofsange",
+    "year_published": 1529,
+    "publisher": "Ludwig Dietz",
+    "printer": "Ludwig Dietz",
+    "place": "Rostock",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/dietz-salmebog-1529/6/3"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "GVds Engel sidder hooss graffuen/",
+      "part": false,
+      "marginal_notes": [
+        "Matthei. xxviij. Marci. xvj"
+      ]
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Er ÿførd klarhedzens klædebon/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Hwilken qwinnerne soghe",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "oc bleffue forfærede aff meghen rædzle/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "stoendis langt fraa.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

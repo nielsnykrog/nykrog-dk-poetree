@@ -1,0 +1,278 @@
+{
+  "id": null,
+  "title": "Loffuit være dw Jesu Christ",
+  "year_created": 1533,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "[tabt]",
+    "year_published": 1533,
+    "publisher": "Christiern Pedersen",
+    "printer": "Joh. Hoochstraten",
+    "place": "Malmø",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/malmoe-salmebog/1/20"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Loffuit være dw Jesu Christ",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "ath dw menniske worden est/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "fød aff en Jomfru ren oc klar",
+      "part": false,
+      "marginal_notes": [
+        "Luce ii"
+      ]
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "thi glæder sig alle engle skar",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Kyrieleyss",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "Gudz euige faders eniste Søn/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 1,
+      "text": "er fød for oss til stor trældom/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 1,
+      "text": "vor krenckelige nature han paa sig tog/",
+      "part": false,
+      "marginal_notes": [
+        "Phil. ii"
+      ]
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "der i klædde sig det euige gode",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "Kyrieleyss",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 2,
+      "text": "Den som all verden skall frelse aff nød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 2,
+      "text": "ligger i det Jomffruelige skød/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 2,
+      "text": "han er ith barn saa lidet oc klen/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 2,
+      "text": "som hiemmel oc iord opholder all ene",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 2,
+      "text": "Kyrieleyss",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 3,
+      "text": "Det euige liwss gaar nw her ind/",
+      "part": false,
+      "marginal_notes": [
+        "Joh. i viii oc ix"
+      ]
+    },
+    {
+      "id": 16,
+      "stanza_id": 3,
+      "text": "som giffuer all verden ith nyt skin",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 3,
+      "text": "som liuser mit om midnattis tid/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 3,
+      "text": "ath wi kunde kende vor fader saa blid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 3,
+      "text": "Kyrieleyss",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 4,
+      "text": "Gud faders søn en Gud aff art/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 4,
+      "text": "ith dødeligt menniske han er worden snart",
+      "part": false,
+      "marginal_notes": [
+        "Luce ii"
+      ]
+    },
+    {
+      "id": 22,
+      "stanza_id": 4,
+      "text": "oc førde oss aff den iammerlige dall/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 4,
+      "text": "oc giorde oss arffuinge vdi hiemmerigs sall",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 4,
+      "text": "Kyrieleyss",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 5,
+      "text": "Han er paa iorden kommen til de arme/",
+      "part": false,
+      "marginal_notes": [
+        "Math. xi"
+      ]
+    },
+    {
+      "id": 26,
+      "stanza_id": 5,
+      "text": "oc thennem i hiemmelen ath gøre rige/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 5,
+      "text": "hans hellige Engle ath være lige",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 5,
+      "text": "Kyrieleyss",
+      "part": false,
+      "marginal_notes": [
+        "Ma. xxii"
+      ]
+    },
+    {
+      "id": 29,
+      "stanza_id": 6,
+      "text": "Saadant monne han sine børn tilwende/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 6,
+      "text": "der paa wi nw hans kende/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 6,
+      "text": "Thi tacker hannem all Christenhed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 6,
+      "text": "oc prise dig Gud i euighed/",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 6,
+      "text": "Kyrieleyss",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

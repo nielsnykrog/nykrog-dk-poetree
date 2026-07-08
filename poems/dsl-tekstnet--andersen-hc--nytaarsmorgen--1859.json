@@ -1,0 +1,66 @@
+{
+  "id": null,
+  "title": "Nytaarsmorgen",
+  "year_created": 1859,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1859,
+    "url": "https://tekstnet.dk/books/andersen-hc_nytaarsmorgen/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Et nyfødt Aar paa Verdensstrømmen glider",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Med Malurtstængel og med Rosenflor.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Hvad faae vi hver? – Bed med dit Fadervor",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Om Kraft i Medgang og naar Hjertet lider.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Stræb i alt Godt og lad det saa staae til! –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "I Verden skeer alene, hvad Gud vil.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

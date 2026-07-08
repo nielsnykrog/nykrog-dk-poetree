@@ -1,0 +1,52 @@
+{
+  "id": null,
+  "title": "Med Lucile Grahns Portrait",
+  "year_created": 1839,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1839,
+    "url": "https://tekstnet.dk/books/andersen-hc_med-lucile-grahns-portrait/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Af Længsel maatte Seine-Staden lide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Sylphiden den forlod;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Da sendte Danmark Frankrig sin Sylphide, –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "En Rosenknop af Nordens Snee fremstod.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+Total poem-bearing pages to parse: 1093
+Source id: dsl-reformationssalmer
+
+  ... 25/1093 done, 25 ok so far
+  ... 50/1093 done, 50 ok so far
+  ... 75/1093 done, 75 ok so far
+  ... 100/1093 done, 100 ok so far
+  ... 125/1093 done, 125 ok so far
+  ... 150/1093 done, 150 ok so far
+  ... 175/1093 done, 175 ok so far
+  ... 200/1093 done, 200 ok so far
+  ... 225/1093 done, 225 ok so far
+  ... 250/1093 done, 250 ok so far
+  ... 275/1093 done, 275 ok so far
+  ... 300/1093 done, 300 ok so far
+  ... 325/1093 done, 325 ok so far
+  ... 350/1093 done, 350 ok so far
+  ... 375/1093 done, 375 ok so far
+  ... 400/1093 done, 400 ok so far
+  ... 425/1093 done, 425 ok so far
+  ... 450/1093 done, 450 ok so far
+  ... 475/1093 done, 475 ok so far
+  ... 500/1093 done, 500 ok so far
+  ... 525/1093 done, 525 ok so far
+  ... 550/1093 done, 550 ok so far
+  ... 575/1093 done, 575 ok so far
+  ... 600/1093 done, 600 ok so far
+  ... 625/1093 done, 625 ok so far
+  ... 650/1093 done, 650 ok so far
+  ... 675/1093 done, 675 ok so far
+  ... 700/1093 done, 700 ok so far
+  ... 725/1093 done, 725 ok so far
+  ... 750/1093 done, 750 ok so far
+  ... 775/1093 done, 775 ok so far
+  ... 800/1093 done, 800 ok so far
+  ... 825/1093 done, 825 ok so far
+  ... 850/1093 done, 850 ok so far
+  ... 875/1093 done, 875 ok so far
+  ... 900/1093 done, 900 ok so far
+  ... 925/1093 done, 925 ok so far
+  ... 950/1093 done, 950 ok so far
+  ... 975/1093 done, 975 ok so far
+  ... 1000/1093 done, 1000 ok so far
+  ... 1025/1093 done, 1025 ok so far
+  ... 1050/1093 done, 1050 ok so far
+  ... 1075/1093 done, 1075 ok so far
+
+Wrote 1093 poem JSON files to C:\Users\niels\Documents\nykrog-dk-poetry\poems
+Failed: 0
+Filename collisions resolved: 207
+Saved scrape log to C:\Users\niels\Documents\nykrog-dk-poetry\sources\dsl-reformationssalmer\scrape_log.json
+
+Per-book summary:
+  claus-mortensen-messe-1529           ok=  13  failed=  0
+  dietz-salmebog-1529                  ok=  86  failed=  0
+  dietz-salmebog-1536                  ok=  36  failed=  0
+  jespersen_1573                       ok= 274  failed=  0
+  malmoe-salmebog                      ok= 137  failed=  0
+  oluf-ulriksen-messe-1535             ok=   9  failed=  0
+  oluf-ulriksen-messehaandbog-1539     ok=  29  failed=  0
+  thomissoen_1569                      ok= 297  failed=  0
+  vingaard_1553                        ok= 212  failed=  0
+
+[2026-07-02 06:07:18] Removed 170 Latin-only / Latin-loop poems (see deletion_log.txt)
+
+[2026-07-02 06:24:41] Duplicate cleanup: removed 86 files (contained-in-other or exact duplicates); see deletion_log.txt
+
+[2026-07-02 10:53:20] v5 WORDS-based: removed 57 Latin-only files (see deletion_log.txt)
+
+[2026-07-02 11:45] Manual: removed 1 missed Latin poem (haleluia--jespersen_1573--50.json); see deletion_log.txt

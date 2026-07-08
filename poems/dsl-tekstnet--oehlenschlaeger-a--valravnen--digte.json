@@ -1,0 +1,2691 @@
+{
+  "id": null,
+  "title": "Valravnen",
+  "year_created": 1803,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Adam Oehlenschläger",
+    "country": null,
+    "wiki": "Q168356"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1803,
+    "url": "https://tekstnet.dk/books/oehlenschlaeger-a_digte/018/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "De gule Silkeseil, som Vinden fylder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "hiemlede bugnende den lette Snekke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Mens Aftensolen ranke Mast forgylder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Frue Sigrid sidder paa det höie Dække.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Da bovner Havet brat med sorte Bylder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "da pibler Vandet ind af dybe Sprække.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Den vilde Valravn höit i Masten synger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "mens dybt han Skibet ned mod Grunden tynger.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 1,
+      "text": "Frue Sigrid skuer Ravnen i det Höie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 1,
+      "text": "da blegner hendes röde Rosenmund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 1,
+      "text": "da trænger Taaren frem i hendes Öie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 1,
+      "text": "thi Skibet truer med at gaae til Grund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 1,
+      "text": "O Valravn ! hvis mit Önske du vil föie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 1,
+      "text": "da skal du faae af Guld vel femten Pund!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "Tæm Stormen, bring mig paa den sikkre Jord;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "leed Skibet varligt i sin stille Fiord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 2,
+      "text": "Med Guld man ei belönner dierve Helte!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 2,
+      "text": "Af Guld, Frue Sigrid, har jeg meer end du.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 2,
+      "text": "For Guld jeg ei en Bölge bort vil velte;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 2,
+      "text": "dog rörer mig din ængstelige Hu.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 2,
+      "text": "Giv mig den Skat, du skiuler bag dit Belte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 2,
+      "text": "da skal jeg tæmme Söens Storm og Gru,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 2,
+      "text": "da skal jeg dybt henstyrte ned i Pölen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 2,
+      "text": "den Havmand, som har klynget sig til Kiölen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 3,
+      "text": "Hvad skiult jeg under Purpurbeltet giemmer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 3,
+      "text": "det, vilde Valravn! maa du gierne faae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 3,
+      "text": "For ringe Lön den större du forglemmer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 3,
+      "text": "det er til Stegerset de Nögler smaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 3,
+      "text": "Hvis du mod Havets Magter kiek dig stemmer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 3,
+      "text": "du gierne der din Föde hente maa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 3,
+      "text": "Det blanke knippe hun paa Dækket kaster",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 3,
+      "text": "og Ravnen flagrer bort fra gyldne Master.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 4,
+      "text": "Med stærktudspændte, tykke, uldne Vinger",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 4,
+      "text": "han med den frygtelige Havmand kiemper.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 4,
+      "text": "Den fraadbedækte Bölge let han tvinger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 4,
+      "text": "de vilde Storme med sit Blik han dæmper.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 4,
+      "text": "Med Varselskrig han sig i Skyen svinger;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 4,
+      "text": "og sagte Vind sig efter Snekken lemper.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 4,
+      "text": "Alt mere taber sig den stærke Torden;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 4,
+      "text": "Frue Sigrid seiler langsomt ind i Fiorden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 5,
+      "text": "I Lunden sidder hun engang ad Qvel,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 5,
+      "text": "ved klaren Söe, der svömmer langsomt Karpen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 5,
+      "text": "Bestandig risle sagte Kildevæld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 5,
+      "text": "Hun tænker paa sit Norge og paa Sarpen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 5,
+      "text": "I Danmark fandt jeg dog mit bedste Held!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 5,
+      "text": "Sin Elskov södt hun synge vil ved Harpen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 5,
+      "text": "Da vender det sig under hendes Bryst!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 5,
+      "text": "I rædsom Grublen svinder hendes Lyst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 6,
+      "text": "Ak grumme Ravn! nu veed jeg hvad du vilde!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 6,
+      "text": "Hun synker ned, at gaae formaaer hun ei.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 6,
+      "text": "Det er saa dæmrende, det er saa silde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 6,
+      "text": "Mat blinker Stiernen fra sin Melkevei.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 6,
+      "text": "Ak, grumme Ravn! nu veed jeg hvad du vilde!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 6,
+      "text": "At tale meer den Blege mægter ei.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 6,
+      "text": "Sig Espen over hendes Tinding hvælver;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 6,
+      "text": "som hun den sveder koldt og ængstlig skielver.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 7,
+      "text": "Fem Maaneder forgaae, saa bringer hun",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 7,
+      "text": "et Barn til Verden under bitter Klage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 7,
+      "text": "De döbe det i mörke Midnatstund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 7,
+      "text": "fordi at Trolden intet skal opdage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 7,
+      "text": "Det er en Sön, som Rosen röd og rund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 7,
+      "text": "Men Sigrids Hierte tunge Sorger nage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 7,
+      "text": "I skiulte, dybe Grotte döbes han,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 7,
+      "text": "med Kildens isnende, chrystalne vand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 8,
+      "text": "Han voxer til, og i det hele Rige",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 8,
+      "text": "er ingen Dreng saa deilig og saa yndig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 8,
+      "text": "Han er saa munter og saa flink tillige;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 8,
+      "text": "hans Blik er brændende, hans Tale fyndig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 8,
+      "text": "Han tænker kun paa Kampe og paa Krige.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 8,
+      "text": "Den stolte Ganger kan han tæmme myndig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 8,
+      "text": "Men Dronning Sigrid græmmer sig dog saare",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 8,
+      "text": "hvergang hun seer ham svömmer hun i Taare.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 9,
+      "text": "En Aften sidder hun i Fruerstue;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 9,
+      "text": "Kong Alf sin ædle Husbond har hun mistet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 9,
+      "text": "Med Taarer stirrer hun i Solens Lue;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 9,
+      "text": "det arme Hierte har kun Sorger fristet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 9,
+      "text": "Da hörer hun en Lyd, og hun maa grue",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 9,
+      "text": "den vilde Valravn har sig sagte listet",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 9,
+      "text": "ad aabne Vindve ind, paa Egebord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 9,
+      "text": "Den sætter sig og synger disse Ord:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 10,
+      "text": "Rige Fugl kommer susende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 10,
+      "text": "kommer brusende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 10,
+      "text": "over Bierge og Dale.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 10,
+      "text": "Seer du vel, du fattig Fugl!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 10,
+      "text": "hvor mine Fiere de prale?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 11,
+      "text": "Fattig Fugl kommer hinkende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 11,
+      "text": "kommer linkende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 11,
+      "text": "over Ager og Enge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 11,
+      "text": "Seer du vel, du rige Fugl!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 11,
+      "text": "hvor mine Fiere de hænge?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 12,
+      "text": "Husker du",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 12,
+      "text": "o Dronning nu",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 12,
+      "text": "da du paa Bölgerne hinked?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 12,
+      "text": "da var du den fattig Fugl,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 12,
+      "text": "da ad den rige du vinked.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 13,
+      "text": "Valravn kommer susende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 13,
+      "text": "kommer brusende,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 13,
+      "text": "over Bierge og Dale.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 13,
+      "text": "Dronning riig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 13,
+      "text": "naar vil du mig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 13,
+      "text": "nu med dit Foster betale?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 14,
+      "text": "Da svimled Dronning Sigrid langsomt hen.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 14,
+      "text": "Den hulde Qvinde blegner som en Lillie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 14,
+      "text": "Flye! sukker hun, du Mörkets fæle Ven!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 14,
+      "text": "Min Bön skal kiempe mod din onde Villie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 14,
+      "text": "Hun korser sig – da flygter den igien;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 14,
+      "text": "men spottende den dandser först paa Tillie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 14,
+      "text": "og synger: Ingen Bön mig staaer imod!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 14,
+      "text": "Jeg slukke vil min Törst i christent Blod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 15,
+      "text": "Ung Harald axler sit Skarlagenskind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 15,
+      "text": "Min Moders bittre Kummer maa jeg vide.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 15,
+      "text": "Saa triner han i Höieloftet ind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 15,
+      "text": "Kier Moder min! du sige mig din Qvide!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 15,
+      "text": "Hvi er du bleg, min Moder, som et Liin?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 15,
+      "text": "Betroe din Sön ved stille Midnatstide",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 15,
+      "text": "hvad der saa længe naget har dit Hierte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 15,
+      "text": "En meddelt Smerte er en mindre Smerte;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 16,
+      "text": "Da sukker Sigrid efter lange Bön:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 16,
+      "text": "O Harald! der er Skabninger hernede,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 16,
+      "text": "som drive deres Ondskab skiult i Lön,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 16,
+      "text": "som Herren skabte i sin grumme Vrede.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 16,
+      "text": "Her vandrer om en grusom Trold, min Sön!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 16,
+      "text": "fra hvem at frelses vist enhver maa bede.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 16,
+      "text": "Hans blodigröde Öie rædsomt skuler.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 16,
+      "text": "Hver Aften kommer han af sine Huler.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 17,
+      "text": "I fordums Dage var han höi og stor",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 17,
+      "text": "og voxen som en dierv og ædel Kiempe;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 17,
+      "text": "men Jesu rene Lære i vort Nord",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 17,
+      "text": "har lært de onde Aanders Stolthed dæmpe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 17,
+      "text": "Nu er han kun en Ravn, ei nær saa stor,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 130,
+      "stanza_id": 17,
+      "text": "dog stor nok til at öve sin Ulempe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 131,
+      "stanza_id": 17,
+      "text": "Vee den som falder i hans grumme Hænder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 132,
+      "stanza_id": 17,
+      "text": "Ja svared Harald, jeg hans Rygte kiender.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 133,
+      "stanza_id": 18,
+      "text": "Da Dronning Sigrid tunge Taare fælder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 134,
+      "stanza_id": 18,
+      "text": "Hvad der er hændet hun ham siger nu.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 135,
+      "stanza_id": 18,
+      "text": "Ung Harald rolig til sit Sværd sig hælder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 136,
+      "stanza_id": 18,
+      "text": "og hörer hende uden mindste Gru.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 137,
+      "stanza_id": 18,
+      "text": "Ak Harald! Qval og Kummer mig forælder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 138,
+      "stanza_id": 18,
+      "text": "nu veed du alt, og du er rolig, du?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 139,
+      "stanza_id": 18,
+      "text": "Da hæved Sönnen rask det blanke Öie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 140,
+      "stanza_id": 18,
+      "text": "og talde, mens han stirred i det Höie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 141,
+      "stanza_id": 19,
+      "text": "En Sommernat, min Moder, i en Lund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 142,
+      "stanza_id": 19,
+      "text": "jeg mellem svale, höie Blomster laaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 143,
+      "stanza_id": 19,
+      "text": "Mildt dyssedes jeg ind i sagte Blund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 144,
+      "stanza_id": 19,
+      "text": "thi Nattergalen monne yndigt slaae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 145,
+      "stanza_id": 19,
+      "text": "Da aabnedes for mig i samme Stund",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 146,
+      "stanza_id": 19,
+      "text": "lidt efter lidt det höie Himmelblaae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 147,
+      "stanza_id": 19,
+      "text": "En Engel sank mig smilende imöde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 148,
+      "stanza_id": 19,
+      "text": "forunderlig omstraalt af Morgenröde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 149,
+      "stanza_id": 20,
+      "text": "Han viste mig en Kiede, som sig rækked",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 150,
+      "stanza_id": 20,
+      "text": "fra Himlen ud, don klang som Fryd og Klage",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 151,
+      "stanza_id": 20,
+      "text": "Halvsynlig den sig rundt om Jorden strækked",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 152,
+      "stanza_id": 20,
+      "text": "i mange Bugter vendte den tilbage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 153,
+      "stanza_id": 20,
+      "text": "Med Blodstænk var den ofte heel bedækket;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 154,
+      "stanza_id": 20,
+      "text": "paa mange Steder Leddene var svage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 155,
+      "stanza_id": 20,
+      "text": "Af blandet Erts den slyngte sig om Muldet;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 156,
+      "stanza_id": 20,
+      "text": "först Guld, saa Sölv, saa Jern, saa atter Guldet.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 157,
+      "stanza_id": 21,
+      "text": "Da raabte Englen med sin klare Stemme:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 158,
+      "stanza_id": 21,
+      "text": "Du Skiebnens Kiede seer, som hænger ned.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 159,
+      "stanza_id": 21,
+      "text": "Den sluttet er! Dens Löb kan intet hemme!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 160,
+      "stanza_id": 21,
+      "text": "Alt ordnes ved en stræng Nödvendighed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 161,
+      "stanza_id": 21,
+      "text": "Han svandt, men aldrig jeg min Dröm skal glemme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 162,
+      "stanza_id": 21,
+      "text": "Jeg saae mig som et ringe, blodigt Led.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 163,
+      "stanza_id": 21,
+      "text": "Jeg frygter ei, jeg gaaer naar Skiebnen kalder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 164,
+      "stanza_id": 21,
+      "text": "Ei, uden Gud, en Spurv til Jorden falder!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 165,
+      "stanza_id": 22,
+      "text": "Det hviner giennem Nattens sorte Skye.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 166,
+      "stanza_id": 22,
+      "text": "De grumsethvide Bölger slaae paa Land.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 167,
+      "stanza_id": 22,
+      "text": "De stærke Vinde kaste höit med Gny",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 168,
+      "stanza_id": 22,
+      "text": "en skotlandsk Snekke paa det hvide Sand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 169,
+      "stanza_id": 22,
+      "text": "Til Kongeborgen strax de alle tye.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 170,
+      "stanza_id": 22,
+      "text": "En deilig Möe og tretten dierve Mand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 171,
+      "stanza_id": 22,
+      "text": "Minona, Kongens Datter, Skotlands Lyst!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 172,
+      "stanza_id": 22,
+      "text": "har Stormen drevet til den danske Kyst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 173,
+      "stanza_id": 23,
+      "text": "De hugge Bielker i den dunkle Lund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 174,
+      "stanza_id": 23,
+      "text": "Minona gaaer med Harald Arm i Arm;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 175,
+      "stanza_id": 23,
+      "text": "södt aander hendes röde Purpurmund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 176,
+      "stanza_id": 23,
+      "text": "det ranke Liv omslynger han saa varm.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 177,
+      "stanza_id": 23,
+      "text": "Det er i Vaar en deilig Aftenstund.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 178,
+      "stanza_id": 23,
+      "text": "De synke begge tause Barm til Barm.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 179,
+      "stanza_id": 23,
+      "text": "Da synger Nattergalen saa vemodig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 180,
+      "stanza_id": 23,
+      "text": "og Maanen hæver sig saa stor, saa blodig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 181,
+      "stanza_id": 24,
+      "text": "Nu tæt de föie stærke Bielker fast;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 182,
+      "stanza_id": 24,
+      "text": "alt vugges Snekken af den milde Ström.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 183,
+      "stanza_id": 24,
+      "text": "Nu hæve de paa Dækket ranke Mast.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 184,
+      "stanza_id": 24,
+      "text": "Minona favner Harald elskovsöm.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 185,
+      "stanza_id": 24,
+      "text": "Hans kiekke unge Hierte slaaer saa fast.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 186,
+      "stanza_id": 24,
+      "text": "Hun seiler bort. – Som vækket af en Dröm",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 187,
+      "stanza_id": 24,
+      "text": "han staaer og skuer med det vaade Öie",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 188,
+      "stanza_id": 24,
+      "text": "den glatte Kiöl de klare Bölger plöie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 189,
+      "stanza_id": 25,
+      "text": "Et Aar forgaaer, Frue Sigrids Sorg forsvinder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 190,
+      "stanza_id": 25,
+      "text": "den vilde Valravns Magt ei meer hun frygter.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 191,
+      "stanza_id": 25,
+      "text": "En sagte Rödme livner hendes Kinder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 192,
+      "stanza_id": 25,
+      "text": "og Taaren fra det blide Öie flygter.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 193,
+      "stanza_id": 25,
+      "text": "I Styrke Harald meer og mere vinder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 194,
+      "stanza_id": 25,
+      "text": "Din Magt, o Ravn! bestaaer i löse Rygter.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 195,
+      "stanza_id": 25,
+      "text": "Din matte Kloe min Sön vist aldrig slaaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 196,
+      "stanza_id": 25,
+      "text": "Du har nu truet ham i tyve Aar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 197,
+      "stanza_id": 26,
+      "text": "Ung Harald vanker om saa længselfuld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 198,
+      "stanza_id": 26,
+      "text": "han ganger for sin Moder ind at stande.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 199,
+      "stanza_id": 26,
+      "text": "Minona er saa elskelig, saa huld!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 200,
+      "stanza_id": 26,
+      "text": "Hun vinker mig til Skotlands fierne Lande.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 201,
+      "stanza_id": 26,
+      "text": "Giv mig et Skib med Kiemper og med Guld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 202,
+      "stanza_id": 26,
+      "text": "og lad mig plöie Havets salte Vande.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 203,
+      "stanza_id": 26,
+      "text": "Jeg kommer glad igien, som jeg drog ud,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 204,
+      "stanza_id": 26,
+      "text": "og bringer dig en Datter, mig en Brud..",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 205,
+      "stanza_id": 27,
+      "text": "Frue Sigrid gaaer saa tankefuld i Sind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 206,
+      "stanza_id": 27,
+      "text": "De tunge Fied ved Stjerneglimt sig flytte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 207,
+      "stanza_id": 27,
+      "text": "Saa triner hun i Skovens Mörke ind",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 208,
+      "stanza_id": 27,
+      "text": "og aabner gamle Brunos lave Hytte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 209,
+      "stanza_id": 27,
+      "text": "Der sidder han med Haanden under Kind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 210,
+      "stanza_id": 27,
+      "text": "i Klæder som for Kulden kun beskytte;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 211,
+      "stanza_id": 27,
+      "text": "med Bibelen i sine matte Hænder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 212,
+      "stanza_id": 27,
+      "text": "Den lille Lampe svagt i Natten brænder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 213,
+      "stanza_id": 28,
+      "text": "Hil være dig ærværdig gamle Mand!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 214,
+      "stanza_id": 28,
+      "text": "Din Dronning kommer hid ved Midnatstide.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 215,
+      "stanza_id": 28,
+      "text": "Ung Harald drage vil til fierne Land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 216,
+      "stanza_id": 28,
+      "text": "hans sande Skiebne længes jeg at vide.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 217,
+      "stanza_id": 28,
+      "text": "Du læser Stiernerne! See der om han",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 218,
+      "stanza_id": 28,
+      "text": "skal smædelig ynkværdig Döden lide.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 219,
+      "stanza_id": 28,
+      "text": "Forjag hans ömme Moders sidste Smerte,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 220,
+      "stanza_id": 28,
+      "text": "da skal hun takke dig med lettet Hierte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 221,
+      "stanza_id": 29,
+      "text": "Den Gamle reiser sig af lune Vraa;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 222,
+      "stanza_id": 29,
+      "text": "med blottet Hoved; foldet fromme Hænder",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 223,
+      "stanza_id": 29,
+      "text": "han træder ud og stirrer i det Blaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 224,
+      "stanza_id": 29,
+      "text": "hvis röde Tegn hans gamle Öie kiender.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 225,
+      "stanza_id": 29,
+      "text": "Sædvanligt, siger han, de Stierner staae;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 226,
+      "stanza_id": 29,
+      "text": "en eeneste med selsom Ild kun brænder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 227,
+      "stanza_id": 29,
+      "text": "Vær tröstig! thi jeg seer at Harald kan",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 228,
+      "stanza_id": 29,
+      "text": "paa Havet dræbes ei, og ei paa Land.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 229,
+      "stanza_id": 30,
+      "text": "Da funkler som en Stierne i det Höie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 230,
+      "stanza_id": 30,
+      "text": "ved Eremittens tröstelige Ord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 231,
+      "stanza_id": 30,
+      "text": "af Glæde Dronning Sigrids skiönne Öie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 232,
+      "stanza_id": 30,
+      "text": "Nu jeg min Sön til Havet fro betroer!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 233,
+      "stanza_id": 30,
+      "text": "Nu maae han gierne salte Bölger plöie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 234,
+      "stanza_id": 30,
+      "text": "Han dræbes ei paa Hav og ei paa Jord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 235,
+      "stanza_id": 30,
+      "text": "Han sidde skal paa Tingets höie Steen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 236,
+      "stanza_id": 30,
+      "text": "naar Graven længst har smuldnet mine Been.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 237,
+      "stanza_id": 31,
+      "text": "Det röde Silkeflag fra Masten kneiser,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 238,
+      "stanza_id": 31,
+      "text": "den lange Drage hvidsler under Öe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 239,
+      "stanza_id": 31,
+      "text": "Nu höit i Raae de hvide Seil man heiser.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 240,
+      "stanza_id": 31,
+      "text": "Den stolte Byrde vugger paa sin Söe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 241,
+      "stanza_id": 31,
+      "text": "Ung Harald ganger Aftnen för han reiser",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 242,
+      "stanza_id": 31,
+      "text": "i Lunden ud, hvor först han saae sin Möe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 243,
+      "stanza_id": 31,
+      "text": "Alt synes ham saa seent, han önsker: Gid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 244,
+      "stanza_id": 31,
+      "text": "jeg havde Vinger, for at flyve did!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 245,
+      "stanza_id": 32,
+      "text": "Da hvidsler Buskene i Nattens Vinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 246,
+      "stanza_id": 32,
+      "text": "da lyder fierne, svage Hundeglam.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 247,
+      "stanza_id": 32,
+      "text": "De blege Lygtemænd i Mosen svinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 248,
+      "stanza_id": 32,
+      "text": "og Snogen nærmer sig saa mild og tam.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 249,
+      "stanza_id": 32,
+      "text": "Da træder hurtig frem en gammel Qvinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 250,
+      "stanza_id": 32,
+      "text": "paa Ryggen bærer hun en Fiederham;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 251,
+      "stanza_id": 32,
+      "text": "mildt smile hendes runkne, gule Kinder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 252,
+      "stanza_id": 32,
+      "text": "Hun lægger Hammen ved hans Fod og svinder!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 253,
+      "stanza_id": 33,
+      "text": "Ung Harald undrer sig, dog ei han bæver;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 254,
+      "stanza_id": 33,
+      "text": "kun selsomt higende hans Hierte slaaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 255,
+      "stanza_id": 33,
+      "text": "Den store Fiederham han langsomt hæver.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 256,
+      "stanza_id": 33,
+      "text": "Af brogetskiönne Fiere den bestaaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 257,
+      "stanza_id": 33,
+      "text": "At klæde sig deri hans Önske kræver;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 258,
+      "stanza_id": 33,
+      "text": "den underlige Drivt han ei modstaaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 259,
+      "stanza_id": 33,
+      "text": "Han flyve kan, han hæver sig, men længe",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 260,
+      "stanza_id": 33,
+      "text": "han svæver kun ad lave, flade Enge.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 261,
+      "stanza_id": 34,
+      "text": "Hvi töver jeg? hvad holder mig tilbage?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 262,
+      "stanza_id": 34,
+      "text": "Jeg er i Skotland inden Morgen gryer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 263,
+      "stanza_id": 34,
+      "text": "Saa stiger han i I.uften som en Drage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 264,
+      "stanza_id": 34,
+      "text": "og suser under Himlens höie Skyer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 265,
+      "stanza_id": 34,
+      "text": "Hans Vinger over Havet Flugten tage.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 266,
+      "stanza_id": 34,
+      "text": "Bort svinde Skove, Lunde, Borge, Byer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 267,
+      "stanza_id": 34,
+      "text": "Han seer sig ene under Himlen flyde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 268,
+      "stanza_id": 34,
+      "text": "Dybt under ham de sorte Bölger bryde.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 269,
+      "stanza_id": 35,
+      "text": "Da klapprer det i Luften og han skuer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 270,
+      "stanza_id": 35,
+      "text": "den gyselige Ravn at nærme sig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 271,
+      "stanza_id": 35,
+      "text": "Dens Öine flammer som to röde Luer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 272,
+      "stanza_id": 35,
+      "text": "Ei Harald! skal jeg eengang finde dig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 273,
+      "stanza_id": 35,
+      "text": "For förste Gang ung Haralds Hierte gruer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 274,
+      "stanza_id": 35,
+      "text": "den skiönne Yngling blegner som et Liig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 275,
+      "stanza_id": 35,
+      "text": "Af rædsom Angest svulmer höit hans Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 276,
+      "stanza_id": 35,
+      "text": "han hæver sörgeligt sin hulde Röst:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 277,
+      "stanza_id": 36,
+      "text": "Jeg seer det nytter ei mod Skiebnen stride!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 278,
+      "stanza_id": 36,
+      "text": "Jeg er dit Rov, Gud staae mig bi i Nöden!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 279,
+      "stanza_id": 36,
+      "text": "Men förend du mig grum vil sönderslide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 280,
+      "stanza_id": 36,
+      "text": "und mig en salig Stund i Morgenröden.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 281,
+      "stanza_id": 36,
+      "text": "Minona er min Brud! lad mig nedglide",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 282,
+      "stanza_id": 36,
+      "text": "til hendes Buur og henrykt glemme Döden",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 283,
+      "stanza_id": 36,
+      "text": "i Elskovs Favn, da skal jeg sikkert komme",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 284,
+      "stanza_id": 36,
+      "text": "til dig igien, naar korte Frist er omme.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 285,
+      "stanza_id": 37,
+      "text": "Fast holder Ravnens Klöer ham i det Höie;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 286,
+      "stanza_id": 37,
+      "text": "den stirrer paa ham med begierligt Mod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 287,
+      "stanza_id": 37,
+      "text": "Skiönt gierne strax min Lyst jeg vilde föie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 288,
+      "stanza_id": 37,
+      "text": "skal jeg dog vise dig at jeg er god.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 289,
+      "stanza_id": 37,
+      "text": "Saa hug den ud ung Haralds höire Öie;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 290,
+      "stanza_id": 37,
+      "text": "saa drak den Helvten af hans Hierteblod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 291,
+      "stanza_id": 37,
+      "text": "Nu har jeg mærket dig, nu kan du vende",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 292,
+      "stanza_id": 37,
+      "text": "til Jorden ned, nu er du god at kiende.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 293,
+      "stanza_id": 38,
+      "text": "Ung Harald synker langsomt ned med Taare",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 294,
+      "stanza_id": 38,
+      "text": "fra Skyen i den lavere Natur.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 295,
+      "stanza_id": 38,
+      "text": "Han hviler sig paa sorte Dödningbaare,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 296,
+      "stanza_id": 38,
+      "text": "som staaer ved Kirkens höie röde Muur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 297,
+      "stanza_id": 38,
+      "text": "Tung er hans Gang, men o han elsker saare!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 298,
+      "stanza_id": 38,
+      "text": "Han raver til Minonas Jomfrubuur.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 299,
+      "stanza_id": 38,
+      "text": "Han skielver bleg ved Dören, thi hans Mod",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 300,
+      "stanza_id": 38,
+      "text": "har Trolden drukket med hans Hierteblod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 301,
+      "stanza_id": 39,
+      "text": "Minona kom, för Haralds Hierte brister!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 302,
+      "stanza_id": 39,
+      "text": "endnu det banker blödende for dig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 303,
+      "stanza_id": 39,
+      "text": "Paa Jorden du din elskte Harald mister.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 304,
+      "stanza_id": 39,
+      "text": "Du seer ham atter udi Himmerig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 305,
+      "stanza_id": 39,
+      "text": "Minona kom, o kom mit Hierte brister;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 306,
+      "stanza_id": 39,
+      "text": "lad mig dog eengang först omfavne dig!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 307,
+      "stanza_id": 39,
+      "text": "Saa synger han med Elskovs sidste Lyst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 308,
+      "stanza_id": 39,
+      "text": "mens Döden raller i hans kolde Bryst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 309,
+      "stanza_id": 40,
+      "text": "Da kommer hun. O Naade i det Höie!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 310,
+      "stanza_id": 40,
+      "text": "min Haralds blege Gienfærd for mig staaer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 311,
+      "stanza_id": 40,
+      "text": "Der rinder Blod og Taarer af hans Öie,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 312,
+      "stanza_id": 40,
+      "text": "rödt klæbe sig hans lange gule Haar!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 313,
+      "stanza_id": 40,
+      "text": "Minona, kom! betragt mig ganske nöie.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 314,
+      "stanza_id": 40,
+      "text": "Jeg er en Skygge ei, mit Hierte slaaer",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 315,
+      "stanza_id": 40,
+      "text": "med Krampetræk af Elskov og af Smerte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 316,
+      "stanza_id": 40,
+      "text": "Kom, læg din varme Haand paa Haralds Hierte.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 317,
+      "stanza_id": 41,
+      "text": "Da standser brat Minonas Taarer stride,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 318,
+      "stanza_id": 41,
+      "text": "da falmer hendes Purpurlæber blaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 319,
+      "stanza_id": 41,
+      "text": "da bliver Kindens röde Roser hvide,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 320,
+      "stanza_id": 41,
+      "text": "da bliver Issens sorte Lokker graae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 321,
+      "stanza_id": 41,
+      "text": "Alt hvad han leed og hvad han end skal lide",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 322,
+      "stanza_id": 41,
+      "text": "fortæller han, mens Favn mod Favn de staae.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 323,
+      "stanza_id": 41,
+      "text": "For sidste Gang i Elskovs söde Lyst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 324,
+      "stanza_id": 41,
+      "text": "de smelte sammen klynget Bryst mod Bryst.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 325,
+      "stanza_id": 42,
+      "text": "Lev vel, Minona! nu jeg frygter ikke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 326,
+      "stanza_id": 42,
+      "text": "Hist aabner Faderen sit Himmerig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 327,
+      "stanza_id": 42,
+      "text": "Giv mig et Kys, og smiil med dine Blikke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 328,
+      "stanza_id": 42,
+      "text": "og glem at Harald var ulykkelig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 329,
+      "stanza_id": 42,
+      "text": "Da skal jeg Dödens Kalk frimodig drikke.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 330,
+      "stanza_id": 42,
+      "text": "Lev vel Minona! Himlen signe dig.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 331,
+      "stanza_id": 42,
+      "text": "Saa favnede han bleg sin elskte Möe,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 332,
+      "stanza_id": 42,
+      "text": "og svang sig höit henover salten Söe.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 333,
+      "stanza_id": 43,
+      "text": "Det brustne Öie stirrer – han er svunden!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 334,
+      "stanza_id": 43,
+      "text": "hun staaer tilbage paa det kolde Muld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 335,
+      "stanza_id": 43,
+      "text": "Da blusser hun, da synker hun i Lunden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 336,
+      "stanza_id": 43,
+      "text": "da beder hun til Himlen andagtsfuld:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 337,
+      "stanza_id": 43,
+      "text": "Du, som ved Daaben er med mig forbunden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 338,
+      "stanza_id": 43,
+      "text": "du, som paa Jorden var saa god og huld,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 339,
+      "stanza_id": 43,
+      "text": "du, som lod Petrus gaae paa Havets Bölge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 340,
+      "stanza_id": 43,
+      "text": "lad mig i Luften höit min Harald fölge!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 341,
+      "stanza_id": 44,
+      "text": "Da vifter Buskene i Morgenvinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 342,
+      "stanza_id": 44,
+      "text": "da lyder Nattergalens fierne Sang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 343,
+      "stanza_id": 44,
+      "text": "da rödmer Solen mildt fra Fieldets Tinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 344,
+      "stanza_id": 44,
+      "text": "da dufter Blomsten fra den grönne Vang.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 345,
+      "stanza_id": 44,
+      "text": "Og langsomt triner frem en ung Hyrdinde,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 346,
+      "stanza_id": 44,
+      "text": "paa Armen bærer hun en Fiederham.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 347,
+      "stanza_id": 44,
+      "text": "Sörgmodigt smiler hendes röde kinder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 348,
+      "stanza_id": 44,
+      "text": "hun lægger den paa Græsset og forsvinder.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 349,
+      "stanza_id": 45,
+      "text": "Og flux Minona sig i Hammen klæder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 350,
+      "stanza_id": 45,
+      "text": "höit svinger hun sig med behiertet Aand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 351,
+      "stanza_id": 45,
+      "text": "Ei længer hendes brustne Öie græder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 352,
+      "stanza_id": 45,
+      "text": "hun flagrer hen i sieldne Klædebond.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 353,
+      "stanza_id": 45,
+      "text": "De Fugle, som hun seer paa höie Steder,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 354,
+      "stanza_id": 45,
+      "text": "dem dræber hun med Saxen i sin Haand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 355,
+      "stanza_id": 45,
+      "text": "Med Kiempekraft hun sine Vinger slaaer;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 356,
+      "stanza_id": 45,
+      "text": "men dog den vilde Ravn hun ikke naaer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 357,
+      "stanza_id": 46,
+      "text": "Da hörer hun i lave Luft det klynker;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 358,
+      "stanza_id": 46,
+      "text": "hun lytter med et rovbegierligt Mod?",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 359,
+      "stanza_id": 46,
+      "text": "Med Örnens Flugt hun ned paa Stranden synker.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 360,
+      "stanza_id": 46,
+      "text": "Den er besprængt med Haralds varme Blod!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 361,
+      "stanza_id": 46,
+      "text": "Hun blusser smilende, ei hun sig ynker.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 362,
+      "stanza_id": 46,
+      "text": "Hans höire Haand hun skuer ved sin Fod.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 363,
+      "stanza_id": 46,
+      "text": "Det eneste som Ravnen lod tilbage,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 364,
+      "stanza_id": 46,
+      "text": "hans Troskabspandt i Elskovs hulde Dage!.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 365,
+      "stanza_id": 47,
+      "text": "Hun giemmer Haanden paa sit blotte Bryst,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 366,
+      "stanza_id": 47,
+      "text": "saa rædsomt hendes blege Læber lee.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 367,
+      "stanza_id": 47,
+      "text": "Hver Fugl hun möder i sin vilde Lyst",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 368,
+      "stanza_id": 47,
+      "text": "den klipper hendes skarpe Sax i tree.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 369,
+      "stanza_id": 47,
+      "text": "Da hæver Ravnen sig til sidste Dyst –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 370,
+      "stanza_id": 47,
+      "text": "hun klipper som hun klippede i Snee!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 371,
+      "stanza_id": 47,
+      "text": "Den lodne Krop maa söge dybt sin Grav",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 372,
+      "stanza_id": 47,
+      "text": "paa tusind Steder i det vilde Hav.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 373,
+      "stanza_id": 48,
+      "text": "De sorte Bölger bruse ikke længer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 374,
+      "stanza_id": 48,
+      "text": "de skylle maanbestraalt paa runde Stene.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 375,
+      "stanza_id": 48,
+      "text": "Vemodigt Strandens Piil med Lövet hænger,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 376,
+      "stanza_id": 48,
+      "text": "det hvidsler underligt i Lundens Grene.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 377,
+      "stanza_id": 48,
+      "text": "I Nattens Blaa sig Stiernen mat fremtrænger.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 378,
+      "stanza_id": 48,
+      "text": "En sölvklar Skye ved Maanen flyder ene.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 379,
+      "stanza_id": 48,
+      "text": "Det er Minona döende som svæver.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 380,
+      "stanza_id": 48,
+      "text": "Hun synker ei, hun sig til Himlen hæver!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+{
+  "id": null,
+  "title": "Luftseiladsen, renskrift (v. 1-162)",
+  "year_created": 1808,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Ørsted",
+    "country": null,
+    "wiki": "Q44412"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Luftseiladsen",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1808,
+    "url": "https://tekstnet.dk/books/oersted-hc_luftseiladsen/002/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Leirer Eder i Kreds, og hører den skinnende Stordaad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Som skal krone med Hæder vor Old i uendeligt Tidsløb,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "Dersom Indsigt og Kunst beundres af kommende Slægter;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 0,
+      "text": "Thi, hvad Naturen kun lærte den letbevingede Luftsøn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 0,
+      "text": "Det fuldbringer nu Kunst; majestætisk fører et Luftskib",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 0,
+      "text": "Jordens Søn over Skyerne høit, i den renere Æther,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 0,
+      "text": "Did hvor den stigende Ørn selv ei mægted’ at naae med sin Kraftflugt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 0,
+      "text": "Gjennemstrøm mig, Natur! med Din altopvækkende Lue:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 0,
+      "text": "Naar i Skovenes Mulm de vidthenbrusende Løv mig",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 0,
+      "text": "Vakte af grundende Drøm, for at sænke mig dybt i en ny kun:",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 0,
+      "text": "Eller naar, Øiet i natlig Begeistring mod Himmelen henvendt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 0,
+      "text": "Sjælen blandt evige Stjerners det ubegrendsede Kredsløb",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 0,
+      "text": "Lær mig harmonisk at tolke Din Aand, med indviede Læber,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 0,
+      "text": "At jeg dristigt og klart kan aabenbare vor Jord den.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 1,
+      "text": "Hist i Frankernes viinrige Land, mod den sydlige Grændse,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 1,
+      "text": "Hvor den høiere Soel med meer retstraalende Lyskraft",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 1,
+      "text": "Sødhed isvulmende Frugt; hvor Himmelens hvelvede Klarhed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 1,
+      "text": "Straaler i fuldere Glands, kun sjeldent formørket af Skyeslør;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 1,
+      "text": "Og hvor den natlige Himmels dybtmørknende høie Azurblaa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 1,
+      "text": "Tætbestrøet med funklende Lys, er Tempelets Hvælving",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 1,
+      "text": "Joseph og Stephan, udseet’ os at lære den dristige Skyfart.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 1,
+      "text": "Begge stedse med dyb Ærbødighed gransked Naturen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 1,
+      "text": "Speidende troligt dens Værk, i forenet broderligt Samfund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 1,
+      "text": "Let de glemte sig selv i dens skjult nærværende Guddom.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 1,
+      "text": "Mægtige Aand sig tit, og griber med underlig Kraft dem,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 1,
+      "text": "Førende, skjøndt useet, dem ind i sit hellige Værksted,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 1,
+      "text": "Hvor hans Virken de see, omstraalt af uendelig Klarhed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 1,
+      "text": "Ei omslørt af en Skye, som for uindviede Øine;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 1,
+      "text": "Synets Betydning, og glad han forkynder den undrende Jord den,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 1,
+      "text": "Kraftigt i Ord og i Daad: Sligt Syn blev Brødrene tilsendt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 1,
+      "text": "Begge vandred’ de ud en Sommermorgen i Samfund,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 1,
+      "text": "Bjergenes Stene at samle, og Blomsterne smaa, og Insekter,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 1,
+      "text": "Mange sjeldne Blomster de fandt, og i Bjergenes Rifter",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 1,
+      "text": "Stene af sønderlig Art, og Spor fra en skabende Fortid.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 1,
+      "text": "Efter møisommelig Stigen, tilsidst fra en høiere Bjergtop",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 1,
+      "text": "Skued’ de hvilende ned, paa det vidt sig udstrækkende Landskab,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 1,
+      "text": "Mellem grønnende Skov og blomsterspraglede Enge,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 1,
+      "text": "Klædt’ i Sommerens Pragt. Dog medens den tryllende Udsigt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 1,
+      "text": "Henrev Øiet, de saae fra Naturens skabende Krafttid",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 1,
+      "text": "Vældige Spor, og alt fordeelt efter evige Love.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 1,
+      "text": "Barmen hævede sig, i rørt og beundrende Skuen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 1,
+      "text": "Af hiint mægtige Værk, nu dækket med frodige Væxter,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 1,
+      "text": "Og med dannende Haand af sin egen Skabning nu omskabt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 1,
+      "text": "Men da Solen nu mere sig nærmed’ den vestlige Bue,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 1,
+      "text": "Tause de vandred’ men fro ved Naturens nærmere Samqvem.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 1,
+      "text": "Længe de vandrede saa, imedens ad Bjerget de nedsteeg’,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 1,
+      "text": "Uden Ord, men dog hensmelted’ i salig Forening.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 1,
+      "text": "Først i den lavere Dal, de vaktes ved Meiernes Lystsang,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 1,
+      "text": "Planter de samlet paa nye, og forfulgte de svevende Luftkryb,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 1,
+      "text": "Men med Sjælen endnu halvtabt i den høiere Æther.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 1,
+      "text": "Som de nu vandrede fløi, med luftige Flagren forbie dem",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 1,
+      "text": "Et bevinget Insekt af ubeskrivelig Skjønhed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 1,
+      "text": "Satte sig nu paa en duftende Blomst langt fra dem, nu flagred’",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 1,
+      "text": "Den i Kredse, snart store, snart smaa, nu op og nu nedad,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 1,
+      "text": "Stedse i svævende Dans; dog med utrættelig Iver",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 1,
+      "text": "Fulgte de efter den flygtende Gjæst, som dog endelig Tilflugt",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 1,
+      "text": "Men nu drevne af Lyst, at see den brogede Skabning,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 1,
+      "text": "Valgte hver sig en særskilt Vei blandt de mørknende Ege.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 1,
+      "text": "Begge de søgte, og vandred’ og søgte igjen men forgjæves.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 1,
+      "text": "Søgende tabde de sig i den sødtgjentonende Løvsal.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 1,
+      "text": "Ilte til Landlige Hjem, i Haab snart sin Broder at see der.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 1,
+      "text": "Joseph længere gik; med Tanken paa Bjerget dog henvendt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 1,
+      "text": "Ofte han standsed’ sin Gang, og glemte den spraglede Flyver.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 1,
+      "text": "Himmelens hvelvede Blaa, gjennem Træernes grønnende Top seet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 1,
+      "text": "Midlertid han med tankefuldt Skridt var naaet en Høitop,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 1,
+      "text": "Paa en friere Plads, med sparsomme Buske besaaet kun;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 66,
+      "stanza_id": 1,
+      "text": "Dog paa Høien var sat i Kreds tolv mægtige Ege,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 67,
+      "stanza_id": 1,
+      "text": "Trint om en Steen af uhyre Storhed omringet af Mindre.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 68,
+      "stanza_id": 1,
+      "text": "Solen i Purpur nu sank, og smilte sin straalende Afskeed,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 69,
+      "stanza_id": 1,
+      "text": "Ind blandt de sortnende Træer; halvgyldne af svindende Solblik,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 70,
+      "stanza_id": 1,
+      "text": "Stode med skinnende Løv de i Aftenens magiske Ildskjær.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 71,
+      "stanza_id": 1,
+      "text": "Nattergalerne slog’ fra de fjerne Kroner, og Vandfald",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 72,
+      "stanza_id": 1,
+      "text": "Sagte Susen. Fortryllet han glemte det nærmende Mørke;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 73,
+      "stanza_id": 1,
+      "text": "Øiet hængte, af Skuen ei mæt, paa Himmelens Purpur,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 74,
+      "stanza_id": 1,
+      "text": "Og paa Træernes Kroner, det sagtebevægede Løvhav.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 75,
+      "stanza_id": 1,
+      "text": "Men som Glandsen nu svandt, kun fulgt af det blegere Dagskjær,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 76,
+      "stanza_id": 1,
+      "text": "Sammensmeltende Alt, lig den jordomhvelvende Demring.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 77,
+      "stanza_id": 1,
+      "text": "Alt ham syntes at tale, og kalde, og venligt at vinke,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 78,
+      "stanza_id": 1,
+      "text": "Løvets Susen, og Vandenes Fald, og den blinkende Stjerne.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 79,
+      "stanza_id": 1,
+      "text": "Mere og mere i Mørket hensvandt hvad begrendset og nær var;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 80,
+      "stanza_id": 1,
+      "text": "Himmels funklende Lys, som i uendeligt Kredsløb",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 81,
+      "stanza_id": 1,
+      "text": "Svæver i Rummet, kun holdt ved det Heles forenende Kraftbaand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 82,
+      "stanza_id": 1,
+      "text": "Saaes med Klarhed endnu. Hvad Jorden herligt og skjønt har,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 83,
+      "stanza_id": 1,
+      "text": "Lokkende dødeligt Blik, i dæmrende Skygger laae nedsænkt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 84,
+      "stanza_id": 1,
+      "text": "Skjulte almægtige Aand, den i Alt nærværende Guddom.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 85,
+      "stanza_id": 1,
+      "text": "Alt ham syntes harmoniske Toner, i salig Begeistring",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 86,
+      "stanza_id": 1,
+      "text": "Selv han smeltet deri, sig selv af det Hele en Lyd kun.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 87,
+      "stanza_id": 1,
+      "text": "Længe svæved’ hans Sjæl blandt Stjerner fra Pol og til Pol hen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 88,
+      "stanza_id": 1,
+      "text": "Men dog følende fast sig knyttet til jordiske Fængsel,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 89,
+      "stanza_id": 1,
+      "text": "Styrted’ han andagtsfuld ned, i taus og hellig Tilbeden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 90,
+      "stanza_id": 1,
+      "text": "Ønskende Viisdom og Kunst, gjennem Luften at bane en Vei sig,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 91,
+      "stanza_id": 1,
+      "text": "For med friere Sving og Kraft at omfavne det Hele.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 92,
+      "stanza_id": 1,
+      "text": "Let han den haabed’ at naae ved Hjelp af det ventede Maanskin.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 93,
+      "stanza_id": 1,
+      "text": "Dybt i Skoven han end sig befandt, da pludselig Himlen",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 94,
+      "stanza_id": 1,
+      "text": "Skjultes af mørknende Dunst; og paa Jorden bebuded’ en Gysen,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 95,
+      "stanza_id": 1,
+      "text": "At det yderste Glimt forsvandt af det livnende Dagskjær.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 96,
+      "stanza_id": 1,
+      "text": "Fuglen taug paa sin Qvist, selv Vindene syntes at sove.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 97,
+      "stanza_id": 1,
+      "text": "Selv den blandede Susen af Løv og af fjernede Vandfald",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 98,
+      "stanza_id": 1,
+      "text": "Lød kun afbrudt, for meer at tolke den herskende Taushed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 99,
+      "stanza_id": 1,
+      "text": "Her betog Naturens Rædsel en underlig Skræk ham;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 100,
+      "stanza_id": 1,
+      "text": "Men for den udvortes Sands var rundtom Øde og Nat kun,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 101,
+      "stanza_id": 1,
+      "text": "Ingen svarende Røst, og ingen bevægende Gjenstand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 102,
+      "stanza_id": 1,
+      "text": "Først ham Redselen bandt, men snart med ilende Skridt han",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 103,
+      "stanza_id": 1,
+      "text": "Naaede en friere Plads, kun dækket af Himmelens Skyslør,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 104,
+      "stanza_id": 1,
+      "text": "Pladsen var lang og bred, og med staaende Vande besaaet,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 105,
+      "stanza_id": 1,
+      "text": "Dertil med Eller i Rad besat og med grædende Pile,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 106,
+      "stanza_id": 1,
+      "text": "Seet i det usikkre Lys af den skyomslørede Maane.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 107,
+      "stanza_id": 1,
+      "text": "Sære Gestalter han saae blandt Træerne svæve i Dans om;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 108,
+      "stanza_id": 1,
+      "text": "Nu de vinkede ham, mens Maanen Skyen forbidrog.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 109,
+      "stanza_id": 1,
+      "text": "Snart en sagte Hvislen han hørte, som Tale af Aander.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 110,
+      "stanza_id": 1,
+      "text": "Blodrøde Lygtemænd svæved’ paa Vandene hvor end hans Blik faldt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 111,
+      "stanza_id": 1,
+      "text": "Slige Syner med Skræk og Bæven betage en Uviis;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 112,
+      "stanza_id": 1,
+      "text": "Thi en fordærvende Kraft behersker det Sted hvor de svæve.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 113,
+      "stanza_id": 1,
+      "text": "Ofte med iisnende Kys udsuger den glødende Livskraft",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 114,
+      "stanza_id": 1,
+      "text": "Hiin letsvævende Dunst; og med forstyrrende Gjæring",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 115,
+      "stanza_id": 1,
+      "text": "Skaber af Slangers og Frøers Been og af raadnende Aadsler",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 116,
+      "stanza_id": 1,
+      "text": "Slige Steder maa flyes; thi Skræk og Sot og Forvirring",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 117,
+      "stanza_id": 1,
+      "text": "Og Fordærvelsens Aand der fører til rædsomme Herskab.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 118,
+      "stanza_id": 1,
+      "text": "Gysende Kulde igjennem ham foer, dog feig han ei flygted’,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 119,
+      "stanza_id": 1,
+      "text": "Vel bemærkende Alt, til Brug for videre Granskning.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 120,
+      "stanza_id": 1,
+      "text": "Som ad en Skraaning sig vandt langt over de giftige Sumpe;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 121,
+      "stanza_id": 1,
+      "text": "Denne fulgte han nu. Meer rolig, med sikkrere Skridt han",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 122,
+      "stanza_id": 1,
+      "text": "Naae’de en Klippe, hvori af Naturen var dannet en Huulhed",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 123,
+      "stanza_id": 1,
+      "text": "Inden bevoxen med Mos, og besat med sære Krystaller.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 124,
+      "stanza_id": 1,
+      "text": "Trættet af Møie og Rædsler han snart dybt slumrende hensank;",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 125,
+      "stanza_id": 1,
+      "text": "Dog mens Legemet hvilte, var Sjælen stedse end virksom,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 126,
+      "stanza_id": 1,
+      "text": "Fuld af den svundne Dags ham dybtindprægede Syner.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 127,
+      "stanza_id": 1,
+      "text": "Først en mindende Drøm i Bjergenes Kløfter forsat ham",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 128,
+      "stanza_id": 1,
+      "text": "Verden, til evige Liig forvandled’ ved hærdende Steensaft.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 129,
+      "stanza_id": 1,
+      "text": "Derpaa han Toppen besteeg, og med overskuende Blik nu",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": null,
+  "title": "Lader oss tacke Herren",
+  "year_created": 1533,
+  "neighbors": [],
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "anonymous",
+    "viaf": null,
+    "wiki": null,
+    "country": null,
+    "born": null,
+    "died": null
+  },
+  "source": {
+    "id": null,
+    "title": "[tabt]",
+    "year_published": 1533,
+    "publisher": "Christiern Pedersen",
+    "printer": "Joh. Hoochstraten",
+    "place": "Malmø",
+    "corpus": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
+    "url": "https://salmer.dsl.dk/malmoe-salmebog/3/5"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Lader oss tacke Herren",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 1,
+      "text": "Det er verdigt oc retuist",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

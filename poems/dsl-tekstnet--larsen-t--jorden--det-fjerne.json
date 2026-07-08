@@ -1,0 +1,486 @@
+{
+  "id": null,
+  "title": "Jorden",
+  "year_created": 1907,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Thøger Larsen",
+    "country": null,
+    "wiki": "Q323530"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Det Fjerne",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1907,
+    "url": "https://tekstnet.dk/books/larsen-t_det-fjerne/004/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Der snurrer en Klode saa tæt og saa tyk",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "med tunge urolige Have paa Ryg,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 0,
+      "text": "med ildstrammet Muld imod Tyngde og Tryk.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Beboet af Væsner med Tand og med Torn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 1,
+      "text": "med Næb og med Kløer, med Negle og Horn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 5,
+      "stanza_id": 1,
+      "text": "med Lyster paa Lur under Løv, under Korn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 6,
+      "stanza_id": 2,
+      "text": "Beboet, saa Knoldene kryber om Land,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 7,
+      "stanza_id": 2,
+      "text": "beboet i Luft og i Havenes Vand,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 8,
+      "stanza_id": 2,
+      "text": "beboet, saa det stænker med Fisk over Strand.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 9,
+      "stanza_id": 3,
+      "text": "Jeg synger dig, Jorden, en Lovsang paany,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 10,
+      "stanza_id": 3,
+      "text": "jeg galer, beruset af Grøde og Gry,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 11,
+      "stanza_id": 3,
+      "text": "jeg kukker i Lunden og smægter mod Sky.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 12,
+      "stanza_id": 4,
+      "text": "Jeg elsker dig, Jorden, dybt ind i din Muld",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 13,
+      "stanza_id": 4,
+      "text": "og højt op i Skyernes fugtige Uld –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 14,
+      "stanza_id": 4,
+      "text": "min Sjæl af Lyksaligheds Kvidder er fuld.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 15,
+      "stanza_id": 5,
+      "text": "Min Latter har Løvspring, naar kælent din Regn",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 16,
+      "stanza_id": 5,
+      "text": "af Skødet dig kildrer hvert Foraarets Tegn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 17,
+      "stanza_id": 5,
+      "text": "Jeg finder mig midt i hver spirende Egn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 18,
+      "stanza_id": 6,
+      "text": "Nu grønnes de Græsser, som Tunger til Kiv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 19,
+      "stanza_id": 6,
+      "text": "hvert Blad som en hviskende tveægget Kniv.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 20,
+      "stanza_id": 6,
+      "text": "Mildt æder dem Koen med Kalven i Liv.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 21,
+      "stanza_id": 7,
+      "text": "Mig føder du ogsaa, velsignede Jord,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 22,
+      "stanza_id": 7,
+      "text": "jeg æder af Fylden, som lever og gror,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 23,
+      "stanza_id": 7,
+      "text": "kun mættet jeg finder de kærlige Ord.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 24,
+      "stanza_id": 8,
+      "text": "I Tøndevis aad jeg dit muldmætte Korn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 25,
+      "stanza_id": 8,
+      "text": "ja frodige Okser, som leved tilforn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 26,
+      "stanza_id": 8,
+      "text": "fortæred jeg lige til Knokler og Horn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 27,
+      "stanza_id": 9,
+      "text": "Og medens jeg synger om Skove og Skyer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 28,
+      "stanza_id": 9,
+      "text": "om Kvæget, der græsser, om Livet, der gryer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 29,
+      "stanza_id": 9,
+      "text": "min Kone staar hjemme og myrder et Dyr.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 30,
+      "stanza_id": 10,
+      "text": "Se, Solkuglen ruller nu Morgenen ind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 31,
+      "stanza_id": 10,
+      "text": "det lyser af Ruder, af Øjne og Sind,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 32,
+      "stanza_id": 10,
+      "text": "om Skyggen end mørkner vor ene Kind.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 33,
+      "stanza_id": 11,
+      "text": "Det plasker med Solvand mod saftige Bred,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 34,
+      "stanza_id": 11,
+      "text": "de evige Kilder er kommen paa Gled,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 35,
+      "stanza_id": 11,
+      "text": "med Trivsel, med Mælk og med Moderlighed.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 36,
+      "stanza_id": 12,
+      "text": "Ja, Dyrene kredser i ensomme Par,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 37,
+      "stanza_id": 12,
+      "text": "og Blomsterne blotter Hengivelsens Ar,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 38,
+      "stanza_id": 12,
+      "text": "og Drifterne syder i Cellernes Kar.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 39,
+      "stanza_id": 13,
+      "text": "Se Lysternes Farvefanfare i Eng.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 40,
+      "stanza_id": 13,
+      "text": "Der lokkes og gantes og parres i Flæng",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 41,
+      "stanza_id": 13,
+      "text": "i Sommerens grønne og solhede Seng.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 42,
+      "stanza_id": 14,
+      "text": "Forførelse driver med Dugg over Straa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 43,
+      "stanza_id": 14,
+      "text": "Forførelse slæber Insekterne paa,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 44,
+      "stanza_id": 14,
+      "text": "og se om den Knægt lader Pigerne gaa.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 45,
+      "stanza_id": 15,
+      "text": "Al Ungdom staar saligen fyldt med sig selv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 46,
+      "stanza_id": 15,
+      "text": "med Evner paa Spring mod et Skød og et Skælv,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 47,
+      "stanza_id": 15,
+      "text": "et Spring over Dødens fortærende Elv.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 48,
+      "stanza_id": 16,
+      "text": "Det lykkes i Natten, naar Vinden er sød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 49,
+      "stanza_id": 16,
+      "text": "det lykkes i Middagens søvntunge Glød,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 50,
+      "stanza_id": 16,
+      "text": "og Fremtiden tynger de tusinde Skød.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 51,
+      "stanza_id": 17,
+      "text": "Den sover derinde, den tynger saa sødt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 52,
+      "stanza_id": 17,
+      "text": "i moderlig Kvinde nyt Blod bliver rødt,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 53,
+      "stanza_id": 17,
+      "text": "og Grenene svaje med Æblerne blødt.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 54,
+      "stanza_id": 18,
+      "text": "Det Liv, som skal tage en dødelig Tørn,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 55,
+      "stanza_id": 18,
+      "text": "det flygter mod Lykken i Unger og Børn –",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 56,
+      "stanza_id": 18,
+      "text": "kun Vraget skal bo under Gravenes Tjørn.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 57,
+      "stanza_id": 19,
+      "text": "Dets hellige Ild fra Oprindelsens Gry",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 58,
+      "stanza_id": 19,
+      "text": "skal have sit Sted mellem Mulde og Sky,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 59,
+      "stanza_id": 19,
+      "text": "skal reddes og brænde i Barnet paany.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 60,
+      "stanza_id": 20,
+      "text": "Jeg hilser dig, Jord, under farvede Skyer,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 61,
+      "stanza_id": 20,
+      "text": "jeg synger min Lykke som Digter og Dyr",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 62,
+      "stanza_id": 20,
+      "text": "imens dine Skabninger Livet fornyer.",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 63,
+      "stanza_id": 21,
+      "text": "Jeg synger med Sjælen af Latter saa varm",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 64,
+      "stanza_id": 21,
+      "text": "til Vindenes Lullen og Havenes Larm,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 65,
+      "stanza_id": 21,
+      "text": "og Pigerne lytter ved Vinduets Karm.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

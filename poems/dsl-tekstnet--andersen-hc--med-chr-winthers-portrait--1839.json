@@ -1,0 +1,38 @@
+{
+  "id": null,
+  "title": "Med Chr. Winthers Portrait",
+  "year_created": 1839,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Hans Christian Andersen",
+    "country": null,
+    "wiki": "Q5673"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": null,
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1839,
+    "url": "https://tekstnet.dk/books/andersen-hc_med-chr-winthers-portrait/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "I Marmor smuldrer mangt et Navn herneden,",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "I »Træsnit« Dit skal staae for Evigheden!",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}

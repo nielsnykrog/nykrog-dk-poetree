@@ -1,0 +1,38 @@
+{
+  "id": null,
+  "title": "Lys over Landet",
+  "year_created": 1924,
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "author": {
+    "name": "Jens Peter Jacobsen",
+    "country": null,
+    "wiki": "Q370246"
+  },
+  "source": {
+    "corpus": "Tekstnet — Det Danske Sprog- og Litteraturselskab",
+    "title": "Lyriske Digte",
+    "publisher": null,
+    "printer": null,
+    "place": null,
+    "year_published": 1924,
+    "url": "https://tekstnet.dk/books/jacobsen-jp_lyriske-digte/049/"
+  },
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "Lys over Landet!",
+      "part": false,
+      "marginal_notes": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "Det er det, vi vil.",
+      "part": false,
+      "marginal_notes": []
+    }
+  ]
+}
