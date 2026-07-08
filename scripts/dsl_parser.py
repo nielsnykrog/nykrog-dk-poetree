@@ -293,8 +293,8 @@ def main():
     ap.add_argument("--page-url", required=True, help="the URL the page was fetched from")
     ap.add_argument("--book-slug", required=True)
     ap.add_argument("--source-id", default="dsl-reformationssalmer")
-    ap.add_argument("--manifest", default=r"C:\Users\niels\Documents\nykrog-dk-poetry\sources\dsl-reformationssalmer\manifest.json")
-    ap.add_argument("--out-dir", default=r"C:\Users\niels\Documents\nykrog-dk-poetry\poems")
+    ap.add_argument("--manifest", default=r"C:\Users\niels\Documents\nykrog-dk-poetree\sources\dsl-reformationssalmer\manifest.json")
+    ap.add_argument("--out-dir", default=r"C:\Users\niels\Documents\nykrog-dk-poetree\poems")
     args = ap.parse_args()
 
     html = Path(args.html_path).read_text(encoding='utf-8')

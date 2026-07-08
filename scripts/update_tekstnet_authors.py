@@ -16,7 +16,7 @@ import json, re, shutil, sys
 from pathlib import Path
 from collections import defaultdict
 
-ROOT = Path(r"C:\Users\niels\Documents\nykrog-dk-poetry")
+ROOT = Path(r"C:\Users\niels\Documents\nykrog-dk-poetree")
 POEMS = ROOT / "poems"
 DRAMAS = ROOT / "danish-dramas"
 

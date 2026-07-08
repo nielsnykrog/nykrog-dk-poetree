@@ -25,10 +25,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from dsl_parser import build_poem, clean_html, is_poem_page, slugify, make_filename
 
-DEFAULT_RAW   = Path(r"C:\Users\niels\Documents\nykrog-dk-poetry\sources\dsl-reformationssalmer\raw")
-DEFAULT_DISC  = Path(r"C:\Users\niels\Documents\nykrog-dk-poetry\sources\dsl-reformationssalmer\discovery")
-DEFAULT_OUT   = Path(r"C:\Users\niels\Documents\nykrog-dk-poetry\poems")
-DEFAULT_MANIF = Path(r"C:\Users\niels\Documents\nykrog-dk-poetry\sources\dsl-reformationssalmer\manifest.json")
+DEFAULT_RAW   = Path(r"C:\Users\niels\Documents\nykrog-dk-poetree\sources\dsl-reformationssalmer\raw")
+DEFAULT_DISC  = Path(r"C:\Users\niels\Documents\nykrog-dk-poetree\sources\dsl-reformationssalmer\discovery")
+DEFAULT_OUT   = Path(r"C:\Users\niels\Documents\nykrog-dk-poetree\poems")
+DEFAULT_MANIF = Path(r"C:\Users\niels\Documents\nykrog-dk-poetree\sources\dsl-reformationssalmer\manifest.json")
 DEFAULT_SRC_ID = "dsl-reformationssalmer"
 
 
@@ -158,7 +158,7 @@ def main():
         else:
             log['per_book'][slug]['failed'] += 1
             log['per_book'][slug]['failures'].append({"url": r['url'], "error": r['error']})
-    log_path = Path(r"C:\Users\niels\Documents\nykrog-dk-poetry\sources\dsl-reformationssalmer\scrape_log.json")
+    log_path = Path(r"C:\Users\niels\Documents\nykrog-dk-poetree\sources\dsl-reformationssalmer\scrape_log.json")
     log_path.write_text(json.dumps(log, ensure_ascii=False, indent=2), encoding='utf-8')
     print(f"Saved scrape log to {log_path}")
 

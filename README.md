@@ -1,4 +1,4 @@
-# nykrog-dk-poetry
+# nykrog-dk-poetree
 
 A structured poetry dataset of 3,424 Danish-language poems drawn from three scholarly
 sources. Each poem is one JSON file conforming to the [PoeTree](https://versologie.cz/poetree/)
@@ -11,7 +11,7 @@ pooled dataset.
 ## What's in this repo
 
 ```
-nykrog-dk-poetry/
+nykrog-dk-poetree/
 ├── poems/                   ← the dataset: 3,424 JSON files, one per poem
 ├── schema/                  ← PoeTree JSON Schema + controlled vocabularies
 ├── sources/                 ← per-source raw snapshots, parsers, manifests
@@ -121,7 +121,7 @@ the raw snapshot (not the live URL) and emits one JSON per poem. The validator
 ## Validation
 
 ```bash
-cd nykrog-dk-poetry
+cd nykrog-dk-poetree
 python scripts/validate.py poems/
 ```
 

@@ -25,8 +25,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 DEFAULT_BASE = "https://salmer.dsl.dk"
-DEFAULT_RAW  = Path(r"C:\Users\niels\Documents\nykrog-dk-poetry\sources\dsl-reformationssalmer\raw")
-DEFAULT_OUT  = Path(r"C:\Users\niels\Documents\nykrog-dk-poetry\sources\dsl-reformationssalmer\discovery")
+DEFAULT_RAW  = Path(r"C:\Users\niels\Documents\nykrog-dk-poetree\sources\dsl-reformationssalmer\raw")
+DEFAULT_OUT  = Path(r"C:\Users\niels\Documents\nykrog-dk-poetree\sources\dsl-reformationssalmer\discovery")
 
 
 def fetch(url: str, cache_path: Path, max_retries: int = 3) -> bytes:
@@ -36,7 +36,7 @@ def fetch(url: str, cache_path: Path, max_retries: int = 3) -> bytes:
     last_err = None
     for attempt in range(max_retries):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "nykrog-dk-poetry-discover/1.0"})
+            req = urllib.request.Request(url, headers={"User-Agent": "nykrog-dk-poetree-discover/1.0"})
             body = urllib.request.urlopen(req, timeout=60).read()
             cache_path.write_bytes(body)
             return body

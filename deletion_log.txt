@@ -415,3 +415,16 @@ poems/ count: 3,424 (unchanged).
 
 Later same session — followup:
   - sources/early-danish-ballads/_parse_tmp_langebek.json  (1.1 MB scratch from parse run, not a finished poem; .gitignore already excluded it but cleaned up anyway)
+
+Later same session — folder rename for sharing:
+  - Renamed local folder: ~/Documents/nykrog-dk-poetry/ → ~/Documents/nykrog-dk-poetree/
+  - Updated all 4 active scripts (dsl_scrape_all.py, dsl_parser.py, dsl_discover.py,
+    update_tekstnet_authors.py) to point at the new path. Also updated dsl_discover.py
+    User-Agent header: nykrog-dk-poetry-discover/1.0 → nykrog-dk-poetree-discover/1.0.
+  - Updated README.md (3 references: header, folder tree, validation cd command).
+  - Renamed GitHub repo: nielsnykrog/nykrog-dk-poetry → nielsnykrog/nykrog-dk-poetree
+    (the GitHub repo was always nykrog-dk-poetree; this aligns the local folder
+    with the remote).
+  - Historical log files (discovery_log.txt, scrape_log.txt,
+    sources/early-danish-ballads/SESSION_HANDOFF.md) intentionally NOT rewritten —
+    they record what happened on those dates and the path was correct then.
