@@ -97,6 +97,8 @@ authoritative copy is in `schema/poetree.schema.json`; controlled vocabularies a
   transcription preserving manuscript features. 1 such file.
 - Marginal notes in each line of body. Used for such purposes as noting speaking characters in dramatic poems and for bible references in hymns.
 - source.url field refers to the specific source url used for each poem.
+- source.printer field added for historical accuracy with older material (for now only 16th century hymns).
+
 
 The validator accepts these as warnings (not errors).
 
