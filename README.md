@@ -1,7 +1,7 @@
 # nykrog-dk-poetree
 
 A structured poetry dataset of 3,424 Danish-language poems drawn from three scholarly
-sources. Each poem is one JSON file conforming to the [PoeTree](https://versologie.cz/poetree/)
+sources. Each poem is one JSON file conforming to the [PoeTree](https://poetree.org)
 schema (with project-local extensions for marginal notes, `dramatic_poem`, `diplomatic_edition`, source.url).
 
 This is a contribution by Niels Nykrog toward the Danish PoeTree corpus.
@@ -65,7 +65,7 @@ spellings like `wÿ`, `Jhesu`, `Christe`, `ÿ`.
 
 ## Schema
 
-The dataset follows the [PoeTree](https://versologie.cz/poetree/) JSON Schema. The
+The dataset follows the [PoeTree](https://poetree.org) JSON Schema. The
 authoritative copy is in `schema/poetree.schema.json`; controlled vocabularies are in
 `schema/poetree.values.json`.
 
