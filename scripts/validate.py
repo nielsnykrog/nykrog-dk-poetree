@@ -137,7 +137,7 @@ def validate(poem):
             findings.append(("error", "body must be a list of line-objects."))
         else:
             prev_id = -1
-            prev_stanza = -1
+            prev_stanza = None  # None = no stanza seen yet; first must be 0
             for i, line in enumerate(body):
                 if not isinstance(line, dict):
                     findings.append(("error", f"body[{i}] is not an object."))
@@ -146,23 +146,37 @@ def validate(poem):
                 for k in ("id", "stanza_id", "text"):
                     if k not in line:
                         findings.append(("error", f"body[{i}] missing '{k}'."))
-                # id should be zero-based and monotonically increasing through whole poem
+                # id must be zero-based and run 0..N-1 with no gaps (error, not
+                # warning: warnings don't affect the exit code, so a gap must fail)
                 if "id" in line:
                     if not isinstance(line["id"], int) or isinstance(line["id"], bool):
                         findings.append(("error", f"body[{i}].id must be int."))
                     else:
                         if line["id"] != prev_id + 1:
-                            findings.append(("warning", f"body[{i}].id={line['id']} is not prev_id+1={prev_id+1} (id should run through whole poem, not restart per stanza)."))
+                            findings.append(("error", f"body[{i}].id={line['id']} is not prev_id+1={prev_id+1} (ids run 0..N-1 through the whole poem, never restart)."))
                         prev_id = line["id"]
+                # stanza_id must start at 0 and be CONTIGUOUS: each new stanza
+                # is exactly prev+1. Non-decreasing is not enough — a gap means
+                # a stanza was dropped or mis-detected without renumbering.
                 if "stanza_id" in line:
                     if not isinstance(line["stanza_id"], int) or isinstance(line["stanza_id"], bool):
                         findings.append(("error", f"body[{i}].stanza_id must be int."))
-                    else:
-                        if line["stanza_id"] < prev_stanza:
-                            findings.append(("warning", f"body[{i}].stanza_id={line['stanza_id']} decreased from {prev_stanza}."))
+                    elif prev_stanza is None:
+                        if line["stanza_id"] != 0:
+                            findings.append(("error", f"First stanza_id is {line['stanza_id']}, must be 0 (zero-based)."))
                         prev_stanza = line["stanza_id"]
-                if "text" in line and (not isinstance(line["text"], str)):
-                    findings.append(("error", f"body[{i}].text must be string."))
+                    else:
+                        if line["stanza_id"] not in (prev_stanza, prev_stanza + 1):
+                            findings.append(("error", f"body[{i}].stanza_id={line['stanza_id']} after {prev_stanza} — stanza_ids must be contiguous (new stanza = prev+1 exactly)."))
+                        prev_stanza = line["stanza_id"]
+                # text must be a non-empty string. Empty/whitespace-only lines are
+                # stanza-separator artefacts from the source HTML, never content:
+                # drop them in the parser and renumber ids (PR #1, Malmø-salmebog).
+                if "text" in line:
+                    if not isinstance(line["text"], str):
+                        findings.append(("error", f"body[{i}].text must be string."))
+                    elif not line["text"].strip():
+                        findings.append(("error", f"body[{i}].text is empty/whitespace — empty lines are never intentional in this dataset (drop + renumber in the parser)."))
                 # By convention we leave words empty; flag if present
                 if "words" in line and line["words"]:
                     findings.append(("info", f"body[{i}] has words[] filled — we usually leave empty for the PoeTree pipeline."))
