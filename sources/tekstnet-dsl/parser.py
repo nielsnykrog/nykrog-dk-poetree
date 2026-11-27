@@ -975,7 +975,6 @@ def parse_poem_page(html, book_slug, pub_meta, is_diplomatic=False, poem_nnn=Non
             "corpus": CORPUS_NAME,
             "title": source_title.title() if source_title else None,
             "publisher": pub_meta.get("publisher"),
-            "printer": None,
             "place": None,
             "year_published": source_year,
             "url": poem_url,

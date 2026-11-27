@@ -58,7 +58,9 @@ Total files: 1,096 (889 unique-slug + 207 collision-suffixed = 1,096 ✓)
 
 ## Open questions for PoeTree (still pending)
 
-- Whether to keep `source.printer` (our local extension)
+- ~~Whether to keep `source.printer` (our local extension)~~ — resolved 2026-11-27:
+  `printer` retired; DSL's *trykker* now lives in PoeTree's `source.publisher`
+  and DSL's *udgiver* in a new local `source.editor`. See `schema/LOCAL_EXTENSIONS.md`.
 - Whether to keep `body[].marginal_notes[]` per verse-line (our local extension)
 - Whether to use `id` field for cross-source identification (PoeTree may assign)
 

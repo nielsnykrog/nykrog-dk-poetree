@@ -121,14 +121,17 @@ def validate(poem):
                     findings.append(("warning", f"source.{sf} missing — emphasised by PoeTree team."))
             if "year_published" in src and src["year_published"] is not None and not isinstance(src["year_published"], int):
                 findings.append(("error", "source.year_published must be int or null."))
-            # Local extensions on source:
-            #   source.url     -- poem page URL (we always set this)
-            #   source.printer -- the trykker, distinct from publisher
+            # Local extensions on source (see schema/LOCAL_EXTENSIONS.md):
+            #   source.url    -- poem page URL (we always set this)
+            #   source.editor -- the compiler (DSL "udgiver"), distinct from publisher
             if "url" in src and src["url"] is not None:
                 if not isinstance(src["url"], str) or not src["url"].startswith(("http://", "https://")):
                     findings.append(("error", "source.url must be an http(s) URL or null."))
-            if "printer" in src and src["printer"] is not None and not isinstance(src["printer"], str):
-                findings.append(("error", "source.printer must be string or null."))
+            if "editor" in src and src["editor"] is not None and not isinstance(src["editor"], str):
+                findings.append(("error", "source.editor must be string or null."))
+            # legacy key, retired 2026-11-27 -- flag so a stale scraper cannot reintroduce it
+            if "printer" in src and src["printer"] is not None:
+                findings.append(("warning", "source.printer is retired; use source.publisher (printer-publisher) / source.editor (compiler)."))
 
     # ---------- 7. body ----------
     if "body" in poem:

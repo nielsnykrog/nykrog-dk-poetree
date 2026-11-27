@@ -1,4 +1,5 @@
 {
+  "_field_note": "books[].publisher / books[].printer are DSL's RAW labels (udgiver / trykker), transcribed as found. The JSON output maps printer->source.publisher and publisher->source.editor; see schema/LOCAL_EXTENSIONS.md. Do not rename here.",
   "source_id": "dsl-reformationssalmer",
   "corpus_name": "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)",
   "publisher_site": "Det Danske Sprog- og Litteraturselskab (DSL)",

@@ -1,0 +1,6 @@
+# Store text files with LF in the repository regardless of platform config.
+* text=auto eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf

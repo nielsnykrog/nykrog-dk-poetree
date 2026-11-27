@@ -3,7 +3,7 @@ dsl_parser.py -- DSL "Danske Reformationssalmer" -> PoeTree-format JSON parser.
 
 Input : raw HTML of a poem page from salmer.dsl.dk (cached in sources/dsl-reformationssalmer/raw/)
 Output: one JSON file per poem, conforming to our local convention
-        (PoeTree-compatible + local extensions: source.url, source.printer,
+        (PoeTree-compatible + local extensions: source.url, source.editor,
          body[].marginal_notes[])
 
 Design notes (locked-in field policy):
@@ -13,8 +13,8 @@ Design notes (locked-in field policy):
   - author.born/died/country/viaf = null
   - year_created    = book.year_published
   - source.title    = book.title (from colophon)
-  - source.publisher= book.udgiver
-  - source.printer  = book.trykker  (local extension)
+  - source.publisher= book.trykker  (the printer-publisher; see schema/LOCAL_EXTENSIONS.md)
+  - source.editor   = book.udgiver  (the compiler; local extension)
   - source.place    = book.udgivelsessted
   - source.year_published = book.udgivelsesår
   - source.corpus   = "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)"
@@ -38,6 +38,10 @@ from pathlib import Path
 
 
 CORPUS_NAME = "Danske Reformationssalmer (Dansk Sprog- og Litteraturselskab)"
+
+# DSL pages spell one printer two ways; we keep the form used in our slugs
+# (see schema/LOCAL_EXTENSIONS.md, "Name harmonisation").
+NAME_FIXES = {"Oluf Ulricksøn": "Oluf Ulriksen"}
 
 # --- HTML helpers ------------------------------------------------------------
 
@@ -254,11 +258,14 @@ def build_poem(html: str, book: dict, page_url: str) -> dict:
             "id": None,
             "title": book["title"],
             "year_published": book["year_published"],
-            "publisher": book["publisher"],
-            "printer": book["printer"],
+            # manifest books[] keeps DSL's raw "publisher"(=udgiver)/"printer"(=trykker)
+            # transcription; the JSON output applies the editor/publisher convention
+            # documented in schema/LOCAL_EXTENSIONS.md.
+            "publisher": NAME_FIXES.get(book["printer"], book["printer"]),
             "place": book["place"],
             "corpus": CORPUS_NAME,
             "url": page_url,
+            "editor": book["publisher"],
         },
         "body": body_lines,
     }

@@ -60,7 +60,7 @@ Total: **3,424 poems** across the three sources. Each poem in `poems/` is named
 - The slug is a working handle. The original orthography lives inside the JSON.
 
 The original orthography is preserved in the JSON fields (`title`, `body[].text`,
-`author.name`, `source.title`, `source.printer`, etc.) — including early-modern
+`author.name`, `source.title`, `source.publisher`, `source.editor`, etc.) — including early-modern
 spellings like `wÿ`, `Jhesu`, `Christe`, `ÿ`.
 
 ## Schema
@@ -82,10 +82,10 @@ authoritative copy is in `schema/poetree.schema.json`; controlled vocabularies a
 | `author.wiki` | `string \| null` | **Wikidata Q-id only** (e.g. `"Q5673"`), never a Wikipedia URL |
 | `source.corpus` | `string` | Human-readable source name |
 | `source.title` | `string \| null` | Source book title (DSL only) |
-| `source.publisher` | `string \| null` | Filled only when known |
-| `source.printer` | `string \| null` | Filled only for DSL — empty for the other sources |
+| `source.publisher` | `string \| null` | The printer-publisher who produced the book (see `schema/LOCAL_EXTENSIONS.md`). Filled only when known |
 | `source.place`, `source.year_published` | `string \| null`, `int \| null` | |
 | `source.url` | `string` | Reader convenience — the live URL of the source page |
+| `source.editor` | `string \| null` | **Local extension.** The compiler/editor who assembled the contents (DSL "udgiver"). Filled for `dsl-reformationssalmer` only |
 | `body[]` | `array` | Ordered list of verse lines, each with `id`, `stanza_id`, `text`, `part`, `marginal_notes` |
 | `form`, `body[]words`, `body[]meter_*` | empty | Optional/computed, intentionally left empty |
 
@@ -97,7 +97,11 @@ authoritative copy is in `schema/poetree.schema.json`; controlled vocabularies a
   transcription preserving manuscript features. 1 such file.
 - Marginal notes in each line of body. Used for such purposes as noting speaking characters in dramatic poems and for bible references in hymns.
 - source.url field refers to the specific source url used for each poem.
-- source.printer field added for historical accuracy with older material (for now only 16th century hymns).
+- `source.editor` — the person who collected/compiled/edited the contents and brought them
+  to a printer. Filled for the 16th-century hymn books (`dsl-reformationssalmer`) where DSL
+  distinguishes "udgiver" (→ `editor`) from "trykker" (→ `publisher`). The former
+  `source.printer` field was retired on 2026-11-27 and removed from all files; see
+  `schema/LOCAL_EXTENSIONS.md`.
 
 
 The validator accepts these as warnings (not errors).

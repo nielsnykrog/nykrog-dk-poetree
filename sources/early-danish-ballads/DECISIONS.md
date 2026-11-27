@@ -15,7 +15,7 @@ Output: 936 PoeTree JSONs, 79,970 lines, 0 schema errors, 0 leakage of any kind
 
 ## Data conventions (project-wide)
 
-- `source.publisher` = `null` for all 9 manuscripts. Manuscript-writer attribution isn't meaningful for this corpus.
+- `source.publisher` = `null` for all 9 manuscripts. Manuscript-writer attribution isn't meaningful for this corpus. (Reconfirmed 2026-11-27 against the DUDS overview: scribes vary per ballad, manuscript names are mostly owners; the legacy `printer: null` key was removed — see `schema/LOCAL_EXTENSIONS.md`.)
 - `source.url` carries the poem-page URL; for source-pid duplicates in the index (e.g. `DRSXV.htm` listed twice) the parser maps each index entry to the URL where the poem actually lives, not the URL the index claims. Where the index URL is wrong, the wrong URL is preserved in the file (audit trail) and the parser-output URL reflects the actual body source.
 - Cross-manuscript duplicates (same ballad in 2+ manuscripts) are **preserved as separate witnesses** — your rule #4a, 198 titles affected.
 - Filename collisions (same title appearing 2+ times in one manuscript) get `--2`, `--3` suffix. Distinct from cross-ms witnesses.
