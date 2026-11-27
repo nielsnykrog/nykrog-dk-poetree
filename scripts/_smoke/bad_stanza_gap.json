@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "title": "Testdigtet",
+  "year_created": 1620,
+  "author": {
+    "name": "Anders Bording",
+    "viaf": null,
+    "wiki": "Q1136",
+    "country": null,
+    "born": 1619,
+    "died": 1677
+  },
+  "source": {
+    "id": null,
+    "title": "Anders Bordings Samlede Skrifter",
+    "year_published": 1733,
+    "publisher": null,
+    "place": "København",
+    "corpus": "Tekstnet",
+    "url": "https://tekstnet.dk/example"
+  },
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
+  "body": [
+    {
+      "id": 0,
+      "stanza_id": 0,
+      "text": "a",
+      "part": false,
+      "marginal_notes": [],
+      "words": []
+    },
+    {
+      "id": 1,
+      "stanza_id": 0,
+      "text": "b",
+      "part": false,
+      "marginal_notes": [],
+      "words": []
+    },
+    {
+      "id": 2,
+      "stanza_id": 3,
+      "text": "c",
+      "part": false,
+      "marginal_notes": [],
+      "words": []
+    }
+  ]
+}

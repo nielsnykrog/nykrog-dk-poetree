@@ -19,24 +19,49 @@
     "corpus": "Tekstnet",
     "url": "https://tekstnet.dk/example"
   },
+  "neighbors": null,
+  "duplicate": false,
+  "locations": false,
   "body": [
     {
       "id": 0,
       "stanza_id": 0,
       "text": "Første linje af første strofe.",
-      "part": false
+      "part": false,
+      "marginal_notes": [],
+      "words": []
     },
     {
       "id": 1,
       "stanza_id": 0,
       "text": "Anden linje af første strofe.",
-      "part": false
+      "part": false,
+      "marginal_notes": [],
+      "words": []
     },
     {
       "id": 2,
       "stanza_id": 1,
       "text": "Første linje af anden strofe.",
-      "part": false
+      "part": false,
+      "marginal_notes": [],
+      "words": []
+    },
+    {
+      "id": 3,
+      "stanza_id": 1,
+      "text": "Anden linje af anden strofe.",
+      "part": false,
+      "marginal_notes": [],
+      "words": []
+    },
+    {
+      "id": 4,
+      "stanza_id": 2,
+      "text": "Første linje af tredje strofe.",
+      "part": false,
+      "marginal_notes": [],
+      "words": []
     }
   ]
 }
